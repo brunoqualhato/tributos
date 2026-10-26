@@ -141,7 +141,7 @@ def importar_convenios_confaz(rede: Rede, auditor: AgenteAuditor):
             "ano": "2022",
             "data": "2022-12-22",
             "ementa": "Dispõe sobre o regime de tributação monofásica do ICMS a ser aplicado nas operações com combustíveis nos termos da Lei Complementar nº 192, de 11 de março de 2022, e estabelece procedimentos para o controle, apuração, repasse e dedução do imposto.",
-            "pasta": "estadual/confaz/convenios-icms",
+            "pasta": "estaduais/confaz/convenios-icms",
             "slug": "convenio-icms-199-2022",
         },
         {
@@ -152,7 +152,7 @@ def importar_convenios_confaz(rede: Rede, auditor: AgenteAuditor):
             "ano": "2023",
             "data": "2023-03-31",
             "ementa": "Dispõe sobre o regime de tributação monofásica do ICMS a ser aplicado nas operações com gasolina e etanol anidro combustível, nos termos da Lei Complementar nº 192, de 11 de março de 2022, e estabelece procedimentos para o controle, apuração, repasse e dedução do imposto.",
-            "pasta": "estadual/confaz/convenios-icms",
+            "pasta": "estaduais/confaz/convenios-icms",
             "slug": "convenio-icms-15-2023",
         },
     ]
