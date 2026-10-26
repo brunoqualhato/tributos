@@ -1,8 +1,8 @@
 # Progresso do Acervo Tributário e Contábil
 
-Gerado em: 26/10/2026 06:55:21. Escopo definido em `scripts/plano.py`.
+Gerado em: 26/10/2026 07:04:04. Escopo definido em `scripts/plano.py`.
 
-**Total de Documentos no Acervo:** 536 / 829 (64.7%)
+**Total de Documentos no Acervo:** 554 / 859 (64.5%)
 
 | Pilar / Subtema | Documentos | Meta | Cobertura | Pasta | Fonte Principal |
 | :--- | ---: | ---: | :---: | :--- | :--- |
@@ -17,6 +17,8 @@ Gerado em: 26/10/2026 06:55:21. Escopo definido em `scripts/plano.py`.
 | 🟦 **IRRF Folha e PLR**: Retenção na Fonte sobre Salários, Rescisões e PLR (Lei 10.101/2000 e Tabela Progressiva) | 2 | 5 | 40.0% | `federal/leis-ordinarias/irrf-folha-plr` | normas.leg.br |
 | 🟦 **Desoneração da Folha (CPRB)**: Contribuição Previdenciária sobre a Receita Bruta - CPRB (Lei 12.546/11 e Lei 14.973/24) | 3 | 5 | 60.0% | `federal/leis-ordinarias/cprb` | normas.leg.br |
 | 🟦 **FGTS e eSocial**: Normas do FGTS (Lei 8.036/1990) e Obrigações Trabalhistas | 1 | 3 | 33.3% | `federal/leis-ordinarias/fgts` | normas.leg.br |
+| 🟦 **FGTS Digital e Operação**: Manuais e Circulares do FGTS Digital e eSocial | 2 | 5 | 40.0% | `reguladores/mte-caixa/fgts-esocial` | Caixa / MTE |
+| 🟦 **RAT, FAP e Sistema S**: Normas de Riscos Ambientais, FAP e Contribuições a Terceiros | 4 | 5 | 80.0% | `reguladores/rfb/rat-fap-terceiros` | RFB / MPS |
 | **### 3. Produtos & Mercadorias** | | | | | |
 | 🟦 **ICMS e DIFAL**: Lei Kandir (LC 87/1996) e Regulamentação do DIFAL (LC 190/2022) | 2 | 3 | 66.7% | `federal/leis-complementares/kandir` | normas.leg.br |
 | 🟦 **CONFAZ e ICMS-ST**: Convênios ICMS de Substituição Tributária (Convênio 142/18) e Ajustes SINIEF | 13 | 30 | 43.3% | `estaduais/confaz` | confaz.fazenda.gov.br |
@@ -46,8 +48,10 @@ Gerado em: 26/10/2026 06:55:21. Escopo definido em `scripts/plano.py`.
 | 🟦 **Mercados Financeiro e de Capitais**: Tributação de Renda Fixa, Renda Variável, Derivativos e Criptoativos | 2 | 5 | 40.0% | `reguladores/rfb/instrucoes-normativas/financeiro` | normas.receita.fazenda.gov.br |
 | **### 8. Reforma Tributária** | | | | | |
 | ✅ **Marco Constitucional e Leis Complementares**: Emenda Constitucional nº 132/2023, PLP 68/2024 e PLP 108/2024 | 8 | 8 | 100.0% | `reforma-tributaria` | Congresso Nacional |
-| **### 9. Contabilidade e RFB** | | | | | |
+| **### 9. Contabilidade e Precedentes** | | | | | |
 | 🟦 **Normas Brasileiras de Contabilidade (CFC)**: Resoluções e Normas Técnicas Gerais do CFC (NBC TG) | 11 | 20 | 55.0% | `contabil/cfc` | cfc.org.br |
 | 🟦 **Pronunciamentos Técnicos CPC**: Pronunciamentos Técnicos do Comitê de Pronunciamentos Contábeis (CPC 00 a 48) | 14 | 25 | 56.0% | `contabil/cpc` | cpc.org.br |
+| 🟦 **Precedentes Vinculantes STF / STJ**: Súmulas Vinculantes, Temas de Repercussão Geral e Recursos Repetitivos | 6 | 10 | 60.0% | `jurisprudencia/precedentes-vinculantes` | STF / STJ |
+| 🟦 **Súmulas do CARF**: Súmulas e Enunciados Vinculantes do Conselho Administrativo de Recursos Fiscais | 6 | 10 | 60.0% | `reguladores/carf/sumulas` | carf.fazenda.gov.br |
 | 🟦 **Instruções Normativas da RFB**: Instruções Normativas vigentes estruturantes da Receita Federal | 62 | 90 | 68.9% | `reguladores/rfb/instrucoes-normativas` | normas.receita.fazenda.gov.br |
 | 🟦 **Atos Executivos e Soluções de Consulta**: Soluções de Consulta COSIT/DISIT, Portarias e Atos Declaratórios | 358 | 500 | 71.6% | `reguladores/rfb/outros-atos` | normas.receita.fazenda.gov.br |
