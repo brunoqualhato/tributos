@@ -259,3 +259,7 @@ Lote 11/12 incorporado (6 atos normativos).
 ## 26/10/2026 06:00:30
 
 Lote 12/12 incorporado (1 atos normativos).
+
+## 26/10/2026 06:42:01
+
+Expansão do Pilar 5 - Patrimônio: Lote 1 (Federal, SP e RJ) incorporado.
