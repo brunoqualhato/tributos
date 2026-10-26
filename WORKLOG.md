@@ -279,3 +279,7 @@ Expansão do Pilar 8 - Reforma Tributária e Transição: 6 normas fundamentais 
 ## 26/10/2026 06:47:32
 
 Expansão do Pilar 6 - Combustíveis e Energia: 6 normas estruturantes incorporadas.
+
+## 26/10/2026 06:49:03
+
+Expansão do Pilar 4 - Serviços e Retenções: 6 normas estruturantes incorporadas.
