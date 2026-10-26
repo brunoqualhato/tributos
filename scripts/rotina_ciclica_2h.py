@@ -131,33 +131,42 @@ def executar_ciclo_coleta():
     )
 
     if novos_docs:
-        # Agrupa os novos documentos por tema ou lotes pequenos de até 8 documentos
-        LOTE_MAX = 8
+        # Agrupa os novos documentos por lotes pequenos de até 6 documentos para manter PRs granulares
+        LOTE_MAX = 6
         grupos = [novos_docs[i:i + LOTE_MAX] for i in range(0, len(novos_docs), LOTE_MAX)]
 
         for idx, grupo in enumerate(grupos, 1):
+            # Assegura que cada lote parte da main atualizada
+            git.executar(["git", "checkout", "main"])
             sufixo_lote = f"{agora_str}-parte-{idx}" if len(grupos) > 1 else agora_str
             nome_branch = f"coleta/lote-{sufixo_lote}"
             git.criar_branch(nome_branch)
 
-            # Commits atômicos por arquivo dentro da branch
+            # Commits estritamente atômicos (1 commit por documento)
             for doc in grupo:
-                git.commitar(f"feat(norma): adiciona {doc.name}")
+                if Path(doc).exists():
+                    git.commitar(f"feat(norma): adiciona {Path(doc).name}", arquivos=[Path(doc)])
 
-            # Commit da sincronização de catálogo e worklog
-            git.commitar(f"docs: atualiza ACERVO.md e WORKLOG.md ({sufixo_lote})")
+            # Commit separado dos metadados de catálogo, progresso e worklog
+            meta_arqs = [RAIZ / "ACERVO.md", RAIZ / "PROGRESSO.md", RAIZ / "WORKLOG.md", ARQUIVO_ESTADO]
+            arqs_existentes = [p for p in meta_arqs if p.exists()]
+            if arqs_existentes:
+                git.commitar(f"docs: atualiza ACERVO.md e WORKLOG.md ({sufixo_lote})", arquivos=arqs_existentes)
+
             git.empurrar(nome_branch)
 
             titulo_pr = f"feat(coleta): lote {idx}/{len(grupos)} de normas ({len(grupo)} atos em {agora_str})"
             corpo_pr = (
                 f"### Lote Granular de Coleta Periódica ({idx}/{len(grupos)})\n\n"
                 f"- **Normas incluídas neste lote:** {len(grupo)}\n"
-                f"- **Commits atômicos:** 1 commit por ato individualizado.\n"
-                f"- **Auditoria de rede:** 100% aprovado.\n\n"
-                f"Documentos: " + ", ".join([f"`{d.name}`" for d in grupo])
+                f"- **Commits atômicos:** 1 commit individualizado por ato normativo.\n"
+                f"- **Auditoria de integridade e links:** 100% aprovado.\n\n"
+                f"**Documentos deste lote:**\n" + "\n".join([f"- `{Path(d).name}`" for d in grupo])
             )
             git.abrir_pull_request(branch_origem=nome_branch, titulo=titulo_pr, corpo=corpo_pr)
             print(f"[Agente Git] PR granular aberta para o lote {idx}/{len(grupos)} ({len(grupo)} documentos).")
+
+        git.executar(["git", "checkout", "main"])
     else:
         print("[Agente Git] Nenhuma alteração pendente para criação de nova PR neste ciclo.")
 
