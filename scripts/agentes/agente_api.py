@@ -9,6 +9,7 @@ import json
 import hashlib
 import gzip
 import sys
+import urllib.parse
 
 RAIZ = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
@@ -82,6 +83,42 @@ class AgenteAPI:
             
         salvar_atomico(cache_file, gzip.compress(dados))
         return json.loads(dados.decode("utf-8"))
+
+    def baixar_norma_lexml(self, urn: str) -> dict:
+        """Obtém metadados e texto oficial de norma federal via normas.leg.br (LexML)."""
+        url_meta = f"https://normas.leg.br/api/public/normas?urn={urllib.parse.quote(urn, safe=':;@!~$-.')}&tipo_documento=maior-detalhe"
+        cache_key = hashlib.sha256(urn.encode()).hexdigest()
+        cache_file = self.cache_dir / "lexml" / f"{cache_key}.json.gz"
+        
+        if cache_file.exists():
+            dados = json.loads(gzip.decompress(cache_file.read_bytes()).decode("utf-8"))
+        else:
+            status, bruto, _ = self.rede.get(url_meta)
+            if status != 200 or not bruto:
+                raise RuntimeError(f"Erro ao consultar URN {urn}: HTTP {status}")
+            dados = json.loads(bruto.decode("utf-8"))
+            salvar_atomico(cache_file, gzip.compress(bruto))
+
+        # Seleciona o melhor binário HTML
+        encodings = dados.get("encoding", [])
+        if isinstance(encodings, dict):
+            encodings = [encodings]
+
+        texto_html = ""
+        for enc in encodings:
+            content_url = enc.get("contentUrl", "")
+            if content_url and "html" in (enc.get("encodingFormat") or "text/html"):
+                public_url = content_url.replace("/api/binario/", "/api/public/binario/")
+                st, html_bytes, _ = self.rede.get(public_url)
+                if st == 200 and html_bytes:
+                    texto_html = html_bytes.decode("utf-8", errors="replace")
+                    break
+
+        return {
+            "urn": urn,
+            "metadados": dados,
+            "html": texto_html
+        }
 
 if __name__ == "__main__":
     agente = AgenteAPI()

@@ -17,7 +17,7 @@ from agentes.agente_api import AgenteAPI
 from agentes.agente_scraping import AgenteScraping
 from agentes.agente_estruturador import AgenteEstruturador
 from agentes.agente_git import AgenteGit
-from auditar import executar_auditoria
+from agentes.agente_auditor import AgenteAuditor
 from progresso import gerar_progresso
 
 def executar_ciclo_exemplo_rfb(termo: str = "imposto", limite: int = 2):
@@ -46,7 +46,8 @@ def executar_ciclo_exemplo_rfb(termo: str = "imposto", limite: int = 2):
 
     # 3. Auditoria de Qualidade
     print("\n[Etapa 3] Auditoria de Integridade...")
-    valido = executar_auditoria()
+    auditor = AgenteAuditor()
+    relatorio_auditoria = auditor.auditar_repositorio(checar_rede=False)
 
     # 4. Atualização de Progresso
     print("\n[Etapa 4] Recalculando PROGRESSO.md...")
