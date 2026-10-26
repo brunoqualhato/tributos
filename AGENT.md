@@ -86,19 +86,22 @@ O projeto conta com agentes autônomos documentados em [`.agents/agents/`](file:
 
 ---
 
-## 5. Política de Commits, Pull Requests e Documentação Contínua
+## 5. Política de Commits Atômicos, Pull Requests Granulares e Documentação Contínua
 
 > [!IMPORTANT]
-> **Regra de Ouro:** *SEMPRE ABRA PULL REQUEST PARA NOVOS ITENS OU CORREÇÕES.*
+> **Regra de Ouro:** *SEMPRE ABRA PULL REQUEST PARA NOVOS ITENS OU CORREÇÕES, UTILIZANDO COMMITS ATÔMICOS E PRS PEQUENAS E TEMÁTICAS.*
 
 1. **Nunca commitar novos lotes diretamente na `main` sem validação.**
-2. **Fluxo Obrigatório para Novas Coletas:**
-   1. Criar branch temática: `git checkout -b coleta/<nome-do-lote>`
+2. **Commits Atômicos e PRs Granulares:**
+   - **Commits Atômicos:** 1 commit por norma adicionada, correção pontual ou documento estruturado, com mensagem semântica clara (ex: `feat(folha): adiciona IN RFB 2110/2022`).
+   - **Pull Requests Pequenas e Focadas:** Criar PRs reduzidas (entre 3 a 15 documentos de um único tema ou pilar específico), nunca acumulando centenas de arquivos misturados em uma única PR gigante. Várias PRs menores são explicitamente desejadas para maximizar a organização e rastreabilidade.
+3. **Fluxo Obrigatório para Novas Coletas:**
+   1. Criar branch temática: `git checkout -b <tema>/<subtema-especifico>`
    2. Executar ingestão e estruturação dos arquivos.
    3. Executar o auditor de integridade: `python3 scripts/auditar.py --rede`. (Apenas lotes com 100% de aprovação podem avançar).
    4. Atualizar o catálogo de documentos: `python3 scripts/catalogo.py`.
    5. Recalcular o progresso: `python3 scripts/progresso.py`.
    6. Registrar marco no [`WORKLOG.md`](file:///Users/brunoqualhato/Documents/meus/tributos/WORKLOG.md).
-   7. Commitar as alterações no branch.
+   7. Realizar commits atômicos por documento.
    8. Enviar o branch ao GitHub: `git push -u origin <branch>`
-   9. Abrir o Pull Request automaticamente: `gh pr create --base main --title "..." --body "..."`
+   9. Abrir o Pull Request temático: `gh pr create --base main --title "feat(<tema>): ..." --body "..."`
