@@ -1,8 +1,8 @@
 # Progresso do Acervo Tributário e Contábil
 
-Gerado em: 26/10/2026 07:04:04. Escopo definido em `scripts/plano.py`.
+Gerado em: 26/10/2026 07:57:25. Escopo definido em `scripts/plano.py`.
 
-**Total de Documentos no Acervo:** 554 / 859 (64.5%)
+**Total de Documentos no Acervo:** 608 / 859 (70.8%)
 
 | Pilar / Subtema | Documentos | Meta | Cobertura | Pasta | Fonte Principal |
 | :--- | ---: | ---: | :---: | :--- | :--- |
@@ -53,5 +53,5 @@ Gerado em: 26/10/2026 07:04:04. Escopo definido em `scripts/plano.py`.
 | 🟦 **Pronunciamentos Técnicos CPC**: Pronunciamentos Técnicos do Comitê de Pronunciamentos Contábeis (CPC 00 a 48) | 14 | 25 | 56.0% | `contabil/cpc` | cpc.org.br |
 | 🟦 **Precedentes Vinculantes STF / STJ**: Súmulas Vinculantes, Temas de Repercussão Geral e Recursos Repetitivos | 6 | 10 | 60.0% | `jurisprudencia/precedentes-vinculantes` | STF / STJ |
 | 🟦 **Súmulas do CARF**: Súmulas e Enunciados Vinculantes do Conselho Administrativo de Recursos Fiscais | 6 | 10 | 60.0% | `reguladores/carf/sumulas` | carf.fazenda.gov.br |
-| 🟦 **Instruções Normativas da RFB**: Instruções Normativas vigentes estruturantes da Receita Federal | 62 | 90 | 68.9% | `reguladores/rfb/instrucoes-normativas` | normas.receita.fazenda.gov.br |
-| 🟦 **Atos Executivos e Soluções de Consulta**: Soluções de Consulta COSIT/DISIT, Portarias e Atos Declaratórios | 358 | 500 | 71.6% | `reguladores/rfb/outros-atos` | normas.receita.fazenda.gov.br |
+| 🟦 **Instruções Normativas da RFB**: Instruções Normativas vigentes estruturantes da Receita Federal | 68 | 90 | 75.6% | `reguladores/rfb/instrucoes-normativas` | normas.receita.fazenda.gov.br |
+| 🟦 **Atos Executivos e Soluções de Consulta**: Soluções de Consulta COSIT/DISIT, Portarias e Atos Declaratórios | 406 | 500 | 81.2% | `reguladores/rfb/outros-atos` | normas.receita.fazenda.gov.br |
