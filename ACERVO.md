@@ -1,8 +1,8 @@
 # Catálogo Geral do Acervo Tributário e Contábil (ACERVO.md)
 
-Documento gerado automaticamente em **26/10/2026 às 06:00:30**.
+Documento gerado automaticamente em **26/10/2026 às 06:42:01**.
 
-**Total de Documentos Catalogados e Auditados:** `546`
+**Total de Documentos Catalogados e Auditados:** `558`
 
 ---
 
@@ -12,7 +12,7 @@ Documento gerado automaticamente em **26/10/2026 às 06:00:30**.
 - **Contabilidade:** `12` documentos
 - **Dividendos e Renda do Capital:** `138` documentos
 - **Folha de Pagamento e Encargos:** `263` documentos
-- **Patrimônio, Herança e Veículos:** `3` documentos
+- **Patrimônio, Herança e Veículos:** `15` documentos
 - **Produtos e Mercadorias:** `57` documentos
 - **Reforma Tributária e Transição:** `4` documentos
 - **Serviços e Retenções:** `39` documentos
@@ -460,13 +460,25 @@ Documento gerado automaticamente em **26/10/2026 às 06:00:30**.
 | **Solução de Consulta Cosit nº 180, de 22 de setembro de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | Cofins, ICMS, PIS/Pasep, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/153667) | [`reguladores/rfb/outros-atos/2026/ato-153667-180-2026.md`](reguladores/rfb/outros-atos/2026/ato-153667-180-2026.md) |
 | **Solução de Consulta Cosit nº 204, de 20 de outubro de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | INSS Patronal/Segurados, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154237) | [`reguladores/rfb/outros-atos/2026/ato-154237-204-2026.md`](reguladores/rfb/outros-atos/2026/ato-154237-204-2026.md) |
 
-## Patrimônio, Herança e Veículos (3 documentos)
+## Patrimônio, Herança e Veículos (15 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
 | **Decreto-Lei nº 57, de 18 de novembro de 1966** | 1966 | Presidência da República | ITR, IPTU | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1966-11-18;57) | [`federal/decretos-leis/decreto-lei-57-1966.md`](federal/decretos-leis/decreto-lei-57-1966.md) |
+| **Decreto-Lei nº 57, de 18 de novembro de 1966** | 1966 | Presidência da República | ITR, IPTU | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1966-11-18;57) | [`federal/decretos-leis/iptu-itr/decreto-lei-57-1966.md`](federal/decretos-leis/iptu-itr/decreto-lei-57-1966.md) |
+| **Lei Municipal nº 6.989, de 29 de dezembro de 1966 (IPTU-SP)** | 1966 | Câmara Municipal de São Paulo | IPTU | Em vigor | [Visualizar na Fonte Oficial](https://leismunicipais.com.br/a/sp/sao-paulo/lei-ordinaria/1966/698/6989/lei-ordinaria-n-6989-1966) | [`municipais/sp/leis/iptu/lei-6989-1966.md`](municipais/sp/leis/iptu/lei-6989-1966.md) |
+| **Lei Municipal nº 1.364, de 19 de dezembro de 1988 (ITBI-RJ)** | 1988 | Câmara Municipal do Rio de Janeiro | ITBI | Em vigor | [Visualizar na Fonte Oficial](https://leismunicipais.com.br/a/rj/rio-de-janeiro/lei-ordinaria/1988/136/1364/lei-ordinaria-n-1364-1988) | [`municipais/rj/leis/itbi/lei-1364-1988.md`](municipais/rj/leis/itbi/lei-1364-1988.md) |
+| **Lei Municipal nº 5.492, de 28 de dezembro de 1988 (ITBI-BH)** | 1988 | Câmara Municipal de Belo Horizonte | ITBI | Em vigor | [Visualizar na Fonte Oficial](https://leismunicipais.com.br/a/mg/belo-horizonte/lei-ordinaria/1988/549/5492/lei-ordinaria-n-5492-1988) | [`municipais/bh/leis/itbi/lei-5492-1988.md`](municipais/bh/leis/itbi/lei-5492-1988.md) |
+| **Lei Municipal nº 11.154, de 30 de dezembro de 1991 (ITBI-SP)** | 1991 | Câmara Municipal de São Paulo | ITBI | Em vigor | [Visualizar na Fonte Oficial](https://leismunicipais.com.br/a/sp/sao-paulo/lei-ordinaria/1991/1115/11154/lei-ordinaria-n-11154-1991) | [`municipais/sp/leis/itbi/lei-11154-1991.md`](municipais/sp/leis/itbi/lei-11154-1991.md) |
 | **Resolução do Senado Federal nº 9, de 5 de maio de 1992** | 1992 | Senado Federal | ITCMD | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:senado.federal:resolucao:1992-05-05;9) | [`federal/resolucoes-senado/itcmd/resolucao-9-1992.md`](federal/resolucoes-senado/itcmd/resolucao-9-1992.md) |
 | **Lei nº 9.393, de 19 de dezembro de 1996** | 1996 | Presidência da República / Congresso Nacional | ITR | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1996-12-19;9393) | [`federal/leis-ordinarias/itr/lei-9393-1996.md`](federal/leis-ordinarias/itr/lei-9393-1996.md) |
+| **Lei Estadual nº 2.877, de 22 de dezembro de 1997 (IPVA-RJ)** | 1997 | Assembleia Legislativa do Estado do Rio de Janeiro | IPVA | Em vigor | [Visualizar na Fonte Oficial](http://alerjln1.alerj.rj.gov.br/contlei.nsf/c8aa0e215b32aeb60325645900619d08/2877) | [`estaduais/rj/leis/ipva/lei-2877-1997.md`](estaduais/rj/leis/ipva/lei-2877-1997.md) |
+| **Lei Estadual nº 10.705, de 28 de dezembro de 2000 (ITCMD-SP)** | 2000 | Assembleia Legislativa do Estado de São Paulo | ITCMD | Em vigor | [Visualizar na Fonte Oficial](https://www.al.sp.gov.br/norma/10705) | [`estaduais/sp/leis/itcmd/lei-10705-2000.md`](estaduais/sp/leis/itcmd/lei-10705-2000.md) |
+| **Decreto nº 4.382, de 19 de setembro de 2002 (Regulamento do ITR)** | 2002 | Presidência da República | ITR | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2002-09-19;4382) | [`federal/regulamentos/itr/decreto-4382-2002.md`](federal/regulamentos/itr/decreto-4382-2002.md) |
+| **Lei Estadual nº 14.937, de 23 de dezembro de 2003 (IPVA-MG)** | 2003 | Assembleia Legislativa do Estado de Minas Gerais | IPVA | Em vigor | [Visualizar na Fonte Oficial](https://www.almg.gov.br/legislacao-mineira/LEI/14937/2003/) | [`estaduais/mg/leis/ipva/lei-14937-2003.md`](estaduais/mg/leis/ipva/lei-14937-2003.md) |
+| **Lei Estadual nº 14.941, de 29 de dezembro de 2003 (ITCD-MG)** | 2003 | Assembleia Legislativa do Estado de Minas Gerais | ITCMD | Em vigor | [Visualizar na Fonte Oficial](https://www.almg.gov.br/legislacao-mineira/LEI/14941/2003/) | [`estaduais/mg/leis/itcmd/lei-14941-2003.md`](estaduais/mg/leis/itcmd/lei-14941-2003.md) |
+| **Lei Estadual nº 13.296, de 23 de dezembro de 2008 (IPVA-SP)** | 2008 | Assembleia Legislativa do Estado de São Paulo | IPVA | Em vigor | [Visualizar na Fonte Oficial](https://www.al.sp.gov.br/norma/13296) | [`estaduais/sp/leis/ipva/lei-13296-2008.md`](estaduais/sp/leis/ipva/lei-13296-2008.md) |
+| **Lei Estadual nº 7.174, de 28 de dezembro de 2015 (ITD-RJ)** | 2015 | Assembleia Legislativa do Estado do Rio de Janeiro | ITCMD | Em vigor | [Visualizar na Fonte Oficial](http://alerjln1.alerj.rj.gov.br/contlei.nsf/c8aa0e215b32aeb60325645900619d08/7174) | [`estaduais/rj/leis/itcmd/lei-7174-2015.md`](estaduais/rj/leis/itcmd/lei-7174-2015.md) |
 
 ## Produtos e Mercadorias (57 documentos)
 
