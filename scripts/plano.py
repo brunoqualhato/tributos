@@ -59,6 +59,12 @@ PLANO = [
     ItemPlano("2. Folha & Encargos", "FGTS e eSocial",
               "Normas do FGTS (Lei 8.036/1990) e Obrigações Trabalhistas",
               "federal/leis-ordinarias/fgts", 3, 1, "normas.leg.br"),
+    ItemPlano("2. Folha & Encargos", "FGTS Digital e Operação",
+              "Manuais e Circulares do FGTS Digital e eSocial",
+              "reguladores/mte-caixa/fgts-esocial", 5, 2, "Caixa / MTE"),
+    ItemPlano("2. Folha & Encargos", "RAT, FAP e Sistema S",
+              "Normas de Riscos Ambientais, FAP e Contribuições a Terceiros",
+              "reguladores/rfb/rat-fap-terceiros", 5, 2, "RFB / MPS"),
 
     # =========================================================================
     # PILAR 3: PRODUTOS, MERCADORIAS & INDÚSTRIA (ICMS, IPI, PIS/COFINS)
@@ -156,16 +162,22 @@ PLANO = [
     # =========================================================================
     # PILAR 9: NORMAS CONTÁBEIS (CPC E CFC) E ATOS REGULATÓRIOS DA RFB
     # =========================================================================
-    ItemPlano("9. Contabilidade e RFB", "Normas Brasileiras de Contabilidade (CFC)",
+    ItemPlano("9. Contabilidade e Precedentes", "Normas Brasileiras de Contabilidade (CFC)",
               "Resoluções e Normas Técnicas Gerais do CFC (NBC TG)",
               "contabil/cfc", 20, 2, "cfc.org.br"),
-    ItemPlano("9. Contabilidade e RFB", "Pronunciamentos Técnicos CPC",
+    ItemPlano("9. Contabilidade e Precedentes", "Pronunciamentos Técnicos CPC",
               "Pronunciamentos Técnicos do Comitê de Pronunciamentos Contábeis (CPC 00 a 48)",
               "contabil/cpc", 25, 2, "cpc.org.br"),
-    ItemPlano("9. Contabilidade e RFB", "Instruções Normativas da RFB",
+    ItemPlano("9. Contabilidade e Precedentes", "Precedentes Vinculantes STF / STJ",
+              "Súmulas Vinculantes, Temas de Repercussão Geral e Recursos Repetitivos",
+              "jurisprudencia/precedentes-vinculantes", 10, 5, "STF / STJ"),
+    ItemPlano("9. Contabilidade e Precedentes", "Súmulas do CARF",
+              "Súmulas e Enunciados Vinculantes do Conselho Administrativo de Recursos Fiscais",
+              "reguladores/carf/sumulas", 10, 2, "carf.fazenda.gov.br"),
+    ItemPlano("9. Contabilidade e Precedentes", "Instruções Normativas da RFB",
               "Instruções Normativas vigentes estruturantes da Receita Federal",
               "reguladores/rfb/instrucoes-normativas", 90, 2, "normas.receita.fazenda.gov.br"),
-    ItemPlano("9. Contabilidade e RFB", "Atos Executivos e Soluções de Consulta",
+    ItemPlano("9. Contabilidade e Precedentes", "Atos Executivos e Soluções de Consulta",
               "Soluções de Consulta COSIT/DISIT, Portarias e Atos Declaratórios",
               "reguladores/rfb/outros-atos", 500, 2, "normas.receita.fazenda.gov.br"),
 ]
