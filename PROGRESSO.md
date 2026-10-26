@@ -1,8 +1,8 @@
 # Progresso do Acervo Tributário e Contábil
 
-Gerado em: 26/10/2026 06:47:32. Escopo definido em `scripts/plano.py`.
+Gerado em: 26/10/2026 06:49:03. Escopo definido em `scripts/plano.py`.
 
-**Total de Documentos no Acervo:** 430 / 15846 (2.7%)
+**Total de Documentos no Acervo:** 432 / 15846 (2.7%)
 
 | Pilar / Subtema | Documentos | Meta | Cobertura | Pasta | Fonte Principal |
 | :--- | ---: | ---: | :---: | :--- | :--- |
@@ -33,7 +33,7 @@ Gerado em: 26/10/2026 06:47:32. Escopo definido em `scripts/plano.py`.
 | **### Serviços & Retenções** | | | | | |
 | 🟦 **ISSQN Geral**: Lei do ISSQN (Lei Complementar 116/2003 e lista anexa de serviços) | 3 | 5 | 60.0% | `federal/leis-complementares/iss` | Planalto |
 | 🟦 **Retenções na Fonte de Serviços**: CSRF 4,65% (Lei 10.833/03 art. 30), IRRF 1,5% e Retenção INSS 11% | 3 | 150 | 2.0% | `reguladores/rfb/retencoes-servicos` | normas.receita.fazenda.gov.br |
-| 🟦 **CTM e RISS das Capitais**: Códigos Tributários e Regulamentos do ISS das 27 Capitais | 4 | 54 | 7.4% | `municipais/*/servicos-iss` | Câmaras e Prefeituras das Capitais |
+| 🟦 **CTM e RISS das Capitais**: Códigos Tributários e Regulamentos do ISS das 27 Capitais | 6 | 54 | 11.1% | `municipais/*/servicos-iss` | Câmaras e Prefeituras das Capitais |
 | 🟦 **Reforma - IBS/CBS Serviços**: Transição do ISS para o IBS/CBS na prestação de serviços | 1 | 20 | 5.0% | `federal/reforma-tributaria/servicos` | Planalto |
 | **### Contabilidade & Precedentes** | | | | | |
 | 🟦 **Normas CFC**: Normas Brasileiras de Contabilidade (NBC TG, TSP, PG, PA, PP) | 11 | 180 | 6.1% | `contabil/cfc` | cfc.org.br |
