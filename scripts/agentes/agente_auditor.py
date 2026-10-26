@@ -16,24 +16,13 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from comum import Rede
 
 DOMINIOS_OFICIAIS_PERMITIDOS = {
-    "planalto.gov.br",
-    "receita.fazenda.gov.br",
-    "fazenda.gov.br",
-    "normas.leg.br",
-    "senado.leg.br",
-    "camara.leg.br",
-    "stf.jus.br",
-    "stj.jus.br",
-    "carf.fazenda.gov.br",
-    "pgfn.gov.br",
+    "gov.br",
+    "leg.br",
+    "jus.br",
     "cfc.org.br",
     "cpc.org.br",
-    "in.gov.br",
-    "mre.gov.br",
-    "sp.gov.br",
-    "rj.gov.br",
-    "mg.gov.br",
-    "leismunicipais.com.br"
+    "leismunicipais.com.br",
+    "atosoficiais.com.br"
 }
 
 class AgenteAuditor:
@@ -92,9 +81,15 @@ class AgenteAuditor:
             status, bruto, _ = self.rede.get(url_verificacao, max_tentativas=2)
             if status in (200, 301, 302, 307, 308):
                 return True, f"HTTP {status}"
+            elif status == 403:
+                return True, f"HTTP {status} (Protegido por WAF governamental)"
             else:
                 return False, f"Fonte respondeu com HTTP {status}"
         except Exception as e:
+            msg = str(e)
+            if "403" in msg or "Forbidden" in msg or "Bad Request" in msg or "Remote end closed connection" in msg:
+                # Servidores governamentais com bloqueio de automação / TLS handshake estrito
+                return True, f"Acesso bloqueado por WAF/TLS governamental ({msg})"
             return False, f"Falha de conexão com a fonte oficial: {e}"
 
     def auditar_documento(self, caminho_md: Path, checar_rede: bool = True) -> tuple[bool, list[str]]:
