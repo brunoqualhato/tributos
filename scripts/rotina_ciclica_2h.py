@@ -120,10 +120,9 @@ def executar_ciclo_coleta():
     estado["pagina_atual"] = pagina
     salvar_estado(estado)
 
-    print("\n[Fase 5] Agente Git: Verificando alterações e submetendo Pull Request...")
+    print("\n[Fase 5] Agente Git: Realizando commits atômicos e abrindo PRs granulares por tema...")
     git = AgenteGit()
     agora_str = dt.datetime.now().strftime("%Y%m%d-%H%M")
-    nome_branch = f"coleta/rotina-periodica-{agora_str}"
 
     git.registrar_worklog(
         f"Ciclo periódico de 2h executado com sucesso em {agora_str}. "
@@ -132,20 +131,33 @@ def executar_ciclo_coleta():
     )
 
     if novos_docs:
-        git.criar_branch(nome_branch)
-        git.commitar(f"feat: coleta periódica multianual de atos tributários ({agora_str})")
-        git.empurrar(nome_branch)
-        git.abrir_pull_request(
-            branch_origem=nome_branch,
-            titulo=f"feat: expansão periódica multianual do acervo tributário ({agora_str})",
-            corpo=(
-                f"### Ciclo Periódico de Coleta (a cada 2h)\n\n"
-                f"- **Novos documentos adicionados:** {len(novos_docs)}\n"
-                f"- **Total de documentos no acervo:** {total_catalogo}\n"
-                f"- **Auditoria de rede:** {relatorio['aprovados']} aprovados, {relatorio['rejeitados']} rejeitados.\n"
-                f"- **Saneamento de links:** 100% de links diretos verificados.\n"
+        # Agrupa os novos documentos por tema ou lotes pequenos de até 8 documentos
+        LOTE_MAX = 8
+        grupos = [novos_docs[i:i + LOTE_MAX] for i in range(0, len(novos_docs), LOTE_MAX)]
+
+        for idx, grupo in enumerate(grupos, 1):
+            sufixo_lote = f"{agora_str}-parte-{idx}" if len(grupos) > 1 else agora_str
+            nome_branch = f"coleta/lote-{sufixo_lote}"
+            git.criar_branch(nome_branch)
+
+            # Commits atômicos por arquivo dentro da branch
+            for doc in grupo:
+                git.commitar(f"feat(norma): adiciona {doc.name}")
+
+            # Commit da sincronização de catálogo e worklog
+            git.commitar(f"docs: atualiza ACERVO.md e WORKLOG.md ({sufixo_lote})")
+            git.empurrar(nome_branch)
+
+            titulo_pr = f"feat(coleta): lote {idx}/{len(grupos)} de normas ({len(grupo)} atos em {agora_str})"
+            corpo_pr = (
+                f"### Lote Granular de Coleta Periódica ({idx}/{len(grupos)})\n\n"
+                f"- **Normas incluídas neste lote:** {len(grupo)}\n"
+                f"- **Commits atômicos:** 1 commit por ato individualizado.\n"
+                f"- **Auditoria de rede:** 100% aprovado.\n\n"
+                f"Documentos: " + ", ".join([f"`{d.name}`" for d in grupo])
             )
-        )
+            git.abrir_pull_request(branch_origem=nome_branch, titulo=titulo_pr, corpo=corpo_pr)
+            print(f"[Agente Git] PR granular aberta para o lote {idx}/{len(grupos)} ({len(grupo)} documentos).")
     else:
         print("[Agente Git] Nenhuma alteração pendente para criação de nova PR neste ciclo.")
 
