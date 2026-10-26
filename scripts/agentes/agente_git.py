@@ -49,8 +49,8 @@ class AgenteGit:
         print(f"[Agente Git] Criando branch: {nome_branch}")
         self.executar(["git", "checkout", "-b", nome_branch])
 
-    def comitar_lote(self, mensagem: str, arquivos: list = None, autor: str = "TributosBot <bot@tributos.org>"):
-        """Adiciona arquivos e gera o commit."""
+    def commitar(self, mensagem: str, arquivos: list = None, autor: str = "TributosBot <bot@tributos.org>"):
+        """Adiciona arquivos especificados (ou todos se None) e gera o commit semântico/atômico."""
         if arquivos:
             for arq in arquivos:
                 self.executar(["git", "add", str(arq)])
@@ -60,16 +60,37 @@ class AgenteGit:
         print(f"[Agente Git] Gerando commit: {mensagem}")
         self.executar(["git", "commit", "--author", autor, "-m", mensagem])
 
-    def abrir_pr(self, titulo: str, corpo: str, base: str = "main") -> str:
+    def comitar_lote(self, mensagem: str, arquivos: list = None, autor: str = "TributosBot <bot@tributos.org>"):
+        """Alias para commitar."""
+        self.commitar(mensagem, arquivos, autor)
+
+    def empurrar(self, nome_branch: str = None):
+        """Faz push da branch atual ou especificada para origin."""
+        cmd = ["git", "push", "-u", "origin"]
+        if nome_branch:
+            cmd.append(nome_branch)
+        else:
+            cmd.append("HEAD")
+        print(f"[Agente Git] Fazendo push: {' '.join(cmd)}")
+        return self.executar(cmd)
+
+    def abrir_pull_request(self, branch_origem: str = None, titulo: str = "", corpo: str = "", base: str = "main") -> str:
         """Abre Pull Request no GitHub usando a gh CLI."""
         print(f"[Agente Git] Abrindo PR: {titulo}")
+        cmd = ["gh", "pr", "create", "--base", base, "--title", titulo, "--body", corpo]
+        if branch_origem:
+            cmd.extend(["--head", branch_origem])
         try:
-            saida = self.executar(["gh", "pr", "create", "--base", base, "--title", titulo, "--body", corpo])
+            saida = self.executar(cmd)
             print(f"[Agente Git] PR criada: {saida}")
             return saida
         except Exception as e:
             print(f"[Agente Git] Aviso: Não foi possível abrir PR via gh CLI: {e}")
             return ""
+
+    def abrir_pr(self, titulo: str, corpo: str, base: str = "main") -> str:
+        """Alias de compatibilidade para abrir_pull_request."""
+        return self.abrir_pull_request(titulo=titulo, corpo=corpo, base=base)
 
     def abrir_issue(self, titulo: str, corpo: str, labels: list = None) -> str:
         """Abre uma Issue no GitHub para rastreamento de lote ou pendência de integridade."""
