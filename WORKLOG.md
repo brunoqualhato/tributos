@@ -227,3 +227,7 @@ Lote 3/12 incorporado (6 atos normativos).
 ## 26/10/2026 05:58:34
 
 Lote 4/12 incorporado (6 atos normativos).
+
+## 26/10/2026 05:58:47
+
+Lote 5/12 incorporado (6 atos normativos).
