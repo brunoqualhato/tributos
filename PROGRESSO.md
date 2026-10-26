@@ -1,8 +1,8 @@
 # Progresso do Acervo Tributário e Contábil
 
-Gerado em: 26/10/2026 04:00:36. Escopo definido em `scripts/plano.py`.
+Gerado em: 26/10/2026 05:56:34. Escopo definido em `scripts/plano.py`.
 
-**Total de Documentos no Acervo:** 366 / 15846 (2.3%)
+**Total de Documentos no Acervo:** 430 / 15846 (2.7%)
 
 | Pilar / Subtema | Documentos | Meta | Cobertura | Pasta | Fonte Principal |
 | :--- | ---: | ---: | :---: | :--- | :--- |
@@ -40,4 +40,4 @@ Gerado em: 26/10/2026 04:00:36. Escopo definido em `scripts/plano.py`.
 | 🟦 **Pronunciamentos CPC**: Pronunciamentos Técnicos CPC (00 a 50+), OCPC e ICPC | 14 | 90 | 15.6% | `contabil/cpc` | cpc.org.br |
 | ⬜️ **Precedentes STF / STJ**: Súmulas Vinculantes, Temas de Repercussão Geral e Recursos Repetitivos Fiscais | 0 | 900 | 0.0% | `jurisprudencia/precedentes-vinculantes` | STF / STJ / CNJ |
 | ⬜️ **CARF**: Súmulas e Acórdãos Paradigmas do CARF | 0 | 300 | 0.0% | `reguladores/carf` | carf.fazenda.gov.br |
-| 🟦 **Atos Gerais e Resoluções RFB**: Portarias, Instruções Normativas e Atos Gerais da RFB | 295 | 5000 | 5.9% | `reguladores/rfb/outros-atos` | normas.receita.fazenda.gov.br |
+| 🟦 **Atos Gerais e Resoluções RFB**: Portarias, Instruções Normativas e Atos Gerais da RFB | 359 | 5000 | 7.2% | `reguladores/rfb/outros-atos` | normas.receita.fazenda.gov.br |
