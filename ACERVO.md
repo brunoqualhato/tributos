@@ -1,6 +1,6 @@
 # Catálogo Geral do Acervo Tributário e Contábil (ACERVO.md)
 
-Documento gerado automaticamente em **26/10/2026 às 09:57:36**.
+Documento gerado automaticamente em **26/10/2026 às 10:00:39**.
 
 **Total de Documentos Catalogados e Auditados:** `682`
 
@@ -11,9 +11,9 @@ Documento gerado automaticamente em **26/10/2026 às 09:57:36**.
 - **Combustíveis e Energia:** `11` documentos
 - **Contabilidade:** `12` documentos
 - **Dividendos e Renda do Capital:** `175` documentos
-- **Folha de Pagamento e Encargos:** `332` documentos
+- **Folha de Pagamento e Encargos:** `331` documentos
 - **Patrimônio, Herança e Veículos:** `14` documentos
-- **Produtos e Mercadorias:** `65` documentos
+- **Produtos e Mercadorias:** `66` documentos
 - **Reforma Tributária e Transição:** `8` documentos
 - **Serviços e Retenções:** `37` documentos
 - **Tributação Financeira e IOF:** `7` documentos
@@ -234,7 +234,7 @@ Documento gerado automaticamente em **26/10/2026 às 09:57:36**.
 | **Solução de Consulta Cosit nº 6, de 27 de janeiro de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | CSLL, ICMS, IRPF, IRPJ, IRRF, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/149052) | [`reguladores/rfb/outros-atos/2026/ato-149052-6-2026.md`](reguladores/rfb/outros-atos/2026/ato-149052-6-2026.md) |
 | **Solução de Consulta Cosit nº 81, de 15 de maio de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | CSLL, Contabilidade Societária e Fiscal, IRPF, IRPJ, IRRF, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/151272) | [`reguladores/rfb/outros-atos/2026/ato-151272-81-2026.md`](reguladores/rfb/outros-atos/2026/ato-151272-81-2026.md) |
 
-## Folha de Pagamento e Encargos (332 documentos)
+## Folha de Pagamento e Encargos (331 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
@@ -391,7 +391,6 @@ Documento gerado automaticamente em **26/10/2026 às 09:57:36**.
 | **Instrução Normativa RFB nº 2104, de 21 de setembro de 2022** | 2022 | Secretaria Especial da Receita Federal do Brasil | Imposto de Importação, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/126228) | [`reguladores/rfb/instrucoes-normativas/2022/ato-126228-2104-2022.md`](reguladores/rfb/instrucoes-normativas/2022/ato-126228-2104-2022.md) |
 | **Instrução Normativa RFB nº 2107, de 4 de outubro de 2022** | 2022 | Secretaria Especial da Receita Federal do Brasil | - | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/126432) | [`reguladores/rfb/instrucoes-normativas/2022/ato-126432-2107-2022.md`](reguladores/rfb/instrucoes-normativas/2022/ato-126432-2107-2022.md) |
 | **Instrução Normativa RFB nº 2109, de 4 de outubro de 2022** | 2022 | Secretaria Especial da Receita Federal do Brasil | Cofins, INSS Patronal/Segurados, IPI, Imposto de Importação, PIS/Pasep, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/126434) | [`reguladores/rfb/instrucoes-normativas/2022/ato-126434-2109-2022.md`](reguladores/rfb/instrucoes-normativas/2022/ato-126434-2109-2022.md) |
-| **Instrução Normativa RFB nº 2121, de 15 de dezembro de 2022** | 2022 | Secretaria Especial da Receita Federal do Brasil | Cofins, INSS Patronal/Segurados, IPI, Imposto de Importação, PIS/Pasep, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/127905) | [`reguladores/rfb/instrucoes-normativas/2022/ato-127905-2121-2022.md`](reguladores/rfb/instrucoes-normativas/2022/ato-127905-2121-2022.md) |
 | **Ato Declaratório Executivo DRF/PTG nº 216, de 26 de dezembro de 2022** | 2022 | Secretaria Especial da Receita Federal do Brasil | RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/128027) | [`reguladores/rfb/outros-atos/2022/ato-128027-216-2022.md`](reguladores/rfb/outros-atos/2022/ato-128027-216-2022.md) |
 | **Ato Declaratório Executivo DRF/BSB nº 22, de 28 de dezembro de 2022** | 2022 | Secretaria Especial da Receita Federal do Brasil | Cofins, IPI, PIS/Pasep, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/128154) | [`reguladores/rfb/outros-atos/2022/ato-128154-22-2022.md`](reguladores/rfb/outros-atos/2022/ato-128154-22-2022.md) |
 | **Ato Declaratório Executivo DRF/SOR nº 220, de 19 de dezembro de 2022** | 2022 | Secretaria Especial da Receita Federal do Brasil | Cofins, IPI, PIS/Pasep, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/127897) | [`reguladores/rfb/outros-atos/2022/ato-127897-220-2022.md`](reguladores/rfb/outros-atos/2022/ato-127897-220-2022.md) |
@@ -590,7 +589,7 @@ Documento gerado automaticamente em **26/10/2026 às 09:57:36**.
 | **Lei Estadual nº 13.296, de 23 de dezembro de 2008 (IPVA-SP)** | 2008 | Assembleia Legislativa do Estado de São Paulo | IPVA | Em vigor | [Visualizar na Fonte Oficial](https://www.al.sp.gov.br/norma/13296) | [`estaduais/sp/leis/ipva/lei-13296-2008.md`](estaduais/sp/leis/ipva/lei-13296-2008.md) |
 | **Lei Estadual nº 7.174, de 28 de dezembro de 2015 (ITD-RJ)** | 2015 | Assembleia Legislativa do Estado do Rio de Janeiro | ITCMD | Em vigor | [Visualizar na Fonte Oficial](http://alerjln1.alerj.rj.gov.br/contlei.nsf/c8aa0e215b32aeb60325645900619d08/7174) | [`estaduais/rj/leis/itcmd/lei-7174-2015.md`](estaduais/rj/leis/itcmd/lei-7174-2015.md) |
 
-## Produtos e Mercadorias (65 documentos)
+## Produtos e Mercadorias (66 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
@@ -630,6 +629,7 @@ Documento gerado automaticamente em **26/10/2026 às 09:57:36**.
 | **Convênio ICMS nº 236, de 27 de dezembro de 2021 (DIFAL a Não Contribuinte)** | 2021 | Conselho Nacional de Política Fazendária (CONFAZ) | ICMS, DIFAL | Em vigor | [Visualizar na Fonte Oficial](https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV236_21) | [`estaduais/confaz/convenios-icms/2021/convenio-icms-236-2021.md`](estaduais/confaz/convenios-icms/2021/convenio-icms-236-2021.md) |
 | **Decreto nº 11.158, de 29 de julho de 2022 (Tabela de Incidência do IPI - TIPI)** | 2022 | Presidência da República / Congresso Nacional | IPI | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2022-07-29;11158) | [`federal/regulamentos/ripi/decreto-11158-2022-tipi.md`](federal/regulamentos/ripi/decreto-11158-2022-tipi.md) |
 | **Lei Complementar nº 190, de 4 de janeiro de 2022 (DIFAL ICMS)** | 2022 | Presidência da República / Congresso Nacional | ICMS, ICMS-ST | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2022-01-04;190) | [`federal/leis-complementares/kandir/lei-190-2022.md`](federal/leis-complementares/kandir/lei-190-2022.md) |
+| **Instrução Normativa RFB nº 2121, de 15 de dezembro de 2022** | 2022 | Secretaria Especial da Receita Federal do Brasil | PIS/Pasep, Cofins, Imposto de Importação | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/127905) | [`reguladores/rfb/instrucoes-normativas/2022/ato-127905-2121-2022.md`](reguladores/rfb/instrucoes-normativas/2022/ato-127905-2121-2022.md) |
 | **Instrução Normativa RFB nº 2126, de 29 de dezembro de 2022** | 2022 | Secretaria Especial da Receita Federal do Brasil | IPI, Imposto de Importação, PIS/Pasep, Cofins | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/128149) | [`reguladores/rfb/instrucoes-normativas/2022/ato-128149-2126-2022.md`](reguladores/rfb/instrucoes-normativas/2022/ato-128149-2126-2022.md) |
 | **Portaria CGSN nº 39, de 29 de novembro de 2022** | 2022 | Secretaria Especial da Receita Federal do Brasil | ICMS, ISSQN | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/127455) | [`reguladores/rfb/outros-atos/2022/ato-127455-39-2022.md`](reguladores/rfb/outros-atos/2022/ato-127455-39-2022.md) |
 | **Solução de Consulta Cosit nº 43, de 4 de novembro de 2022** | 2022 | Secretaria Especial da Receita Federal do Brasil | Imposto de Importação | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/127059) | [`reguladores/rfb/outros-atos/2022/ato-127059-43-2022.md`](reguladores/rfb/outros-atos/2022/ato-127059-43-2022.md) |
