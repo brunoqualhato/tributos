@@ -1,6 +1,6 @@
 # Catálogo Geral do Acervo Tributário e Contábil (ACERVO.md)
 
-Documento gerado automaticamente em **26/10/2026 às 05:59:44**.
+Documento gerado automaticamente em **26/10/2026 às 05:59:59**.
 
 **Total de Documentos Catalogados e Auditados:** `546`
 
