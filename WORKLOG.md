@@ -303,3 +303,7 @@ Ciclo periódico de 2h executado com sucesso em 20261026-0957. Novos documentos 
 ## 26/10/2026 10:45:00
 
 Expansão do acervo contábil e CONFAZ: 78 novas normas incorporadas (34 Pronunciamentos CPC, 15 NBC TG do CFC, 20 Convênios ICMS 2025 e 9 Instruções Normativas RFB). Total catalogado: 760 documentos (735/859 da meta, 85,6%). Auditoria de rede: 759/760 aprovados (99,9%); única falha é link preexistente da Caixa com redirecionamento infinito.
+
+## 26/10/2026 11:10:00
+
+Expansão de dados estaduais, federais e atos RFB: 87 novas normas incorporadas. Estaduais: 10 leis de ITCMD/ITD e IPVA (RS, PR, SC, BA, PE), completando 8/8 em cada meta. RFB: 12 Instruções Normativas e 52 Soluções de Consulta. Federal: 13 normas temáticas (dividendos/JCP, offshores, retenções na fonte, custeio previdenciário, combustíveis, Kandir e PIS/COFINS). Total catalogado: 847 documentos (822/859 da meta, 95,7%). Auditoria de rede: 846/847 aprovados (99,9%); permanece apenas a falha preexistente da Circular Caixa 1.050/2024 (redirecionamento infinito).
