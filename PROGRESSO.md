@@ -1,6 +1,6 @@
 # Progresso do Acervo Tributário e Contábil
 
-Gerado em: 26/10/2026 00:49:50. Escopo definido em `scripts/plano.py`.
+Gerado em: 26/10/2026 00:54:36. Escopo definido em `scripts/plano.py`.
 
 **Total de Documentos no Acervo:** 270 / 15846 (1.7%)
 
