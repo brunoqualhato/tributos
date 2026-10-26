@@ -1,14 +1,14 @@
 # Catálogo Geral do Acervo Tributário e Contábil (ACERVO.md)
 
-Documento gerado automaticamente em **26/10/2026 às 06:45:22**.
+Documento gerado automaticamente em **26/10/2026 às 06:47:32**.
 
-**Total de Documentos Catalogados e Auditados:** `570`
+**Total de Documentos Catalogados e Auditados:** `576`
 
 ---
 
 ## Sumário Executivo por Pilar
 
-- **Combustíveis e Energia:** `6` documentos
+- **Combustíveis e Energia:** `12` documentos
 - **Contabilidade:** `12` documentos
 - **Dividendos e Renda do Capital:** `138` documentos
 - **Folha de Pagamento e Encargos:** `263` documentos
@@ -21,13 +21,19 @@ Documento gerado automaticamente em **26/10/2026 às 06:45:22**.
 
 ---
 
-## Combustíveis e Energia (6 documentos)
+## Combustíveis e Energia (12 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
+| **Lei nº 9.478, de 6 de agosto de 1997 (Lei do Petróleo)** | 1997 | Presidência da República / Congresso Nacional | Royalties do Petróleo, Participação Especial, CIDE-Combustíveis, PIS/Pasep, Cofins | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1997-08-06;9478) | [`federal/leis-ordinarias/combustiveis/lei-9478-1997.md`](federal/leis-ordinarias/combustiveis/lei-9478-1997.md) |
 | **Lei nº 10.336, de 19 de dezembro de 2001 (CIDE-Combustíveis)** | 2001 | Presidência da República / Congresso Nacional | CIDE-Combustíveis, ICMS Monofásico, PIS/Pasep Combustíveis, Cofins Combustíveis | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2001-12-19;10336) | [`federal/leis-ordinarias/combustiveis/lei-10336-2001.md`](federal/leis-ordinarias/combustiveis/lei-10336-2001.md) |
 | **Lei nº 10.560, de 13 de novembro de 2002 (PIS/Cofins Monofásico - Combustíveis e Querosene)** | 2002 | Presidência da República / Congresso Nacional | CIDE-Combustíveis, ICMS Monofásico, PIS/Pasep Combustíveis, Cofins Combustíveis | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-11-13;10560) | [`federal/leis-ordinarias/combustiveis/lei-10560-2002.md`](federal/leis-ordinarias/combustiveis/lei-10560-2002.md) |
+| **Lei nº 10.865, de 30 de abril de 2004 - Seção de Combustíveis** | 2004 | Presidência da República / Congresso Nacional | PIS/Pasep-Importação, Cofins-Importação, CIDE-Combustíveis | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-04-30;10865) | [`federal/leis-ordinarias/combustiveis/lei-10865-2004-combustiveis.md`](federal/leis-ordinarias/combustiveis/lei-10865-2004-combustiveis.md) |
 | **Decreto nº 5.060, de 30 de abril de 2004 (Alíquotas da CIDE-Combustíveis)** | 2004 | Presidência da República | CIDE-Combustíveis, ICMS Monofásico, PIS/Pasep Combustíveis, Cofins Combustíveis | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2004-04-30;5060) | [`federal/regulamentos/cide/decreto-5060-2004.md`](federal/regulamentos/cide/decreto-5060-2004.md) |
+| **Convênio ICMS nº 110, de 28 de setembro de 2007 (ICMS-ST Combustíveis)** | 2007 | Conselho Nacional de Política Fazendária - CONFAZ | ICMS, ICMS-ST Combustíveis | Em vigor | [Visualizar na Fonte Oficial](https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV110_07) | [`estaduais/confaz/convenios-icms/2007/convenio-icms-110-2007.md`](estaduais/confaz/convenios-icms/2007/convenio-icms-110-2007.md) |
+| **Lei nº 13.576, de 26 de dezembro de 2017 (RenovaBio)** | 2017 | Presidência da República / Congresso Nacional | IRRF, IRPF, IRPJ, CSLL, PIS/Pasep, Cofins | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2017-12-26;13576) | [`federal/leis-ordinarias/combustiveis/lei-13576-2017.md`](federal/leis-ordinarias/combustiveis/lei-13576-2017.md) |
+| **Resolução ANP nº 795, de 5 de julho de 2019** | 2019 | Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP | ICMS Combustíveis, CIDE-Combustíveis, Documento Fiscal Eletrônico | Em vigor | [Visualizar na Fonte Oficial](https://atosoficiais.com.br/anp/resolucao-n-795-2019) | [`reguladores/anp/resolucoes/resolucao-anp-795-2019.md`](reguladores/anp/resolucoes/resolucao-anp-795-2019.md) |
+| **Lei nº 14.292, de 3 de janeiro de 2022 (Venda Direta de Etanol)** | 2022 | Presidência da República / Congresso Nacional | PIS/Pasep Combustíveis, Cofins Combustíveis, ICMS Combustíveis | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2022-01-03;14292) | [`federal/leis-ordinarias/combustiveis/lei-14292-2022.md`](federal/leis-ordinarias/combustiveis/lei-14292-2022.md) |
 | **Lei Complementar nº 192, de 11 de março de 2022 (ICMS Monofásico Combustíveis)** | 2022 | Presidência da República / Congresso Nacional | CIDE-Combustíveis, ICMS Monofásico, PIS/Pasep Combustíveis, Cofins Combustíveis | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2022-03-11;192) | [`federal/leis-complementares/combustiveis/lei-complementar-192-2022.md`](federal/leis-complementares/combustiveis/lei-complementar-192-2022.md) |
 | **Convênio ICMS nº 199, de 22 de dezembro de 2022 (ICMS Monofásico - Diesel, Biodiesel e GLP)** | 2022 | Conselho Nacional de Política Fazendária - CONFAZ | CIDE-Combustíveis, ICMS Monofásico, PIS/Pasep Combustíveis, Cofins Combustíveis | Em vigor | [Visualizar na Fonte Oficial](https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV199_22) | [`estaduais/confaz/convenios-icms/2022/convenio-icms-199-2022.md`](estaduais/confaz/convenios-icms/2022/convenio-icms-199-2022.md) |
 | **Convênio ICMS nº 15, de 31 de março de 2023 (ICMS Monofásico - Gasolina e Etanol Anidro)** | 2023 | Conselho Nacional de Política Fazendária - CONFAZ | CIDE-Combustíveis, ICMS Monofásico, PIS/Pasep Combustíveis, Cofins Combustíveis | Em vigor | [Visualizar na Fonte Oficial](https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV015_23) | [`estaduais/confaz/convenios-icms/2023/convenio-icms-15-2023.md`](estaduais/confaz/convenios-icms/2023/convenio-icms-15-2023.md) |
