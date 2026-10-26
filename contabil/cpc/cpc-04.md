@@ -4,14 +4,14 @@ esfera: "Federal / Profissional"
 orgao: "Comitê de Pronunciamentos Contábeis (CPC) / CFC"
 tipo: "Pronunciamento Técnico"
 numero: "04"
-data: "2010-10-01"
+data: "2010-01-01"
 ano: "2010"
 tema_tributario: "Dividendos e Renda do Capital"
-tributos_afetados: ["IRPJ", "CSLL", "Ágio"]
+tributos_afetados: ["IRPJ", "CSLL"]
 situacao: "Em vigor"
 revogada: false
 fonte: "http://www.cpc.org.br/Arquivos/Documentos/187_CPC_04_R1_rev%2021.pdf"
-ementa: "Define o tratamento contábil de ativos intangíveis, incluindo critérios de reconhecimento, mensuração, amortização e apuração de ágio por rentabilidade futura (goodwill)."
+ementa: "Define o tratamento contábil de ativos intangíveis (incluindo ágio/goodwill e critérios de amortização contábil e fiscal)."
 ---
 
 # Pronunciamento Técnico CPC 04 (R1) - Ativo Intangível

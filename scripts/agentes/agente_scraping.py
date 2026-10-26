@@ -576,7 +576,7 @@ class AgenteScraping:
         pasta_fonte.mkdir(parents=True, exist_ok=True)
 
         for item in itens:
-            pasta_destino = RAIZ / "reguladores" / "confaz" / item["subpasta"]
+            pasta_destino = RAIZ / "estadual" / "confaz" / item["subpasta"]
             pasta_destino.mkdir(parents=True, exist_ok=True)
             caminho_md = pasta_destino / f"{item['prefixo_arquivo']}-{item['num']}-{item['ano']}.md"
 

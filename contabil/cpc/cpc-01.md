@@ -6,7 +6,7 @@ tipo: "Pronunciamento Técnico"
 numero: "01"
 data: "2010-01-01"
 ano: "2010"
-tema_tributario: "Contabilidade e Geral"
+tema_tributario: "Contabilidade"
 tributos_afetados: ["Contabilidade Societária e Fiscal"]
 situacao: "Em vigor"
 revogada: false

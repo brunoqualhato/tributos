@@ -4,14 +4,14 @@ esfera: "Federal / Profissional"
 orgao: "Comitê de Pronunciamentos Contábeis (CPC) / CFC"
 tipo: "Pronunciamento Técnico"
 numero: "06"
-data: "2018-12-21"
+data: "2018-01-01"
 ano: "2018"
-tema_tributario: "Tributário e Contábil Geral"
-tributos_afetados: ["PIS/Pasep", "Cofins", "IRPJ", "CSLL"]
+tema_tributario: "Contabilidade"
+tributos_afetados: ["Contabilidade Societária e Fiscal"]
 situacao: "Em vigor"
 revogada: false
 fonte: "http://www.cpc.org.br/Arquivos/Documentos/533_CPC_06_R2_rev%2023.pdf"
-ementa: "Estabelece os princípios para o reconhecimento, mensuração, apresentação e divulgação de arrendamentos mercantis (leasing) para locatários e locadores."
+ementa: "Estabelece os princípios para o reconhecimento, mensuração, apresentação e divulgação de arrendamentos (leasing) para locatários e locadores."
 ---
 
 # Pronunciamento Técnico CPC 06 (R2) - Operações de Arrendamento Mercantil (IFRS 16)
