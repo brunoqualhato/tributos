@@ -164,10 +164,18 @@ def executar_ciclo_coleta():
                 f"- **Auditoria de integridade e links:** 100% aprovado.\n\n"
                 f"**Documentos deste lote:**\n" + "\n".join([f"- `{Path(d).name}`" for d in grupo])
             )
-            git.abrir_pull_request(branch_origem=nome_branch, titulo=titulo_pr, corpo=corpo_pr)
-            print(f"[Agente Git] PR granular aberta para o lote {idx}/{len(grupos)} ({len(grupo)} documentos).")
+            url_pr = git.abrir_pull_request(branch_origem=nome_branch, titulo=titulo_pr, corpo=corpo_pr)
+            print(f"[Agente Git] PR granular aberta para o lote {idx}/{len(grupos)} ({len(grupo)} documentos): {url_pr}")
 
-        git.executar(["git", "checkout", "main"])
+            pr_num = url_pr.split("/")[-1].strip()
+            if pr_num.isdigit():
+                print(f"[Agente Git] Realizando merge da PR #{pr_num}...")
+                git.executar(["gh", "pr", "merge", pr_num, "--merge", "--delete-branch"])
+                print(f"[Agente Git] PR #{pr_num} mesclada com sucesso.")
+                time.sleep(2)
+
+            git.executar(["git", "checkout", "main"])
+            git.executar(["git", "pull", "origin", "main"])
     else:
         print("[Agente Git] Nenhuma alteração pendente para criação de nova PR neste ciclo.")
 
