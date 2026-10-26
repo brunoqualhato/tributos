@@ -275,3 +275,7 @@ Expansão do Pilar 7 - Tributação Financeira e IOF: 6 normas fundamentais inco
 ## 26/10/2026 06:45:22
 
 Expansão do Pilar 8 - Reforma Tributária e Transição: 6 normas fundamentais incorporadas.
+
+## 26/10/2026 06:47:32
+
+Expansão do Pilar 6 - Combustíveis e Energia: 6 normas estruturantes incorporadas.
