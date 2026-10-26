@@ -1,8 +1,8 @@
 # Catálogo Geral do Acervo Tributário e Contábil (ACERVO.md)
 
-Documento gerado automaticamente em **26/10/2026 às 06:42:16**.
+Documento gerado automaticamente em **26/10/2026 às 06:43:47**.
 
-**Total de Documentos Catalogados e Auditados:** `558`
+**Total de Documentos Catalogados e Auditados:** `564`
 
 ---
 
@@ -16,7 +16,7 @@ Documento gerado automaticamente em **26/10/2026 às 06:42:16**.
 - **Produtos e Mercadorias:** `57` documentos
 - **Reforma Tributária e Transição:** `4` documentos
 - **Serviços e Retenções:** `39` documentos
-- **Tributação Financeira e IOF:** `4` documentos
+- **Tributação Financeira e IOF:** `10` documentos
 - **Tributário e Contábil Geral:** `20` documentos
 
 ---
@@ -595,14 +595,20 @@ Documento gerado automaticamente em **26/10/2026 às 06:42:16**.
 | **Solução de Consulta Disit/SRRF10 nº 10012, de 30 de setembro de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | IRRF Serviços | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/153931) | [`reguladores/rfb/outros-atos/2026/ato-153931-10012-2026.md`](reguladores/rfb/outros-atos/2026/ato-153931-10012-2026.md) |
 | **Solução de Consulta Cosit nº 190, de 25 de setembro de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | CSRF (Retenção 4, 65%), IRRF Serviços, CSLL, PIS/Pasep, Cofins | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/153839) | [`reguladores/rfb/outros-atos/2026/ato-153839-190-2026.md`](reguladores/rfb/outros-atos/2026/ato-153839-190-2026.md) |
 
-## Tributação Financeira e IOF (4 documentos)
+## Tributação Financeira e IOF (10 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
 | **Lei nº 5.143, de 20 de outubro de 1966 (Cria o IOF)** | 1966 | Presidência da República / Congresso Nacional | IOF, IRRF Financeiro | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1966-10-20;5143) | [`federal/leis-ordinarias/iof/lei-5143-1966.md`](federal/leis-ordinarias/iof/lei-5143-1966.md) |
 | **Lei nº 8.894, de 21 de junho de 1994 (IOF sobre Títulos e Câmbio)** | 1994 | Presidência da República / Congresso Nacional | IOF, IRRF Financeiro | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1994-06-21;8894) | [`federal/leis-ordinarias/iof/lei-8894-1994.md`](federal/leis-ordinarias/iof/lei-8894-1994.md) |
+| **Lei nº 11.033, de 21 de dezembro de 2004** | 2004 | Presidência da República / Congresso Nacional | IRRF, IRPF, PIS/Pasep, Cofins | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2004-12-21;11033) | [`federal/leis-ordinarias/fundos/lei-11033-2004.md`](federal/leis-ordinarias/fundos/lei-11033-2004.md) |
 | **Decreto nº 6.306, de 14 de dezembro de 2007 (Regulamento do IOF - RIOF)** | 2007 | Presidência da República / Congresso Nacional | IOF, IRRF Financeiro | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2007-12-14;6306) | [`federal/regulamentos/iof/decreto-6306-2007.md`](federal/regulamentos/iof/decreto-6306-2007.md) |
+| **Instrução Normativa RFB nº 1.585, de 31 de agosto de 2015** | 2015 | Secretaria Especial da Receita Federal do Brasil | IRRF, IRPF, IRPJ, IOF-Títulos | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/67812) | [`reguladores/rfb/instrucoes-normativas/financeiro/ato-in-1585-2015.md`](reguladores/rfb/instrucoes-normativas/financeiro/ato-in-1585-2015.md) |
+| **Instrução Normativa RFB nº 1.888, de 3 de maio de 2019** | 2019 | Secretaria Especial da Receita Federal do Brasil | IRPF, IRPJ, Ganho de Capital Criptoativos | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/100412) | [`reguladores/rfb/instrucoes-normativas/financeiro/ato-in-1888-2019.md`](reguladores/rfb/instrucoes-normativas/financeiro/ato-in-1888-2019.md) |
 | **Instrução Normativa RFB nº 1888, de 3 de maio de 2019** | 2019 | Secretaria Especial da Receita Federal do Brasil | IOF, IRRF Financeiro, Criptoativos | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/100592) | [`reguladores/rfb/instrucoes-normativas/2019/ato-100592-1888-2019.md`](reguladores/rfb/instrucoes-normativas/2019/ato-100592-1888-2019.md) |
+| **Portaria MF nº 204, de 16 de março de 2022** | 2022 | Ministério da Fazenda | IOF-Câmbio | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:ministerio.fazenda:portaria:2022-03-16;204) | [`federal/portarias/mf/portaria-mf-204-2022.md`](federal/portarias/mf/portaria-mf-204-2022.md) |
+| **Lei nº 14.754, de 12 de dezembro de 2023** | 2023 | Presidência da República / Congresso Nacional | IRPF, IRRF, Come-cotas, Offshores e Fundos Fechados | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2023-12-12;14754) | [`federal/leis-ordinarias/fundos/lei-14754-2023.md`](federal/leis-ordinarias/fundos/lei-14754-2023.md) |
+| **Instrução Normativa RFB nº 2.141, de 19 de maio de 2023** | 2023 | Secretaria Especial da Receita Federal do Brasil | IRPF, IRPJ, IRRF, Tributação Internacional | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/132512) | [`reguladores/rfb/instrucoes-normativas/financeiro/ato-in-2141-2023.md`](reguladores/rfb/instrucoes-normativas/financeiro/ato-in-2141-2023.md) |
 
 ## Tributário e Contábil Geral (20 documentos)
 

@@ -267,3 +267,7 @@ Expansão do Pilar 5 - Patrimônio: Lote 1 (Federal, SP e RJ) incorporado.
 ## 26/10/2026 06:42:16
 
 Expansão do Pilar 5 - Patrimônio: Lote 2 (MG e Municipais SP/RJ/BH) incorporado.
+
+## 26/10/2026 06:43:47
+
+Expansão do Pilar 7 - Tributação Financeira e IOF: 6 normas fundamentais incorporadas.
