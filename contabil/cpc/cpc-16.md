@@ -4,14 +4,14 @@ esfera: "Federal / Profissional"
 orgao: "Comitê de Pronunciamentos Contábeis (CPC) / CFC"
 tipo: "Pronunciamento Técnico"
 numero: "16"
-data: "2009-05-29"
+data: "2009-01-01"
 ano: "2009"
 tema_tributario: "Produtos e Mercadorias"
-tributos_afetados: ["ICMS", "IPI", "PIS/Pasep", "Cofins"]
+tributos_afetados: ["ICMS", "PIS/Pasep", "Cofins"]
 situacao: "Em vigor"
 revogada: false
 fonte: "http://www.cpc.org.br/Arquivos/Documentos/243_CPC_16_R1_rev%2013_ComAVISO.pdf"
-ementa: "Estabelece o tratamento contábil para estoques, determinando os critérios de valoração, custo de aquisição e dedução de tributos recuperáveis (ICMS, IPI, PIS/COFINS)."
+ementa: "Estabelece o tratamento contábil para estoques, determinando o valor de custo de aquisição deduzido de tributos recuperáveis (ICMS/PIS/COFINS)."
 ---
 
 # Pronunciamento Técnico CPC 16 (R1) - Estoques

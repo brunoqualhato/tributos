@@ -4,14 +4,14 @@ esfera: "Federal / Profissional"
 orgao: "Comitê de Pronunciamentos Contábeis (CPC) / CFC"
 tipo: "Pronunciamento Técnico"
 numero: "03"
-data: "2010-09-03"
+data: "2010-01-01"
 ano: "2010"
-tema_tributario: "Tributário e Contábil Geral"
+tema_tributario: "Contabilidade"
 tributos_afetados: ["Contabilidade Societária e Fiscal"]
 situacao: "Em vigor"
 revogada: false
 fonte: "http://www.cpc.org.br/Arquivos/Documentos/183_CPC_03_R2_rev%2024.pdf"
-ementa: "Requer o fornecimento de informações sobre as alterações históricas de caixa e equivalentes de caixa da entidade por meio de Demonstração dos Fluxos de Caixa (DFC)."
+ementa: "Requer o fornecimento de informações sobre as alterações históricas de caixa e equivalentes de caixa da entidade por meio de DFC."
 ---
 
 # Pronunciamento Técnico CPC 03 (R2) - Demonstração dos Fluxos de Caixa (DFC)

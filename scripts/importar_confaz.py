@@ -22,7 +22,7 @@ CONFAZ_ATOS = [
         "tema": "Produtos e Mercadorias",
         "tributos": ["ICMS", "ICMS-ST"],
         "ementa": "Dispõe sobre os regimes de substituição tributária e de antecipação de recolhimento do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviço de Transporte Interestadual e de Comunicação (ICMS) com encerramento de tributação, relativos ao imposto devido pelas operações subsequentes.",
-        "pasta": "reguladores/confaz/convenios",
+        "pasta": "estadual/confaz/convenios-icms",
         "slug": "convenio-icms-142-2018"
     },
     {
@@ -35,7 +35,7 @@ CONFAZ_ATOS = [
         "tema": "Produtos e Mercadorias",
         "tributos": ["ICMS"],
         "ementa": "Concede redução da base de cálculo do ICMS nas operações com equipamentos industriais e implementos agrícolas.",
-        "pasta": "reguladores/confaz/convenios",
+        "pasta": "estadual/confaz/convenios-icms",
         "slug": "convenio-icms-52-1991"
     },
     {
@@ -48,7 +48,7 @@ CONFAZ_ATOS = [
         "tema": "Produtos e Mercadorias",
         "tributos": ["ICMS", "IPI"],
         "ementa": "Institui a Nota Fiscal Eletrônica e o Documento Auxiliar da Nota Fiscal Eletrônica (DANFE).",
-        "pasta": "reguladores/confaz/ajustes-sinief",
+        "pasta": "estadual/confaz/ajustes-sinief",
         "slug": "ajuste-sinief-07-2005"
     },
     {
@@ -61,7 +61,7 @@ CONFAZ_ATOS = [
         "tema": "Produtos e Mercadorias",
         "tributos": ["ICMS"],
         "ementa": "Institui o Manifesto Eletrônico de Documentos Fiscais - MDF-e.",
-        "pasta": "reguladores/confaz/ajustes-sinief",
+        "pasta": "estadual/confaz/ajustes-sinief",
         "slug": "ajuste-sinief-21-2010"
     }
 ]

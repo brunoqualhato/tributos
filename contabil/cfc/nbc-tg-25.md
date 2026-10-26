@@ -6,7 +6,7 @@ tipo: "Norma Brasileira de Contabilidade"
 numero: "25"
 data: "2017-12-22"
 ano: "2017"
-tema_tributario: "Tributário e Contábil Geral"
+tema_tributario: "Contabilidade"
 tributos_afetados: ["IRPJ", "CSLL", "Provisões Fiscais"]
 situacao: "Em vigor"
 revogada: false

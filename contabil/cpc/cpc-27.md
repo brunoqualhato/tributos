@@ -4,10 +4,10 @@ esfera: "Federal / Profissional"
 orgao: "Comitê de Pronunciamentos Contábeis (CPC) / CFC"
 tipo: "Pronunciamento Técnico"
 numero: "27"
-data: "2009-07-28"
+data: "2009-01-01"
 ano: "2009"
-tema_tributario: "Tributário e Contábil Geral"
-tributos_afetados: ["IRPJ", "CSLL", "Depreciação Acelerada"]
+tema_tributario: "Contabilidade"
+tributos_afetados: ["IRPJ", "CSLL", "PIS/Pasep", "Cofins"]
 situacao: "Em vigor"
 revogada: false
 fonte: "http://www.cpc.org.br/Arquivos/Documentos/316_CPC_27_rev%2022.pdf"

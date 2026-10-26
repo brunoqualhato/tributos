@@ -4,14 +4,14 @@ esfera: "Federal / Profissional"
 orgao: "Comitê de Pronunciamentos Contábeis (CPC) / CFC"
 tipo: "Pronunciamento Técnico"
 numero: "00"
-data: "2019-11-21"
+data: "2019-01-01"
 ano: "2019"
-tema_tributario: "Tributário e Contábil Geral"
+tema_tributario: "Contabilidade"
 tributos_afetados: ["Contabilidade Societária e Fiscal"]
 situacao: "Em vigor"
 revogada: false
 fonte: "http://www.cpc.org.br/Arquivos/Documentos/573_CPC00(R2).pdf"
-ementa: "Define a Estrutura Conceitual para Relatório Financeiro (Conceptual Framework), estabelecendo os conceitos fundamentais para a elaboração e apresentação das demonstrações contábeis."
+ementa: "Define a Estrutura Conceitual para Elaboração e Divulgação de Relatório Contábil-Financeiro (convergência integral às normas IFRS do IASB)."
 ---
 
 # Pronunciamento Técnico CPC 00 (R2) - Estrutura Conceitual para Relatório Financeiro

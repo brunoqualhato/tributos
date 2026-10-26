@@ -6,7 +6,7 @@ tipo: "Norma Brasileira de Contabilidade"
 numero: "EC"
 data: "2019-11-21"
 ano: "2019"
-tema_tributario: "Tributário e Contábil Geral"
+tema_tributario: "Contabilidade"
 tributos_afetados: ["Contabilidade Societária e Fiscal"]
 situacao: "Em vigor"
 revogada: false

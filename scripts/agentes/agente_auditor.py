@@ -146,7 +146,7 @@ class AgenteAuditor:
         for md_path in RAIZ.glob("**/*.md"):
             if md_path.name in ("README.md", "PROGRESSO.md", "PLANO.md", "WORKLOG.md", "COBERTURA.md", "AGENT.md", "ACERVO.md"):
                 continue
-            if any(part.startswith(".") or part.startswith("_") for part in md_path.parts):
+            if any(part.startswith(".") or part.startswith("_") or part == "wiki" for part in md_path.parts):
                 continue
 
             total += 1

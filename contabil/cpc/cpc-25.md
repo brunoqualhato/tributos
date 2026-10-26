@@ -4,14 +4,14 @@ esfera: "Federal / Profissional"
 orgao: "Comitê de Pronunciamentos Contábeis (CPC) / CFC"
 tipo: "Pronunciamento Técnico"
 numero: "25"
-data: "2009-10-30"
+data: "2009-01-01"
 ano: "2009"
-tema_tributario: "Tributário e Contábil Geral"
-tributos_afetados: ["IRPJ", "CSLL", "Provisões Fiscais"]
+tema_tributario: "Contabilidade"
+tributos_afetados: ["IRPJ", "CSLL", "Contabilidade Societária e Fiscal"]
 situacao: "Em vigor"
 revogada: false
 fonte: "http://www.cpc.org.br/Arquivos/Documentos/304_CPC_25_rev%2019.pdf"
-ementa: "Define critérios de reconhecimento e bases de mensuração para provisões contábeis, passivos contingentes e contingências fiscais e judiciais."
+ementa: "Define critérios para reconhecimento e bases apropriadas de mensuração para provisões fiscais/tributárias e contingências judiciais."
 ---
 
 # Pronunciamento Técnico CPC 25 - Provisões, Passivos Contingentes e Ativos Contingentes

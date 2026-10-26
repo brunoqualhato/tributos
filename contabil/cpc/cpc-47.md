@@ -4,14 +4,14 @@ esfera: "Federal / Profissional"
 orgao: "Comitê de Pronunciamentos Contábeis (CPC) / CFC"
 tipo: "Pronunciamento Técnico"
 numero: "47"
-data: "2016-11-04"
+data: "2016-01-01"
 ano: "2016"
 tema_tributario: "Serviços e Retenções"
-tributos_afetados: ["PIS/Pasep", "Cofins", "ISS"]
+tributos_afetados: ["ISSQN", "PIS/Pasep", "Cofins", "IRPJ", "CSLL"]
 situacao: "Em vigor"
 revogada: false
 fonte: "http://www.cpc.org.br/Arquivos/Documentos/527_CPC_47_Rev%2021.pdf"
-ementa: "Estabelece o modelo de cinco etapas para reconhecimento de receita proveniente de contratos com clientes e sua correlação com a apuração de PIS, COFINS e ISS."
+ementa: "Estabelece os princípios que a entidade deve aplicar para relatar informações úteis sobre a natureza, valor, época e incerteza de receitas e fluxos de caixa de contrato com cliente."
 ---
 
 # Pronunciamento Técnico CPC 47 - Receita de Contrato com Cliente (IFRS 15)

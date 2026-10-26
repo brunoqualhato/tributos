@@ -6,7 +6,7 @@ tipo: "Norma Brasileira de Contabilidade"
 numero: "03"
 data: "2016-12-09"
 ano: "2016"
-tema_tributario: "Tributário e Contábil Geral"
+tema_tributario: "Contabilidade"
 tributos_afetados: ["Contabilidade Societária e Fiscal"]
 situacao: "Em vigor"
 revogada: false
