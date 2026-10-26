@@ -1,10 +1,11 @@
----
+# 👥 Pilar 2: Folha de Pagamento e Encargos Sociais
+
+## 1. Visão Geral e Estrutura dos Encargos Trabalhistas
+A tributação sobre a folha de pagamento no Brasil incide sobre a remuneração paga a segurados empregados, avulsos e contribuintes individuais, dividindo-se entre encargos patronais e retenções de segurados.
 
 ## 2. Mapa dos Encargos Patronais sobre a Folha
 
-```
 Custo Patronal Total sobre a Folha = INSS Patronal (20%) + RAT/FAP (0,5% a 6%) + Terceiros/Sistema S (até 5,8%)
-```
 
 1. **INSS Patronal Básico (20%):** Art. 22, I da Lei 8.212/1991. Incide sobre a totalidade da folha de salários e demais rendimentos do trabalho.
 2. **RAT / FAP (Risco Ambiental do Trabalho e Fator Acidentário):**
@@ -15,13 +16,11 @@ Custo Patronal Total sobre a Folha = INSS Patronal (20%) + RAT/FAP (0,5% a 6%) +
    - SESI/SENAI, SESC/SENAC, SEBRAE, INCRA e Salário-Educação (variando de 3,3% a 5,8% conforme código FPAS).
    - Base legal: Decreto-Lei nº 2.318/1986 (revogação do teto de 20 salários mínimos validada no Tema 1079 do STJ).
 
----
-
 ## 3. Desoneração da Folha (CPRB) e Reoneração Gradual (Lei 14.973/2024)
 
-A Contribuição Previdenciária sobre a Receita Bruta (CPRB), criada pela [Lei nº 12.546/2011](file:///Users/brunoqualhato/Documents/meus/tributos/federal/leis-ordinarias/cprb/lei-12546-2011.md), substitui os 20% patronais por 1% a 4,5% sobre a receita bruta para 17 setores econômicos.
+A Contribuição Previdenciária sobre a Receita Bruta (CPRB), criada pela [Lei nº 12.546/2011](../federal/leis-ordinarias/cprb/lei-12546-2011.md), substitui os 20% patronais por 1% a 4,5% sobre a receita bruta para 17 setores econômicos.
 
-A [Lei nº 14.973/2024](file:///Users/brunoqualhato/Documents/meus/tributos/federal/leis-ordinarias/cprb/lei-14973-2024.md) instituiu o cronograma de transição para reoneração da folha:
+A [Lei nº 14.973/2024](../federal/leis-ordinarias/cprb/lei-14973-2024.md) instituiu o cronograma de transição para reoneração da folha:
 
 | Ano | Alíquota sobre a Folha (INSS) | Alíquota sobre a Receita Bruta (CPRB) |
 | :---: | :---: | :---: |
@@ -31,10 +30,8 @@ A [Lei nº 14.973/2024](file:///Users/brunoqualhato/Documents/meus/tributos/fede
 | **2027** | 15% sobre a folha | 40% da alíquota da CPRB |
 | **2028 em diante** | 20% (Reoneração plena) | CPRB extinta |
 
----
-
 ## 4. Principais Normas no Acervo
-- [IN RFB nº 2.110/2022](file:///Users/brunoqualhato/Documents/meus/tributos/reguladores/rfb/instrucoes-normativas/folha/ato-126687-2110-2022.md): Consolidação de 2.156 artigos sobre tributação previdenciária.
-- [Lei nº 8.212/1991](file:///Users/brunoqualhato/Documents/meus/tributos/federal/leis-ordinarias/previdencia-custeio/lei-8212-1991.md): Lei Orgânica da Seguridade Social (Custeio).
-- [Decreto nº 3.048/1999 (RPS)](file:///Users/brunoqualhato/Documents/meus/tributos/federal/regulamentos/rps/lei-3048-1999.md): Regulamento da Previdência Social.
-- [IN RFB nº 2.237/2024](file:///Users/brunoqualhato/Documents/meus/tributos/reguladores/rfb/instrucoes-normativas/folha/ato-141910-2237-2024.md): DCTFWeb e confissão de débitos previdenciários.
+- [IN RFB nº 2.110/2022](../reguladores/rfb/instrucoes-normativas/folha/ato-126687-2110-2022.md): Consolidação de 2.156 artigos sobre tributação previdenciária.
+- [Lei nº 8.212/1991](../federal/leis-ordinarias/previdencia-custeio/lei-8212-1991.md): Lei Orgânica da Seguridade Social (Custeio).
+- [Decreto nº 3.048/1999 (RPS)](../federal/regulamentos/rps/lei-3048-1999.md): Regulamento da Previdência Social.
+- [IN RFB nº 2.237/2024](../reguladores/rfb/instrucoes-normativas/folha/ato-141910-2237-2024.md): DCTFWeb e confissão de débitos previdenciários.
