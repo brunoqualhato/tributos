@@ -10,7 +10,7 @@ Este pilar compreende os tributos que incidem sobre a circulação de mercadoria
 - **Aduana e Importação:** Decreto-Lei nº 37/1966 e Regulamento Aduaneiro (Decreto nº 6.759/2009).
 
 ## 3. Substituição Tributária (ICMS-ST) e MVA
-O [Convênio ICMS 142/2018](../estadual/confaz/convenios-icms/2018/convenio-icms-142-2018.md) disciplina o regime nacional de substituição tributária para frente:
+O [Convênio ICMS 142/2018](../estaduais/confaz/convenios-icms/2018/convenio-icms-142-2018.md) disciplina o regime nacional de substituição tributária para frente:
 - **Responsável Tributário (Substituto):** Em regra, o fabricante ou importador retém antecipadamente o imposto devido por toda a cadeia de distribuição até o consumidor final.
 - **Fórmula da Base de Cálculo:**
   Base ICMS-ST = (Valor da Operação Própria + Frete + Seguro + Outras Despesas + IPI) * (1 + MVA)
@@ -19,7 +19,7 @@ O [Convênio ICMS 142/2018](../estadual/confaz/convenios-icms/2018/convenio-icms
 ## 4. DIFAL do ICMS (Lei Complementar nº 190/2022)
 Aplica-se nas operações e prestações interestaduais destinadas a consumidor final não contribuinte do ICMS:
 - O Diferencial de Alíquotas pertence integralmente ao Estado de destino da mercadoria.
-- Procedimentos formalizados pelo [Convênio ICMS 236/2021](../estadual/confaz/convenios-icms/2021/convenio-icms-236-2021.md).
+- Procedimentos formalizados pelo [Convênio ICMS 236/2021](../estaduais/confaz/convenios-icms/2021/convenio-icms-236-2021.md).
 
 ## 5. Regimes Monofásicos de PIS e COFINS
 A tributação monofásica concentra a cobrança de PIS e COFINS com alíquotas majoradas no primeiro elo da cadeia (produtor/importador), desonerando com alíquota zero os distribuidores e varejistas:
