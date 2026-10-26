@@ -1,0 +1,19 @@
+# Cache de download das fontes originais (PDFs, HTMLs brutos e dumps da API)
+_fonte/
+_indice/
+_falhas.jsonl.tmp
+*.tmp
+*.log
+_log*.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db

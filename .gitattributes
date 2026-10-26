@@ -1,0 +1,9 @@
+# Normalização de finais de linha
+* text=auto eol=lf
+
+# Markdown e metadados
+*.md text diff=markdown
+*.json text
+*.jsonl text
+*.py text diff=python
+*.sh text eol=lf

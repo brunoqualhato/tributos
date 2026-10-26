@@ -1,0 +1,90 @@
+"""Agente Especialista em APIs Oficiais de Dados Abertos.
+
+Responsável por consultar APIs públicas estruturadas:
+- API da Receita Federal (Sijut): INs, Portarias, Soluções de Consulta COSIT/DISIT
+- API do Senado / Câmara (normas.leg.br e dadosabertos.camara.leg.br)
+"""
+from pathlib import Path
+import json
+import hashlib
+import gzip
+import sys
+
+RAIZ = Path(__file__).resolve().parent.parent.parent
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
+from comum import Rede, salvar_atomico
+
+API_RFB_PESQUISA = "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+API_RFB_CORPO = "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/"
+
+# IDs de tipos normativos da Receita Federal no Sijut:
+# 100: Instrução Normativa, 7: Portaria, 9: Ato Declaratório Interpretativo, 49: Solução de Consulta COSIT
+TIPOS_RFB = {
+    "IN": 100,
+    "PORTARIA": 7,
+    "ADI": 9,
+    "COSIT": 49
+}
+
+class AgenteAPI:
+    def __init__(self, rps: float = 1.5):
+        self.rede = Rede(rps=rps)
+        self.cache_dir = RAIZ / "_fonte" / "api"
+        self.cache_dir.mkdir(parents=True, exist_ok=True)
+
+    def consultar_atos_rfb(self, termo: str = "", tipo_sigla: str = None, ano: int = None, pagina: int = 1, tamanho: int = 10) -> dict:
+        """Consulta o Sijut/RFB via API JSON oficial."""
+        payload = {
+            "tipoPesquisa": "formulario",
+            "termo": termo,
+            "tipoData": "dataPublicacao",
+            "apenasAtosVigentes": False,
+            "apenasAtosInternos": False,
+            "publicado": True,
+            "internet": True,
+            "ordenacaoColuna": "publicacao",
+            "ordenacaoDirecao": "desc",
+            "paginacaoPaginaAtual": pagina,
+            "paginacaoQuantidadePorPagina": tamanho
+        }
+        if tipo_sigla and tipo_sigla.upper() in TIPOS_RFB:
+            payload["tiposAtosSelecionados"] = str(TIPOS_RFB[tipo_sigla.upper()])
+        if ano:
+            payload["dataInicio"] = f"01/01/{ano}"
+            payload["dataFim"] = f"31/12/{ano}"
+            
+        cache_key = hashlib.sha256((API_RFB_PESQUISA + json.dumps(payload, sort_keys=True)).encode()).hexdigest()
+        cache_file = self.cache_dir / "rfb" / f"pesquisa_{tipo_sigla or 'geral'}_{ano or 'todos'}_p{pagina}_{cache_key[:8]}.json.gz"
+        
+        if cache_file.exists():
+            return json.loads(gzip.decompress(cache_file.read_bytes()).decode("utf-8"))
+            
+        print(f"[Agente API] Consultando Sijut/RFB (termo='{termo}', tipo={tipo_sigla}, ano={ano}, pág={pagina})...")
+        status, dados, _ = self.rede.post_json(API_RFB_PESQUISA, payload)
+        if status != 200:
+            raise RuntimeError(f"Erro na API RFB: HTTP {status}")
+            
+        salvar_atomico(cache_file, gzip.compress(dados))
+        return json.loads(dados.decode("utf-8"))
+
+    def baixar_corpo_ato_rfb(self, id_ato: int) -> dict:
+        """Baixa o conteúdo integral da visão original de um ato da RFB."""
+        url = f"{API_RFB_CORPO}{id_ato}/visao/original"
+        cache_file = self.cache_dir / "rfb" / "atos" / f"ato_{id_ato}.json.gz"
+        
+        if cache_file.exists():
+            return json.loads(gzip.decompress(cache_file.read_bytes()).decode("utf-8"))
+            
+        status, dados, _ = self.rede.get(url)
+        if status != 200:
+            raise RuntimeError(f"Erro ao obter ato {id_ato}: HTTP {status}")
+            
+        salvar_atomico(cache_file, gzip.compress(dados))
+        return json.loads(dados.decode("utf-8"))
+
+if __name__ == "__main__":
+    agente = AgenteAPI()
+    resultado = agente.consultar_atos_rfb(tipo_sigla="IN", ano=2024, pagina=1, tamanho=3)
+    total = resultado.get("total", 0) if isinstance(resultado, dict) else len(resultado)
+    print(f"[Agente API] Sucesso! Encontrados registros na API da Receita Federal. Total informado: {total}")
