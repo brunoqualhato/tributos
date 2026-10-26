@@ -27,6 +27,6 @@
 ---
 
 ## 🏛️ Diretrizes de Qualidade dos Documentos
-1. **CommonMark Puro:** Zero tags HTML residuais (`<table>`, ` `, ` `).
+1. **CommonMark Puro:** Zero tags HTML residuais (`\<table\>`, `\<div\>`, `\<span\>`).
 2. **Frontmatter YAML Canônico:** Todo documento possui metadados com título, órgão, número, ano, data, situação, tema tributário e tributos afetados.
 3. **Links Oficiais Diretos:** 100% dos links da Receita Federal apontam para o SPA visual direto (`https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/{idAto}`) e Leis Federais apontam para o LexML (`https://normas.leg.br/?urn={URN}`).
