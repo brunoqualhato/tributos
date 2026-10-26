@@ -1,8 +1,8 @@
 # Progresso do Acervo Tributário e Contábil
 
-Gerado em: 26/10/2026 13:53:26. Escopo definido em `scripts/plano.py`.
+Gerado em: 26/10/2026 14:08:25. Escopo definido em `scripts/plano.py`.
 
-**Total de Documentos no Acervo:** 874 / 859 (101.7%)
+**Total de Documentos no Acervo:** 915 / 859 (106.5%)
 
 | Pilar / Subtema | Documentos | Meta | Cobertura | Pasta | Fonte Principal |
 | :--- | ---: | ---: | :---: | :--- | :--- |
@@ -54,4 +54,4 @@ Gerado em: 26/10/2026 13:53:26. Escopo definido em `scripts/plano.py`.
 | 🟦 **Precedentes Vinculantes STF / STJ**: Súmulas Vinculantes, Temas de Repercussão Geral e Recursos Repetitivos | 6 | 10 | 60.0% | `jurisprudencia/precedentes-vinculantes` | STF / STJ |
 | 🟦 **Súmulas do CARF**: Súmulas e Enunciados Vinculantes do Conselho Administrativo de Recursos Fiscais | 6 | 10 | 60.0% | `reguladores/carf/sumulas` | carf.fazenda.gov.br |
 | ✅ **Instruções Normativas da RFB**: Instruções Normativas vigentes estruturantes da Receita Federal | 93 | 90 | 103.3% | `reguladores/rfb/instrucoes-normativas` | normas.receita.fazenda.gov.br |
-| ✅ **Atos Executivos e Soluções de Consulta**: Soluções de Consulta COSIT/DISIT, Portarias e Atos Declaratórios | 554 | 500 | 110.8% | `reguladores/rfb/outros-atos` | normas.receita.fazenda.gov.br |
+| ✅ **Atos Executivos e Soluções de Consulta**: Soluções de Consulta COSIT/DISIT, Portarias e Atos Declaratórios | 595 | 500 | 119.0% | `reguladores/rfb/outros-atos` | normas.receita.fazenda.gov.br |
