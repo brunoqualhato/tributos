@@ -1,0 +1,1195 @@
+---
+titulo: "Pronunciamento Técnico CPC 28 - Propriedade para Investimento"
+esfera: "Federal / Profissional"
+orgao: "Comitê de Pronunciamentos Contábeis (CPC) / CFC"
+tipo: "Pronunciamento Técnico"
+numero: "28"
+data: "2009-06-26"
+ano: "2009"
+tema_tributario: "Contabilidade"
+tributos_afetados: ["Contabilidade Societária e Fiscal"]
+situacao: "Em vigor"
+revogada: false
+fonte: "https://www.cpc.org.br/Arquivos/Documentos/320_CPC_28_rev%2014.pdf"
+ementa: "Estabelece o tratamento contábil aplicável a propriedade para investimento."
+---
+
+# Pronunciamento Técnico CPC 28 - Propriedade para Investimento
+
+CPC_28_rev 21
+COMITÊ DE PRONUNCIAMENTOS CONTÁBEIS
+PRONUNCIAMENTO TÉCNICO CPC 28
+PROPRIEDADE PARA INVESTIMENTO
+Correlação às Normas Internacionais de Contabilidade – IAS 40
+* Termos de uso
+Os pronunciamentos, interpretações e orientações do CPC, inclusive o CPC-PME,
+contém material que está sujeito a direitos autorais da IFRS® Foundation
+(Fundação IFRS). Todos esses direitos são reservados.
+Este material é reproduzido e distribuído pela Fundação de Apoio aos Comitês de
+Pronunciamentos Contábeis e de Sustentabilidade (FACPCS) somente para a
+República Federativa do Brasil com a autorização da Fundação IFRS. Os direitos
+de outras partes com relação à utilização deste material estão definidos nos
+Termos de Uso (link) e qualquer utilização não prevista nos Termos de Uso
+deverá ser previamente autorizada por escrito pela FACPCS e Fundação IFRS.
+Os pronunciamentos, interpretações e orientações do CPC, inclusive o CPC-PME,
+são emitidos pelo Comitê de Pronunciamentos Contábeis e de Sustentabilidade,
+organismo técnico apoiado pela FACPCS, para sua aplicação na República
+Federativa do Brasil e não foram preparados ou endossados pelo International
+Accounting Standards Board (IASB).
+Os pronunciamentos, interpretações e orientações do CPC, inclusive o CPC-PME,
+não devem ser distribuídos para fora da República Federativa do Brasil.
+* Notice
+CPC/CPC PME contain copyright material of the IFRS® Foundation
+(Foundation) in respect of which all rights are reserved.
+Reproduced and distributed by the Accounting and Sustainability
+Pronouncements Committee Support Foundation with the
+permission of the Foundation within the Federal Republic of Brazil
+only. No rights granted to third parties other than as permitted by
+the Terms of Use [link] without the prior written permission of
+Accounting and Sustainability Pronouncements Committee Support
+Foundation and the Foundation.
+CPC/CPC PME are issued by Accounting and Sustainability
+Pronouncements Committee Support Foundation in respect of their
+application in Federal Republic of Brail and have not been prepared
+or endorsed by the International Accounting Standards Board.
+CPC/CPC PME are not to be distributed outside of Federal
+Republic of Brazil.
+Objetivo
+Sumário Item
+OBJETIVO 1
+ALCANCE 2 – 4
+DEFINIÇÕES 5 – 15
+RECONHECIMENTO 16 – 19
+MENSURAÇÃO NO RECONHECIMENTO 20 – 29
+MENSURAÇÃO APÓS RECONHECIMENTO 30 – 56
+Política contábil 30 – 32C
+Método do valor justo 33 – 55
+Incapacidade de determinar confiavelmente o justo valor 53 – 55
+Método do custo 56
+TRANSFERÊNCIA 57 – 65
+ALIENAÇÃO 66 – 73
+DIVULGAÇÃO 74 – 79
+Método do valor justo e método do custo 74 – 79
+Método do valor justo 76 – 78
+Método do custo 79
+DISPOSIÇÕES TRANSITÓRIAS 80 – 84
+Método do valor justo 80 – 82
+Método do custo 83 – 84
+
+CPC_28_rev 21
+2
+1. O objetivo deste Pronunciamento é estabelecer o tratamento contábil de propriedades para
+investimento e respectivos requisitos de divulgação.
+Alcance
+2. Este Pronunciamento deve ser aplicado no reconhecimento, mensuração e divulgação de
+propriedades para investimento.
+3. Entre outras coisas, este pronunciamento aplica-se à mensuração nas demonstrações
+contábeis de arrendatário de propriedades para investimento mantidas em arrendamento
+contabilizado como arrendamento financeiro e à mensuração, nas demonstrações contábeis
+do arrendador, de propriedades para investimento disponibilizadas ao arrendatário em
+arrendamento operacional. Este pronunciamento não trata de assuntos cobertos pelo CPC
+06 – Operações de Arrendamento Mercantil, incluindo:
+(a) classificação de arrendamentos como arrendamento financeiro ou arrendamento
+operacional;
+(b) reconhecimento de lucros de arrendamentos resultantes de propriedades para
+investimento (ver também Pronunciamento Técnico CPC 30 – Receitas);
+(b) reconhecimento de lucros de arrendamentos resultantes de propriedades para
+investimento (ver também o CPC 47 – Receita de Contrato com Cliente); (Alterada pela
+Revisão CPC 12)
+(c) mensuração, nas demonstrações contábeis do arrendatário, de interesse em
+propriedade mantida sob contrato contabilizado como arrendamento operacional;
+(d) mensuração, nas demonstrações contábeis do arrendador, do seu investimento líquido
+em arrendamento financeiro;
+(e) contabilização de transações de venda e retro-arrendamento (leaseback); e
+(f) divulgação de arrendamento financeiro e de arrendamento operacional. (Eliminado pela
+Revisão CPC 13)
+4. Este pronunciamento não se aplica a:
+(a) ativos biológicos relacionados com a atividade agrícola (ver Pronunciamento Técnico
+CPC 29 – Ativo Biológico e Produto Agrícola); e
+(a) ativos biológicos relacionados com a atividade agrícola (ver CPC 29 – Ativo Biológico e
+Produto Agrícola e CPC 27 – Ativo Imobilizado); e (Alterada pela Revisão CPC 08)
+(b) direitos sobre reservas minerais tais como carvão mineral, petróleo, gás natural e
+recursos semelhantes não renováveis.
+Definições
+5. Os termos que se seguem são usados neste Pronunciamento com os significados
+especificados:
+Valor contábil é o montante pelo qual um ativo é reconhecido no balanço patrimonial.
+Custo é o montante de caixa ou equivalentes de caixa pago ou o valor justo de outra
+contraprestação dada para adquirir um ativo no momento da sua aquisição ou construção
+ou, quando aplicável, o montante atribuído àquele ativo quando inicialmente reconhecido em
+consonância com requerimentos específicos de outros Pronunciamentos, por exemplo,
+Pronunciamento Técnico CPC 10 – Pagamento Baseado em Ações.
+Valor justo é o valor pelo qual um ativo pode ser negociado entre partes interessadas,
+conhecedoras do negócio e independentes entre si, com ausência de fatores que
+pressionem para a liquidação da transação ou que caracterizem uma transação
+compulsória.
+
+CPC_28_rev 21
+3
+Valor justo é o preço que seria recebido pela venda de um ativo ou que seria pago pela
+transferência de um passivo em uma transação não forçada entre participantes do mercado
+na data de mensuração. (Ver Pronunciamento Técnico CPC 46 – Mensuração do Valor
+Justo). (Alterada pela Revisão CPC 03)
+Propriedade para investimento é a propriedade (terreno ou edifício – ou parte de edifício –
+ou ambos) mantida (pelo proprietário ou pelo arrendatário em arrendamento financeiro) para
+auferir aluguel ou para valorização do capital ou para ambas, e não para:
+Propriedade para investimento é a propriedade (terreno ou edifício – ou parte de edifício –
+ou ambos) mantida (pelo proprietário ou pelo arrendatário como ativo de direito de uso) para
+auferir aluguel ou para valorização do capital ou para ambas e, não, para: (Alterado pela
+Revisão CPC 13)
+(a) uso na produção ou fornecimento de bens ou serviços ou para finalidades
+administrativas; ou
+(b) venda no curso ordinário do negócio.
+Propriedade ocupada pelo proprietário é a propriedade mantida (pelo proprietário ou pelo
+arrendatário sob arrendamento financeiro) para uso na produção ou fornecimento de bens
+ou serviços ou para finalidades administrativas.
+Propriedade ocupada pelo proprietário é a propriedade mantida (pelo proprietário ou pelo
+arrendatário como ativo de direito de uso) (Alterado pela Revisão CPC 13)
+Classificação de propriedade como propriedade para investimento ou propriedade ocupada
+pelo proprietário (Incluído pela Revisão CPC 06)
+6. Uma propriedade que seja mantida por arrendatário sob arrendamento operacional pode ser
+classificada e contabilizada como propriedade para investimento se, e apenas se, a
+propriedade iria de outra forma satisfazer à definição de propriedade para investimento e o
+arrendatário usar o método do valor justo definido nos itens 33 a 55 para o ativo
+reconhecido. Essa alternativa de classificação deve ser analisada propriedade a
+propriedade. Entretanto, uma vez escolhida essa alternativa de classificação para um
+interesse em propriedade desse gênero mantido sob arrendamento operacional, todas as
+propriedades classificadas como propriedade para investimento devem ser contabilizadas
+usando o método do valor justo. Quando essa alternativa de classificação for escolhida,
+qualquer interesse assim classificado é incluído nas divulgações exigidas nos itens 74 a 78.
+(Eliminado pela Revisão CPC 13)
+7. As propriedades para investimento são mantidas para obter rendas ou para valorização do
+capital ou para ambas, e por isso classificadas no subgrupo Investimentos, dentro do Ativo
+Não Circulante. Por isso, uma propriedade para investimento gera fluxos de caixa altamente
+independentes dos outros ativos mantidos pela entidade. Isso distingue as propriedades
+para investimento de propriedades ocupadas pelos proprietários. A produção ou
+fornecimento de bens ou serviços (ou o uso de propriedades para finalidades
+administrativas) gera fluxos de caixa que são atribuíveis não apenas às propriedades, mas
+também a outros ativos usados no processo de produção ou de fornecimento. O
+Pronunciamento Técnico CPC 27 – Ativo Imobilizado aplica-se a propriedades ocupadas
+pelos proprietários.
+7. As propriedades para investimento são mantidas para obter rendas ou para valorização do
+capital ou para ambas, e por isso classificadas no subgrupo Investimentos, dentro do Ativo
+Não Circulante. Por isso, a propriedade para investimento gera fluxos de caixa altamente
+
+CPC_28_rev 21
+4
+independentes dos outros ativos mantidos pela entidade. Isso distingue as propriedades
+para investimento de propriedades ocupadas pelos proprietários. A produção ou o
+fornecimento de bens ou serviços (ou o uso de propriedades para finalidades
+administrativas) gera fluxos de caixa que são atribuíveis não apenas às propriedades, mas
+também a outros ativos usados no processo de produção ou de fornecimento. O CPC 27 –
+Ativo Imobilizado aplica-se à propriedade própria ocupada pelo proprietário e o CPC 06
+aplica-se à propriedade ocupada pelo proprietário mantida por arrendamento como ativo de
+direito de uso. (Alterado pela Revisão CPC 13)
+8. O que se segue são exemplos de propriedades para investimento:
+(a) terrenos mantidos para valorização de capital a longo prazo e não para venda a curto
+prazo no curso ordinário dos negócios;
+(b) terrenos mantidos para futuro uso correntemente indeterminado (se a entidade não tiver
+determinado que usará o terreno como propriedade ocupada pelo proprietário ou para
+venda a curto prazo no curso ordinário do negócio, o terreno é considerado como
+mantido para valorização do capital);
+(c) edifício que seja propriedade da entidade (ou mantido pela entidade em arrendamento
+financeiro) e que seja arrendado sob um ou mais arrendamentos operacionais;
+(c) edifício que seja propriedade da entidade (ou ativo de direito de uso relativo a edifício
+mantido pela entidade) e que seja arrendado sob um ou mais arrendamentos
+operacionais; (Alterada pela Revisão CPC 13)
+(d) edifício que esteja desocupado, mas mantido para ser arrendado sob um ou mais
+arrendamentos operacionais;
+(e) propriedade que esteja sendo construída ou desenvolvida para futura utilização como
+propriedade para investimento.
+9. Seguem-se exemplos de itens que não são propriedades para investimento, estando, por
+isso, fora do alcance deste pronunciamento:
+(a) propriedade destinada à venda no decurso ordinário das atividades ou em vias de
+construção ou desenvolvimento para tal venda (ver CPC 16 – Estoques), como, por
+exemplo, propriedade adquirida exclusivamente com vista à alienação subsequente no
+futuro próximo ou para desenvolvimento e revenda;
+(b) propriedade em construção ou desenvolvimento por conta de terceiros (ver CPC 17 –
+Contratos de Construção); (Eliminada pela Revisão CPC 12)
+(c) propriedade ocupada pelo proprietário (ver CPC 27), incluindo (entre outras coisas)
+propriedade mantida para uso futuro como propriedade ocupada pelo proprietário,
+propriedade mantida para desenvolvimento futuro e uso subsequente como propriedade
+ocupada pelo proprietário, propriedade ocupada por empregados (paguem ou não
+aluguéis a taxas de mercado) e propriedade ocupada pelo proprietário no aguardo de
+alienação;
+(c) propriedade ocupada pelo proprietário (ver CPC 27 e CPC 06), incluindo (entre outras
+coisas) propriedade mantida para uso futuro como propriedade ocupada pelo
+proprietário, propriedade mantida para desenvolvimento futuro e uso subsequente como
+propriedade ocupada pelo proprietário, propriedade ocupada por empregados (paguem
+ou não aluguéis a taxas de mercado) e propriedade ocupada pelo proprietário ao
+aguardo de alienação; (Alterada pela Revisão CPC 13)
+(d) (eliminada);
+(e) propriedade que é arrendada a outra entidade sob arrendamento financeiro.
+10. Algumas propriedades compreendem uma parte que é mantida para obter rendimentos ou
+para valorização de capital e outra parte que é mantida para uso na produção ou
+fornecimento de bens ou serviços ou para finalidades administrativas. Se essas partes
+puderem ser vendidas separadamente (ou arrendadas separadamente sob arrendamento
+financeiro), a entidade contabiliza as partes separadamente. Se as partes não puderem ser
+
+CPC_28_rev 21
+5
+vendidas separadamente, a propriedade só é propriedade para investimento se uma parte
+insignificante for mantida para uso na produção ou fornecimento de bens ou serviços ou
+para finalidades administrativas.
+11. Em alguns casos, a entidade proporciona serviços de apoio aos ocupantes da propriedade
+que ela mantenha. A entidade trata tal propriedade como propriedade para investimento se
+os serviços forem insignificantes em relação ao acordo como um todo. Um exemplo é
+quando o proprietário de edifício de escritórios proporciona serviços de segurança e de
+manutenção aos arrendatários que ocupam o edifício.
+12. Em outros casos, os serviços prestados são significativos. Por exemplo, se a entidade
+possui e administra um hotel, os serviços proporcionados aos hóspedes são significativos
+para o acordo como um todo. Por isso, o hotel administrado pelo proprietário é propriedade
+ocupada pelo proprietário e não propriedade para investimento.
+13. Pode ser difícil determinar se os serviços de apoio são ou não tão significativos para que
+uma propriedade não se qualifique como propriedade para investimento. Por exemplo, o
+proprietário de hotel por vezes transfere algumas responsabilidades a terceiros sob contrato
+de gestão. Os termos de tais contratos variam amplamente. Em um extremo, a posição do
+proprietário pode, em essência, ser a de um investidor passivo. No outro extremo, o
+proprietário pode simplesmente ter terceirizado funções do dia a dia, embora ficando com
+significativa exposição aos riscos das variações dos fluxos de caixa gerados pelas
+operações do hotel.
+14. É necessário julgamento para determinar se a propriedade se qualifica como propriedade
+para investimento. A entidade desenvolve critérios para que possa exercer esse julgamento
+consistentemente de acordo com a definição de propriedade para investimento e com a
+relacionada orientação dos itens 7 a 13. O item 75(c) exige que a entidade divulgue esses
+critérios quando a classificação for difícil.
+14A. É necessário também julgamento para determinar se a aquisição da propriedade de
+investimento é a aquisição de ativo, grupo de ativos ou combinação de negócios ao alcance
+do CPC 15 – Combinação de Negócios. Deve ser feita referência ao CPC 15 para
+determinar se é uma combinação de negócios. Os itens 7 a 14 deste Pronunciamento
+discutem se a propriedade é propriedade ocupada pelo proprietário ou propriedade para
+investimento e não para determinar se a aquisição da propriedade é uma combinação de
+negócios, tal como definido no CPC 15. Determinar se uma transação específica atende à
+definição de combinação de negócios, tal como definido no CPC 15, e inclui uma
+propriedade para investimento, tal como definido neste Pronunciamento, requer a aplicação
+separada de ambos os pronunciamentos. (Incluído pela Revisão CPC 06)
+15. Em alguns casos, a entidade possui propriedade que está arrendada e ocupada por sua
+controladora ou por outra controlada. A propriedade não se qualifica como propriedade para
+investimento nas demonstrações contábeis consolidadas, porque a propriedade está
+ocupada pelo proprietário sob a perspectiva do grupo. Porém, da perspectiva da entidade
+que a possui, tal propriedade é propriedade para investimento se satisfizer a definição do
+item 5. Por isso, o arrendador trata a propriedade como propriedade para investimento nas
+suas demonstrações contábeis individuais.
+Reconhecimento
+16. A propriedade para investimento deve ser reconhecida como ativo quando, e apenas
+quando:
+(a) for provável que os benefícios econômicos futuros associados à propriedade para
+
+CPC_28_rev 21
+6
+investimento fluirão para a entidade; e
+(b) o custo da propriedade para investimento possa ser mensurado confiavelmente.
+17. A entidade avalia segundo esse princípio de reconhecimento todos os custos da
+propriedade para investimento no momento em que eles são incorridos. Esses custos
+incluem custos inicialmente incorridos para adquirir uma propriedade para investimento e
+custos incorridos subsequentemente para adicionar a, substituir partes de, ou prestar
+manutenção à propriedade.
+18. Segundo o princípio de reconhecimento do item 16, a entidade não reconhece no valor
+contábil da propriedade para investimento os custos de serviços diários da propriedade.
+Pelo contrário, esses custos são reconhecidos na demonstração do resultado quando
+incorridos. Os custos de serviços diários são basicamente os custos da mão-de-obra e dos
+bens consumíveis, e podem incluir o custo de pequenas peças. A finalidade dessas
+despesas é muitas vezes descrita como sendo para "reparo e manutenção” da propriedade.
+19. Partes de propriedades para investimento podem ter sido adquiridas por substituição. Por
+exemplo, as paredes interiores podem ser substituições das paredes originais. Segundo o
+princípio do reconhecimento, a entidade reconhece no valor contábil de propriedade para
+investimento o custo da parte de substituição da propriedade para investimento existente no
+momento em que o custo é incorrido se os critérios de reconhecimento forem cumpridos. O
+valor contábil das partes que são substituídas é baixado de acordo com as disposições de
+baixa deste Pronunciamento.
+19A. A propriedade para investimento mantida por arrendatário como ativo de direito de uso deve
+ser reconhecida de acordo com o CPC 06. (Incluído pela Revisão CPC 13)
+Mensuração no reconhecimento
+20. A propriedade para investimento deve ser inicialmente mensurada pelo seu custo. Os custos
+de transação devem ser incluídos na mensuração inicial.
+21. O custo de uma propriedade para investimento comprada compreende o seu preço de
+compra e qualquer dispêndio diretamente atribuível. Os dispêndios diretamente atribuíveis
+incluem, por exemplo, as remunerações profissionais de serviços legais, impostos de
+transferência de propriedade e outros custos de transação.
+22. (Eliminado).
+23. O custo de uma propriedade para investimento não é aumentado por:
+(a) custos de início de atividades (start-up) (a não ser que sejam necessários para trazer a
+propriedade à condição necessária para que seja capaz de funcionar da forma
+pretendida pela administração);
+(b) perdas operacionais incorridas antes de a propriedade para investimento ter atingido o
+nível de ocupação previsto; ou
+(c) quantidades anormais de material, mão-de-obra ou outros recursos consumidos
+incorridos na construção ou desenvolvimento da propriedade.
+24. Se o pagamento de uma propriedade para investimento for a prazo, o seu custo é o
+equivalente ao valor à vista. A diferença entre esta quantia e os pagamentos totais é
+reconhecida como despesa financeira durante o período do crédito.
+25. O custo inicial do interesse em propriedade mantido em arrendamento e classificado como
+propriedade para investimento deve ser o estabelecido para arrendamento financeiro no
+
+CPC_28_rev 21
+7
+item 20 do Pronunciamento Técnico CPC 06 – Operações de Arrendamento Mercantil, isto
+é, o ativo deve ser reconhecido pelo menor entre o valor justo da propriedade e o valor
+presente dos pagamentos mínimos do arrendamento. Montante equivalente deve ser
+reconhecido como passivo de acordo com o mesmo item. (Eliminado pela Revisão CPC 13)
+26. Qualquer prêmio pago por um arrendamento é tratado como parte dos pagamentos mínimos
+do arrendamento para essa finalidade, e é, portanto, incluído no custo do ativo, mas
+excluído do passivo. Se um interesse em propriedade mantido sob arrendamento for
+classificado como propriedade para investimento, o item contabilizado pelo valor justo é
+esse interesse e não a propriedade subjacente. Orientação para a determinação do valor
+justo de um interesse em propriedade é desenvolvida no método do valor justo nos itens 33
+a 52. Essa orientação também é relevante para a determinação do valor justo quando esse
+valor é usado como custo para finalidades do reconhecimento inicial.
+26. Qualquer prêmio pago por arrendamento deve ser tratado como parte dos pagamentos
+mínimos do arrendamento para essa finalidade, e, portanto, deve ser incluído no custo do
+ativo, mas excluído do passivo. Se um interesse em propriedade mantido sob arrendamento
+for classificado como propriedade para investimento, o item contabilizado pelo valor justo é
+esse interesse e não a propriedade subjacente. Orientação sobre mensuração do valor justo
+de interesse em propriedade é desenvolvida no método do valor justo nos itens 33 a 35, 40,
+41, 48, 50 e 52 e no Pronunciamento Técnico CPC 46. Essa orientação também é relevante
+para a determinação do valor justo quando esse valor é usado como custo para finalidades
+do reconhecimento inicial. (Alterado pela Revisão CPC 03) (Eliminado pela Revisão CPC 13)
+27. Uma ou mais propriedades para investimento podem ser adquiridas em troca de um ativo ou
+ativos não monetários, ou em uma combinação de ativos monetários e não monetários. A
+discussão seguinte refere-se à troca de ativo não monetário por outro, mas também se
+aplica a todas as trocas descritas na frase anterior. O custo de tal propriedade para
+investimento é mensurado pelo valor justo a menos que (a) a transação de troca careça de
+substância comercial ou (b) nem o valor justo do ativo recebido nem o valor justo do ativo
+cedido sejam confiavelmente mensuráveis. O ativo adquirido é mensurado dessa forma
+mesmo que a entidade não possa imediatamente baixar o ativo cedido. Se o ativo adquirido
+não for mensurado pelo valor justo, o seu custo é mensurado pelo valor contábil do ativo
+cedido.
+28. A entidade deve determinar se a operação de troca é, na substância, de natureza comercial
+considerando a extensão em que espera que os seus fluxos de caixa futuros sejam
+alterados como resultado da transação. A operação de troca tem natureza comercial se:
+(a) a configuração (risco, oportunidade e valor) dos fluxos de caixa do ativo recebido diferir
+da configuração dos fluxos de caixa do ativo cedido; ou
+(b) o valor específico para a entidade relativo à parte das operações da entidade afetadas
+pela transação se altera como resultado da troca; e
+(c) a diferença em (a) ou (b) é significativa em relação ao valor justo dos ativos trocados.
+Para a finalidade de determinar se a transação de troca tem natureza comercial, o valor
+específico para a entidade relativo à parte das operações da entidade afetada pela
+transação deve refletir os fluxos de caixa após os impostos. O resultado dessas análises
+pode ser claro sem que a entidade tenha de efetuar cálculos detalhados.
+29. O valor justo de um ativo para o qual não existam transações de mercado comparáveis é
+confiavelmente mensurável se (a) a variabilidade na faixa de estimativas razoáveis do valor
+justo não for significativa para esse ativo ou (b) as probabilidades de várias estimativas
+dentro dessa faixa puderem ser razoavelmente avaliadas e utilizadas na mensuração do
+valor justo. Caso a entidade seja capaz de mensurar com confiabilidade o valor justo tanto
+do ativo recebido como do ativo cedido, então o valor justo do ativo cedido é usado para
+
+CPC_28_rev 21
+8
+mensurar o custo do ativo recebido, a não ser que o valor justo do ativo recebido seja mais
+claramente evidente.
+29. O valor justo de ativo é confiavelmente mensurável se (a) a variabilidade na faixa de
+mensurações razoáveis do valor justo não for significativa para esse ativo ou (b) as
+probabilidades de várias estimativas dentro dessa faixa puderem ser razoavelmente
+avaliadas e utilizadas na mensuração do valor justo. Caso a entidade seja capaz de
+mensurar com confiabilidade o valor justo tanto do ativo recebido como do ativo cedido,
+então o valor justo do ativo cedido deve ser usado para mensurar o custo do ativo recebido,
+a não ser que o valor justo do ativo recebido seja mais claramente evidente. (Alterado pela
+Revisão CPC 03)
+29A. A propriedade para investimento mantida por arrendatário como ativo de direito de uso deve
+ser mensurada inicialmente ao custo de acordo com o CPC 06. (Incluído pela Revisão CPC 13)
+Mensuração após reconhecimento
+Política contábil
+30. Com as exceções indicadas nos itens 32A a 34, a entidade deve escolher como sua política
+contábil ou o método do valor justo nos itens 33 a 55 ou o método do custo no item 56 e
+deve aplicar essa política a todas as suas propriedades para investimento.
+30. Com as exceções indicadas no item 32A, a entidade deve escolher como sua política
+contábil o método do valor justo, descrito nos itens 33 a 55, ou o método do custo, descrito
+no item 56, e deve aplicar essa política a todas as suas propriedades para investimento.
+(Alterado pela Revisão CPC 13)
+31. O Pronunciamento Técnico CPC 23 – Políticas Contábeis, Mudança de Estimativa e
+Retificação de Erro afirma que uma alteração voluntária na política contábil deve ser feita
+apenas se a alteração resultar numa apresentação mais apropriada das operações, de
+outros acontecimentos ou de condições nas demonstrações contábeis da entidade. É
+altamente improvável que uma alteração do método do valor justo para o método do custo
+resulte numa apresentação mais apropriada.
+32. Este Pronunciamento exige que todas as entidades determinem o valor justo de
+propriedades para investimento para a finalidade de mensuração (se a entidade usar o
+método do valor justo) ou de divulgação (se usar o método do custo). Incentiva-se a
+entidade, mas não se exige dela, a determinar o valor justo das propriedades para
+investimento tendo por base a avaliação de avaliador independente que tenha qualificação
+profissional relevante e reconhecida e que tenha experiência recente no local e na categoria
+da propriedade para investimento que esteja sendo avaliada.
+32. Este Pronunciamento Técnico exige que todas as entidades mensurem o valor justo de
+propriedades para investimento para a finalidade de mensuração (se a entidade usar o
+método do valor justo) ou de divulgação (se usar o método do custo). Incentiva-se a
+entidade, mas não se exige dela, a mensurar o valor justo das propriedades para
+investimento tendo por base a avaliação de avaliador independente que tenha qualificação
+profissional relevante e reconhecida e que tenha experiência recente no local e na categoria
+da propriedade para investimento que esteja sendo avaliada. (Alterado pela Revisão CPC 03)
+32A. A entidade pode:
+(a) escolher o método do valor justo ou o método do custo para todas as propriedades para
+investimento que suportem passivos que pagam retorno diretamente associado ao valor
+
+CPC_28_rev 21
+9
+justo de, ou aos retornos de ativos especificados incluindo essa propriedade para
+investimento; e
+(b) escolher o método do valor justo ou o método do custo para todas as restantes
+propriedades para investimento, independentemente da escolha feita na alínea (a).
+32B. Algumas seguradoras e outras entidades operam fundo de propriedades que emite cotas
+nocionais, com algumas unidades mantidas por investidores em contratos associados e
+outros detidos pela entidade. O item 32A não permite que a entidade mensure a propriedade
+detida pelo fundo parcialmente pelo custo e parcialmente pelo valor justo.
+32B Algumas entidades operam, seja interna ou externamente, um fundo de investimentos que
+fornece aos investidores benefícios determinados pelas cotas do fundo. Da mesma forma,
+algumas entidades emitem contratos de seguro com características de participação direta,
+para os quais os itens subjacentes incluem propriedade para investimento. Para as
+finalidades dos itens 32 ao 32B somente, contratos de seguro incluem contratos de
+investimento com características de participação discricionária. O item 32A não permite que
+uma entidade mensure propriedade mantida pelo fundo (ou propriedade que seja um item
+subjacente) parcialmente ao custo e parcialmente ao valor justo. (Ver CPC 50 – Contratos
+de Seguro para os termos utilizados neste item que são definidos nessa Norma). (Alterada pela
+Revisão de Pronunciamentos Técnicos n.º 21)
+32C. Se a entidade escolhe diferentes métodos para as duas categorias descritas no item 32A, as
+vendas de propriedade para investimento entre conjuntos de ativos mensurados usando
+métodos diferentes devem ser reconhecidas pelo valor justo e a alteração cumulativa no
+valor justo deve ser reconhecida no resultado. Em conformidade, se a propriedade para
+investimento for vendida de um conjunto em que se usa o método do valor justo para um
+conjunto em que se usa o método do custo, o valor justo da propriedade à data da venda
+torna-se o seu custo considerado.
+Método do valor justo
+33. Após o reconhecimento inicial, a entidade que escolhe o método do valor justo deve
+mensurar todas as suas propriedades para investimento pelo valor justo, exceto nos casos
+descritos no item 53.
+34. Quando um interesse em propriedade mantido por arrendatário em arrendamento
+operacional for classificado como propriedade para investimento segundo o item 6, o item 30
+deixa de ser opcional; o método do valor justo deve ser aplicado. (Eliminado pela Revisão CPC
+13)
+35. O ganho ou a perda proveniente de alteração no valor justo de propriedade para
+investimento deve ser reconhecido no resultado do período em que ocorra.
+36. O valor justo da propriedade para investimento definido no item 5 exclui especificamente um
+preço estimado inflacionado ou deflacionado por condições ou circunstâncias especiais tais
+como financiamento atípico, acordos de venda e leaseback, considerações especiais ou
+concessões dadas por alguém associado à venda. (Eliminado pela Revisão CPC 03)
+37. A entidade determina o valor justo sem qualquer dedução para custos de transação em que
+possa incorrer por venda ou outra alienação. (Eliminado pela Revisão CPC 03)
+38. O valor justo da propriedade para investimento deve refletir as condições de mercado à data
+do período de reporte. (Eliminado pela Revisão CPC 03)
+
+CPC_28_rev 21
+10
+39. O valor justo é específico no tempo em uma data determinada. Pelo fato de as condições de
+mercado poderem mudar, a quantia relatada como valor justo pode ser incorreta ou não ser
+apropriada se estimada em outro momento. A definição de valor justo assume também troca
+simultânea e término do contrato de venda sem qualquer variação de preço que pudesse ser
+realizado entre partes conhecedoras e dispostas a isso em uma transação em que não
+exista relacionamento entre elas se a troca e o término não forem simultâneos. (Eliminado pela
+Revisão CPC 03)
+40. O valor justo da propriedade para investimento reflete, entre outras coisas, lucro de rendas
+provenientes de arrendamentos correntes e pressupostos razoáveis e suportáveis que
+representem aquilo que entidades conhecedoras e dispostas a isso assumiriam acerca de
+lucros de rendas de futuros arrendamentos à luz de condições correntes. Também reflete,
+em base semelhante, quaisquer saídas de caixa (incluindo pagamentos de rendas e outras
+saídas) que possam ser esperadas com respeito à propriedade. Algumas dessas saídas de
+caixa estão refletidas no passivo enquanto outras se relacionam com saídas de caixa que
+não são reconhecidas nas demonstrações contábeis até data posterior (por exemplo,
+pagamentos periódicos como rendas contingentes).
+40. Ao mensurar o valor justo da propriedade para investimento, de acordo com o
+Pronunciamento Técnico CPC 46, a entidade deve assegurar que o valor justo reflete, entre
+outras, receitas provenientes de arrendamentos correntes e outros pressupostos que
+participantes do mercado utilizariam na precificação de propriedade para investimento sob
+condições correntes de mercado. (Alterado pela Revisão CPC 03)
+40A. Quando o arrendatário utilizar o modelo de valor justo para mensurar a propriedade para
+investimento que é mantida como ativo de direito de uso, deve mensurar o ativo de direito
+de uso, e, não, a propriedade subjacente, ao valor justo. (Incluído pela Revisão CPC 13)
+41. O item 25 especifica a base do reconhecimento inicial do custo de um interesse em
+propriedade arrendada. O item 33 exige que o interesse em propriedade arrendada seja
+remensurado, se necessário, pelo valor justo. Em um arrendamento negociado às taxas de
+mercado, o valor justo de um interesse em propriedade arrendada na aquisição, líquido de
+todos os pagamentos de arrendamento esperados (incluindo os relativos a passivos
+reconhecidos), deve ser zero. Esse valor justo não se altera independentemente, para fins
+contábeis, de um ativo e passivo locados serem reconhecidos pelo valor justo ou pelo valor
+presente dos pagamentos mínimos de arrendamento, de acordo com o item 20 do
+Pronunciamento Técnico CPC 06. Assim, remensurar um ativo arrendado para o custo de
+acordo com o item 25 para o valor justo de acordo com o item 33 não deveria resultar em
+qualquer ganho ou perda inicial, a não ser que o valor justo seja mensurado em momentos
+diferentes. Isso pode ocorrer quando for feita a escolha para aplicar o método do valor justo
+após o reconhecimento inicial.
+41. O CPC 06 especifica a base do reconhecimento inicial do custo de propriedade para
+investimento mantida por arrendatário como ativo de direito de uso. O item 33 exige que a
+propriedade para investimento mantida por arrendatário como ativo de direito de uso seja
+remensurada, se necessário, pelo valor justo, se a entidade escolher o modelo de valor
+justo. Quando os pagamentos de arrendamento são efetuados a taxas de mercado, o valor
+justo da propriedade para investimento mantida por arrendatário como ativo de direito de
+uso na aquisição, líquido de todos os pagamentos de arrendamento esperados (incluindo os
+relativos a passivos de arrendamento reconhecidos), deve ser zero. Assim, remensurar o
+ativo de direito de uso de arrendamento do custo, de acordo com o CPC 06, para o valor
+justo, de acordo com o item 33 (tendo em conta os requisitos do item 50), não deve resultar
+em qualquer ganho ou perda inicial, a não ser que o valor justo seja mensurado em
+
+CPC_28_rev 21
+11
+momentos diferentes. Isso pode ocorrer quando for feita a escolha para aplicar o método do
+valor justo após o reconhecimento inicial. (Alterado pela Revisão CPC 13)
+42. A definição de valor justo refere-se a “partes interessadas, conhecedoras do negócio”
+.
+Nesse contexto, “conhecedoras” significa que tanto o comprador como o vendedor
+“interessado’ estão razoavelmente informados acerca da natureza e características da
+propriedade para investimento, dos seus usos reais e potenciais, e das condições do
+mercado à data do período de reporte. Um comprador interessado está motivado, mas não
+compelido, a comprar. Esse comprador não está nem ansioso nem determinado a comprar
+por qualquer preço. O assumido comprador não pagaria um preço mais elevado do que o
+exigido por mercado composto por compradores e vendedores conhecedores do negócio e
+interessados nele. (Eliminado pela Revisão CPC 03)
+43. Um vendedor interessado não é nem um vendedor ansioso nem um vendedor forçado,
+preparado para vender a qualquer preço, nem um preparado para resistir a um preço não
+considerado razoável de acordo com as condições correntes do mercado. O vendedor
+interessado está motivado a vender a propriedade para investimento nos termos do
+mercado pelo melhor preço possível. As circunstâncias fatuais do efetivo proprietário da
+propriedade para investimento não fazem parte dessa consideração porque o vendedor
+interessado é um proprietário hipotético (por exemplo, um vendedor interessado não levaria
+em consideração as circunstâncias fiscais particulares do efetivo proprietário da propriedade
+para investimento). (Eliminado pela Revisão CPC 03)
+44. A definição de valor justo refere-se a uma transação entre partes independentes. A
+transação entre partes independentes é uma transação entre partes que não tenham
+relacionamento particular ou especial entre elas que torne os preços das transações não
+característicos das condições de mercado. A transação é tida como uma transação entre
+entidades não relacionadas, cada uma delas atuando independentemente. (Eliminado pela
+Revisão CPC 03)
+45. A melhor evidência de valor justo é dada por preços correntes em mercado ativo de
+propriedades semelhantes no mesmo local e condição e sujeitas a arrendamentos e outros
+contratos semelhantes. A entidade trata de identificar quaisquer diferenças de natureza,
+local ou condição da propriedade, ou nos termos contratuais dos arrendamentos e de outros
+contratos relacionados com a propriedade. (Eliminado pela Revisão CPC 03)
+46. Na ausência de preços correntes em mercado ativo do gênero descrito no item 45, a
+entidade considera a informação proveniente de uma variedade de fontes, incluindo:
+(a) preços correntes em mercado ativo de propriedades de diferente natureza, condição ou
+localização (ou sujeitas a diferentes arrendamentos ou outros contratos), ajustados para
+refletir essas diferenças;
+(b) preços recentes de propriedades semelhantes em mercados menos ativos, com ajustes
+para refletir quaisquer alterações nas condições econômicas desde a data das
+transações que ocorreram a esses preços; e
+(c) projeções de fluxos de caixa descontados com base em estimativas confiáveis de
+futuros fluxos de caixa, suportadas pelos termos de qualquer arrendamento e de outros
+contratos existentes e (quando possível) por evidência externa tal como rendas
+correntes de mercado de propriedades semelhantes no mesmo local e condição, e
+usando taxas de desconto que reflitam avaliações correntes de mercado quanto à
+incerteza na quantia e tempestividade dos fluxos de caixa. (Eliminado pela Revisão CPC 03)
+47. Em alguns casos, as várias fontes listadas no item anterior podem sugerir conclusões
+diferentes quanto ao valor justo de propriedade para investimento. A entidade considera as
+razões dessas diferenças, com o objetivo de chegar à estimativa mais confiável do valor
+
+CPC_28_rev 21
+12
+justo dentro de um intervalo de estimativas razoáveis de valor justo. (Eliminado pela Revisão CPC
+03)
+48. Em casos excepcionais, há clara evidência, quando a entidade adquire pela primeira vez
+uma propriedade para investimento (ou quando a propriedade existente se torna pela
+primeira vez propriedade para investimento após uma alteração em seu uso), de que a
+variabilidade no intervalo de estimativas razoáveis de valor justo seria tão grande, e as
+probabilidades dos vários efeitos tão difíceis de avaliar, que a utilidade de uma única
+estimativa de valor justo é negada. Isso pode indicar que o valor justo da propriedade não
+será determinável com confiabilidade em uma base contínua (ver item 53).
+48. Em casos excepcionais, há clara evidência, quando a entidade adquire pela primeira vez
+uma propriedade para investimento (ou quando a propriedade existente se torna pela
+primeira vez propriedade para investimento após a alteração em seu uso), de que a
+variabilidade no intervalo de mensurações razoáveis de valor justo seria tão grande, e as
+probabilidades dos vários efeitos tão difíceis de avaliar, que a utilidade de uma única
+mensuração de valor justo é negada. Isso pode indicar que o valor justo da propriedade não
+será mensurável com confiabilidade em base contínua (ver item 53). (Alterado pela Revisão CPC
+03)
+49. O valor justo difere do valor de uso, tal como definido no Pronunciamento Técnico CPC 01 –
+Redução ao Valor Recuperável de Ativos. O valor justo reflete o conhecimento e as
+estimativas de compradores e vendedores conhecedores do negócio e interessados nele.
+Em contraste, o valor de uso reflete as estimativas da entidade, incluindo os efeitos de
+fatores que podem ser específicos da entidade e não aplicáveis às entidades em geral. Por
+exemplo, o valor justo não reflete qualquer dos seguintes fatores na medida em que não
+estariam geralmente disponíveis para compradores e vendedores conhecedores do negócio
+e nele interessados:
+(a) valor adicional derivado da criação de carteira de propriedades em diferentes
+localizações;
+(b) sinergias entre propriedades para investimento e outros ativos;
+(c) direitos legais ou restrições legais que somente sejam específicos ao proprietário atual;
+e
+(d) benefícios de impostos ou encargos fiscais que sejam específicos ao proprietário atual.
+(Eliminado pela Revisão CPC 03)
+50. Ao determinar o valor justo da propriedade para investimento, a entidade não deve computar
+duplamente ativos ou passivos que estejam reconhecidos como ativos ou passivos
+separados. Por exemplo:
+(a) equipamento, tal como elevador ou ar-condicionado, é muitas vezes uma parte
+integrante de edifício e está geralmente incluído no valor justo da propriedade para
+investimento, não sendo reconhecido separadamente como ativo imobilizado;
+(b) se o escritório for arrendado mobiliado, o valor justo do escritório inclui geralmente o
+valor justo da mobília, porque o lucro das rendas se relaciona com o escritório
+mobiliado. Quando a mobília for incluída no valor justo da propriedade para
+investimento, a entidade não reconhece a mobília como ativo separado;
+(c) o valor justo da propriedade para investimento exclui o lucro do arrendamento
+operacional acrescido ou pago antecipadamente, porque a entidade o reconhece como
+passivo ou ativo separado;
+(d) o valor justo da propriedade para investimento mantida em arrendamento reflete os
+fluxos de caixa esperados (incluindo a receita contingente que se espera que se torne
+pagável). Em conformidade, se a avaliação obtida para a propriedade for líquida de
+todos os pagamentos que se espera que sejam feitos, será necessário voltar a adicionar
+qualquer passivo de arrendamento reconhecido para atingir o valor contábil da
+
+CPC_28_rev 21
+13
+propriedade para investimento, utilizando o método do valor justo.
+(d) o valor justo da propriedade para investimento, mantida por arrendatário como ativo de
+direito de uso, reflete os fluxos de caixa esperados (incluindo os pagamentos variáveis
+de arrendamento que se espera que se tornem exigíveis). Em conformidade, se a
+avaliação obtida para a propriedade for líquida de todos os pagamentos que se espera
+que sejam feitos, será necessário voltar a adicionar qualquer passivo de arrendamento
+reconhecido para atingir o valor contábil da propriedade para investimento, utilizando o
+método do valor justo. (Alterada pela Revisão CPC 13)
+51. O valor justo da propriedade para investimento não reflete os investimentos futuros de
+capital fixo que melhorem ou aumentem a propriedade e não reflete os benefícios futuros
+relacionados derivados desses dispêndios futuros. (Eliminado pela Revisão CPC 03)
+52. Em alguns casos, a entidade espera que o valor presente dos seus pagamentos
+relacionados com uma propriedade para investimento (que não sejam pagamentos
+relacionados com passivos reconhecidos) exceda o valor presente dos respectivos
+recebimentos de caixa. A entidade aplica o Pronunciamento Técnico CPC 25 – Provisões,
+Passivos Contingentes e Ativos Contingentes para determinar se reconhece um passivo e,
+nesse caso, como mensurá-lo.
+Incapacidade de determinar confiavelmente o valor justo
+53. Há presunção refutável de que a entidade pode confiavelmente determinar o valor justo de
+propriedade para investimento em uma base contínua. Porém, em casos excepcionais,
+quando a entidade adquire pela primeira vez uma propriedade para investimento (ou quando
+a propriedade existente se torne pela primeira vez propriedade para investimento na
+sequência da conclusão da construção ou do desenvolvimento, ou após a alteração de uso),
+há clara evidência de que o valor justo da propriedade para investimento não é determinável
+com confiabilidade em uma base contínua. Isso ocorre quando, e apenas quando, são
+pouco frequentes transações de mercado comparáveis e quando não estão disponíveis
+estimativas alternativas confiáveis de valor justo (por exemplo, com base em projeções de
+fluxos de caixa descontados). Se a entidade conclui que o valor justo de uma propriedade
+para investimento em construção não é determinável com confiabilidade, mas é esperado
+que o valor justo da propriedade seja determinável com confiabilidade quando a construção
+for concluída, a propriedade para investimento em construção deve ser mensurada ao custo
+até que seu valor justo se torne confiavelmente mensurável ou a construção seja concluída
+(o que ocorrer primeiro). Se a entidade conclui que o valor justo de uma propriedade para
+investimento (outra que não uma propriedade para investimento em construção) não é
+confiavelmente determinável, a entidade mensura essa propriedade para investimento
+usando o método do custo do Pronunciamento Técnico CPC 27 – Ativo Imobilizado. O valor
+residual da propriedade para investimento deve ser assumido como sendo zero. A entidade
+deve aplicar o Pronunciamento Técnico CPC 27 até a alienação da propriedade para
+investimento.
+53. Há presunção refutável de que a entidade pode confiavelmente mensurar o valor justo de
+propriedade para investimento em base contínua. Porém, em casos excepcionais, quando a
+entidade adquire pela primeira vez uma propriedade para investimento (ou quando a
+propriedade existente se torne pela primeira vez propriedade para investimento na
+sequência da conclusão da construção ou do desenvolvimento, ou após a alteração de uso),
+há clara evidência de que o valor justo da propriedade para investimento não é mensurável
+com confiabilidade em base contínua. Isso ocorre quando, e apenas quando, o mercado de
+propriedades comparáveis está inativo (por exemplo, há poucas transações recentes,
+preços cotados não são atuais ou preços de transação observadas indicam que o vendedor
+foi forçado a vender) e quando não estão disponíveis mensurações alternativas confiáveis
+
+CPC_28_rev 21
+14
+de valor justo (por exemplo, com base em projeções de fluxos de caixa descontados). Se a
+entidade concluir que o valor justo de propriedade para investimento em construção não é
+mensurável com confiabilidade, mas for esperado que o valor justo da propriedade seja
+mensurável com confiabilidade quando a construção for concluída, a propriedade para
+investimento em construção deve ser mensurada ao custo até que seu valor justo se torne
+confiavelmente mensurável ou a construção seja concluída (o que ocorrer primeiro). Se a
+entidade concluir que o valor justo de propriedade para investimento (outra que não uma
+propriedade para investimento em construção) não é confiavelmente mensurável, a entidade
+deve mensurar essa propriedade para investimento usando o método do custo do
+Pronunciamento Técnico CPC 27 – Ativo Imobilizado. O valor residual da propriedade para
+investimento deve ser assumido como sendo zero. A entidade deve aplicar o
+Pronunciamento Técnico CPC 27 até a alienação da propriedade para investimento. (Alterado
+pela Revisão CPC 03)
+53. Há presunção refutável de que a entidade pode confiavelmente mensurar o valor justo de
+propriedade para investimento em base contínua. Porém, em casos excepcionais, quando a
+entidade adquire, pela primeira vez, a propriedade para investimento (ou quando a
+propriedade existente se torne pela primeira vez propriedade para investimento na
+sequência da conclusão da construção ou do desenvolvimento, ou após a alteração de uso),
+há clara evidência de que o valor justo da propriedade para investimento não é mensurável
+com confiabilidade em base contínua. Isso ocorre quando, e apenas quando, o mercado de
+propriedades comparáveis está inativo (por exemplo, há poucas transações recentes,
+preços cotados não são atuais ou preços de transação observados indicam que o vendedor
+foi forçado a vender) e quando não estão disponíveis mensurações alternativas confiáveis
+de valor justo (por exemplo, com base em projeções de fluxos de caixa descontados). Se a
+entidade concluir que o valor justo de propriedade para investimento em construção não é
+mensurável com confiabilidade, mas for esperado que o valor justo da propriedade seja
+mensurável com confiabilidade quando a construção for concluída, a propriedade para
+investimento em construção deve ser mensurada ao custo até que seu valor justo se torne
+confiavelmente mensurável ou a construção seja concluída (o que ocorrer primeiro). Se a
+entidade concluir que o valor justo de propriedade para investimento (outra que não a
+propriedade para investimento em construção) não é confiavelmente mensurável, a entidade
+deve mensurar essa propriedade para investimento utilizando o método do custo do CPC 27
+– Ativo Imobilizado para propriedade para investimento própria ou, de acordo com o CPC
+06, para propriedade para investimento mantida por arrendatário como ativo de direito de
+uso. O valor residual da propriedade para investimento deve ser assumido como sendo
+zero. A entidade deve continuar a aplicar o CPC 27 ou o CPC 06 até a alienação da
+propriedade para investimento. (Alterado pela Revisão CPC 13)
+53A. Uma vez que a entidade se torne capaz de mensurar confiavelmente o valor justo de um
+investimento para propriedade em construção que tenha sido previamente avaliada ao
+custo, deve mensurar essa propriedade pelo valor justo. Assim que a construção estiver
+completada, presume-se que o valor justo possa ser mensurado confiavelmente. Se esse
+não for o caso, de acordo com o item 53, a propriedade será contabilizada pelo método do
+custo de acordo com o Pronunciamento Técnico CPC 27 – Ativo Imobilizado.
+53A. Uma vez que a entidade se torne capaz de mensurar confiavelmente o valor justo de
+propriedade para investimento em construção que tenha sido previamente avaliada ao
+custo, deve mensurar essa propriedade pelo valor justo. Assim que a construção estiver
+completada, presume-se que o valor justo possa ser mensurado confiavelmente. Se esse
+não for o caso, de acordo com o item 53, a propriedade deve ser contabilizada pelo método
+do custo, de acordo com o CPC 27 – Ativo Imobilizado, para ativos próprios, ou com o CPC
+06, para propriedade para investimento mantida por arrendatário como ativo de direito de
+uso. (Alterado pela Revisão CPC 13)
+
+CPC_28_rev 21
+15
+53B. A presunção de que o valor justo de investimento para propriedade em construção possa
+ser mensurado confiavelmente pode ser refutada somente no reconhecimento inicial. A
+entidade que tenha mensurado um item de investimento para propriedade em construção ao
+valor justo não pode concluir que o valor justo do investimento para propriedade quando
+completado não possa ser mensurado confiavelmente.
+54. Nos casos excepcionais em que a entidade seja compelida, pela razão dada no item 53, a
+mensurar uma propriedade para investimento usando o método do custo de acordo com o
+Pronunciamento Técnico CPC 27, ela mensura todas as suas outras propriedades para
+investimento pelo valor justo, inclusive as propriedades para investimento em construção.
+Nesses casos, embora a entidade possa usar o método do custo para uma propriedade para
+investimento, a entidade deve continuar a contabilizar cada uma das propriedades restantes
+usando o método do valor justo.
+54. Nos casos excepcionais em que a entidade seja compelida, pela razão dada no item 53, a
+mensurar a propriedade para investimento, utilizando o método do custo de acordo com o
+CPC 27 ou com o CPC 06, ela deve mensurar todas as suas outras propriedades para
+investimento pelo valor justo, inclusive as propriedades para investimento em construção.
+Nesses casos, embora a entidade possa usar o método do custo para uma propriedade para
+investimento, a entidade deve continuar a contabilizar cada uma das propriedades restantes
+usando o método do valor justo. (Alterado pela Revisão CPC 13)
+55. Se a entidade tiver previamente mensurado a propriedade para investimento pelo valor
+justo, ela deve continuar a mensurar a propriedade pelo valor justo até a alienação (ou até
+que a propriedade se torne propriedade ocupada pelo proprietário ou a entidade comece a
+desenvolver a propriedade para subsequente venda no curso ordinário do negócio), mesmo
+que transações de mercado comparáveis se tornem menos frequentes ou que os preços do
+mercado se tornem menos prontamente disponíveis.
+Método do custo
+56. Após o reconhecimento inicial, a entidade que escolher o método do custo deve mensurar
+todas as suas propriedades para investimento de acordo com os requisitos do
+Pronunciamento Técnico CPC 27 para esse método, exceto aquelas que satisfaçam os
+critérios de classificação como mantidas para venda (ou que estejam incluídas em grupo
+para alienação que esteja classificado como mantido para venda) de acordo com o
+Pronunciamento Técnico CPC 31 – Ativo Não Circulante Mantido para Venda e Operação
+Descontinuada. As propriedades para investimento que satisfaçam os critérios de
+classificação como mantidas para venda (ou que estejam incluídas em um grupo para
+alienação que esteja classificado como mantido para venda) devem ser mensuradas de
+acordo com esse Pronunciamento.
+56. Após o reconhecimento inicial, a entidade que escolher o modelo do custo deve mensurar a
+propriedade para investimento:
+(a) de acordo com o CPC 31 – Ativo Não Circulante Mantido para Venda e Operação
+Descontinuada, se atender aos critérios para ser classificado como mantido para venda
+(ou está incluído em grupo para alienação que seja classificado como mantido para
+venda);
+(b) de acordo com o CPC 06, se é mantido por arrendatário como ativo de direito de uso e
+não é mantido para venda, de acordo com o CPC 31; e
+(c) de acordo com os requisitos do CPC 27 para o modelo do custo em todos os outros
+casos. (Alterado pela Revisão CPC 13)
+
+CPC_28_rev 21
+16
+Transferência
+57. As transferências para ou de propriedades para investimento devem ser feitas quando, e
+apenas quando, houver alteração de uso, evidenciada pelo seguinte:
+57. A entidade deve transferir a propriedade para, ou de, propriedade para investimento
+quando, e apenas quando, houver alteração de uso. A alteração de uso ocorre quando a
+propriedade atende, ou deixa de atender, a definição de propriedade para investimento e há
+evidência da alteração de uso. Apenas a alteração nas intenções da administração para o
+uso da propriedade não fornece evidência da alteração no uso. Exemplos de evidência da
+alteração na utilização incluem: (Alterado pela Revisão CPC 12)
+(a) início de ocupação pelo proprietário, para transferência de propriedade para
+investimento para propriedade ocupada pelo proprietário;
+(a) início de ocupação pelo proprietário, ou de desenvolvimento com vista à ocupação pelo
+proprietário, para transferência de propriedade para investimento para propriedade
+ocupada pelo proprietário; (Alterada pela Revisão CPC 12)
+(b) início de desenvolvimento com objetivo de venda, para transferência de propriedade
+para investimento para estoque;
+(c) fim de ocupação pelo proprietário, para transferência de propriedade ocupada pelo
+proprietário para propriedade para investimento; e
+(d) começo de arrendamento operacional para outra entidade, para transferência de
+estoques para propriedade para investimento;
+(e) (eliminada).
+58. O item 57(b) exige que a entidade transfira a propriedade de propriedade para investimento
+para estoque quando, e apenas quando, houver uma alteração no uso, evidenciada pelo
+começo de desenvolvimento com ao objetivo de venda. Quando a entidade decidir alienar a
+propriedade para investimento sem desenvolvimento, ela continua a tratar a propriedade
+como propriedade para investimento até que seja baixada (eliminada da demonstração da
+posição financeira) e deixe de tratá-la como estoque. De forma semelhante, se a entidade
+começar a desenvolver de novo a propriedade para investimento existente para futuro uso
+continuado como propriedade para investimento, a propriedade permanece propriedade
+para investimento, não sendo reclassificada como propriedade ocupada pelo proprietário
+durante o novo desenvolvimento.
+58. Quando a entidade decidir alienar a propriedade para investimento sem desenvolvimento,
+ela continua a tratar a propriedade como propriedade para investimento até que seja
+desreconhecida (eliminada do balanço patrimonial) e deixe de reclassificá-la como estoque.
+De forma semelhante, se a entidade começar a desenvolver de novo a propriedade para
+investimento existente para futuro uso continuado como propriedade para investimento, a
+propriedade permanece propriedade para investimento, não sendo reclassificada como
+propriedade ocupada pelo proprietário durante o novo desenvolvimento. (Alterado pela Revisão
+CPC 12)
+59. Os itens 60 a 65 aplicam-se aos aspectos de reconhecimento e mensuração resultantes
+quando a entidade usa o método do valor justo para propriedades para investimento.
+Quando a entidade usar o método do custo, as transferências entre propriedades para
+investimento, propriedades ocupadas pelo proprietário e estoque não alteram o valor
+contábil da propriedade transferida e não alteram o custo dessa propriedade para
+finalidades de mensuração ou divulgação.
+60. Para a transferência de propriedade para investimento escriturada pelo valor justo para
+propriedade ocupada pelo proprietário ou para estoque, o custo considerado da propriedade
+para subsequente contabilização de acordo com o Pronunciamento Técnico CPC 27 ou o
+CPC 16 deve ser o seu valor justo à data da alteração de uso.
+
+CPC_28_rev 21
+17
+60. Para a transferência de propriedade para investimento contabilizada pelo valor justo para
+propriedade ocupada pelo proprietário ou para estoque, o custo considerado da propriedade
+para subsequente contabilização, de acordo com o CPC 27, o CPC 06 ou o CPC 16, deve
+ser o seu valor justo na data da alteração de uso. (Alterado pela Revisão CPC 13)
+61. Se o imóvel ocupado pelo proprietário se tornar propriedade para investimento que seja
+escriturada pelo valor justo, a entidade deve aplicar o Pronunciamento Técnico CPC 27 até
+a data da alteração de uso. A entidade deve tratar qualquer diferença nessa data entre o
+valor contábil do imóvel de acordo com o Pronunciamento Técnico CPC 27 e o seu valor
+justo conforme o item 62.
+61. Se o imóvel ocupado pelo proprietário se tornar propriedade para investimento que seja
+contabilizada pelo valor justo, a entidade deve aplicar o CPC 27 para propriedade própria e
+o CPC 06 para propriedade mantida por arrendatário como ativo de direito de uso até a data
+da alteração do uso. A entidade deve tratar qualquer diferença nessa data entre o valor
+contábil do imóvel, de acordo com o CPC 27 ou com o CPC 06 e o seu valor justo, conforme
+descrito no item 62. (Alterado pela Revisão CPC 13)
+62. Até a data em que o imóvel ocupado pelo proprietário se torne propriedade para
+investimento escriturada pelo valor justo, a entidade deprecia a propriedade e reconhece
+quaisquer perdas por redução no valor recuperável (impairment) que tenham ocorrido. A
+entidade trata qualquer diferença nessa data entre o valor contábil da propriedade de acordo
+com o Pronunciamento Técnico CPC 27 e o seu valor justo da seguinte forma:
+62. Até a data em que o imóvel ocupado pelo proprietário se torne propriedade para
+investimento contabilizada pelo valor justo, a entidade deve depreciar a propriedade (ou o
+ativo de direito de uso) e deve reconhecer quaisquer perdas por redução no valor
+recuperável (impairment) que tenham ocorrido. A entidade deve tratar qualquer diferença
+nessa data entre o valor contábil da propriedade, de acordo com o CPC 27 ou o CPC 06, e o
+seu valor justo da seguinte forma: (Alterado pela Revisão CPC 13)
+(a) qualquer diminuição resultante no valor contábil da propriedade é reconhecida no
+resultado. Porém, até o ponto em que a quantia esteja incluída em reavaliação
+anteriormente procedida nessa propriedade, a diminuição é debitada contra esse
+excedente de reavaliação;
+(b) qualquer aumento resultante no valor contábil é tratado como se segue:
+(i) até o ponto em que o aumento reverta perda anterior por impairment dessa
+propriedade, o aumento é reconhecido no resultado. A quantia reconhecida no
+resultado não pode exceder a quantia necessária para repor o valor contábil para o
+valor contábil que teria sido determinado (líquido de depreciação) caso nenhuma
+perda por impairment tivesse sido reconhecida;
+(ii) qualquer parte remanescente do aumento é creditada diretamente no patrimônio
+líquido, em ajustes de avaliação patrimonial, como parte dos outros resultados
+abrangentes. Na alienação subsequente da propriedade para investimento,
+eventual excedente de reavaliação incluído no patrimônio líquido deve ser
+transferido para lucros ou prejuízos acumulados, e a transferência do saldo
+remanescente excedente de avaliação também se faz diretamente para lucros ou
+prejuízos acumulados, e não por via da demonstração do resultado.
+63. Para uma transferência de estoque para propriedade para investimento que seja escriturada
+pelo valor justo, qualquer diferença entre o valor justo da propriedade nessa data e o seu
+valor contábil anterior deve ser reconhecida no resultado.
+64. O tratamento de transferência de estoque para propriedade para investimento que é
+escriturada pelo valor justo é consistente com o tratamento de venda de estoque.
+
+CPC_28_rev 21
+18
+65. Quando a entidade concluir a construção ou o desenvolvimento de propriedade para
+investimento de construção própria que será escriturada pelo valor justo, qualquer diferença
+entre o valor justo da propriedade nessa data e o seu valor contábil anterior deve ser
+reconhecida no resultado.
+Alienação
+66. A propriedade para investimento deve ser baixada (eliminada do balanço patrimonial) na
+alienação ou quando a propriedade para investimento for permanentemente retirada de uso
+e nenhum benefício econômico for esperado da sua alienação.
+67. A alienação de propriedade para investimento pode ser alcançada pela venda ou pela
+celebração de arrendamento financeiro. Ao determinar a data de alienação da propriedade
+para investimento, a entidade aplica os critérios enunciados no Pronunciamento Técnico
+CPC 30 – Receitas para reconhecimento da receita da venda de bens e considera a
+respectiva orientação no Apêndice do CPC 30. O Pronunciamento Técnico CPC 06 –
+Operações de Arrendamento Mercantil se aplica à alienação efetuada pela celebração de
+arrendamento financeiro e a venda e leaseback.
+67. A alienação de propriedade para investimento pode ser alcançada pela venda ou pela
+celebração de arrendamento financeiro. A data de alienação da propriedade para
+investimento é a data em que o recebedor obtém o controle da propriedade para
+investimento de acordo com os requisitos do CPC 47, que determinam quando a obrigação
+de cumprimento é satisfeita. O CPC 06 se aplica à alienação efetuada pela celebração de
+arrendamento financeiro e à venda e leaseback. (Alterado pela Revisão CPC 12)
+67. A alienação de propriedade para investimento pode ser alcançada pela venda ou pela
+celebração de arrendamento financeiro. A data de alienação da propriedade para
+investimento, que é vendida, é a data em que o recebedor obtém o controle da propriedade
+para investimento, de acordo com os requisitos do CPC 47, que determinam quando a
+obrigação de performance é satisfeita. O CPC 06 é aplicável à alienação efetuada pela
+celebração de arrendamento financeiro e à venda e leaseback. (Alterado pela Revisão CPC 13)
+68. Se, de acordo com o princípio de reconhecimento do item 16, a entidade reconhecer no
+valor contábil de ativo o custo de substituição de parte de propriedade para investimento,
+então ela baixa o valor contábil da parte substituída. Relativamente à propriedade para
+investimento contabilizada usando o método do custo, a parte substituída pode não ser a
+parte que tenha sido depreciada separadamente. Se não for praticável que a entidade
+determine o valor contábil da parte substituída, ela pode usar o custo da substituição como
+indicação do custo da parte substituída que era no momento em que foi adquirida ou
+construída. Segundo o método do valor justo, o valor justo da propriedade para investimento
+pode já refletir o fato de que a parte a ser substituída perdeu o seu valor. Em outros casos,
+pode ser difícil discernir quanto do valor justo deve ser reduzido para a parte a ser
+substituída. Uma alternativa à redução do valor justo para a parte substituída, quando não
+for prático realizar essa redução, é incluir o custo da substituição no valor contábil do ativo e
+reavaliar o valor justo, como seria exigido para adições não envolvendo substituição.
+69. Ganhos ou perdas provenientes da retirada ou alienação de propriedades para investimento
+devem ser determinados como a diferença entre os valores líquidos da alienação e o valor
+contábil do ativo e devem ser reconhecidos no resultado (a menos que o Pronunciamento
+Técnico CPC 06 – Operações de Arrendamento Mercantil exija outra forma no caso de
+venda e leaseback) no período da retirada ou da alienação.
+
+CPC_28_rev 21
+19
+69. Ganhos ou perdas provenientes da retirada ou alienação de propriedades para investimento
+devem ser determinados como a diferença entre os valores líquidos da alienação e o valor
+contábil do ativo e devem ser reconhecidos no resultado (a menos que o CPC 06 –
+Arrendamentos exija outra forma no caso de venda e leaseback) no período da retirada ou
+da alienação. (Alterado pela Revisão CPC 14)
+70. O montante a ser recebido com a alienação de uma propriedade para investimento é
+inicialmente reconhecido pelo valor justo. Em particular, se o pagamento de uma
+propriedade para investimento for diferido, a contraprestação recebida é reconhecida
+inicialmente pelo equivalente ao preço à vista. A diferença entre a quantia nominal da
+contraprestação e o equivalente ao preço a dinheiro é reconhecida como receita de juros de
+acordo com o Pronunciamento Técnico CPC 30 – Receitas usando o método do juro efetivo.
+70. O valor da contrapartida da alienação de propriedade para investimento deve ser
+estabelecido de acordo com os requisitos para determinar o preço de transação nos itens 47
+a 72 do CPC 47. As alterações subsequentes no valor estimado da contrapartida, incluído
+no ganho ou na perda, devem ser contabilizadas de acordo com os requisitos para
+alterações no preço de transação no CPC 47. (Alterado pela Revisão CPC 12)
+71. A entidade aplica o Pronunciamento Técnico CPC 25 – Provisões, Passivos Contingentes e
+Ativos Contingentes ou outros Pronunciamentos, Interpretações e Orientações, conforme
+apropriado, a quaisquer passivos que detenha após a alienação de uma propriedade para
+investimento.
+72. A indenização de terceiros para propriedade para investimento, que tenha sofrido redução
+no valor recuperável (impairment), perda ou tenha sido cedida deve ser reconhecida no
+resultado quando se tornar recebível.
+73. Reduções no valor recuperável (impairment) ou perdas de propriedade para investimento,
+relacionados com pedidos de ou pagamento de indenização de terceiros e qualquer
+aquisição ou construção posterior de ativos de substituição constituem acontecimentos
+econômicos separados e são contabilizados separadamente como se segue:
+(a) as perdas por redução ao valor recuperável da propriedade para investimento são
+reconhecidas de acordo com o Pronunciamento Técnico CPC 01;
+(b) as retiradas ou alienações da propriedade para investimento são reconhecidas de
+acordo com os itens 66 a 71 deste Pronunciamento;
+(c) a indenização de terceiros por propriedade para investimento que tenha sofrido
+impairment, que tenha sofrido perda ou tenha sido cedida é reconhecida no resultado
+quando se tornar recebível; e
+(d) o custo dos ativos restaurados, comprados ou construídos como substituições é
+determinado de acordo com os itens 20 a 29 deste Pronunciamento.
+Divulgação
+Método do valor justo e método do custo
+74. As divulgações indicadas adiante se aplicam adicionalmente às enunciadas no
+Pronunciamento Técnico CPC 06. De acordo com o CPC 06, o proprietário de propriedade
+para investimento proporciona as divulgações dos arrendadores acerca dos arrendamentos
+que tenham celebrado. A entidade que detenha propriedade para investimento em
+arrendamento financeiro ou operacional proporciona divulgação dos arrendatários para
+arrendamentos financeiros e divulgação dos arrendadores para qualquer arrendamento
+operacional que tenham celebrado.
+
+CPC_28_rev 21
+20
+74. As divulgações indicadas adiante são aplicáveis adicionalmente às enunciadas no CPC 06.
+De acordo com o CPC 06, o proprietário de propriedade para investimento proporciona as
+divulgações dos arrendadores acerca dos arrendamentos que tenham celebrado. O
+arrendatário que detenha propriedade para investimento como ativo de direito de uso
+proporciona divulgação dos arrendatários, como requerido pelo CPC 06, e divulgação dos
+arrendadores, como requerido pelo CPC 06, para qualquer arrendamento operacional que
+tenham celebrado. (Alterado pela Revisão CPC 13)
+75. A entidade deve divulgar:
+(a) se aplica o método do valor justo ou o método do custo;
+(b) caso aplique o método do valor justo, se, e em que circunstâncias os interesses em
+propriedade mantidos em arrendamentos operacionais são classificados e
+contabilizados como propriedade para investimento; (Eliminada pela Revisão CPC 13)
+(c) quando a classificação for difícil (ver item 14), os critérios que usa para distinguir
+propriedades para investimento de propriedades ocupadas pelo proprietário e de
+propriedades mantidas para venda no curso ordinário dos negócios;
+(d) os métodos e pressupostos significativos aplicados na determinação do valor justo de
+propriedade para investimento, incluindo declaração afirmando se a determinação do
+valor justo foi ou não suportada por evidências do mercado ou foi mais ponderada por
+outros fatores (que a entidade deve divulgar) por força da natureza da propriedade e da
+falta de dados de mercado comparáveis; (Eliminada pela Revisão CPC 03)
+(e) a extensão até a qual o valor justo da propriedade para investimento (tal como
+mensurado ou divulgado nas demonstrações contábeis) se baseia em avaliação de
+avaliador independente que possua qualificação profissional reconhecida e relevante e
+que tenha experiência recente no local e na categoria da propriedade para investimento
+que está sendo avaliada. Se não tiver havido tal avaliação, esse fato deve ser
+divulgado;
+(f) as quantias reconhecidas no resultado para:
+(i) lucros de rendas de propriedade para investimento;
+(ii) gastos operacionais diretos (incluindo reparos e manutenção) provenientes de
+propriedades para investimento que tenham gerado rendas durante o período;
+(iii) gastos operacionais diretos (incluindo reparos e manutenção) provenientes de
+propriedades para investimento que não tenham gerado rendas durante o período;
+e
+(iv) a alteração cumulativa no valor justo reconhecido nos resultados com a venda de
+propriedade para investimento de um conjunto de ativos em que se usa o método
+do custo para um conjunto em que se usa o método do valor justo (ver item 32C).
+(g) a existência e quantias de restrições sobre a capacidade de realização de propriedades
+para investimento ou a remessa de lucros e recebimentos de alienação;
+(h) obrigações contratuais para comprar, construir ou desenvolver propriedades para
+investimento ou para reparos, manutenção ou aumentos.
+Método do valor justo
+76. Além das divulgações exigidas pelo item 75, a entidade que aplique o método do valor justo
+dos itens 33 a 55 deve divulgar a conciliação entre os valores contábeis da propriedade para
+investimento no início e no fim do período, que mostre o seguinte:
+(a) adições, divulgando separadamente as adições resultantes de aquisições e as
+resultantes de dispêndio subsequente reconhecido no valor contábil do ativo;
+(b) adições que resultem de aquisições por intermédio de combinação de negócios;
+(c) ativos classificados como detidos para venda ou incluídos em grupo para alienação
+classificado como detido para venda de acordo com o Pronunciamento Técnico CPC 31
+– Ativo Não Circulante Mantido para Venda e Operação Descontinuada e outras
+alienações;
+
+CPC_28_rev 21
+21
+(d) ganhos ou perdas líquidos provenientes de ajustes de valor justo;
+(e) diferenças cambiais líquidas resultantes da conversão das demonstrações contábeis
+para outra moeda de apresentação, e da conversão de unidade operacional estrangeira
+para a moeda de apresentação da entidade que relata;
+(f) transferências para e de estoque e propriedade ocupada pelo proprietário; e
+(g) outras alterações.
+77. Quando a avaliação obtida para propriedade para investimento é ajustada significativamente
+para a finalidade das demonstrações contábeis, como, por exemplo, para evitar contagem
+dupla de ativos ou passivos que sejam reconhecidos como ativos e passivos separados
+conforme descrito no item 50, a entidade deve divulgar a conciliação entre a valorização
+obtida e a avaliação ajustada incluída nas demonstrações contábeis, mostrando
+separadamente a quantia agregada de quaisquer obrigações de arrendamento reconhecidas
+que tenham sido novamente adicionadas, e qualquer outro ajuste significativo.
+77. Quando a avaliação obtida para propriedade para investimento é ajustada,
+significativamente, para a finalidade das demonstrações contábeis, como, por exemplo, para
+evitar contagem dupla de ativos ou passivos que sejam reconhecidos como ativos e
+passivos separados, conforme descrito no item 50, a entidade deve divulgar a conciliação
+entre a valorização obtida e a avaliação ajustada incluída nas demonstrações contábeis,
+mostrando separadamente a quantia agregada de quaisquer passivos de arrendamento
+reconhecidos que tenham sido novamente adicionados, e qualquer outro ajuste significativo.
+(Alterado pela Revisão CPC 13)
+78. Nos casos excepcionais referidos no item 53, quando a entidade mensurar uma propriedade
+para investimento usando o método do custo do Pronunciamento Técnico CPC 27 – Ativo
+Imobilizado, a conciliação exigida pelo item 76 deve divulgar as quantias relacionadas com
+essa propriedade para investimento separadamente das quantias relacionadas com outras
+propriedades para investimento. Além disso, a entidade deve divulgar:
+78. Nos casos excepcionais referidos no item 53, quando a entidade mensurar a propriedade
+para investimento, usando o método do custo do CPC 27 ou de acordo com o CPC 06, a
+conciliação exigida pelo item 76 deve divulgar as quantias relacionadas com essa
+propriedade para investimento separadamente das quantias relacionadas com outras
+propriedades para investimento. Além disso, a entidade deve divulgar: (Alterado pela Revisão
+CPC 13)
+(a) descrição da propriedade para investimento;
+(b) explanação da razão pela qual o valor justo não pode ser determinado com
+confiabilidade;
+(b) explanação da razão pela qual o valor justo não pode ser mensurado com
+confiabilidade; (Alterada pela Revisão CPC 03)
+(c) se possível, o intervalo de estimativas dentro do qual seja altamente provável que o
+valor justo venha a recair; e
+(d) no momento da alienação da propriedade para investimento não escriturada pelo valor
+justo:
+(i) o fato de que a entidade alienou a propriedade para investimento não escriturada
+pelo valor justo;
+(ii) o valor contábil dessa propriedade para investimento no momento da venda; e
+(iii) a quantia de ganho ou perda reconhecida.
+Método do custo
+79. Além das divulgações exigidas pelo item 75, a entidade que aplique o método do custo do
+item 56 deve divulgar:
+(a) os métodos de depreciação usados;
+
+CPC_28_rev 21
+22
+(b) as vidas úteis ou as taxas de depreciação usadas;
+(c) o valor contábil bruto e a depreciação acumulada (agregada com as perdas por
+impairment acumuladas) no início e no fim do período;
+(d) a conciliação do valor contábil da propriedade para investimento no início e no fim do
+período, mostrando o seguinte:
+(i) adições, divulgando separadamente as adições que resultem de aquisições e as
+que resultem de dispêndio subseqüente reconhecido como ativo;
+(ii) adições que resultem de aquisições por intermédio de combinação de negócios;
+(iii) ativos classificados como detidos para venda ou incluídos em grupo para alienação
+classificado como detido para venda de acordo com o Pronunciamento Técnico
+CPC 31 – Ativo Não Circulante Mantido para Venda e Operação Descontinuada e
+outras alienações;
+(iv) depreciação;
+(v) a quantia de perdas por impairment reconhecida e a quantia de perdas por
+impairment revertida durante o período de acordo com o Pronunciamento Técnico
+CPC 01;
+(vi) diferenças cambiais líquidas resultantes da conversão das demonstrações
+contábeis para outra moeda de apresentação, e da conversão de unidade
+operacional estrangeira para a moeda de apresentação da entidade que relata;
+(vii) transferências para e de estoques e propriedade ocupada pelo proprietário; e
+(viii) outras alterações; e
+(e) (e) o valor justo das propriedades para investimento. Nos casos excepcionais descritos
+no item 53, quando a entidade não puder determinar o valor justo da propriedade para
+investimento com confiabilidade, ela deve divulgar:
+(e) o valor justo das propriedades para investimento. Nos casos excepcionais descritos no
+item 53, quando a entidade não puder mensurar o valor justo da propriedade para
+investimento com confiabilidade, ela deve divulgar: (Alterada pela Revisão CPC 03)
+(i) descrição da propriedade para investimento;
+(ii) explanação da razão pela qual o valor justo não pode ser determinado com
+confiabilidade; e
+(iii) se possível, o intervalo de estimativas dentro do qual seja altamente provável que o
+valor justo venha a recair.
+Disposições transitórias
+Método do valor justo
+80. A entidade que já tiver anteriormente aplicado os conceitos deste Pronunciamento e
+escolher pela primeira vez classificar e contabilizar alguns ou todos os interesses em
+propriedades elegíveis mantidos sob arrendamentos operacionais como propriedade para
+investimento deve reconhecer o efeito dessa escolha como ajuste no saldo de abertura dos
+resultados retidos do período no qual a escolha foi inicialmente feita. Além disso:
+(a) se a entidade tiver anteriormente divulgado publicamente (nas demonstrações
+contábeis ou de outro modo) o valor justo dessas propriedades em períodos anteriores
+(determinado em base que satisfaça a definição de valor justo do item 5 e a orientação
+dos itens 36 a 52), a entidade é incentivada, mas não é exigida a:
+(a) se a entidade tiver anteriormente divulgado publicamente (nas demonstrações
+contábeis ou de outro modo) o valor justo dessas propriedades em períodos anteriores
+(mensurado em base que satisfaça a definição de valor justo do Pronunciamento
+Técnico CPC 46), a entidade é incentivada, mas não é exigida a: (Alterada pela Revisão
+CPC 03)
+(i) ajustar o saldo de abertura dos resultados retidos relativamente ao período mais
+recente apresentado cujo valor justo foi publicamente divulgado; e
+(ii) re-expressar a informação comparativa desses períodos; e
+
+CPC_28_rev 21
+23
+(b) se a entidade não tiver anteriormente divulgado publicamente a informação descrita na
+alínea (a), a entidade não deve re-expressar a informação comparativa e deve divulgar
+esse fato.
+81. Este Pronunciamento exige tratamento diferente do exigido pelo Pronunciamento Técnico
+CPC 23 – Políticas Contábeis, Mudança de Estimativa e Retificação de Erro. Esse
+Pronunciamento exige que a informação comparativa seja refeita, a menos que essa re-
+elaboração seja impraticável.
+82. Quando a entidade aplicar este Pronunciamento pela primeira vez, o ajuste no saldo de
+abertura de lucros ou prejuízos acumulados inclui a reclassificação de qualquer quantia
+mantida no excedente de reavaliação da propriedade para investimento.
+Método do custo
+83. O Pronunciamento Técnico CPC 23 aplica-se a qualquer alteração nas políticas contábeis
+que seja feita quando a entidade aplicar este Pronunciamento pela primeira vez e optar por
+usar o método do custo. O efeito da alteração nas políticas contábeis inclui a reclassificação
+de qualquer quantia mantida no excedente de reavaliação da propriedade para investimento.
+84. Os requisitos dos itens 27 a 29 relativos à mensuração inicial de propriedade para
+investimento adquirida em uma transação de troca de ativos devem ser aplicados
+prospectivamente, apenas a futuras transações.
+84A. Em razão da inclusão do item 14A, a entidade deve aplicar essa alteração prospectivamente
+para aquisições de propriedades para investimento desde o início do primeiro período para o
+qual ela adota essa alteração. Consequentemente, a contabilização de aquisições de
+propriedades para investimento em períodos anteriores não deve ser ajustada. No entanto,
+a entidade pode optar por aplicar a alteração às aquisições individuais de propriedade para
+investimento que ocorreram antes do início do primeiro período anual que ocorre na data de
+vigência ou após, somente se as informações necessárias para aplicar a alteração a essas
+transações anteriores estejam disponíveis para a entidade. (Incluído pela Revisão CPC 06)
+84B. Eliminado.
+Transferência de propriedade para investimento
+84C. Na data da aplicação inicial das alterações nos itens 57 e 58, a entidade deve reavaliar a
+classificação das propriedades detidas nessa data e, se for o caso, reclassificar a
+propriedade aplicando os itens 7 a 14 para refletir as condições existentes nessa data.
+(Incluído pela Revisão CPC 12)
+84D. Não obstante os requisitos do item 84C, é permitido à entidade aplicar as alterações
+descritas nos itens 57 e 58, retrospectivamente, de acordo com o CPC 23 se, e somente se,
+isso for possível com o uso de informações disponíveis à época. (Incluído pela Revisão CPC 12)
+84E. Se, de acordo com o item 84C, a entidade reclassificar a propriedade na data da aplicação
+inicial, a entidade deve:
+(a) contabilizar a reclassificação aplicando os requisitos dos itens 59 a 64. Ao aplicar os
+itens 59 a 64, a entidade deve:
+(i) ler qualquer referência à data de alteração de uso como data da aplicação inicial; e
+(ii) reconhecer qualquer valor que, de acordo com os itens 59 a 64, teria sido
+reconhecido no resultado como ajuste ao saldo inicial de lucros acumulados na data
+da aplicação inicial;
+
+CPC_28_rev 21
+24
+(b) divulgar os valores reclassificados para, ou de, propriedade para investimento de
+acordo com o item 84C. A entidade deve divulgar os montantes reclassificados como
+parte da conciliação do valor contabilizado como propriedade para investimento no
+início e no final do período, conforme exigido nos itens 76 e 79. (Incluído pela Revisão CPC
+12)
+Data de vigência
+85H A Revisão de Pronunciamentos Técnicos nº 21, aprovada pelo CPC em 4 de novembro de
+2022, alterou o item 32B. A entidade deve aplicar essas alterações quando aplicar o CPC
+50. (Incluído pela Revisão de Pronunciamentos Técnicos n.º 21)
