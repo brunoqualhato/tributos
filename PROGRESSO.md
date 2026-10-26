@@ -1,8 +1,8 @@
 # Progresso do Acervo Tributário e Contábil
 
-Gerado em: 26/10/2026 11:01:45. Escopo definido em `scripts/plano.py`.
+Gerado em: 26/10/2026 13:53:26. Escopo definido em `scripts/plano.py`.
 
-**Total de Documentos no Acervo:** 822 / 859 (95.7%)
+**Total de Documentos no Acervo:** 874 / 859 (101.7%)
 
 | Pilar / Subtema | Documentos | Meta | Cobertura | Pasta | Fonte Principal |
 | :--- | ---: | ---: | :---: | :--- | :--- |
@@ -21,7 +21,7 @@ Gerado em: 26/10/2026 11:01:45. Escopo definido em `scripts/plano.py`.
 | 🟦 **RAT, FAP e Sistema S**: Normas de Riscos Ambientais, FAP e Contribuições a Terceiros | 4 | 5 | 80.0% | `reguladores/rfb/rat-fap-terceiros` | RFB / MPS |
 | **### 3. Produtos & Mercadorias** | | | | | |
 | ✅ **ICMS e DIFAL**: Lei Kandir (LC 87/1996) e Regulamentação do DIFAL (LC 190/2022) | 3 | 3 | 100.0% | `federal/leis-complementares/kandir` | normas.leg.br |
-| ✅ **CONFAZ e ICMS-ST**: Convênios ICMS de Substituição Tributária (Convênio 142/18) e Ajustes SINIEF | 33 | 30 | 110.0% | `estaduais/confaz` | confaz.fazenda.gov.br |
+| ✅ **CONFAZ e ICMS-ST**: Convênios ICMS de Substituição Tributária (Convênio 142/18) e Ajustes SINIEF | 34 | 30 | 113.3% | `estaduais/confaz` | confaz.fazenda.gov.br |
 | 🟦 **IPI e TIPI**: Lei do IPI (Lei 4.502/1964), RIPI/2010 integral (Decreto 7.212/2010) e Tabela TIPI | 3 | 5 | 60.0% | `federal/regulamentos/ripi` | normas.leg.br |
 | 🟦 **PIS/COFINS Monofásico**: Regimes Monofásicos de Bebidas, Fármacos e Autopeças (Leis 10.147/00 e 10.485/02) | 4 | 5 | 80.0% | `federal/leis-ordinarias/pis-cofins-monofasico` | normas.leg.br |
 | 🟦 **Comércio Exterior e Aduana**: Regulamento Aduaneiro consolidado (Decreto 6.759/2009) e Imposto de Importação | 2 | 3 | 66.7% | `federal/regulamentos/aduana` | normas.leg.br |
@@ -54,4 +54,4 @@ Gerado em: 26/10/2026 11:01:45. Escopo definido em `scripts/plano.py`.
 | 🟦 **Precedentes Vinculantes STF / STJ**: Súmulas Vinculantes, Temas de Repercussão Geral e Recursos Repetitivos | 6 | 10 | 60.0% | `jurisprudencia/precedentes-vinculantes` | STF / STJ |
 | 🟦 **Súmulas do CARF**: Súmulas e Enunciados Vinculantes do Conselho Administrativo de Recursos Fiscais | 6 | 10 | 60.0% | `reguladores/carf/sumulas` | carf.fazenda.gov.br |
 | ✅ **Instruções Normativas da RFB**: Instruções Normativas vigentes estruturantes da Receita Federal | 93 | 90 | 103.3% | `reguladores/rfb/instrucoes-normativas` | normas.receita.fazenda.gov.br |
-| ✅ **Atos Executivos e Soluções de Consulta**: Soluções de Consulta COSIT/DISIT, Portarias e Atos Declaratórios | 503 | 500 | 100.6% | `reguladores/rfb/outros-atos` | normas.receita.fazenda.gov.br |
+| ✅ **Atos Executivos e Soluções de Consulta**: Soluções de Consulta COSIT/DISIT, Portarias e Atos Declaratórios | 554 | 500 | 110.8% | `reguladores/rfb/outros-atos` | normas.receita.fazenda.gov.br |

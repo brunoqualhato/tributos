@@ -307,3 +307,16 @@ Expansão do acervo contábil e CONFAZ: 78 novas normas incorporadas (34 Pronunc
 ## 26/10/2026 11:10:00
 
 Expansão de dados estaduais, federais e atos RFB: 87 novas normas incorporadas. Estaduais: 10 leis de ITCMD/ITD e IPVA (RS, PR, SC, BA, PE), completando 8/8 em cada meta. RFB: 12 Instruções Normativas e 52 Soluções de Consulta. Federal: 13 normas temáticas (dividendos/JCP, offshores, retenções na fonte, custeio previdenciário, combustíveis, Kandir e PIS/COFINS). Total catalogado: 847 documentos (822/859 da meta, 95,7%). Auditoria de rede: 846/847 aprovados (99,9%); permanece apenas a falha preexistente da Circular Caixa 1.050/2024 (redirecionamento infinito).
+
+## 26/10/2026 11:57:57
+
+Ciclo periódico de 2h executado com sucesso em 20261026-1157. Novos documentos neste lote: 51. Total geral: 733. Aprovação auditoria: 99.9%.
+
+## 26/10/2026 13:50:00
+
+Sincronização com `origin/main` e incorporação de normas estruturantes de ICMS:
+- Convênio ICMS 38/2013 (CONFAZ): procedimentos da alíquota interestadual de 4% em importados e Ficha de Conteúdo de Importação (FCI).
+- Resolução SF nº 13/2012 (Senado Federal): alíquota interestadual de 4% para produtos importados (fim da guerra dos portos).
+- Resolução SF nº 22/1989 (Senado Federal): alíquotas interestaduais gerais do ICMS (12% e 7%).
+- Consolidação e unificação dos atos da RFB importados via lote 1157 com a expansão contábil/CONFAZ/estadual.
+
