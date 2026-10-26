@@ -85,8 +85,8 @@ PLANO = [
               "Regulamento Aduaneiro consolidado (Decreto 6.759/2009) e Imposto de Importação",
               "federal/regulamentos/aduana", 3, 1, "normas.leg.br"),
     ItemPlano("3. Produtos & Mercadorias", "RICMS Estaduais",
-              "Regulamentos do ICMS dos Principais Polos Econômicos (SP, RJ, MG)",
-              "estaduais/*/ricms", 15, 3, "Secretarias de Fazenda Estaduais"),
+              "Regulamentos do ICMS das 27 Unidades Federativas (Todas as 27 UFs)",
+              "estaduais/*/ricms", 27, 3, "Secretarias de Fazenda Estaduais"),
 
     # =========================================================================
     # PILAR 4: SERVIÇOS & RETENÇÕES NA FONTE (ISSQN, CSRF 4,65%, IRRF)
@@ -111,11 +111,11 @@ PLANO = [
               "Lei do ITR (Lei 9.393/1996) e Regulamento do ITR (Decreto 4.382/2002)",
               "federal/regulamentos/itr", 2, 1, "normas.leg.br"),
     ItemPlano("5. Patrimônio & Herança", "ITCMD Estadual",
-              "Leis Estaduais do ITCMD dos Principais Estados (SP, RJ, MG)",
-              "estaduais/*/leis/itcmd", 8, 3, "Assembleias Legislativas"),
+              "Leis Estaduais do ITCMD das 27 Unidades Federativas (Todas as 27 UFs)",
+              "estaduais/*/leis/itcmd", 27, 3, "Assembleias Legislativas"),
     ItemPlano("5. Patrimônio & Herança", "IPVA Estadual",
-              "Leis Estaduais do IPVA (SP, RJ, MG)",
-              "estaduais/*/leis/ipva", 8, 3, "Assembleias Legislativas"),
+              "Leis Estaduais do IPVA das 27 Unidades Federativas (Todas as 27 UFs)",
+              "estaduais/*/leis/ipva", 27, 3, "Assembleias Legislativas"),
     ItemPlano("5. Patrimônio & Herança", "ITBI Municipal",
               "Leis Municipais do ITBI das Capitais (SP, RJ, BH)",
               "municipais/*/leis/itbi", 8, 4, "Câmaras Municipais"),
