@@ -25,20 +25,25 @@ def gerar_progresso():
         "",
         f"Gerado em: {dt.datetime.now().strftime('%d/%m/%Y %H:%M:%S')}. Escopo definido em `scripts/plano.py`.",
         "",
-        "| Fase / Tipo de Norma | Documentos | Meta | Cobertura | Pasta | Fonte Principal |",
+        "| Pilar / Subtema | Documentos | Meta | Cobertura | Pasta | Fonte Principal |",
         "| :--- | ---: | ---: | :---: | :--- | :--- |"
     ]
 
     total_docs = 0
     total_meta = 0
+    setor_atual = None
 
     for item in PLANO:
+        if item.setor != setor_atual:
+            setor_atual = item.setor
+            linhas.append(f"| **### {setor_atual}** | | | | | |")
+            
         qtd = contar_documentos(item.caminho)
         total_docs += qtd
         total_meta += item.meta
         perc = f"{(qtd / item.meta * 100):.1f}%" if item.meta > 0 else "-"
         status = "✅" if qtd >= item.meta else ("🟦" if qtd > 0 else "⬜️")
-        linhas.append(f"| {status} **{item.setor}**: {item.nome} | {qtd} | {item.meta} | {perc} | `{item.caminho}` | {item.fonte} |")
+        linhas.append(f"| {status} **{item.pilar}**: {item.nome} | {qtd} | {item.meta} | {perc} | `{item.caminho}` | {item.fonte} |")
 
     linhas.insert(4, f"**Total de Documentos no Acervo:** {total_docs} / {total_meta} ({((total_docs/total_meta*100) if total_meta else 0):.1f}%)")
     linhas.insert(5, "")

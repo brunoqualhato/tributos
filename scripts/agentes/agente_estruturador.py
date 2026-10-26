@@ -14,6 +14,72 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from comum import gerar_frontmatter, salvar_atomico
 from html2md import converter_html_para_md
 
+def classificar_tributos_e_tema(texto_completo: str):
+    """Classifica automaticamente o tema tributário e lista os tributos afetados."""
+    txt = texto_completo.lower()
+    tributos = []
+    temas = []
+
+    # 1. Pilar Dividendos & Renda do Capital
+    if any(k in txt for k in ("dividendo", "juros sobre o capital próprio", "juros sobre capital próprio", "jcp", "distribuição de lucros", "lucro real", "lucro presumido", "offshore", "trust", "ganho de capital", "equivalência patrimonial")):
+        temas.append("Dividendos e Renda do Capital")
+        if "dividendo" in txt or "distribuição de lucros" in txt:
+            tributos.append("Dividendos/Lucros")
+        if "juros sobre o capital próprio" in txt or "juros sobre capital próprio" in txt or "jcp" in txt:
+            tributos.append("JCP")
+        if "lucro real" in txt or "lucro presumido" in txt or "irpj" in txt:
+            tributos.append("IRPJ")
+        if "csll" in txt or "contribuição social sobre o lucro" in txt:
+            tributos.append("CSLL")
+
+    # 2. Pilar Folha & Funcionário
+    if any(k in txt for k in ("folha de pagamento", "salário", "pró-labore", "pro-labore", "remuneração", "previdenciária", "inss", "rat", "fap", "fgts", "esocial", "seguridade social", "sistema s", "cprb", "desoneração da folha")):
+        temas.append("Folha de Pagamento e Encargos")
+        if "inss" in txt or "previdenciár" in txt:
+            tributos.append("INSS Patronal/Segurados")
+        if "rat" in txt or "fap" in txt:
+            tributos.append("RAT/FAP")
+        if "sistema s" in txt or "salário-educação" in txt or "incra" in txt:
+            tributos.append("Contribuições a Terceiros (Sistema S)")
+        if "fgts" in txt:
+            tributos.append("FGTS")
+        if "desoneração" in txt or "cprb" in txt:
+            tributos.append("CPRB (Desoneração da Folha)")
+
+    # 3. Pilar Produtos & Mercadorias
+    if any(k in txt for k in ("icms", "ipi", "mercadoria", "circulação de mercadorias", "industrialização", "tipi", "importação", "substituição tributária", "imposto seletivo", "monofásic")):
+        temas.append("Produtos e Mercadorias")
+        if "icms" in txt:
+            tributos.append("ICMS")
+        if "substituição tributária" in txt or "icms-st" in txt:
+            tributos.append("ICMS-ST")
+        if "ipi" in txt or "industrializados" in txt:
+            tributos.append("IPI")
+        if "importação" in txt or "aduaneir" in txt:
+            tributos.append("Imposto de Importação")
+        if "imposto seletivo" in txt:
+            tributos.append("Imposto Seletivo")
+
+    # 4. Pilar Serviços & Retenções
+    if any(k in txt for k in ("issqn", "imposto sobre serviços", "lc 116", "prestação de serviços", "csrf", "retenção na fonte", "cessão de mão de obra", "serviços profissionais")):
+        temas.append("Serviços e Retenções")
+        if "iss" in txt:
+            tributos.append("ISSQN")
+        if "csrf" in txt or ("retenção" in txt and ("pis" in txt or "cofins" in txt)):
+            tributos.append("CSRF (Retenção 4,65%)")
+        if "cessão de mão de obra" in txt or "retenção de 11%" in txt:
+            tributos.append("Retenção INSS 11%")
+
+    # PIS e COFINS gerais
+    if "pis" in txt and "PIS/Pasep" not in tributos:
+        tributos.append("PIS/Pasep")
+    if "cofins" in txt and "Cofins" not in tributos:
+        tributos.append("Cofins")
+
+    tema_principal = temas[0] if temas else "Tributário e Contábil Geral"
+    return tema_principal, sorted(list(set(tributos)))
+
+
 class AgenteEstruturador:
     def __init__(self):
         pass
@@ -47,23 +113,9 @@ class AgenteEstruturador:
                 
         texto_html = "\n\n".join(partes_texto) or (dados_ato.get("texto", "") or dados_ato.get("conteudo", ""))
         
-        # Identificação de tributos afetados na ementa
-        tributos = []
-        ementa_lower = ementa.lower()
-        if "irpj" in ementa_lower or "imposto sobre a renda" in ementa_lower or "renda" in ementa_lower:
-            tributos.append("IRPJ")
-        if "csll" in ementa_lower or "contribuição social sobre o lucro" in ementa_lower:
-            tributos.append("CSLL")
-        if "pis" in ementa_lower:
-            tributos.append("PIS/Pasep")
-        if "cofins" in ementa_lower:
-            tributos.append("Cofins")
-        if "simples nacional" in ementa_lower:
-            tributos.append("Simples Nacional")
-        if "ipi" in ementa_lower:
-            tributos.append("IPI")
-        if "itr" in ementa_lower or "territorial rural" in ementa_lower:
-            tributos.append("ITR")
+        # Classificação semântica do tema e tributos
+        texto_para_classificacao = f"{ementa} {dados_ato.get('epigrafeCompleta', '')} {texto_html[:3000]}"
+        tema_tributario, tributos = classificar_tributos_e_tema(texto_para_classificacao)
 
         epigrafe = dados_ato.get("epigrafeCompleta") or f"{tipo_nome} RFB nº {numero}, de {ano}"
         titulo = epigrafe
@@ -76,6 +128,7 @@ class AgenteEstruturador:
             "numero": numero,
             "ano": ano,
             "data": data_pub[:10] if data_pub else None,
+            "tema_tributario": tema_tributario,
             "tributos_afetados": tributos if tributos else None,
             "situacao": "Em vigor" if not dados_ato.get("revogado") else "Revogada",
             "revogada": bool(dados_ato.get("revogado")),
@@ -93,7 +146,7 @@ class AgenteEstruturador:
         arquivo_destino = pasta_destino / f"ato-{id_ato}-{numero or 'sn'}-{ano}.md"
 
         salvar_atomico(arquivo_destino, conteudo_final.encode("utf-8"))
-        print(f"[Agente Estruturador] Documento gerado: {arquivo_destino.relative_to(RAIZ)}")
+        print(f"[Agente Estruturador] Documento gerado: {arquivo_destino.relative_to(RAIZ)} [Tema: {tema_tributario}]")
         return arquivo_destino
 
     def estruturar_lei_federal(self, numero: str, ano: str, ementa: str, html: str, tipo: str = "Lei Complementar") -> Path:

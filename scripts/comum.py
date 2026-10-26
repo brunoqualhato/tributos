@@ -121,7 +121,7 @@ def gerar_frontmatter(meta: dict) -> str:
     linhas = ["---"]
     ordem = [
         "titulo", "esfera", "orgao", "tipo", "numero", "data", "ano",
-        "tributos_afetados", "situacao", "revogada", "fonte", "ementa"
+        "tema_tributario", "tributos_afetados", "situacao", "revogada", "fonte", "ementa"
     ]
     for chave in ordem:
         if chave in meta:
