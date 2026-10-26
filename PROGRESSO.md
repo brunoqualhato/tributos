@@ -1,8 +1,8 @@
 # Progresso do Acervo Tributário e Contábil
 
-Gerado em: 26/10/2026 10:00:39. Escopo definido em `scripts/plano.py`.
+Gerado em: 26/10/2026 10:45:58. Escopo definido em `scripts/plano.py`.
 
-**Total de Documentos no Acervo:** 657 / 859 (76.5%)
+**Total de Documentos no Acervo:** 735 / 859 (85.6%)
 
 | Pilar / Subtema | Documentos | Meta | Cobertura | Pasta | Fonte Principal |
 | :--- | ---: | ---: | :---: | :--- | :--- |
@@ -21,7 +21,7 @@ Gerado em: 26/10/2026 10:00:39. Escopo definido em `scripts/plano.py`.
 | 🟦 **RAT, FAP e Sistema S**: Normas de Riscos Ambientais, FAP e Contribuições a Terceiros | 4 | 5 | 80.0% | `reguladores/rfb/rat-fap-terceiros` | RFB / MPS |
 | **### 3. Produtos & Mercadorias** | | | | | |
 | 🟦 **ICMS e DIFAL**: Lei Kandir (LC 87/1996) e Regulamentação do DIFAL (LC 190/2022) | 2 | 3 | 66.7% | `federal/leis-complementares/kandir` | normas.leg.br |
-| 🟦 **CONFAZ e ICMS-ST**: Convênios ICMS de Substituição Tributária (Convênio 142/18) e Ajustes SINIEF | 13 | 30 | 43.3% | `estaduais/confaz` | confaz.fazenda.gov.br |
+| ✅ **CONFAZ e ICMS-ST**: Convênios ICMS de Substituição Tributária (Convênio 142/18) e Ajustes SINIEF | 33 | 30 | 110.0% | `estaduais/confaz` | confaz.fazenda.gov.br |
 | 🟦 **IPI e TIPI**: Lei do IPI (Lei 4.502/1964), RIPI/2010 integral (Decreto 7.212/2010) e Tabela TIPI | 3 | 5 | 60.0% | `federal/regulamentos/ripi` | normas.leg.br |
 | 🟦 **PIS/COFINS Monofásico**: Regimes Monofásicos de Bebidas, Fármacos e Autopeças (Leis 10.147/00 e 10.485/02) | 3 | 5 | 60.0% | `federal/leis-ordinarias/pis-cofins-monofasico` | normas.leg.br |
 | 🟦 **Comércio Exterior e Aduana**: Regulamento Aduaneiro consolidado (Decreto 6.759/2009) e Imposto de Importação | 2 | 3 | 66.7% | `federal/regulamentos/aduana` | normas.leg.br |
@@ -49,9 +49,9 @@ Gerado em: 26/10/2026 10:00:39. Escopo definido em `scripts/plano.py`.
 | **### 8. Reforma Tributária** | | | | | |
 | ✅ **Marco Constitucional e Leis Complementares**: Emenda Constitucional nº 132/2023, PLP 68/2024 e PLP 108/2024 | 8 | 8 | 100.0% | `reforma-tributaria` | Congresso Nacional |
 | **### 9. Contabilidade e Precedentes** | | | | | |
-| 🟦 **Normas Brasileiras de Contabilidade (CFC)**: Resoluções e Normas Técnicas Gerais do CFC (NBC TG) | 11 | 20 | 55.0% | `contabil/cfc` | cfc.org.br |
-| 🟦 **Pronunciamentos Técnicos CPC**: Pronunciamentos Técnicos do Comitê de Pronunciamentos Contábeis (CPC 00 a 48) | 14 | 25 | 56.0% | `contabil/cpc` | cpc.org.br |
+| ✅ **Normas Brasileiras de Contabilidade (CFC)**: Resoluções e Normas Técnicas Gerais do CFC (NBC TG) | 26 | 20 | 130.0% | `contabil/cfc` | cfc.org.br |
+| ✅ **Pronunciamentos Técnicos CPC**: Pronunciamentos Técnicos do Comitê de Pronunciamentos Contábeis (CPC 00 a 48) | 48 | 25 | 192.0% | `contabil/cpc` | cpc.org.br |
 | 🟦 **Precedentes Vinculantes STF / STJ**: Súmulas Vinculantes, Temas de Repercussão Geral e Recursos Repetitivos | 6 | 10 | 60.0% | `jurisprudencia/precedentes-vinculantes` | STF / STJ |
 | 🟦 **Súmulas do CARF**: Súmulas e Enunciados Vinculantes do Conselho Administrativo de Recursos Fiscais | 6 | 10 | 60.0% | `reguladores/carf/sumulas` | carf.fazenda.gov.br |
-| 🟦 **Instruções Normativas da RFB**: Instruções Normativas vigentes estruturantes da Receita Federal | 72 | 90 | 80.0% | `reguladores/rfb/instrucoes-normativas` | normas.receita.fazenda.gov.br |
+| 🟦 **Instruções Normativas da RFB**: Instruções Normativas vigentes estruturantes da Receita Federal | 81 | 90 | 90.0% | `reguladores/rfb/instrucoes-normativas` | normas.receita.fazenda.gov.br |
 | 🟦 **Atos Executivos e Soluções de Consulta**: Soluções de Consulta COSIT/DISIT, Portarias e Atos Declaratórios | 451 | 500 | 90.2% | `reguladores/rfb/outros-atos` | normas.receita.fazenda.gov.br |
