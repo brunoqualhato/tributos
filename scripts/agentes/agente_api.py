@@ -19,13 +19,22 @@ from comum import Rede, salvar_atomico
 API_RFB_PESQUISA = "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
 API_RFB_CORPO = "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/"
 
-# IDs de tipos normativos da Receita Federal no Sijut:
-# 100: Instrução Normativa, 7: Portaria, 9: Ato Declaratório Interpretativo, 49: Solução de Consulta COSIT
+# IDs reais de tipos normativos da Receita Federal no Sijut:
+# 42: Instrução Normativa, 79: IN Conjunta, 57: Portaria, 81: Portaria Conjunta, 10: Ato Declaratório Interpretativo, 11: ADN, 59: Parecer Normativo, 9: ADE, 72: Solução de Consulta, 73: Solução de Divergência, 75: SCI
 TIPOS_RFB = {
-    "IN": 100,
-    "PORTARIA": 7,
-    "ADI": 9,
-    "COSIT": 49
+    "IN": 42,
+    "IN_CONJUNTA": 79,
+    "PORTARIA": 57,
+    "PORTARIA_CONJUNTA": 81,
+    "ADI": 10,
+    "ADN": 11,
+    "PARECER_NORMATIVO": 59,
+    "ADE": 9,
+    "COSIT": 72,
+    "SC": 72,
+    "SD": 73,
+    "SCI": 75,
+    "AD": 7
 }
 
 class AgenteAPI:
@@ -34,7 +43,7 @@ class AgenteAPI:
         self.cache_dir = RAIZ / "_fonte" / "api"
         self.cache_dir.mkdir(parents=True, exist_ok=True)
 
-    def consultar_atos_rfb(self, termo: str = "", tipo_sigla: str = None, ano: int = None, pagina: int = 1, tamanho: int = 10) -> dict:
+    def consultar_atos_rfb(self, termo: str = "", tipo_sigla: str = None, ano: int = None, numero: str = None, data_inicio: str = None, data_fim: str = None, pagina: int = 1, tamanho: int = 10) -> dict:
         """Consulta o Sijut/RFB via API JSON oficial."""
         payload = {
             "tipoPesquisa": "formulario",
@@ -51,12 +60,20 @@ class AgenteAPI:
         }
         if tipo_sigla and tipo_sigla.upper() in TIPOS_RFB:
             payload["tiposAtosSelecionados"] = str(TIPOS_RFB[tipo_sigla.upper()])
+        if numero:
+            payload["numeroAto"] = str(numero)
         if ano:
+            payload["anoAto"] = str(ano)
             payload["dataInicio"] = f"01/01/{ano}"
             payload["dataFim"] = f"31/12/{ano}"
+        elif data_inicio or data_fim:
+            if data_inicio:
+                payload["dataInicio"] = data_inicio
+            if data_fim:
+                payload["dataFim"] = data_fim
             
         cache_key = hashlib.sha256((API_RFB_PESQUISA + json.dumps(payload, sort_keys=True)).encode()).hexdigest()
-        cache_file = self.cache_dir / "rfb" / f"pesquisa_{tipo_sigla or 'geral'}_{ano or 'todos'}_p{pagina}_{cache_key[:8]}.json.gz"
+        cache_file = self.cache_dir / "rfb" / f"pesquisa_{tipo_sigla or 'geral'}_{ano or 'todos'}_n{numero or 'todos'}_p{pagina}_{cache_key[:8]}.json.gz"
         
         if cache_file.exists():
             return json.loads(gzip.decompress(cache_file.read_bytes()).decode("utf-8"))

@@ -73,7 +73,7 @@ class AgenteLinkAuditor:
         print("[Agente Link Auditor] Iniciando auditoria e saneamento de links em paralelo...")
         arquivos = []
         for p in RAIZ.glob("**/*.md"):
-            if p.name in ("README.md", "PROGRESSO.md", "PLANO.md", "WORKLOG.md", "COBERTURA.md", "AGENT.md"):
+            if p.name in ("README.md", "PROGRESSO.md", "PLANO.md", "WORKLOG.md", "COBERTURA.md", "AGENT.md", "ACERVO.md"):
                 continue
             if any(part.startswith(".") or part.startswith("_") for part in p.parts):
                 continue
