@@ -1,8 +1,8 @@
 # Catálogo Geral do Acervo Tributário e Contábil (ACERVO.md)
 
-Documento gerado automaticamente em **26/10/2026 às 06:43:47**.
+Documento gerado automaticamente em **26/10/2026 às 06:45:22**.
 
-**Total de Documentos Catalogados e Auditados:** `564`
+**Total de Documentos Catalogados e Auditados:** `570`
 
 ---
 
@@ -14,7 +14,7 @@ Documento gerado automaticamente em **26/10/2026 às 06:43:47**.
 - **Folha de Pagamento e Encargos:** `263` documentos
 - **Patrimônio, Herança e Veículos:** `15` documentos
 - **Produtos e Mercadorias:** `57` documentos
-- **Reforma Tributária e Transição:** `4` documentos
+- **Reforma Tributária e Transição:** `10` documentos
 - **Serviços e Retenções:** `39` documentos
 - **Tributação Financeira e IOF:** `10` documentos
 - **Tributário e Contábil Geral:** `20` documentos
@@ -542,14 +542,20 @@ Documento gerado automaticamente em **26/10/2026 às 06:43:47**.
 | **Portaria CGSN nº 43, de 17 de novembro de 2023** | 2023 | Secretaria Especial da Receita Federal do Brasil | ICMS, ISSQN | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/134840) | [`reguladores/rfb/outros-atos/2023/ato-134840-43-2023.md`](reguladores/rfb/outros-atos/2023/ato-134840-43-2023.md) |
 | **Decreto nº 48.589, de 22 de março de 2023 (Regulamento do ICMS - RICMS/MG)** | 2023 | Governo do Estado de Minas Gerais / Secretaria de Estado de Fazenda | ICMS, ICMS-ST | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br;minas.gerais:estadual:decreto:2023-03-03;48589) | [`estaduais/mg/ricms/decreto-48589-2023.md`](estaduais/mg/ricms/decreto-48589-2023.md) |
 
-## Reforma Tributária e Transição (4 documentos)
+## Reforma Tributária e Transição (10 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
+| **Emenda Constitucional nº 132, de 20 de dezembro de 2023** | 2023 | Congresso Nacional | IBS, CBS, Imposto Seletivo, ICMS, ISSQN, IPI, PIS/Pasep, Cofins | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2023-12-20;132) | [`reforma-tributaria/emenda-constitucional-132-2023.md`](reforma-tributaria/emenda-constitucional-132-2023.md) |
 | **Emenda Constitucional nº 132, de 20 de dezembro de 2023 (Reforma Tributária)** | 2023 | Congresso Nacional / Presidência da República | IBS, CBS, Imposto Seletivo, Split Payment | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2023-12-20;132) | [`federal/constituicao/lei-132-2023.md`](federal/constituicao/lei-132-2023.md) |
+| **Estrutura e Governança do Comitê Gestor do IBS no PLP 108/2024** | 2024 | Congresso Nacional / Conselho Nacional de Política Fazendária | IBS, Comitê Gestor do IBS | Em tramitação | [Visualizar na Fonte Oficial](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2438865) | [`reforma-tributaria/comite-gestor-ibs/estrutura-governanca-plp108.md`](reforma-tributaria/comite-gestor-ibs/estrutura-governanca-plp108.md) |
 | **Projeto de Lei Complementar nº 108, de 2024 (Comitê Gestor do IBS e Processo Administrativo Tributário)** | 2024 | Congresso Nacional / Câmara dos Deputados | IBS, CBS, Imposto Seletivo, Split Payment | Aprovado no Congresso Nacional (Convertido na LC 227/2026) | [Visualizar na Fonte Oficial](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2438459) | [`reforma-tributaria/plp-108-2024.md`](reforma-tributaria/plp-108-2024.md) |
+| **Portaria MF nº 170, de 31 de janeiro de 2024 (Governança da CBS)** | 2024 | Ministério da Fazenda | CBS, IBS, Transição da Reforma | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:ministerio.fazenda:portaria:2024-01-31;170) | [`reforma-tributaria/cbs-receita-federal/portaria-mf-170-2024.md`](reforma-tributaria/cbs-receita-federal/portaria-mf-170-2024.md) |
+| **Arquitetura Operacional do Split Payment no PLP 68/2024** | 2024 | Congresso Nacional / Ministério da Fazenda | IBS, CBS, Split Payment Inteligente | Em tramitação | [Visualizar na Fonte Oficial](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2429846) | [`reforma-tributaria/split-payment/arquitetura-split-payment-plp68.md`](reforma-tributaria/split-payment/arquitetura-split-payment-plp68.md) |
 | **Modelo Operacional e Arquitetura Técnica do Split Payment Inteligente (IBS e CBS)** | 2024 | Ministério da Fazenda / Secretaria Extraordinária da Reforma Tributária / Comitê Gestor do IBS / Receita Federal do Brasil | IBS, CBS, Imposto Seletivo, Split Payment | Em tramitação / Regulamentação | [Visualizar na Fonte Oficial](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2432952) | [`reforma-tributaria/split-payment/split-payment-modelo-operacional.md`](reforma-tributaria/split-payment/split-payment-modelo-operacional.md) |
 | **Projeto de Lei Complementar nº 68, de 2024 (Lei Geral do IBS, CBS e Imposto Seletivo)** | 2024 | Congresso Nacional / Câmara dos Deputados | IBS, CBS, Imposto Seletivo, Split Payment | Aprovado no Congresso Nacional (Convertido na LC 214/2025) | [Visualizar na Fonte Oficial](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2432952) | [`reforma-tributaria/plp-68-2024.md`](reforma-tributaria/plp-68-2024.md) |
+| **Imposto Seletivo (Sin Tax) no PLP 68/2024** | 2024 | Congresso Nacional / Ministério da Fazenda | Imposto Seletivo, IBS, CBS | Em tramitação | [Visualizar na Fonte Oficial](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2429846) | [`reforma-tributaria/imposto-seletivo/incidencia-e-aliquotas-plp68.md`](reforma-tributaria/imposto-seletivo/incidencia-e-aliquotas-plp68.md) |
+| **Regimes Específicos e Diferenciados do IBS e CBS no PLP 68/2024** | 2024 | Congresso Nacional / Ministério da Fazenda | IBS, CBS, Regimes Diferenciados | Em tramitação | [Visualizar na Fonte Oficial](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2429846) | [`reforma-tributaria/regimes-especificos/regimes-diferenciados-plp68.md`](reforma-tributaria/regimes-especificos/regimes-diferenciados-plp68.md) |
 
 ## Serviços e Retenções (39 documentos)
 
