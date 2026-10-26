@@ -65,6 +65,10 @@ class AgenteAuditor:
         if not url or url == '""' or url == "null":
             return False, "Campo 'fonte' vazio ou nulo"
 
+        # Bloqueio de URL legada da RFB que não carrega o documento direto
+        if "sijut2consulta/consulta.action" in url:
+            return False, "Link legado da RFB detectado. Deve usar a URL direta: https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/{idAto}"
+
         try:
             parsed = urllib.parse.urlparse(url)
             dominio = parsed.netloc.lower()
@@ -78,15 +82,15 @@ class AgenteAuditor:
         except Exception as e:
             return False, f"URL de fonte inválida: {url} ({e})"
 
-        # Verificação HTTP HEAD/GET
+        # Verificação HTTP HEAD/GET (remove fragmento client-side se houver)
+        url_verificacao = url.split("#")[0] if "#" in url else url
         try:
-            status, bruto, _ = self.rede.get(url, max_tentativas=2)
+            status, bruto, _ = self.rede.get(url_verificacao, max_tentativas=2)
             if status in (200, 301, 302, 307, 308):
                 return True, f"HTTP {status}"
             else:
                 return False, f"Fonte respondeu com HTTP {status}"
         except Exception as e:
-            # Em caso de bloqueio por firewall ou cert local, registrar aviso mas considerar formato
             return False, f"Falha de conexão com a fonte oficial: {e}"
 
     def auditar_documento(self, caminho_md: Path, checar_rede: bool = True) -> tuple[bool, list[str]]:

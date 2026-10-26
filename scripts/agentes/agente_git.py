@@ -10,6 +10,7 @@ from pathlib import Path
 import subprocess
 import datetime as dt
 import sys
+import os
 
 RAIZ = Path(__file__).resolve().parent.parent.parent
 
@@ -17,8 +18,28 @@ class AgenteGit:
     def __init__(self):
         pass
 
+    def _obter_env(self):
+        env = os.environ.copy()
+        if "GH_TOKEN" not in env:
+            try:
+                proc = subprocess.run(
+                    ["git", "credential", "fill"],
+                    input="protocol=https\nhost=github.com\n",
+                    text=True,
+                    capture_output=True,
+                    check=False
+                )
+                for line in proc.stdout.splitlines():
+                    if line.startswith("password="):
+                        env["GH_TOKEN"] = line.split("=", 1)[1]
+                        break
+            except Exception:
+                pass
+        return env
+
     def executar(self, cmd: list, check: bool = True) -> str:
-        res = subprocess.run(cmd, cwd=str(RAIZ), capture_output=True, text=True)
+        env = self._obter_env()
+        res = subprocess.run(cmd, cwd=str(RAIZ), capture_output=True, text=True, env=env)
         if check and res.returncode != 0:
             raise RuntimeError(f"Erro no comando {' '.join(cmd)}: {res.stderr}")
         return res.stdout.strip()

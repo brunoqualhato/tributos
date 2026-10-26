@@ -120,6 +120,8 @@ class AgenteEstruturador:
         epigrafe = dados_ato.get("epigrafeCompleta") or f"{tipo_nome} RFB nº {numero}, de {ano}"
         titulo = epigrafe
         
+        url_visual = dados_ato.get("urlVisualizacao") or f"https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/{id_ato}"
+
         meta = {
             "titulo": titulo,
             "esfera": "Federal",
@@ -132,7 +134,7 @@ class AgenteEstruturador:
             "tributos_afetados": tributos if tributos else None,
             "situacao": "Em vigor" if not dados_ato.get("revogado") else "Revogada",
             "revogada": bool(dados_ato.get("revogado")),
-            "fonte": f"https://normas.receita.fazenda.gov.br/sijut2consulta/consulta.action?idAto={id_ato}",
+            "fonte": url_visual,
             "ementa": ementa
         }
 
