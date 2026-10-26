@@ -271,3 +271,7 @@ Expansão do Pilar 5 - Patrimônio: Lote 2 (MG e Municipais SP/RJ/BH) incorporad
 ## 26/10/2026 06:43:47
 
 Expansão do Pilar 7 - Tributação Financeira e IOF: 6 normas fundamentais incorporadas.
+
+## 26/10/2026 06:45:22
+
+Expansão do Pilar 8 - Reforma Tributária e Transição: 6 normas fundamentais incorporadas.
