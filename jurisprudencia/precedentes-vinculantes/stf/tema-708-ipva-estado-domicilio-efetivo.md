@@ -10,7 +10,7 @@ tema_tributario: "Patrimônio, Herança e Veículos"
 tributos_afetados: ["IPVA"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5110567&numeroProcesso=1016605&classeProcesso=RE&numeroTema=708"
+fonte: "https://portal.stf.jus.br/jurisprudencia/repercussaogeral/tema.asp?num=708"
 ementa: "A Constituição autoriza a cobrança do Imposto sobre a Propriedade de Veículos Automotores (IPVA) somente pelo Estado em que o contribuinte mantém sua sede ou domicílio tributário."
 ---
 

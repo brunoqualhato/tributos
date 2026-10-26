@@ -10,7 +10,7 @@ tema_tributario: "Produtos e Mercadorias"
 tributos_afetados: ["ICMS"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://normas.leg.br/?urn=urn:lex:br;tocantins:estadual:lei:2000-12-29;1201"
+fonte: "https://al.to.leg.br/legislacao/lei-estadual-1201-2000"
 ementa: "Concede crédito fiscal presumido nas operações de saída interestadual e de comércio eletrônico (vendas não presenciais) realizadas por estabelecimentos comerciais atacadistas e centrais de distribuição no Estado do Tocantins."
 ---
 

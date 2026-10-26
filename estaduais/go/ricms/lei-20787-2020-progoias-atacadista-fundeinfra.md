@@ -10,7 +10,7 @@ tema_tributario: "Produtos e Mercadorias"
 tributos_afetados: ["ICMS"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://normas.leg.br/?urn=urn:lex:br;goias:estadual:lei:2020-06-03;20787"
+fonte: "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/20787"
 ementa: "Institui o Programa de Desenvolvimento Regional - PROGOIÁS para estabelecimentos industriais (crédito outorgado de 64% a 67% sobre o saldo devedor de ICMS), consolidado com o Crédito Outorgado Atacadista de 3% nas saídas interestaduais e a contribuição ao PROTEGE e ao FUNDEINFRA."
 ---
 

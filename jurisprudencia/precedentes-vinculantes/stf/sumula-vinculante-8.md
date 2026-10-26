@@ -10,7 +10,7 @@ tema_tributario: "Tributário e Contábil Geral"
 tributos_afetados: ["INSS Patronal/Segurados", "Prescrição e Decadência"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1202"
+fonte: "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1209"
 ementa: "São inconstitucionais o parágrafo único do artigo 5º do Decreto-Lei nº 1.569/1977 e os artigos 45 e 46 da Lei nº 8.212/1991, que tratam de prescrição e decadência de crédito tributário."
 ---
 

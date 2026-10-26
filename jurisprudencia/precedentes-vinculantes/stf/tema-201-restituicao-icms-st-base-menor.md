@@ -10,7 +10,7 @@ tema_tributario: "Produtos e Mercadorias"
 tributos_afetados: ["ICMS", "ICMS-ST"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=2642284&numeroProcesso=593849&classeProcesso=RE&numeroTema=201"
+fonte: "https://portal.stf.jus.br/jurisprudencia/repercussaogeral/tema.asp?num=201"
 ementa: "É devida a restituição da diferença do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) pago a mais no regime de substituição tributária para a frente se a base de cálculo efetiva da operação for inferior à presumida."
 ---
 

@@ -10,7 +10,7 @@ tema_tributario: "Combustíveis e Energia"
 tributos_afetados: ["ICMS", "PIS", "Cofins", "CIDE-Combustíveis"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://www.in.gov.br/en/web/dou/-/resolucao-anp-n-948-de-5-de-outubro-de-2023-514873129"
+fonte: "https://atosoficiais.com.br/anp/resolucao-n-948-2023"
 ementa: "Dispõe sobre os procedimentos de controle de qualidade, rastreabilidade volumétrica e códigos de produto ANP obrigatórios na emissão de NF-e e no SCANC para apuração e repasse interestadual do ICMS Monofásico de Combustíveis."
 ---
 

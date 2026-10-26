@@ -10,7 +10,7 @@ tema_tributario: "Produtos e Mercadorias"
 tributos_afetados: ["ICMS"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://normas.leg.br/?urn=urn:lex:br;espirito.santo:estadual:lei:2016-07-26;10568"
+fonte: "https://legislacao.sefaz.es.gov.br/lei-estadual-10568-2016"
 ementa: "Institui o Programa de Desenvolvimento e Proteção à Economia do Estado do Espírito Santo (COMPETE-ES) e consolida os incentivos fiscais para o comércio atacadista (carga de 1,1% nas saídas interestaduais a 12%), comércio eletrônico não presencial (COMPETE Venda Não Presencial) e indústria (INVEST-ES)."
 ---
 
@@ -38,4 +38,5 @@ Aplicável às operações interestaduais realizadas por estabelecimentos comerc
 
 Aplicável às operações interestaduais que destinem mercadorias a consumidor final (pessoa física ou jurídica não contribuinte) realizadas por meio de internet (e-commerce / marketplace) ou central de telemarketing:
 - **Carga Tributária Efetiva na Origem (ES):** Crédito presumido de modo que a carga tributária efetiva devida ao Estado do Espírito Santo seja de **`1,10%`** (nas saídas com alíquota interestadual de 12% ou 4%).
-- **DIFAL de Destino (EC 87/2015 e LC 190/2022):** Como a alíquota interestadual de saída do Espírito Santo para qualquer UF é de **12%** (para produtos nacionais), o DIFAL Não Contribuinte devido à UF de destino é calculado deduzindo-se **12%** da alíquota interna da UF de destino (ex.: venda para consumidor final em SP cuja alíquota interna é 18% $ightarrow$ DIFAL para SP de apenas $18\% - 12\% = 6\%$, somado a $1,10\%$ no ES = carga total de ICMS de $7,10\%$, contra $18\%$ em uma operação interna em SP).
+- **DIFAL de Destino (EC 87/2015 e LC 190/2022):** Como a alíquota interestadual de saída do Espírito Santo para qualquer UF é de **12%** (para produtos nacionais), o DIFAL Não Contribuinte devido à UF de destino é calculado deduzindo-se **12%** da alíquota interna da UF de destino (ex.: venda para consumidor final em SP cuja alíquota interna é 18% $
+ightarrow$ DIFAL para SP de apenas $18\% - 12\% = 6\%$, somado a $1,10\%$ no ES = carga total de ICMS de $7,10\%$, contra $18\%$ em uma operação interna em SP).

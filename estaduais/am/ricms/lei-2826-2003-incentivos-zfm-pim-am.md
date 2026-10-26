@@ -10,7 +10,7 @@ tema_tributario: "Produtos e Mercadorias"
 tributos_afetados: ["ICMS", "IPI", "Imposto de Importação", "PIS", "Cofins"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://normas.leg.br/?urn=urn:lex:br;amazonas:estadual:lei:2003-09-29;2826"
+fonte: "https://sistemas.sefaz.am.gov.br/legislacao/lei-estadual-2826-2003"
 ementa: "Regulamenta a Política Estadual de Incentivos Fiscais e Extrafiscais nos termos da Constituição do Estado do Amazonas para as indústrias incentivadas do Polo Industrial de Manaus (PIM / ZFM), concedendo crédito estímulo de ICMS de 55% a 100% e diferimento na importação de insumos."
 ---
 

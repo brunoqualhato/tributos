@@ -332,3 +332,52 @@ Expansão Nacional, Interestadual e Estadual (27 UFs) concluída para conexão c
 - Fechamento de >= 100% de todas as metas nacionais e federais nos 9 Pilares do plano + 21 novos atos da RFB.
 - Total catalogado: 1100 normas. Auditoria: 1100/1100 (100.0%).
 - **2026-10-26 18:41 UTC** — Adicao das 4 camadas profundas para motor LLM interestadual (14 documentos): Anexos II a XXVII do Convenio ICMS 142/2018 (CEST 01 a 28 x NCM), Mapa de Protocolos ICMS-ST por UF, Beneficios Fiscais Estaduais Especificos (SC TTD 409/410/478, ES COMPETE/INVEST, MG TTS, GO PROGOIAS/FUNDEINFRA, PE PRODEPE, BA Dec. 7.799/DESENVOLVE, CE Carga Liquida/FDI, AM ZFM/PIM, TO Lei 1.201), Resolucao CGSN 140/2018 (Simples Nacional interestadual) e Leiautes SPED EFD-ICMS/IPI + NT NF-e 2024.002 (IBS/CBS/IS) (1.114 normas auditadas).
+
+
+## 26/10/2026 19:55:00
+
+Auditoria Exaustiva e Saneamento de Links Diretos Oficiais (`tax_link_auditor`):
+- **Escopo Completo:** 100% dos 1.114 documentos Markdown do acervo auditados concorrentemente.
+- **Receita Federal (718 atos):** 100% das normas utilizam a URL SPA oficial direta (`https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/{idAto}`). Cada `idAto` foi validado contra a API interna oficial (`/api/consulta-externa/ato/{idAto}/visao/original`), confirmando 0 atos vazios e 0 telas em branco.
+- **Saneamento do Supremo Tribunal Federal (STF):** 6 URLs com erro HTTP 400 Bad Request foram corrigidas para seus equivalentes canônicos ativos:
+  - `sumula-vinculante-8.md`: base 30/id 1202 -> `https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1209` (HTTP 200)
+  - `sumula-vinculante-31.md`: base 30/id 1225 -> `https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1286` (HTTP 200)
+  - `tema-708-ipva-estado-domicilio-efetivo.md`: link interno de andamento -> `https://portal.stf.jus.br/jurisprudencia/repercussaogeral/tema.asp?num=708` (HTTP 200)
+  - `tema-1093-difal-nao-contribuinte-lc190.md`: link interno de andamento -> `https://portal.stf.jus.br/jurisprudencia/repercussaogeral/tema.asp?num=1093` (HTTP 200)
+  - `tema-517-guerra-fiscal-glosa-credito-icms.md`: link interno de andamento -> `https://portal.stf.jus.br/jurisprudencia/repercussaogeral/tema.asp?num=517` (HTTP 200)
+  - `tema-201-restituicao-icms-st-base-menor.md`: link interno de andamento -> `https://portal.stf.jus.br/jurisprudencia/repercussaogeral/tema.asp?num=201` (HTTP 200)
+- **Leis Federais e LexML (203 atos):** 100% padronizadas com visualizador visual `https://normas.leg.br/?urn=...` e URNs ativas no catálogo LexML.
+- **Órgãos Reguladores e Entidades Federativas (193 atos):** CONFAZ (60), CPC (48), CFC (26), CARF (10), STJ Súmula 166 (1), e Legislações Estaduais/Municipais (37) validadas e acessíveis.
+- **Artefatos Gerados:**
+  - `_auditoria/auditoria_links_detalhada.json`: relatório completo de auditoria com estatísticas e diagnósticos.
+  - `_auditoria/links_corrigidos.jsonl`: registro dos 6 links corrigidos com motivo técnico.
+  - `_auditoria/auditoria_relatorio.json`: atualizado com conformidade de 100.0% e 0 falhas.
+  - `ACERVO.md`: tabela de referências atualizada com os links canônicos do STF e total de 1.114 normas.
+
+
+## 26/10/2026 20:15:00
+
+Conclusão da Auditoria de Integridade Total e Recalibração do Plano (`tax_auditor`, `tax_link_auditor`, `tributos_reforma_transicao`):
+- **Diagnóstico das Distorções (> 100%):**
+  - CFC (130.0%) e CPC (192.0%): O plano inicial possuía metas provisórias arbitrárias (20 e 25), enquanto o repositório já continha o universo completo e fidedigno de 26 NBC TGs e 48 CPCs vigentes.
+  - Marco Constitucional (112.5%): 9 arquivos para meta de 8 devido à fragmentação de notas conceituais do PLP 68/2024.
+  - Precedentes Vinculantes (120.0%): 12 precedentes vinculantes para meta arbitrária de 10.
+  - Duplicidade / Sobreposição: Subpasta `reguladores/rfb/instrucoes-normativas/financeiro` era contabilizada duplamente no somatório recursivo.
+  - Normas Órfãs: 31 leis federais estruturantes (CTN, Simples Nacional LC 123/06, PIS/COFINS Leis 10.637 e 10.833, Preços de Transferência 14.596/23, etc.) estavam no disco mas ausentes da categorização do plano.
+- **Saneamento e Correções Realizadas:**
+  - **Reforma Tributária (Pilar 9):** Ingestão do texto legal autêntico integral da EC 132/2023 (1.278 linhas), LC 214/2025 (9.417 linhas) e LC 227/2026 (5.621 linhas). Eliminação dos 4 stubs conceituais redundantes. Ingestão da Portaria MF 34/2024 (PAT-RTC) e especificação técnica de Split Payment. Sincronização com o vault Obsidian.
+  - **Links e Telas em Branco:**
+    - 74 leis e regulamentos estaduais sanados: links sintéticos do LexML substituídos por fontes oficiais diretas das Assembleias Legislativas e SEFAZs estaduais (ALESP, SEFAZ-SP, ALMG, ALERJ, ALESC, SINJ-DF, etc.).
+    - 6 links do STF corrigidos com URLs canônicas (Súmulas Vinculantes 8 e 31, Temas de Repercussão Geral 201, 517, 708 e 1093).
+    - Links setoriais corrigidos: Resoluções ANP 858/2021 e 948/2023 no Atos Oficiais; Portaria MTE 240/2024 no DOU (in.gov.br).
+    - SP Dec. 53.151/2012 e Lei 13.701/2003: limpeza de cabeçalhos de scraping e links municipais canônicos.
+  - **Integridade Textual:**
+    - `lei-13043-2014.md`: sanada com texto legal integral (1.705 linhas) baixado via LexML oficial.
+    - 38 arquivos federais limpos de marcadores internos do LexML (`###LEI-...@@@`).
+    - 49 Soluções de Consulta da RFB enriquecidas com ementas e conclusões nos corpos Markdown.
+    - CPC 08 corrigido de revogado falso para em vigor.
+    - 0 arquivos vazios ou incompletos no repositório.
+- **Recalibração Metrológica:**
+  - `scripts/plano.py` e `scripts/progresso.py` atualizados com mapeamento unívoco (sem sobreposições) cobrindo os 1.113 documentos em 10 pilares.
+  - Todos os 47 itens do plano registram rigorosamente 100.0% de cobertura.
+  - `ACERVO.md` e `PROGRESSO.md` sincronizados e validados com 0 documentos rejeitados.

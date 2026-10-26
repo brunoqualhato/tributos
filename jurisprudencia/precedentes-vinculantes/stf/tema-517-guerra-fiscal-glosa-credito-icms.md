@@ -10,7 +10,7 @@ tema_tributario: "Produtos e Mercadorias"
 tributos_afetados: ["ICMS"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=3926430&numeroProcesso=628075&classeProcesso=RE&numeroTema=517"
+fonte: "https://portal.stf.jus.br/jurisprudencia/repercussaogeral/tema.asp?num=517"
 ementa: "O estorno proporcional de crédito de ICMS efetuado pelo Estado de destino, em razão de crédito fiscal presumido concedido pelo Estado de origem sem autorização do Conselho Nacional de Política Fazendária (CONFAZ), não viola o princípio constitucional da não cumulatividade, ressalvados os benefícios convalidados pela Lei Complementar nº 160/2017 e pelo Convênio ICMS nº 190/2017."
 ---
 

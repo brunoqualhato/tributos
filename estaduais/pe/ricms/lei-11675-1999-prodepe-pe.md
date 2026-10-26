@@ -10,7 +10,7 @@ tema_tributario: "Produtos e Mercadorias"
 tributos_afetados: ["ICMS"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://normas.leg.br/?urn=urn:lex:br;pernambuco:estadual:lei:1999-10-11;11675"
+fonte: "https://www.sefaz.pe.gov.br/Legislacao/Tributaria/Documents/legislacao/Leis_Tributarias/1999/LeiEstadual11675_99.htm"
 ementa: "Consolida e altera o Programa de Desenvolvimento do Estado de Pernambuco - PRODEPE, concedendo crédito presumido de ICMS de 75% a 95% para indústrias, centrais de distribuição (CD) e comércio importador atacadista de portos e aeroportos pernambucanos."
 ---
 

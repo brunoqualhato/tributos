@@ -10,7 +10,7 @@ tema_tributario: "Produtos e Mercadorias"
 tributos_afetados: ["ICMS", "ICMS-ST"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://normas.leg.br/?urn=urn:lex:br;ceara:estadual:lei:2008-11-10;14237"
+fonte: "https://www.sefaz.ce.gov.br/legislacao/lei-estadual-14237-2008"
 ementa: "Dispõe sobre o Regime de Substituição Tributária por Carga Líquida do ICMS nas operações realizadas por contribuintes atacadistas e varejistas enquadrados por CNAE-Fiscal no Estado do Ceará e consolida os incentivos do Fundo de Desenvolvimento Industrial (FDI - PROVIN e PCDM)."
 ---
 

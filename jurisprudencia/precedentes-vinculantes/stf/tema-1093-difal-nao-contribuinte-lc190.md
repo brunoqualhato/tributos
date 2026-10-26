@@ -10,7 +10,7 @@ tema_tributario: "Produtos e Mercadorias"
 tributos_afetados: ["ICMS"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5906963&numeroProcesso=1287019&classeProcesso=RE&numeroTema=1093"
+fonte: "https://portal.stf.jus.br/jurisprudencia/repercussaogeral/tema.asp?num=1093"
 ementa: "Fixa que a cobrança do Diferencial de Alíquota alusivo ao ICMS (DIFAL), conforme introduzido pela Emenda Constitucional nº 87/2015 nas operações interestaduais destinadas a consumidor final não contribuinte, pressupõe a edição de lei complementar veiculando normas gerais (editada sob a forma da LC nº 190/2022)."
 ---
 

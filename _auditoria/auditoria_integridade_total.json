@@ -1,0 +1,671 @@
+{
+  "metadados_auditoria": {
+    "auditor": "Agente Auditor Independente de Conformidade e Autenticidade",
+    "timestamp": "2026-10-26T19:30:00Z",
+    "repositorio": "/Users/brunoqualhato/Downloads/tributos",
+    "escopo": "Auditoria de Integridade Total do Acervo (1.114 documentos normativos)"
+  },
+  "resumo": {
+    "total_documentos": 1114,
+    "taxa_conformidade_schema": "100.00%",
+    "documentos_com_inconformidades_criticas": 88,
+    "distribuicao_linhas": {
+      "<50": 734,
+      "50-100": 95,
+      "101-300": 99,
+      "301-1000": 98,
+      ">1000": 88
+    },
+    "distribuicao_esferas": {
+      "Federal": 879,
+      "Estadual": 91,
+      "Federal / Profissional": 74,
+      "Estadual / CONFAZ": 56,
+      "Municipal": 10,
+      "Estadual / Interestadual": 4
+    },
+    "distribuicao_temas": {
+      "Folha de Pagamento e Encargos": 415,
+      "Dividendos e Renda do Capital": 279,
+      "Produtos e Mercadorias": 173,
+      "Patrimônio, Herança e Veículos": 65,
+      "Contabilidade": 61,
+      "Serviços e Retenções": 47,
+      "Tributário e Contábil Geral": 34,
+      "Combustíveis e Energia": 15,
+      "Tributação Financeira e IOF": 12,
+      "Reforma Tributária e Transição": 9,
+      "Contabilidade e Precedentes": 4
+    }
+  },
+  "schema_e_fontes": {
+    "conformidade_frontmatter": "100% de presença do delimitador --- e formato YAML válido",
+    "campos_obrigatorios": {
+      "status": "CONFORME",
+      "campos_validados": [
+        "titulo", "esfera", "orgao", "tipo", "numero",
+        "ano", "data", "tema_tributario", "situacao", "fonte", "ementa"
+      ],
+      "inconformidades_encontradas": 0
+    },
+    "autenticidade_fontes": {
+      "status": "CONFORME",
+      "dominios_verificados": [
+        "gov.br", "leg.br", "jus.br", "cfc.org.br",
+        "cpc.org.br", "atosoficiais.com.br", "leismunicipais.com.br"
+      ],
+      "fontes_invalidas_ou_fora_da_whitelist": 0,
+      "urls_legadas_sijut2": 0
+    }
+  },
+  "profundidade_textual": {
+    "vazios_sem_corpo": [
+      {
+        "arquivo": "federal/leis-ordinarias/lei-13043-2014.md",
+        "titulo": "Lei nº 13.043, de 2 de outubro de 2014 (Desonerações e Mercado de Capitais)",
+        "tipo": "Lei Ordinária",
+        "linhas": 18,
+        "caracteres": 648,
+        "diagnostico": "Corpo completamente vazio após o título H1 (# Título). O texto normativo não foi extraído/gerado."
+      }
+    ],
+    "micro_resumos_criticos_normas_primarias": [
+      {
+        "arquivo": "reforma-tributaria/emenda-constitucional-132-2023.md",
+        "titulo": "Emenda Constitucional nº 132, de 20 de dezembro de 2023",
+        "tipo": "Emenda Constitucional",
+        "linhas": 45,
+        "caracteres": 3032,
+        "diagnostico": "Texto da Emenda Constitucional da Reforma Tributária (IBS/CBS/IS) resumido sinteticamente em apenas 45 linhas, suprimindo dezenas de alterações constitucionais e as regras de transição do ADCT."
+      },
+      {
+        "arquivo": "reforma-tributaria/plp-68-2024.md",
+        "titulo": "Projeto de Lei Complementar nº 68, de 2024 (Lei Geral do IBS, CBS e Imposto Seletivo)",
+        "tipo": "Projeto de Lei Complementar",
+        "linhas": 176,
+        "caracteres": 12797,
+        "diagnostico": "Resumo analítico do PLP 68 em vez do texto integral da Lei Complementar (~500 artigos). A norma foi fragmentada em artigos isolados em outros subdiretórios."
+      },
+      {
+        "arquivo": "reforma-tributaria/imposto-seletivo/incidencia-e-aliquotas-plp68.md",
+        "titulo": "Imposto Seletivo (Sin Tax) no PLP 68/2024",
+        "tipo": "Norma Técnica e Projeto de Lei",
+        "linhas": 32,
+        "caracteres": 1584,
+        "diagnostico": "Fragmento de 32 linhas destacando apenas incidência do IS no PLP 68."
+      },
+      {
+        "arquivo": "reforma-tributaria/regimes-especificos/regimes-diferenciados-plp68.md",
+        "titulo": "Regimes Específicos e Diferenciados do IBS e CBS no PLP 68/2024",
+        "tipo": "Norma Técnica e Projeto de Lei",
+        "linhas": 40,
+        "caracteres": 1898,
+        "diagnostico": "Fragmento de 40 linhas sintetizando regimes diferenciados do PLP 68."
+      },
+      {
+        "arquivo": "reforma-tributaria/split-payment/arquitetura-split-payment-plp68.md",
+        "titulo": "Arquitetura Operacional do Split Payment no PLP 68/2024",
+        "tipo": "Norma Técnica e Projeto de Lei",
+        "linhas": 37,
+        "caracteres": 1979,
+        "diagnostico": "Fragmento de 37 linhas com resumo dos arts. 49 a 53 do PLP 68."
+      },
+      {
+        "arquivo": "federal/leis-complementares/combustiveis/emenda-constitucional-123-2022-biocombustiveis.md",
+        "titulo": "Emenda Constitucional nº 123, de 14 de julho de 2022 (Regime Fiscal dos Biocombustíveis)",
+        "tipo": "Emenda Constitucional",
+        "linhas": 27,
+        "diagnostico": "Micro-resumo sintético de 27 linhas."
+      },
+      {
+        "arquivo": "federal/leis-complementares/iss/decreto-lei-406-1968-sociedades-uniprofissionais.md",
+        "titulo": "Decreto-Lei nº 406, de 31 de dezembro de 1968 — Art. 9º (ISS Uniprofissional)",
+        "tipo": "Decreto-Lei",
+        "linhas": 23,
+        "diagnostico": "Extração isolada de apenas um artigo (art. 9º) em 23 linhas."
+      },
+      {
+        "arquivo": "federal/leis-complementares/iss/lei-complementar-183-2021-iss.md",
+        "titulo": "Lei Complementar nº 183, de 22 de setembro de 2021 (Incidência do ISS e Transição)",
+        "tipo": "Lei Complementar",
+        "linhas": 24,
+        "diagnostico": "Micro-resumo sintético de 24 linhas."
+      },
+      {
+        "arquivo": "federal/leis-complementares/kandir/lei-complementar-194-2022.md",
+        "titulo": "Lei Complementar nº 194, de 23 de junho de 2022 (Essencialidade de Combustíveis, Energia e Telecomunicações)",
+        "tipo": "Lei Complementar",
+        "linhas": 40,
+        "diagnostico": "Micro-resumo sintético de 40 linhas para lei complementar estruturante do ICMS."
+      },
+      {
+        "arquivo": "federal/leis-complementares/kandir/lei-complementar-24-1975.md",
+        "titulo": "Lei Complementar nº 24, de 7 de janeiro de 1975 (Convênios CONFAZ e Isenções de ICMS)",
+        "tipo": "Lei Complementar",
+        "linhas": 45,
+        "diagnostico": "Micro-resumo sintético de 45 linhas para norma geral de isenções do ICMS."
+      },
+      {
+        "arquivo": "federal/leis-ordinarias/combustiveis/decreto-5060-2004-aliquotas-cide.md",
+        "titulo": "Decreto nº 5.060, de 30 de abril de 2004 (Fixação e Redução de Alíquotas da CIDE-Combustíveis)",
+        "tipo": "Decreto",
+        "linhas": 25,
+        "diagnostico": "Micro-resumo sintético de 25 linhas."
+      },
+      {
+        "arquivo": "federal/leis-ordinarias/combustiveis/lei-10560-2002.md",
+        "titulo": "Lei nº 10.560, de 13 de novembro de 2002 (PIS/Cofins Monofásico Combustíveis e Nafta)",
+        "tipo": "Lei Ordinária",
+        "linhas": 47,
+        "diagnostico": "Micro-resumo de 47 linhas."
+      },
+      {
+        "arquivo": "federal/leis-ordinarias/combustiveis/lei-13576-2017.md",
+        "titulo": "Lei nº 13.576, de 26 de dezembro de 2017 (RenovaBio e Créditos de Descarbonização - CBIO)",
+        "tipo": "Lei Ordinária",
+        "linhas": 35,
+        "diagnostico": "Micro-resumo de 35 linhas."
+      },
+      {
+        "arquivo": "federal/leis-ordinarias/combustiveis/lei-14292-2022.md",
+        "titulo": "Lei nº 14.292, de 3 de janeiro de 2022 (Venda Direta de Etanol e Tributação)",
+        "tipo": "Lei Ordinária",
+        "linhas": 34,
+        "diagnostico": "Micro-resumo de 34 linhas."
+      },
+      {
+        "arquivo": "federal/leis-ordinarias/combustiveis/lei-9478-1997.md",
+        "titulo": "Lei nº 9.478, de 6 de agosto de 1997 (Lei do Petróleo — Aspectos Tributários e Participações Governamentais)",
+        "tipo": "Lei Ordinária",
+        "linhas": 37,
+        "diagnostico": "Micro-resumo de 37 linhas."
+      },
+      {
+        "arquivo": "federal/leis-ordinarias/cprb/lei-13161-2015-aliquotas-cprb.md",
+        "titulo": "Lei nº 13.161, de 31 de agosto de 2015 (Facultatividade e Alíquotas da CPRB)",
+        "tipo": "Lei Ordinária",
+        "linhas": 24,
+        "diagnostico": "Micro-resumo de 24 linhas."
+      },
+      {
+        "arquivo": "federal/leis-ordinarias/dividendos-jcp/lei-14789-2023-jcp-patrimonio-liquido.md",
+        "titulo": "Lei nº 14.789, de 29 de dezembro de 2023 — Art. 9º da Lei nº 9.249/1995 (Juros sobre o Capital Próprio)",
+        "tipo": "Lei Ordinária",
+        "linhas": 32,
+        "diagnostico": "Micro-resumo de 32 linhas."
+      },
+      {
+        "arquivo": "federal/leis-ordinarias/fgts/decreto-99684-1990-regulamento-fgts.md",
+        "titulo": "Decreto nº 99.684, de 8 de novembro de 1990 (Regulamento Consolidado do FGTS)",
+        "tipo": "Decreto",
+        "linhas": 26,
+        "diagnostico": "Micro-resumo sintético de 26 linhas para o regulamento integral do FGTS."
+      },
+      {
+        "arquivo": "federal/leis-ordinarias/fgts/lei-complementar-110-2001-fgts.md",
+        "titulo": "Lei Complementar nº 110, de 29 de junho de 2001 (Contribuições Sociais Rescisórias do FGTS)",
+        "tipo": "Lei Complementar",
+        "linhas": 24,
+        "diagnostico": "Micro-resumo de 24 linhas."
+      },
+      {
+        "arquivo": "federal/leis-ordinarias/irpj-csll/lei-8541-1992-irpj.md",
+        "titulo": "Lei nº 8.541, de 23 de dezembro de 1992 (Tributação do IRPJ e Arbitramento)",
+        "tipo": "Lei Ordinária",
+        "linhas": 26,
+        "diagnostico": "Micro-resumo de 26 linhas."
+      },
+      {
+        "arquivo": "federal/leis-ordinarias/irrf-folha-plr/lei-11482-2007-tabela-progressiva-irpf.md",
+        "titulo": "Lei nº 11.482, de 31 de maio de 2007 (Tabela Progressiva Mensal do IRPF)",
+        "tipo": "Lei Ordinária",
+        "linhas": 25,
+        "diagnostico": "Micro-resumo de 25 linhas."
+      },
+      {
+        "arquivo": "federal/leis-ordinarias/irrf-folha-plr/lei-14663-2023-desconto-simplificado-irrf.md",
+        "titulo": "Lei nº 14.663, de 28 de agosto de 2023 (Desconto Simplificado Mensal do IRPF)",
+        "tipo": "Lei Ordinária",
+        "linhas": 23,
+        "diagnostico": "Micro-resumo de 23 linhas."
+      },
+      {
+        "arquivo": "federal/leis-ordinarias/offshores/lei-13254-2016-rerct.md",
+        "titulo": "Lei nº 13.254, de 13 de janeiro de 2016 (Regime Especial de Regularização Cambial e Tributária - RERCT)",
+        "tipo": "Lei Ordinária",
+        "linhas": 23,
+        "diagnostico": "Micro-resumo de 23 linhas."
+      },
+      {
+        "arquivo": "federal/leis-ordinarias/pis-cofins-monofasico/decreto-8426-2015.md",
+        "titulo": "Decreto nº 8.426, de 1º de abril de 2015 (Alíquotas de PIS/Cofins sobre Receitas Financeiras)",
+        "tipo": "Decreto",
+        "linhas": 41,
+        "diagnostico": "Micro-resumo de 41 linhas."
+      },
+      {
+        "arquivo": "federal/leis-ordinarias/pis-cofins-monofasico/lei-10925-2004-aliquota-zero-insumos-agro-cesta-basica.md",
+        "titulo": "Lei nº 10.925, de 23 de julho de 2004 (Alíquota Zero de PIS/Cofins e Crédito Presumido)",
+        "tipo": "Lei Ordinária",
+        "linhas": 30,
+        "diagnostico": "Micro-resumo de 30 linhas."
+      },
+      {
+        "arquivo": "federal/regulamentos/aduana/lei-14902-2024-programa-remessa-conforme-importacao.md",
+        "titulo": "Lei nº 14.902, de 27 de junho de 2024 (Tributação de Remessas Postais e Programa Remessa Conforme)",
+        "tipo": "Lei Ordinária",
+        "linhas": 24,
+        "diagnostico": "Micro-resumo de 24 linhas."
+      },
+      {
+        "arquivo": "federal/regulamentos/itr/lei-9393-1996-lei-do-itr.md",
+        "titulo": "Lei nº 9.393, de 19 de dezembro de 1996 (Lei do Imposto sobre a Propriedade Territorial Rural - ITR)",
+        "tipo": "Lei Ordinária",
+        "linhas": 30,
+        "diagnostico": "Micro-resumo de 30 linhas."
+      },
+      {
+        "arquivo": "federal/regulamentos/ripi/decreto-lei-1593-1977-ipi-bebidas-fumo.md",
+        "titulo": "Decreto-Lei nº 1.593, de 21 de dezembro de 1977 (Regime Especial de Controle do IPI - Bebidas e Cigarros)",
+        "tipo": "Decreto-Lei",
+        "linhas": 23,
+        "diagnostico": "Micro-resumo de 23 linhas."
+      },
+      {
+        "arquivo": "federal/regulamentos/ripi/lei-9779-1999-credito-ipi.md",
+        "titulo": "Lei nº 9.779, de 19 de janeiro de 1999 — Art. 11 (Manutenção de Crédito de IPI na Alíquota Zero)",
+        "tipo": "Lei Ordinária",
+        "linhas": 21,
+        "diagnostico": "Micro-resumo de 21 linhas."
+      },
+      {
+        "arquivo": "federal/resolucoes-senado/itcmd/decreto-lei-57-1966-delimitacao-itr-iptu-itcmd.md",
+        "titulo": "Decreto-Lei nº 57, de 18 de novembro de 1966 — Art. 15 (Critério da Destinação Econômica - IPTU vs ITR)",
+        "tipo": "Decreto-Lei",
+        "linhas": 22,
+        "diagnostico": "Micro-resumo de 22 linhas."
+      },
+      {
+        "arquivo": "municipais/mg/servicos-iss/decreto-17174-2019.md",
+        "titulo": "Decreto Municipal nº 17.174, de 27 de setembro de 2019 (RISS-BH)",
+        "tipo": "Decreto Municipal",
+        "linhas": 28,
+        "diagnostico": "Micro-resumo de 28 linhas para regulamento municipal do ISS de BH."
+      },
+      {
+        "arquivo": "municipais/rj/servicos-iss/decreto-44637-2018.md",
+        "titulo": "Decreto Municipal nº 44.637, de 18 de junho de 2018 (RISS-RJ)",
+        "tipo": "Decreto Municipal",
+        "linhas": 31,
+        "diagnostico": "Micro-resumo de 31 linhas para regulamento municipal do ISS do Rio."
+      },
+      {
+        "arquivo": "municipais/sp/leis/iptu/lei-6989-1966.md",
+        "titulo": "Lei Municipal nº 6.989, de 29 de dezembro de 1966 (IPTU-SP)",
+        "tipo": "Lei Municipal",
+        "linhas": 41,
+        "diagnostico": "Micro-resumo de 41 linhas para lei do IPTU de SP."
+      },
+      {
+        "arquivo": "reguladores/mte-caixa/fgts-esocial/decreto-8373-2014-esocial.md",
+        "titulo": "Decreto nº 8.373, de 11 de dezembro de 2014 (Instituição do eSocial)",
+        "tipo": "Decreto",
+        "linhas": 27,
+        "diagnostico": "Micro-resumo de 27 linhas."
+      },
+      {
+        "arquivo": "reguladores/rfb/instrucoes-normativas/financeiro/lei-14754-2023-fundos-fechados-fiagro-fii.md",
+        "titulo": "Lei nº 14.754, de 12 de dezembro de 2023 — Capítulos II e III (Tributação de Fundos Fechados no Brasil)",
+        "tipo": "Lei Ordinária",
+        "linhas": 29,
+        "diagnostico": "Micro-resumo de 29 linhas."
+      },
+      {
+        "arquivo": "reguladores/rfb/rat-fap-terceiros/decreto-10410-2020-fap.md",
+        "titulo": "Decreto nº 10.410, de 30 de junho de 2020 (art. 202-A - Metodologia FAP/RAT)",
+        "tipo": "Decreto",
+        "linhas": 26,
+        "diagnostico": "Micro-resumo de 26 linhas."
+      },
+      {
+        "arquivo": "reguladores/rfb/rat-fap-terceiros/decreto-lei-2318-1986-sistema-s.md",
+        "titulo": "Decreto-Lei nº 2.318, de 30 de dezembro de 1986 (Revogação do Teto de 20 Salários Mínimos para Sistema S)",
+        "tipo": "Decreto-Lei",
+        "linhas": 30,
+        "diagnostico": "Micro-resumo de 30 linhas."
+      },
+      {
+        "arquivo": "reguladores/rfb/rat-fap-terceiros/lei-8029-1990-sistema-s-sebrae.md",
+        "titulo": "Lei nº 8.029, de 12 de abril de 1990 (Contribuição Adicional ao SEBRAE, APEX-Brasil e ABDI - Sistema S)",
+        "tipo": "Lei Ordinária",
+        "linhas": 22,
+        "diagnostico": "Micro-resumo de 22 linhas."
+      },
+      {
+        "arquivo": "reguladores/rfb/rat-fap-terceiros/portaria-conjunta-rfb-inss-1-2021-ntep.md",
+        "titulo": "Portaria Conjunta RFB / INSS nº 1, de 15 de janeiro de 2021",
+        "tipo": "Portaria Conjunta",
+        "linhas": 26,
+        "diagnostico": "Micro-resumo de 26 linhas."
+      },
+      {
+        "arquivo": "reguladores/rfb/rat-fap-terceiros/portaria-interministerial-mptp-me-2-2022-fap.md",
+        "titulo": "Portaria Interministerial MTP/ME nº 2, de 21 de setembro de 2022 (FAP Anual)",
+        "tipo": "Portaria Interministerial",
+        "linhas": 26,
+        "diagnostico": "Micro-resumo de 26 linhas."
+      }
+    ],
+    "stubs_sinteticos_estaduais_ipva_itcmd": {
+      "descricao": "43 arquivos de leis estaduais de IPVA e ITCMD gerados por scripts/templates com exatamente 40 ou 48 linhas em vez do texto integral legislativo estadual.",
+      "total_arquivos": 43,
+      "ipva_stubs_22_ufs": [
+        "estaduais/ac/leis/ipva/lei-112-2002.md",
+        "estaduais/al/leis/ipva/lei-6555-2004.md",
+        "estaduais/am/leis/ipva/lei-19-1997.md",
+        "estaduais/ap/leis/ipva/lei-400-1997.md",
+        "estaduais/ce/leis/ipva/lei-12023-1992.md",
+        "estaduais/df/leis/ipva/lei-7431-1985.md",
+        "estaduais/es/leis/ipva/lei-6999-2001.md",
+        "estaduais/go/leis/ipva/lei-11651-1991.md",
+        "estaduais/ma/leis/ipva/lei-7799-2002.md",
+        "estaduais/ms/leis/ipva/lei-1810-1997.md",
+        "estaduais/mt/leis/ipva/lei-7301-2000.md",
+        "estaduais/pa/leis/ipva/lei-6017-1996.md",
+        "estaduais/pb/leis/ipva/lei-11007-2017.md",
+        "estaduais/pi/leis/ipva/lei-4548-1992.md",
+        "estaduais/rn/leis/ipva/lei-6967-1996.md",
+        "estaduais/ro/leis/ipva/lei-950-2000.md",
+        "estaduais/rr/leis/ipva/lei-59-1993.md",
+        "estaduais/se/leis/ipva/lei-7655-2013.md",
+        "estaduais/sp/leis/ipva/lei-13296-2008.md",
+        "estaduais/to/leis/ipva/lei-1287-2001.md"
+      ],
+      "itcmd_stubs_21_ufs": [
+        "estaduais/ac/leis/itcmd/lei-112-2002.md",
+        "estaduais/al/leis/itcmd/lei-5077-1989.md",
+        "estaduais/am/leis/itcmd/lei-19-1997.md",
+        "estaduais/ap/leis/itcmd/lei-400-1997.md",
+        "estaduais/ce/leis/itcmd/lei-15812-2015.md",
+        "estaduais/df/leis/itcmd/lei-3804-2006.md",
+        "estaduais/es/leis/itcmd/lei-10011-2013.md",
+        "estaduais/go/leis/itcmd/lei-11651-1991.md",
+        "estaduais/ma/leis/itcmd/lei-7799-2002.md",
+        "estaduais/ms/leis/itcmd/lei-1810-1997.md",
+        "estaduais/mt/leis/itcmd/lei-7850-2002.md",
+        "estaduais/pa/leis/itcmd/lei-5529-1989.md",
+        "estaduais/pb/leis/itcmd/lei-5123-1989.md",
+        "estaduais/pi/leis/itcmd/lei-4261-1989.md",
+        "estaduais/rn/leis/itcmd/lei-9993-2015.md",
+        "estaduais/ro/leis/itcmd/lei-959-2000.md",
+        "estaduais/rr/leis/itcmd/lei-59-1993.md",
+        "estaduais/se/leis/itcmd/lei-7724-2013.md",
+        "estaduais/to/leis/itcmd/lei-1287-2001.md"
+      ]
+    }
+  },
+  "duplicidade_e_fragmentacao": {
+    "normas_fatiadas": {
+      "PLP_68_2024": {
+        "descricao": "O Projeto de Lei Complementar nº 68/2024 (Lei Geral do IBS, CBS e Imposto Seletivo) foi artificialmente fatiado em 5 arquivos com divergência de metadados, número de proposição e situação de vigência.",
+        "arquivos": [
+          {
+            "arquivo": "reforma-tributaria/plp-68-2024.md",
+            "titulo": "Projeto de Lei Complementar nº 68, de 2024 (Lei Geral do IBS, CBS e Imposto Seletivo)",
+            "linhas": 176,
+            "situacao": "Aprovado no Congresso Nacional (Convertido na LC 214/2025)",
+            "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2432952"
+          },
+          {
+            "arquivo": "reforma-tributaria/split-payment/arquitetura-split-payment-plp68.md",
+            "titulo": "Arquitetura Operacional do Split Payment no PLP 68/2024",
+            "linhas": 37,
+            "situacao": "Em tramitação",
+            "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2429846"
+          },
+          {
+            "arquivo": "reforma-tributaria/split-payment/split-payment-modelo-operacional.md",
+            "titulo": "Modelo Operacional e Arquitetura Técnica do Split Payment Inteligente (IBS e CBS)",
+            "linhas": 165,
+            "situacao": "Em tramitação / Regulamentação",
+            "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2432952"
+          },
+          {
+            "arquivo": "reforma-tributaria/imposto-seletivo/incidencia-e-aliquotas-plp68.md",
+            "titulo": "Imposto Seletivo (Sin Tax) no PLP 68/2024",
+            "linhas": 32,
+            "situacao": "Em tramitação",
+            "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2429846"
+          },
+          {
+            "arquivo": "reforma-tributaria/regimes-especificos/regimes-diferenciados-plp68.md",
+            "titulo": "Regimes Específicos e Diferenciados do IBS e CBS no PLP 68/2024",
+            "linhas": 40,
+            "situacao": "Em tramitação",
+            "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2429846"
+          }
+        ]
+      }
+    },
+    "duplicidades_normativas_chave_identica": {
+      "total_casos": 28,
+      "casos_criticos": [
+        {
+          "norma": "Decreto-Lei 57/1966",
+          "arquivos": [
+            "federal/decretos-leis/decreto-lei-57-1966.md",
+            "federal/resolucoes-senado/itcmd/decreto-lei-57-1966-delimitacao-itr-iptu-itcmd.md"
+          ]
+        },
+        {
+          "norma": "Decreto 5060/2004",
+          "arquivos": [
+            "federal/leis-ordinarias/combustiveis/decreto-5060-2004-aliquotas-cide.md",
+            "federal/regulamentos/cide/decreto-5060-2004.md"
+          ]
+        },
+        {
+          "norma": "Instrução Normativa 2053/2021",
+          "arquivos": [
+            "federal/leis-ordinarias/cprb/in-rfb-2053-2021-cprb.md",
+            "reguladores/rfb/instrucoes-normativas/2021/ato-122005-2053-2021.md"
+          ]
+        },
+        {
+          "norma": "Lei Estadual 19/1997 (AM)",
+          "arquivos": [
+            "estaduais/am/leis/ipva/lei-19-1997.md",
+            "estaduais/am/leis/itcmd/lei-19-1997.md"
+          ]
+        },
+        {
+          "norma": "Lei Estadual 400/1997 (AP)",
+          "arquivos": [
+            "estaduais/ap/leis/ipva/lei-400-1997.md",
+            "estaduais/ap/leis/itcmd/lei-400-1997.md"
+          ]
+        },
+        {
+          "norma": "Lei Estadual 11651/1991 (GO)",
+          "arquivos": [
+            "estaduais/go/leis/ipva/lei-11651-1991.md",
+            "estaduais/go/leis/itcmd/lei-11651-1991.md"
+          ]
+        },
+        {
+          "norma": "Lei Estadual 7799/2002 (MA)",
+          "arquivos": [
+            "estaduais/ma/leis/ipva/lei-7799-2002.md",
+            "estaduais/ma/leis/itcmd/lei-7799-2002.md"
+          ]
+        },
+        {
+          "norma": "Lei Estadual 1810/1997 (MS)",
+          "arquivos": [
+            "estaduais/ms/leis/ipva/lei-1810-1997.md",
+            "estaduais/ms/leis/itcmd/lei-1810-1997.md"
+          ]
+        },
+        {
+          "norma": "Lei Estadual 59/1993 (RR)",
+          "arquivos": [
+            "estaduais/rr/leis/ipva/lei-59-1993.md",
+            "estaduais/rr/leis/itcmd/lei-59-1993.md"
+          ]
+        },
+        {
+          "norma": "Lei Estadual 1287/2001 (TO)",
+          "arquivos": [
+            "estaduais/to/leis/ipva/lei-1287-2001.md",
+            "estaduais/to/leis/itcmd/lei-1287-2001.md"
+          ]
+        }
+      ]
+    }
+  },
+  "vigencia_inconsistencias": {
+    "normas_em_vigor_marcadas_como_revogadas": [
+      {
+        "arquivo": "contabil/cpc/cpc-08.md",
+        "titulo": "Pronunciamento Técnico CPC 08 - Custos de Transação e Prêmios na Emissão de Títulos e Valores Mobiliários (REVOGADO)",
+        "situacao_atual": "Revogada",
+        "revogada": true,
+        "diagnostico_vigencia": "ERRO DE VIGÊNCIA CRÍTICO: O CPC 08 (R1) - Custos de Transação e Prêmios na Emissão de Títulos e Valores Mobiliários está plenamente EM VIGOR no Brasil (aprovado pela Deliberação CVM nº 649/2010 e Resolução CFC nº 1.314/2010 / NBC TG 08). O texto original de 2008 foi apenas revisado para R1, mas a norma contábil NUNCA foi revogada."
+      }
+    ],
+    "normas_revogadas_marcadas_como_em_vigor": [
+      {
+        "arquivo": "municipais/sp/servicos-iss/decreto-53151-2012.md",
+        "titulo": "Decreto nº 53.151, de 17 de maio de 2012 (Regulamento do ISS de São Paulo - RISS/SP)",
+        "situacao_atual": "Em vigor",
+        "revogada": false,
+        "diagnostico_vigencia": "ERRO DE VIGÊNCIA CRÍTICO: O Decreto nº 53.151/2012 (antigo RISS/SP) foi expressamente revogado pelo Decreto Municipal nº 58.701, de 4 de abril de 2019 (art. 177 - Novo Regulamento do ISS de São Paulo). Deve ser marcado como situacao='Revogada' e revogada=true."
+      }
+    ],
+    "analise_cpc_e_cfc": {
+      "cpc_17_e_30": "Revogados a partir de 01/01/2018 pelo CPC 47 (Receita de Contrato com Cliente). Marcados corretamente como Revogados em contabil/cpc/cpc-17.md e cpc-30.md.",
+      "cpc_38": "Revogado a partir de 01/01/2018 pelo CPC 48 (Instrumentos Financeiros). Marcado corretamente como Revogado em contabil/cpc/cpc-38.md.",
+      "cpc_13": "Revogado após o término da fase de adoção inicial das Leis 11.638/07 e MP 449/08. Marcado como Revogado em contabil/cpc/cpc-13.md.",
+      "lacuna_cfc": "No acervo do CFC (contabil/cfc/), não foram geradas as normas equivalentes NBC TG 08 (em vigor), NBC TG 17, NBC TG 30 e NBC TG 38, gerando assimetria entre os pilares CPC e CFC."
+    }
+  },
+  "qualidade_formal_corpo": {
+    "html_residual": {
+      "status": "CONFORME",
+      "contagem": 0,
+      "detalhes": "Nenhuma tag HTML bruta residual encontrada no corpo de nenhum dos 1.114 documentos."
+    },
+    "caracteres_corrompidos_ou_nulos": {
+      "status": "CONFORME",
+      "contagem": 0,
+      "detalhes": "Nenhum byte nulo (\\x00) ou caractere de substituição (\\ufffd) detectado."
+    },
+    "mojibake": {
+      "status": "CONFORME",
+      "contagem": 0,
+      "detalhes": "Todos os arquivos são UTF-8 válidos. Caracteres acentuados em caixa alta (ex: Â em CÂMBIO) foram inspecionados e validados como grafia oficial correta."
+    },
+    "scraping_boilerplate": [
+      {
+        "arquivo": "municipais/sp/servicos-iss/decreto-53151-2012.md",
+        "artefatos": [
+          "DECRETO Nº 53.151 DE 17 DE MAIO DE 2012 « Catálogo de Legislação Municipal",
+          "Aguarde...",
+          "Acesso à informação",
+          "Transparência São Paulo | Diário Oficial | Consultar Processos | 156",
+          "CASA CIVIL DO GABINETE DO PREFEITO",
+          "A+ A- A Acessibilidade"
+        ],
+        "diagnostico": "Cabeçalho de scraping do portal municipal incorporado indevidamente no corpo do texto."
+      },
+      {
+        "arquivo": "municipais/sp/servicos-iss/lei-13701-2003.md",
+        "artefatos": [
+          "Aguarde...",
+          "Acesso à informação",
+          "Transparência São Paulo | Diário Oficial | Consultar Processos | 156",
+          "CASA CIVIL DO GABINETE DO PREFEITO",
+          "A+ A- A Acessibilidade"
+        ],
+        "diagnostico": "Cabeçalho de scraping do portal municipal incorporado indevidamente no corpo do texto."
+      }
+    ],
+    "marcadores_brutos_raspagem_lexml": {
+      "total_arquivos": 38,
+      "exemplos": [
+        {"arquivo": "federal/decretos-leis/lei-288-1967.md", "marcador": "###DEL-000288-280267@@@"},
+        {"arquivo": "federal/leis-complementares/ctn/lei-5172-1966.md", "marcador": "###LEI-005172-251066@@@"},
+        {"arquivo": "federal/leis-complementares/kandir/lei-87-1996.md", "marcador": "###LCP-000087-130996@@@"},
+        {"arquivo": "federal/regulamentos/rir/lei-9580-2018.md", "marcador": "D9580"},
+        {"arquivo": "federal/regulamentos/ripi/lei-7212-2010.md", "marcador": "###DEC-007212-0-000-15-06-2010-PUB-01@@@"},
+        {"arquivo": "federal/regulamentos/rps/lei-3048-1999.md", "marcador": "###DEC-003048-0-000-06-05-1999@@@"},
+        {"arquivo": "federal/regulamentos/iof/decreto-6306-2007.md", "marcador": "###DEC-006306-0-000-14-12-2007@@@"},
+        {"arquivo": "federal/leis-complementares/lei-105-2001.md", "marcador": "###LCP-000105-0-000-10-01-2001@@@"},
+        {"arquivo": "federal/leis-complementares/lei-118-2005.md", "marcador": "###LCP-000118-0-000-09-02-2005@@@"},
+        {"arquivo": "federal/leis-ordinarias/dividendos-jcp/lei-6404-1976.md", "marcador": "###LEI-006404-0-000-15-12-1976@@@"}
+      ]
+    },
+    "inconsistencias_nomenclatura_arquivo_vs_tipo": [
+      {
+        "arquivo": "federal/regulamentos/rir/lei-9580-2018.md",
+        "nome": "lei-9580-2018.md",
+        "tipo_real": "Decreto",
+        "titulo": "Decreto nº 9.580, de 22 de novembro de 2018 (RIR/2018)"
+      },
+      {
+        "arquivo": "federal/decretos-leis/lei-288-1967.md",
+        "nome": "lei-288-1967.md",
+        "tipo_real": "Decreto-Lei",
+        "titulo": "Decreto-Lei nº 288, de 28 de fevereiro de 1967 (Zona Franca de Manaus)"
+      },
+      {
+        "arquivo": "federal/regulamentos/rps/lei-3048-1999.md",
+        "nome": "lei-3048-1999.md",
+        "tipo_real": "Decreto",
+        "titulo": "Decreto nº 3.048, de 6 de maio de 1999 (RPS)"
+      },
+      {
+        "arquivo": "federal/regulamentos/ripi/lei-7212-2010.md",
+        "nome": "lei-7212-2010.md",
+        "tipo_real": "Decreto",
+        "titulo": "Decreto nº 7.212, de 15 de junho de 2010 (RIPI/2010)"
+      },
+      {
+        "arquivo": "federal/regulamentos/consulta/lei-7574-2011.md",
+        "nome": "lei-7574-2011.md",
+        "tipo_real": "Decreto",
+        "titulo": "Decreto nº 7.574, de 29 de setembro de 2011 (Processo de Consulta)"
+      },
+      {
+        "arquivo": "federal/regulamentos/paf/lei-70235-1972.md",
+        "nome": "lei-70235-1972.md",
+        "tipo_real": "Decreto",
+        "titulo": "Decreto nº 70.235, de 6 de março de 1972 (PAF)"
+      },
+      {
+        "arquivo": "federal/regulamentos/aduana/lei-37-1966.md",
+        "nome": "lei-37-1966.md",
+        "tipo_real": "Decreto-Lei",
+        "titulo": "Decreto-Lei nº 37, de 18 de novembro de 1966"
+      },
+      {
+        "arquivo": "federal/regulamentos/aduana/lei-6759-2009.md",
+        "nome": "lei-6759-2009.md",
+        "tipo_real": "Decreto",
+        "titulo": "Decreto nº 6.759, de 5 de fevereiro de 2009 (Regulamento Aduaneiro)"
+      },
+      {
+        "arquivo": "federal/leis-ordinarias/irpj-csll/lei-1598-1977.md",
+        "nome": "lei-1598-1977.md",
+        "tipo_real": "Decreto-Lei",
+        "titulo": "Decreto-Lei nº 1.598, de 26 de dezembro de 1977"
+      },
+      {
+        "arquivo": "federal/leis-ordinarias/previdencia-custeio/lei-2318-1986.md",
+        "nome": "lei-2318-1986.md",
+        "tipo_real": "Decreto-Lei",
+        "titulo": "Decreto-Lei nº 2.318, de 30 de dezembro de 1986"
+      }
+    ]
+  }
+}

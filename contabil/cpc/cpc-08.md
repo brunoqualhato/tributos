@@ -1,5 +1,5 @@
 ---
-titulo: "Pronunciamento Técnico CPC 08 - Custos de Transação e Prêmios na Emissão de Títulos e Valores Mobiliários (REVOGADO)"
+titulo: "Pronunciamento Técnico CPC 08 (R1) - Custos de Transação e Prêmios na Emissão de Títulos e Valores Mobiliários"
 esfera: "Federal / Profissional"
 orgao: "Comitê de Pronunciamentos Contábeis (CPC) / CFC"
 tipo: "Pronunciamento Técnico"
@@ -8,13 +8,13 @@ data: "2010-12-03"
 ano: "2010"
 tema_tributario: "Contabilidade"
 tributos_afetados: ["Contabilidade Societária e Fiscal"]
-situacao: "Revogada"
-revogada: true
+situacao: "Em vigor"
+revogada: false
 fonte: "https://www.cpc.org.br/Arquivos/Documentos/171_CPC08_R1_Alterado.pdf"
-ementa: "Estabelece o tratamento contábil aplicável a custos de transação e prêmios na emissão de títulos e valores mobiliários (revogado)."
+ementa: "Estabelece o tratamento contábil aplicável a custos de transação e prêmios na emissão de títulos e valores mobiliários (Revisão R1)."
 ---
 
-# Pronunciamento Técnico CPC 08 - Custos de Transação e Prêmios na Emissão de Títulos e Valores Mobiliários (REVOGADO)
+# Pronunciamento Técnico CPC 08 (R1) - Custos de Transação e Prêmios na Emissão de Títulos e Valores Mobiliários
 
 CPC_08(R1)
 COMITÊ DE PRONUNCIAMENTOS CONTÁBEIS

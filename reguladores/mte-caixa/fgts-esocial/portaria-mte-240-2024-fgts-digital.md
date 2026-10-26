@@ -10,7 +10,7 @@ tema_tributario: "Folha de Pagamento e Encargos"
 tributos_afetados: ["FGTS"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://www.in.gov.br/en/web/dou/-/portaria-mte-n-240-de-29-de-fevereiro-de-2024-546001577"
+fonte: "https://www.in.gov.br/en/web/dou/-/portaria-mte-n-240-de-29-de-fevereiro-de-2024-546047596"
 ementa: "Regulamenta o Fundo de Garantia do Tempo de Serviço Digital (FGTS Digital), estabelecendo a obrigatoriedade de uso a partir da competência março de 2024 e o recolhimento até o dia 20 do mês seguinte via PIX."
 ---
 

@@ -1,23 +1,11 @@
 """Calcula a cobertura atual do acervo contra o scripts/plano.py e gera o PROGRESSO.md."""
 from pathlib import Path
-import glob
 import sys
 import datetime as dt
 
 RAIZ = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from plano import PLANO, FASES
-
-def contar_documentos(padrao_relativo: str) -> int:
-    """Conta arquivos .md dentro do padrão relativo à raiz."""
-    if "*" in padrao_relativo:
-        padrao = str(RAIZ / padrao_relativo / "**" / "*.md")
-    else:
-        caminho = RAIZ / padrao_relativo
-        if caminho.is_file() and caminho.suffix == ".md":
-            return 1
-        padrao = str(caminho / "**" / "*.md")
-    return len(glob.glob(padrao, recursive=True))
+from plano import PLANO, contar_documentos
 
 def gerar_progresso():
     linhas = [

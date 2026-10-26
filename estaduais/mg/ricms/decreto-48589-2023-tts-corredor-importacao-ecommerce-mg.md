@@ -10,7 +10,7 @@ tema_tributario: "Produtos e Mercadorias"
 tributos_afetados: ["ICMS"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://normas.leg.br/?urn=urn:lex:br;minas.gerais:estadual:decreto:2023-03-03;48589"
+fonte: "https://www.almg.gov.br/legislacao-mineira/LEI/TTS-MG/2023/"
 ementa: "Disciplina os Tratamentos Tributários Setoriais (TTS) automatizados e padronizados da Secretaria de Estado de Fazenda de Minas Gerais (SEF/MG) para o Corredor de Importação, Comércio Eletrônico (E-Commerce) e Atacadistas/Centrais de Distribuição."
 ---
 

@@ -10,7 +10,7 @@ tema_tributario: "Combustíveis e Energia"
 tributos_afetados: ["ICMS", "PIS", "Cofins"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://www.in.gov.br/en/web/dou/-/resolucao-anp-n-858-de-5-de-novembro-de-2021-357618684"
+fonte: "https://atosoficiais.com.br/anp/resolucao-n-858-2021"
 ementa: "Altera a Resolução ANP nº 43/2009 e a Resolução ANP nº 41/2013 para regulamentar a venda direta de etanol hidratado combustível (EHC) pelos fornecedores/usinas e cooperativas aos postos revendedores varejistas e transportadores-revendedores-retalhistas (TRR), em observância à Lei nº 14.292/2022."
 ---
 

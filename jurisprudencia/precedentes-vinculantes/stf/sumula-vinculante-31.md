@@ -10,7 +10,7 @@ tema_tributario: "Serviços e Retenções"
 tributos_afetados: ["ISSQN"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=1225"
+fonte: "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=1286"
 ementa: "É inconstitucional a incidência do Imposto sobre Serviços de Qualquer Natureza - ISS sobre operações de locação de bens móveis."
 ---
 
