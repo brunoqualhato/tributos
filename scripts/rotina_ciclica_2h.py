@@ -87,7 +87,8 @@ def executar_ciclo_coleta():
                     detalhes = api.baixar_corpo_ato_rfb(id_ato)
                     dados = {**ato, **detalhes}
                     caminho = estruturador.estruturar_ato_rfb(dados)
-                    locais.append(caminho)
+                    if caminho:
+                        locais.append(caminho)
         except Exception as e:
             print(f"[Aviso Busca] Erro ao buscar '{termo}' ({ano}, pag {pag}): {e}")
         return locais
