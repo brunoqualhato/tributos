@@ -62,6 +62,12 @@ class AgenteGit:
         else:
             self.executar(["git", "add", "."])
 
+        # Verifica se há algo staged antes de commitar
+        staged = self.executar(["git", "diff", "--cached", "--name-only"])
+        if not staged.strip():
+            print(f"[Agente Git] Nada para commitar no stage. Pulando commit: {mensagem}")
+            return
+
         print(f"[Agente Git] Gerando commit: {mensagem}")
         self.executar(["git", "commit", "--author", autor, "-m", mensagem])
 
