@@ -1,4 +1,7 @@
----
+# 📊 Pilar 9: Normas Contábeis (CPC e CFC / NBC TG) e Conciliação Fiscal
+
+## 1. Visão Geral
+Este pilar documenta a interface entre as Normas Internacionais de Contabilidade (IFRS), os Pronunciamentos Técnicos do Comitê de Pronunciamentos Contábeis (CPC) e as Normas Brasileiras de Contabilidade (NBC TG do CFC), com reflexos diretos na apuração tributária (LALUR/LACS).
 
 ## 2. Relação entre Pronunciamentos CPC e Reflexos Tributários
 
@@ -17,7 +20,5 @@
 | **CPC 47** | Receita de Contrato com Cliente (*IFRS 15*) | Marco para reconhecimento da receita bruta e momento de incidência do PIS, COFINS e ISS. |
 | **CPC 48** | Instrumentos Financeiros (*IFRS 9*) | Mensuração a valor justo através do resultado (*fair value*) e tributação de derivativos. |
 
----
-
 ## 3. Conversão de Alta Precisão via Binário Nativo Swift
-Todas as normas contábeis do CPC e CFC foram convertidas utilizando o extrator compilado nativo [`scripts/bin/extrair_pdf`](file:///Users/brunoqualhato/Documents/meus/tributos/scripts/bin/extrair_pdf), assegurando CommonMark de alta precisão sem quebras de layout.
+Todas as normas contábeis do CPC e CFC foram convertidas utilizando o extrator compilado nativo `scripts/bin/extrair_pdf`, assegurando CommonMark de alta precisão sem quebras de layout.

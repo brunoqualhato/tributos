@@ -1,23 +1,19 @@
----
+# 📈 Pilar 7: Tributação Financeira e IOF (Operações Financeiras, Câmbio e Cripto)
+
+## 1. Visão Geral
+Este pilar consolida a disciplina do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários (IOF), além das regras de retenção na fonte sobre rendimentos de capital e novas modalidades de ativos digitais.
 
 ## 2. As Quatro Modalidades do IOF (Decreto nº 6.306/2007 - RIOF)
-
-```mermaid
-flowchart LR
-    IOF["Imposto sobre Operações Financeiras (IOF)"]
-    IOF --> CRED["IOF/Crédito: Mútuos, Empréstimos, Cheque Especial, Financiamentos"]
-    IOF --> CAMB["IOF/Câmbio: Liquidação de operações de câmbio (moeda estrangeira)"]
-    IOF --> SEG["IOF/Seguro: Prêmios de seguros de vida, bens e patrimônio"]
-    IOF --> TIT["IOF/Títulos: TVM, Derivativos e resgates com menos de 30 dias (tabela regressiva)"]
-```
+- **IOF/Crédito:** Mútuos, Empréstimos, Cheque Especial, Financiamentos.
+- **IOF/Câmbio:** Liquidação de operações de câmbio (moeda estrangeira).
+- **IOF/Seguro:** Prêmios de seguros de vida, bens e patrimônio.
+- **IOF/Títulos:** TVM, Derivativos e resgates com menos de 30 dias (tabela regressiva).
 
 ### Principais Alíquotas do RIOF:
 - **IOF Crédito Pessoa Jurídica:** Alíquota diária de 0,0041% (limitada a 1,5% ao ano) + alíquota adicional de 0,38% na contratação.
 - **IOF Crédito Pessoa Física:** Alíquota diária de 0,0082% (limitada a 3,0% ao ano) + alíquota adicional de 0,38%.
 - **IOF Câmbio:** Alíquota padrão de 0,38% a 1,1% (compra de moeda estrangeira em espécie ou cartão), com cronograma de redução a zero até 2028 (adesão do Brasil à OCDE / Decreto nº 10.997/2022).
 - **IOF Títulos e Valores Mobiliários:** Tabela regressiva de 96% a 0% para resgates ocorridos entre o 1º e o 29º dia da aplicação.
-
----
 
 ## 3. Tributação de Criptoativos (IN RFB nº 1.888/2019)
 - **Obrigatoriedade de Prestação de Informações:** Pessoas físicas e jurídicas residentes no Brasil devem declarar mensalmente à Receita Federal todas as operações com criptoativos (compra, venda, permuta, doação e custódia) que ultrapassem R$ 30.000,00 por mês quando realizadas fora de *exchanges* domiciliadas no País.
