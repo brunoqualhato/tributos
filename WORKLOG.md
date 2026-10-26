@@ -287,3 +287,7 @@ Expansão do Pilar 4 - Serviços e Retenções: 6 normas estruturantes incorpora
 ## 26/10/2026 06:50:28
 
 Consolidação do acervo de 582 normas e inclusão dos geradores setoriais.
+
+## 26/10/2026 06:56:05
+
+Saneamento de duplicados concluído (0 duplicados restantes). Cobertura oficial alinhada em 64.7% (536/829).

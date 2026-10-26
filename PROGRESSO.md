@@ -1,43 +1,53 @@
 # Progresso do Acervo Tributário e Contábil
 
-Gerado em: 26/10/2026 06:50:28. Escopo definido em `scripts/plano.py`.
+Gerado em: 26/10/2026 06:55:21. Escopo definido em `scripts/plano.py`.
 
-**Total de Documentos no Acervo:** 432 / 15846 (2.7%)
+**Total de Documentos no Acervo:** 536 / 829 (64.7%)
 
 | Pilar / Subtema | Documentos | Meta | Cobertura | Pasta | Fonte Principal |
 | :--- | ---: | ---: | :---: | :--- | :--- |
-| **### Dividendos & Renda do Capital** | | | | | |
-| 🟦 **Dividendos**: Isenção de Dividendos e Juros sobre Capital Próprio - JCP (Lei 9.249/95 e RIR/2018) | 2 | 25 | 8.0% | `federal/leis-ordinarias/dividendos-jcp` | Planalto / normas.leg.br |
-| 🟦 **Lucro Real e Presumido**: Tributação de Lucros, Equivalência Patrimonial e IRPJ/CSLL (Leis 8.981/95, 9.430/96, 12.973/14) | 6 | 60 | 10.0% | `federal/leis-ordinarias/irpj-csll` | Planalto / normas.leg.br |
-| 🟦 **Offshores e Trusts**: Tributação de Renda e Fundos no Exterior (Lei 14.754/2023 e INs) | 1 | 15 | 6.7% | `federal/leis-ordinarias/offshores` | Planalto / RFB |
-| ✅ **Regulamento do IRPJ**: Regulamento do Imposto de Renda - RIR/2018 (Decreto 9.580/2018) | 1 | 1 | 100.0% | `federal/regulamentos/rir` | Planalto |
-| ✅ **Regulamento do IOF**: Regulamento do IOF - RIOF (Decreto 6.306/2007) | 1 | 1 | 100.0% | `federal/regulamentos/iof` | Planalto / normas.leg.br |
-| ✅ **Leis do IOF e Tributação Financeira**: Criação e Incidência do IOF sobre Crédito, Títulos e Câmbio (Lei 5.143/1966 e Lei 8.894/1994) | 2 | 2 | 100.0% | `federal/leis-ordinarias/iof` | Planalto / normas.leg.br |
-| ⬜️ **Soluções de Consulta RFB**: Soluções de Consulta COSIT sobre Dividendos, JCP, Ágio e Reorganizações Societárias | 0 | 2500 | 0.0% | `reguladores/rfb/solucoes-consulta/dividendos` | normas.receita.fazenda.gov.br |
-| **### Folha & Encargos Trabalhistas** | | | | | |
-| 🟦 **Previdência e Custeio**: Plano de Custeio da Previdência Social (Lei 8.212/1991 e Lei 8.213/1991) | 5 | 10 | 50.0% | `federal/leis-ordinarias/previdencia-custeio` | Planalto |
-| ✅ **Regulamento da Previdência**: Regulamento da Previdência Social - RPS (Decreto 3.048/1999) | 1 | 1 | 100.0% | `federal/regulamentos/rps` | Planalto |
-| ⬜️ **Norma Geral Previdenciária RFB**: Instrução Normativa RFB nº 2.110/2022 (Consolidação Previdenciária e Retenções) | 0 | 50 | 0.0% | `reguladores/rfb/instrucoes-normativas/folha` | normas.receita.fazenda.gov.br |
-| ⬜️ **RAT / FAP e Riscos**: Regulamentação de RAT, FAP e Contribuições a Terceiros / Sistema S | 0 | 120 | 0.0% | `reguladores/rfb/rat-fap-terceiros` | RFB / MPS |
-| 🟦 **IRRF Folha e PLR**: Retenção na Fonte sobre Salários, Rescisões e PLR (Lei 10.101/2000 e Tabela Progressiva) | 2 | 35 | 5.7% | `federal/leis-ordinarias/irrf-folha-plr` | Planalto / RFB |
-| ⬜️ **FGTS e eSocial**: Normas do FGTS (Lei 8.036/1990), FGTS Digital, eSocial e DCTFWeb | 0 | 80 | 0.0% | `reguladores/mte-caixa/fgts-esocial` | Caixa / MTE |
-| 🟦 **Desoneração da Folha**: Contribuição Previdenciária sobre a Receita Bruta - CPRB (Lei 12.546/2011) | 3 | 20 | 15.0% | `federal/leis-ordinarias/cprb` | Planalto |
-| **### Produtos & Mercadorias** | | | | | |
-| 🟦 **ICMS Geral e DIFAL**: Lei Kandir (LC 87/1996) e DIFAL (LC 190/2022) | 2 | 5 | 40.0% | `federal/leis-complementares/kandir` | Planalto |
-| ⬜️ **CONFAZ e ICMS-ST**: Convênios ICMS (Substituição Tributária - Convênio 142/2018), Protocolos e Ajustes SINIEF | 0 | 6000 | 0.0% | `reguladores/confaz` | confaz.fazenda.gov.br |
-| 🟦 **IPI e TIPI**: Lei do IPI (Lei 4.502/1964), RIPI/2010 (Decreto 7.212/2010) e Tabela TIPI | 3 | 15 | 20.0% | `federal/regulamentos/ripi` | Planalto / RFB |
-| ⬜️ **PIS/COFINS Monofásico**: Regimes Monofásicos de Combustíveis, Bebidas, Fármacos e Autopeças | 0 | 150 | 0.0% | `reguladores/rfb/pis-cofins-monofasico` | normas.receita.fazenda.gov.br |
-| 🟦 **Comércio Exterior e Aduana**: Imposto de Importação e Regulamento Aduaneiro (Decreto 6.759/2009) | 2 | 10 | 20.0% | `federal/regulamentos/aduana` | Planalto |
-| 🟦 **Reforma - Imposto Seletivo**: Imposto Seletivo e CBS/IBS sobre Bens (EC 132/2023 e Leis Complementares) | 1 | 20 | 5.0% | `federal/reforma-tributaria/produtos-seletivo` | Planalto |
-| 🟦 **RICMS das 27 UFs**: Regulamentos do ICMS dos 26 Estados e Distrito Federal | 3 | 27 | 11.1% | `estaduais/*/ricms` | Secretarias de Fazenda Estaduais |
-| **### Serviços & Retenções** | | | | | |
-| 🟦 **ISSQN Geral**: Lei do ISSQN (Lei Complementar 116/2003 e lista anexa de serviços) | 3 | 5 | 60.0% | `federal/leis-complementares/iss` | Planalto |
-| 🟦 **Retenções na Fonte de Serviços**: CSRF 4,65% (Lei 10.833/03 art. 30), IRRF 1,5% e Retenção INSS 11% | 3 | 150 | 2.0% | `reguladores/rfb/retencoes-servicos` | normas.receita.fazenda.gov.br |
-| 🟦 **CTM e RISS das Capitais**: Códigos Tributários e Regulamentos do ISS das 27 Capitais | 6 | 54 | 11.1% | `municipais/*/servicos-iss` | Câmaras e Prefeituras das Capitais |
-| 🟦 **Reforma - IBS/CBS Serviços**: Transição do ISS para o IBS/CBS na prestação de serviços | 1 | 20 | 5.0% | `federal/reforma-tributaria/servicos` | Planalto |
-| **### Contabilidade & Precedentes** | | | | | |
-| 🟦 **Normas CFC**: Normas Brasileiras de Contabilidade (NBC TG, TSP, PG, PA, PP) | 11 | 180 | 6.1% | `contabil/cfc` | cfc.org.br |
-| 🟦 **Pronunciamentos CPC**: Pronunciamentos Técnicos CPC (00 a 50+), OCPC e ICPC | 14 | 90 | 15.6% | `contabil/cpc` | cpc.org.br |
-| ⬜️ **Precedentes STF / STJ**: Súmulas Vinculantes, Temas de Repercussão Geral e Recursos Repetitivos Fiscais | 0 | 900 | 0.0% | `jurisprudencia/precedentes-vinculantes` | STF / STJ / CNJ |
-| ⬜️ **CARF**: Súmulas e Acórdãos Paradigmas do CARF | 0 | 300 | 0.0% | `reguladores/carf` | carf.fazenda.gov.br |
-| 🟦 **Atos Gerais e Resoluções RFB**: Portarias, Instruções Normativas e Atos Gerais da RFB | 359 | 5000 | 7.2% | `reguladores/rfb/outros-atos` | normas.receita.fazenda.gov.br |
+| **### 1. Dividendos & Renda do Capital** | | | | | |
+| 🟦 **Dividendos e JCP**: Isenção de Dividendos e Juros sobre Capital Próprio (Lei 9.249/95 e LSA) | 2 | 5 | 40.0% | `federal/leis-ordinarias/dividendos-jcp` | normas.leg.br |
+| 🟦 **Lucro Real e Presumido**: Norma Matriz do Lucro Real, IRPJ/CSLL (DL 1.598/77, Leis 7.689/88, 8.981/95, 12.973/14) | 6 | 10 | 60.0% | `federal/leis-ordinarias/irpj-csll` | normas.leg.br |
+| 🟦 **Offshores e Trusts**: Tributação de Renda e Controladas no Exterior (Lei 14.754/2023) | 1 | 5 | 20.0% | `federal/leis-ordinarias/offshores` | normas.leg.br |
+| ✅ **Regulamento do IRPJ (RIR)**: Regulamento do Imposto sobre a Renda - RIR/2018 integral (Decreto 9.580/2018) | 1 | 1 | 100.0% | `federal/regulamentos/rir` | normas.leg.br |
+| **### 2. Folha & Encargos** | | | | | |
+| 🟦 **Custeio da Seguridade**: Plano de Custeio da Previdência Social e Benefícios (Leis 8.212/91 e 8.213/91) | 5 | 8 | 62.5% | `federal/leis-ordinarias/previdencia-custeio` | normas.leg.br |
+| ✅ **Regulamento da Previdência (RPS)**: Regulamento da Previdência Social - RPS (Decreto 3.048/1999) | 1 | 1 | 100.0% | `federal/regulamentos/rps` | normas.leg.br |
+| 🟦 **IRRF Folha e PLR**: Retenção na Fonte sobre Salários, Rescisões e PLR (Lei 10.101/2000 e Tabela Progressiva) | 2 | 5 | 40.0% | `federal/leis-ordinarias/irrf-folha-plr` | normas.leg.br |
+| 🟦 **Desoneração da Folha (CPRB)**: Contribuição Previdenciária sobre a Receita Bruta - CPRB (Lei 12.546/11 e Lei 14.973/24) | 3 | 5 | 60.0% | `federal/leis-ordinarias/cprb` | normas.leg.br |
+| 🟦 **FGTS e eSocial**: Normas do FGTS (Lei 8.036/1990) e Obrigações Trabalhistas | 1 | 3 | 33.3% | `federal/leis-ordinarias/fgts` | normas.leg.br |
+| **### 3. Produtos & Mercadorias** | | | | | |
+| 🟦 **ICMS e DIFAL**: Lei Kandir (LC 87/1996) e Regulamentação do DIFAL (LC 190/2022) | 2 | 3 | 66.7% | `federal/leis-complementares/kandir` | normas.leg.br |
+| 🟦 **CONFAZ e ICMS-ST**: Convênios ICMS de Substituição Tributária (Convênio 142/18) e Ajustes SINIEF | 13 | 30 | 43.3% | `estaduais/confaz` | confaz.fazenda.gov.br |
+| 🟦 **IPI e TIPI**: Lei do IPI (Lei 4.502/1964), RIPI/2010 integral (Decreto 7.212/2010) e Tabela TIPI | 3 | 5 | 60.0% | `federal/regulamentos/ripi` | normas.leg.br |
+| 🟦 **PIS/COFINS Monofásico**: Regimes Monofásicos de Bebidas, Fármacos e Autopeças (Leis 10.147/00 e 10.485/02) | 3 | 5 | 60.0% | `federal/leis-ordinarias/pis-cofins-monofasico` | normas.leg.br |
+| 🟦 **Comércio Exterior e Aduana**: Regulamento Aduaneiro consolidado (Decreto 6.759/2009) e Imposto de Importação | 2 | 3 | 66.7% | `federal/regulamentos/aduana` | normas.leg.br |
+| 🟦 **RICMS Estaduais**: Regulamentos do ICMS dos Principais Polos Econômicos (SP, RJ, MG) | 3 | 15 | 20.0% | `estaduais/*/ricms` | Secretarias de Fazenda Estaduais |
+| **### 4. Serviços & Retenções** | | | | | |
+| 🟦 **ISSQN Geral**: Lei Complementar nº 116/2003, LC 157/2016 e LC 175/2020 | 3 | 5 | 60.0% | `federal/leis-complementares/iss` | normas.leg.br |
+| 🟦 **Retenções Federais na Fonte**: Retenção de Serviços e CSRF (Lei 10.833/03) | 1 | 5 | 20.0% | `federal/leis-ordinarias/irrf-servicos` | normas.leg.br |
+| 🟦 **CTM e RISS das Capitais**: Códigos Tributários Municipais e Regulamentos do ISS (SP, RJ, BH) | 6 | 15 | 40.0% | `municipais/*/servicos-iss` | Câmaras e Prefeituras Municipais |
+| **### 5. Patrimônio & Herança** | | | | | |
+| 🟦 **ITCMD Federal e Delimitação**: Resolução Senado 9/92 (Teto 8%) e Delimitação ITR x IPTU (Decreto-Lei 57/66) | 1 | 2 | 50.0% | `federal/resolucoes-senado/itcmd` | normas.leg.br |
+| 🟦 **ITR Federal**: Lei do ITR (Lei 9.393/1996) e Regulamento do ITR (Decreto 4.382/2002) | 1 | 2 | 50.0% | `federal/regulamentos/itr` | normas.leg.br |
+| 🟦 **ITCMD Estadual**: Leis Estaduais do ITCMD dos Principais Estados (SP, RJ, MG) | 3 | 8 | 37.5% | `estaduais/*/leis/itcmd` | Assembleias Legislativas |
+| 🟦 **IPVA Estadual**: Leis Estaduais do IPVA (SP, RJ, MG) | 3 | 8 | 37.5% | `estaduais/*/leis/ipva` | Assembleias Legislativas |
+| 🟦 **ITBI Municipal**: Leis Municipais do ITBI das Capitais (SP, RJ, BH) | 3 | 8 | 37.5% | `municipais/*/leis/itbi` | Câmaras Municipais |
+| 🟦 **IPTU Municipal**: Leis do IPTU e Plantas Genéricas de Valores das Capitais | 1 | 5 | 20.0% | `municipais/*/leis/iptu` | Câmaras Municipais |
+| **### 6. Combustíveis e Energia** | | | | | |
+| 🟦 **CIDE e Lei do Petróleo**: CIDE-Combustíveis (Lei 10.336/01 e Dec. 5.060/04) e Lei do Petróleo (Lei 9.478/97) | 5 | 8 | 62.5% | `federal/leis-ordinarias/combustiveis` | normas.leg.br |
+| 🟦 **ICMS Monofásico ad rem**: Regime Monofásico Uniforme Nacional de Combustíveis (LC 192/2022) | 1 | 2 | 50.0% | `federal/leis-complementares/combustiveis` | normas.leg.br |
+| 🟦 **Regulação ANP e Setorial**: Resoluções da Agência Nacional do Petróleo sobre Controle Fiscal | 1 | 3 | 33.3% | `reguladores/anp/resolucoes` | anp.gov.br |
+| **### 7. Financeiro e IOF** | | | | | |
+| ✅ **Regulamento do IOF (RIOF)**: Regulamento do IOF - RIOF integral (Decreto 6.306/2007) | 1 | 1 | 100.0% | `federal/regulamentos/iof` | normas.leg.br |
+| ✅ **Leis Matrizes do IOF**: Leis do IOF sobre Crédito, Câmbio e Títulos (Leis 5.143/66 e 8.894/94) | 2 | 2 | 100.0% | `federal/leis-ordinarias/iof` | normas.leg.br |
+| 🟦 **IOF-Câmbio e OCDE**: Portaria MF nº 204/2022 (Cronograma de redução das alíquotas do IOF-Câmbio) | 1 | 3 | 33.3% | `federal/portarias/mf` | normas.leg.br |
+| 🟦 **Mercados Financeiro e de Capitais**: Tributação de Renda Fixa, Renda Variável, Derivativos e Criptoativos | 2 | 5 | 40.0% | `reguladores/rfb/instrucoes-normativas/financeiro` | normas.receita.fazenda.gov.br |
+| **### 8. Reforma Tributária** | | | | | |
+| ✅ **Marco Constitucional e Leis Complementares**: Emenda Constitucional nº 132/2023, PLP 68/2024 e PLP 108/2024 | 8 | 8 | 100.0% | `reforma-tributaria` | Congresso Nacional |
+| **### 9. Contabilidade e RFB** | | | | | |
+| 🟦 **Normas Brasileiras de Contabilidade (CFC)**: Resoluções e Normas Técnicas Gerais do CFC (NBC TG) | 11 | 20 | 55.0% | `contabil/cfc` | cfc.org.br |
+| 🟦 **Pronunciamentos Técnicos CPC**: Pronunciamentos Técnicos do Comitê de Pronunciamentos Contábeis (CPC 00 a 48) | 14 | 25 | 56.0% | `contabil/cpc` | cpc.org.br |
+| 🟦 **Instruções Normativas da RFB**: Instruções Normativas vigentes estruturantes da Receita Federal | 62 | 90 | 68.9% | `reguladores/rfb/instrucoes-normativas` | normas.receita.fazenda.gov.br |
+| 🟦 **Atos Executivos e Soluções de Consulta**: Soluções de Consulta COSIT/DISIT, Portarias e Atos Declaratórios | 358 | 500 | 71.6% | `reguladores/rfb/outros-atos` | normas.receita.fazenda.gov.br |
