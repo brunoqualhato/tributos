@@ -53,7 +53,12 @@ class AgenteGit:
         """Adiciona arquivos especificados (ou todos se None) e gera o commit semântico/atômico."""
         if arquivos:
             for arq in arquivos:
-                self.executar(["git", "add", str(arq)])
+                try:
+                    self.executar(["git", "add", str(arq)])
+                except Exception as e:
+                    if "ignorado" in str(e).lower() or "ignored" in str(e).lower():
+                        continue
+                    raise
         else:
             self.executar(["git", "add", "."])
 

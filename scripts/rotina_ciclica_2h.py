@@ -149,7 +149,7 @@ def executar_ciclo_coleta():
                     git.commitar(f"feat(norma): adiciona {Path(doc).name}", arquivos=[Path(doc)])
 
             # Commit separado dos metadados de catálogo, progresso e worklog
-            meta_arqs = [RAIZ / "ACERVO.md", RAIZ / "PROGRESSO.md", RAIZ / "WORKLOG.md", ARQUIVO_ESTADO]
+            meta_arqs = [RAIZ / "ACERVO.md", RAIZ / "PROGRESSO.md", RAIZ / "WORKLOG.md"]
             arqs_existentes = [p for p in meta_arqs if p.exists()]
             if arqs_existentes:
                 git.commitar(f"docs: atualiza ACERVO.md e WORKLOG.md ({sufixo_lote})", arquivos=arqs_existentes)
