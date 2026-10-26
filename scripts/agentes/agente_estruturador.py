@@ -218,9 +218,12 @@ class AgenteEstruturador:
             pasta_destino = RAIZ / "reguladores" / "rfb" / slug_tipo / ano
         arquivo_destino = pasta_destino / f"ato-{id_ato}-{numero or 'sn'}-{ano}.md"
 
+        ja_existia = arquivo_destino.exists()
         salvar_atomico(arquivo_destino, conteudo_final.encode("utf-8"))
-        print(f"[Agente Estruturador] Documento gerado: {arquivo_destino.relative_to(RAIZ)} [Tema: {tema_tributario}]")
-        return arquivo_destino
+        if not ja_existia:
+            print(f"[Agente Estruturador] Novo documento gerado: {arquivo_destino.relative_to(RAIZ)} [Tema: {tema_tributario}]")
+            return arquivo_destino
+        return None
 
     def estruturar_lei_federal(self, numero: str, ano: str, ementa: str, html: str, tipo: str = "Lei Complementar") -> Path:
         """Estrutura leis federais (como CTN, Kandir, etc.)."""
