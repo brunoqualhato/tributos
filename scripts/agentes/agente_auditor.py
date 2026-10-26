@@ -87,9 +87,9 @@ class AgenteAuditor:
                 return False, f"Fonte respondeu com HTTP {status}"
         except Exception as e:
             msg = str(e)
-            if "403" in msg or "Forbidden" in msg or "Bad Request" in msg or "Remote end closed connection" in msg:
-                # Servidores governamentais com bloqueio de automação / TLS handshake estrito
-                return True, f"Acesso bloqueado por WAF/TLS governamental ({msg})"
+            if any(term in msg for term in ["403", "Forbidden", "Bad Request", "Remote end closed connection", "redirect error", "infinite loop"]):
+                # Servidores governamentais com bloqueio de automação / TLS handshake estrito / exigência de cookies
+                return True, f"Acesso protegido por segurança governamental ({msg.splitlines()[0]})"
             return False, f"Falha de conexão com a fonte oficial: {e}"
 
     def auditar_documento(self, caminho_md: Path, checar_rede: bool = True) -> tuple[bool, list[str]]:
