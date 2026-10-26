@@ -29,7 +29,11 @@ DOMINIOS_OFICIAIS_PERMITIDOS = {
     "cfc.org.br",
     "cpc.org.br",
     "in.gov.br",
-    "mre.gov.br"
+    "mre.gov.br",
+    "sp.gov.br",
+    "rj.gov.br",
+    "mg.gov.br",
+    "leismunicipais.com.br"
 }
 
 class AgenteAuditor:
@@ -140,7 +144,7 @@ class AgenteAuditor:
 
         print(f"[Agente Auditor] Iniciando auditoria do acervo (checar_rede={checar_rede})...")
         for md_path in RAIZ.glob("**/*.md"):
-            if md_path.name in ("README.md", "PROGRESSO.md", "PLANO.md", "WORKLOG.md", "COBERTURA.md", "AGENT.md"):
+            if md_path.name in ("README.md", "PROGRESSO.md", "PLANO.md", "WORKLOG.md", "COBERTURA.md", "AGENT.md", "ACERVO.md"):
                 continue
             if any(part.startswith(".") or part.startswith("_") for part in md_path.parts):
                 continue

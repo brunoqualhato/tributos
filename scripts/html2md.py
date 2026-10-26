@@ -3,6 +3,7 @@
 Preserva artigos, parágrafos, incisos, alíneas, tabelas e notas de alteração/revogação.
 """
 from html.parser import HTMLParser
+import html as html_module
 import re
 import unicodedata
 
@@ -82,9 +83,18 @@ class LegalHTMLToMD(HTMLParser):
 
 def converter_html_para_md(html: str) -> str:
     """Converte string HTML de norma jurídica para Markdown limpo."""
+    if not html:
+        return ""
     parser = LegalHTMLToMD()
     parser.feed(html)
     bruto = "".join(parser.texto)
+    
+    # Decodifica entidades HTML residuais e substitui espaços não separáveis
+    bruto = html_module.unescape(bruto)
+    bruto = bruto.replace("\xa0", " ")
+    
+    # Remove qualquer tag HTML residual proibida
+    bruto = re.sub(r"</?(?:p|div|span|table|tr|td|th|tbody|thead|font|style|script|br|hr)[^>]*>", " ", bruto, flags=re.I)
     
     # Normalização de espaços e quebras
     bruto = re.sub(r"[ \t]+", " ", bruto)
