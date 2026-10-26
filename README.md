@@ -4,6 +4,13 @@ Um acervo de alta fidelidade contendo as normas do **Direito Tributário, Legisl
 
 Inspirado na arquitetura e no rigor de engenharia de dados do [`ctresb/leis`](https://github.com/ctresb/leis), este repositório possui foco exclusivo no ecossistema fiscal, contábil e tributário nacional.
 
+## Documentação e Governança
+
+* 📖 **[ACERVO.md](ACERVO.md):** Catálogo geral detalhado de todos os documentos já coletados e indexados, agrupados por pilar com links diretos oficiais.
+* 🤖 **[AGENT.md](AGENT.md):** Diretrizes mestras para agentes autônomos, padrões de CommonMark, políticas de URLs diretas e protocolo obrigatório de Pull Requests.
+* 📊 **[PROGRESSO.md](PROGRESSO.md):** Quadro de medição item a item das metas definidas em `scripts/plano.py`.
+* 📝 **[WORKLOG.md](WORKLOG.md):** Registro cronológico auditável de todas as execuções, coletas e auditorias de rede.
+
 ---
 
 ## Estrutura do Acervo
