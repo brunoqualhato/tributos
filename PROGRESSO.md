@@ -1,8 +1,8 @@
 # Progresso do Acervo Tributário e Contábil
 
-Gerado em: 26/10/2026 15:14:21. Escopo definido em `scripts/plano.py`.
+Gerado em: 26/10/2026 15:41:10. Escopo definido em `scripts/plano.py`.
 
-**Total de Documentos no Acervo:** 1075 / 909 (118.3%)
+**Total de Documentos no Acervo:** 1088 / 909 (119.7%)
 
 | Pilar / Subtema | Documentos | Meta | Cobertura | Pasta | Fonte Principal |
 | :--- | ---: | ---: | :---: | :--- | :--- |
@@ -21,11 +21,11 @@ Gerado em: 26/10/2026 15:14:21. Escopo definido em `scripts/plano.py`.
 | ✅ **RAT, FAP e Sistema S**: Normas de Riscos Ambientais, FAP e Contribuições a Terceiros | 5 | 5 | 100.0% | `reguladores/rfb/rat-fap-terceiros` | RFB / MPS |
 | **### 3. Produtos & Mercadorias** | | | | | |
 | ✅ **ICMS e DIFAL**: Lei Kandir (LC 87/1996) e Regulamentação do DIFAL (LC 190/2022) | 6 | 3 | 200.0% | `federal/leis-complementares/kandir` | normas.leg.br |
-| ✅ **CONFAZ e ICMS-ST**: Convênios ICMS de Substituição Tributária (Convênio 142/18) e Ajustes SINIEF | 58 | 30 | 193.3% | `estaduais/confaz` | confaz.fazenda.gov.br |
+| ✅ **CONFAZ e ICMS-ST**: Convênios ICMS de Substituição Tributária (Convênio 142/18) e Ajustes SINIEF | 61 | 30 | 203.3% | `estaduais/confaz` | confaz.fazenda.gov.br |
 | ✅ **IPI e TIPI**: Lei do IPI (Lei 4.502/1964), RIPI/2010 integral (Decreto 7.212/2010) e Tabela TIPI | 5 | 5 | 100.0% | `federal/regulamentos/ripi` | normas.leg.br |
 | ✅ **PIS/COFINS Monofásico**: Regimes Monofásicos de Bebidas, Fármacos e Autopeças (Leis 10.147/00 e 10.485/02) | 5 | 5 | 100.0% | `federal/leis-ordinarias/pis-cofins-monofasico` | normas.leg.br |
 | ✅ **Comércio Exterior e Aduana**: Regulamento Aduaneiro consolidado (Decreto 6.759/2009) e Imposto de Importação | 3 | 3 | 100.0% | `federal/regulamentos/aduana` | normas.leg.br |
-| ✅ **RICMS Estaduais**: Regulamentos do ICMS das 27 Unidades Federativas (Todas as 27 UFs) | 27 | 27 | 100.0% | `estaduais/*/ricms` | Secretarias de Fazenda Estaduais |
+| ✅ **RICMS Estaduais**: Regulamentos do ICMS das 27 Unidades Federativas (Todas as 27 UFs) | 36 | 27 | 133.3% | `estaduais/*/ricms` | Secretarias de Fazenda Estaduais |
 | **### 4. Serviços & Retenções** | | | | | |
 | ✅ **ISSQN Geral**: Lei Complementar nº 116/2003, LC 157/2016 e LC 175/2020 | 5 | 5 | 100.0% | `federal/leis-complementares/iss` | normas.leg.br |
 | ✅ **Retenções Federais na Fonte**: Retenção de Serviços e CSRF (Lei 10.833/03) | 5 | 5 | 100.0% | `federal/leis-ordinarias/irrf-servicos` | normas.leg.br |
@@ -47,7 +47,7 @@ Gerado em: 26/10/2026 15:14:21. Escopo definido em `scripts/plano.py`.
 | ✅ **IOF-Câmbio e OCDE**: Portaria MF nº 204/2022 (Cronograma de redução das alíquotas do IOF-Câmbio) | 3 | 3 | 100.0% | `federal/portarias/mf` | normas.leg.br |
 | ✅ **Mercados Financeiro e de Capitais**: Tributação de Renda Fixa, Renda Variável, Derivativos e Criptoativos | 5 | 5 | 100.0% | `reguladores/rfb/instrucoes-normativas/financeiro` | normas.receita.fazenda.gov.br |
 | **### 8. Reforma Tributária** | | | | | |
-| ✅ **Marco Constitucional e Leis Complementares**: Emenda Constitucional nº 132/2023, PLP 68/2024 e PLP 108/2024 | 8 | 8 | 100.0% | `reforma-tributaria` | Congresso Nacional |
+| ✅ **Marco Constitucional e Leis Complementares**: Emenda Constitucional nº 132/2023, PLP 68/2024 e PLP 108/2024 | 9 | 8 | 112.5% | `reforma-tributaria` | Congresso Nacional |
 | **### 9. Contabilidade e Precedentes** | | | | | |
 | ✅ **Normas Brasileiras de Contabilidade (CFC)**: Resoluções e Normas Técnicas Gerais do CFC (NBC TG) | 26 | 20 | 130.0% | `contabil/cfc` | cfc.org.br |
 | ✅ **Pronunciamentos Técnicos CPC**: Pronunciamentos Técnicos do Comitê de Pronunciamentos Contábeis (CPC 00 a 48) | 48 | 25 | 192.0% | `contabil/cpc` | cpc.org.br |

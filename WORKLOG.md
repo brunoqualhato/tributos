@@ -331,3 +331,4 @@ Expansão Nacional, Interestadual e Estadual (27 UFs) concluída para conexão c
 - Cobertura de 100% das 27 Unidades da Federação em RICMS (27/27), ITCMD (27/27) e IPVA (27/27).
 - Fechamento de >= 100% de todas as metas nacionais e federais nos 9 Pilares do plano + 21 novos atos da RFB.
 - Total catalogado: 1100 normas. Auditoria: 1100/1100 (100.0%).
+- **2026-10-26 18:41 UTC** — Adicao das 4 camadas profundas para motor LLM interestadual (14 documentos): Anexos II a XXVII do Convenio ICMS 142/2018 (CEST 01 a 28 x NCM), Mapa de Protocolos ICMS-ST por UF, Beneficios Fiscais Estaduais Especificos (SC TTD 409/410/478, ES COMPETE/INVEST, MG TTS, GO PROGOIAS/FUNDEINFRA, PE PRODEPE, BA Dec. 7.799/DESENVOLVE, CE Carga Liquida/FDI, AM ZFM/PIM, TO Lei 1.201), Resolucao CGSN 140/2018 (Simples Nacional interestadual) e Leiautes SPED EFD-ICMS/IPI + NT NF-e 2024.002 (IBS/CBS/IS) (1.114 normas auditadas).
