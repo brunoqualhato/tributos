@@ -1,6 +1,6 @@
 # Catálogo Geral do Acervo Tributário e Contábil (ACERVO.md)
 
-Documento gerado automaticamente em **26/10/2026 às 07:57:25**.
+Documento gerado automaticamente em **26/10/2026 às 08:02:40**.
 
 **Total de Documentos Catalogados e Auditados:** `633`
 
@@ -554,7 +554,7 @@ Documento gerado automaticamente em **26/10/2026 às 07:57:25**.
 | **Decreto-Lei nº 37, de 18 de novembro de 1966 (Lei do Imposto de Importação)** | 1966 | Presidência da República / Congresso Nacional | Imposto de Importação, IPI | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1966-11-18;37) | [`federal/regulamentos/aduana/lei-37-1966.md`](federal/regulamentos/aduana/lei-37-1966.md) |
 | **Decreto-Lei nº 288, de 28 de fevereiro de 1967 (Zona Franca de Manaus)** | 1967 | Presidência da República / Congresso Nacional | IPI, ICMS, Imposto de Importação | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1967-02-28;288) | [`federal/decretos-leis/lei-288-1967.md`](federal/decretos-leis/lei-288-1967.md) |
 | **Convênio ICMS nº 52, de 26 de setembro de 1991** | 1991 | Conselho Nacional de Política Fazendária (CONFAZ) | ICMS | Em vigor | [Visualizar na Fonte Oficial](https://www.confaz.fazenda.gov.br/legislacao/convenios/1991/CV052_91) | [`estaduais/confaz/convenios-icms/1991/convenio-icms-52-1991.md`](estaduais/confaz/convenios-icms/1991/convenio-icms-52-1991.md) |
-| **Súmula nº 166 - STJ** | 1996 | Superior Tribunal de Justiça | ICMS | Em vigor | [Visualizar na Fonte Oficial](https://www.stj.jus.br/docs_internet/revista/eletronica/stj-revista-sumulas-2010_13_capSumula166.pdf) | [`jurisprudencia/precedentes-vinculantes/stj/sumula-166-transferencia-mercadorias.md`](jurisprudencia/precedentes-vinculantes/stj/sumula-166-transferencia-mercadorias.md) |
+| **Súmula nº 166 - STJ** | 1996 | Superior Tribunal de Justiça | ICMS | Em vigor | [Visualizar na Fonte Oficial](https://scon.stj.jus.br/SCON/sumulas/doc.jsp?livre=@num=%27166%27) | [`jurisprudencia/precedentes-vinculantes/stj/sumula-166-transferencia-mercadorias.md`](jurisprudencia/precedentes-vinculantes/stj/sumula-166-transferencia-mercadorias.md) |
 | **Lei Complementar nº 87, de 13 de setembro de 1996** | 1996 | Presidência da República / Congresso Nacional | ICMS, ICMS-ST | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:1996-09-13;87) | [`federal/leis-complementares/kandir/lei-87-1996.md`](federal/leis-complementares/kandir/lei-87-1996.md) |
 | **Convênio ICMS nº 100, de 4 de novembro de 1997** | 1997 | Conselho Nacional de Política Fazendária (CONFAZ) | ICMS | Em vigor | [Visualizar na Fonte Oficial](https://www.confaz.fazenda.gov.br/legislacao/convenios/1997/CV100_97) | [`estaduais/confaz/convenios-icms/1997/convenio-icms-100-1997.md`](estaduais/confaz/convenios-icms/1997/convenio-icms-100-1997.md) |
 | **Lei nº 9.718, de 27 de novembro de 1998 (PIS e COFINS no Faturamento)** | 1998 | Presidência da República / Congresso Nacional | PIS/Pasep, Cofins | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-11-27;9718) | [`federal/leis-ordinarias/lei-9718-1998.md`](federal/leis-ordinarias/lei-9718-1998.md) |
