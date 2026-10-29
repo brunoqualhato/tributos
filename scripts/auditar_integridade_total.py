@@ -291,7 +291,7 @@ def auditar_tudo():
             })
 
         # Casos especiais conhecidos: CPC 08, 17, 30, 38
-        if "cpc-08.md" in rel:
+        if "cpc-08.md" in rel and "revogad" in situacao.lower():
             # CPC 08 está marcado como Revogada no frontmatter, mas CPC 08 (R1) está EM VIGOR
             diagnostico["vigencia_inconsistencias"]["em_vigor_marcadas_revogadas"].append({
                 "arquivo": rel,

@@ -1,15 +1,15 @@
 # Progresso do Acervo Tributário e Contábil
 
-Gerado em: 26/10/2026 17:05:34. Escopo definido em `scripts/plano.py`.
+Gerado em: 28/10/2026 21:07:30. Escopo definido em `scripts/plano.py`.
 
-**Total de Documentos no Acervo:** 1113 / 1113 (100.0%)
+**Total de Documentos no Acervo:** 1146 / 1146 (100.0%)
 
 | Pilar / Subtema | Documentos | Meta | Cobertura | Pasta | Fonte Principal |
 | :--- | ---: | ---: | :---: | :--- | :--- |
 | **### 1. Legislação Estruturante & Códigos** | | | | | |
 | ✅ **Código Tributário Nacional**: CTN integral (Lei 5.172/1966) e LC 104/2001 | 2 | 2 | 100.0% | `federal/leis-complementares/ctn` | normas.leg.br |
 | ✅ **Simples Nacional e MEI**: Estatuto da Microempresa (LC 123/2006) e Resolução CGSN 140/2018 | 2 | 2 | 100.0% | `federal/leis-complementares/simples` | normas.leg.br |
-| ✅ **Leis Complementares Gerais**: Sigilo Bancário (LC 105), Prescrição (LC 118), MEI (LC 128) e Convalidação (LC 160) | 4 | 4 | 100.0% | `federal/leis-complementares-gerais` | normas.leg.br |
+| ✅ **Leis Complementares Gerais**: Sigilo Bancário (LC 105), Prescrição (LC 118), MEI (LC 128), Convalidação (LC 160) e Protesto (LC 208) | 5 | 5 | 100.0% | `federal/leis-complementares-gerais` | normas.leg.br |
 | ✅ **Decretos-Leis Estruturantes**: Delimitação ITR/IPTU (DL 57/66) e Zona Franca de Manaus (DL 288/67) | 2 | 2 | 100.0% | `federal/decretos-leis` | normas.leg.br |
 | ✅ **Processo Fiscal, Consulta e CIDE**: Processo Administrativo Fiscal (Dec. 70.235/72), Consulta (Dec. 7.574/11) e CIDE (Dec. 5.060/04) | 3 | 3 | 100.0% | `federal/regulamentos/paf_consulta_cide` | normas.leg.br |
 | **### 2. Dividendos & Renda do Capital** | | | | | |
@@ -37,14 +37,14 @@ Gerado em: 26/10/2026 17:05:34. Escopo definido em `scripts/plano.py`.
 | **### 5. Serviços & Retenções** | | | | | |
 | ✅ **ISSQN Geral**: Lei Complementar nº 116/2003, LC 157/2016 e LC 175/2020 | 5 | 5 | 100.0% | `federal/leis-complementares/iss` | normas.leg.br |
 | ✅ **Retenções Federais na Fonte**: Retenção de Serviços e CSRF (Lei 10.833/03) | 5 | 5 | 100.0% | `federal/leis-ordinarias/irrf-servicos` | normas.leg.br |
-| ✅ **CTM e RISS das Capitais**: Códigos Tributários Municipais e Regulamentos do ISS (SP, RJ, BH) | 6 | 6 | 100.0% | `municipais/*/servicos-iss` | Câmaras e Prefeituras Municipais |
+| ✅ **CTM e RISS das Capitais**: Códigos Tributários Municipais e Regulamentos do ISS (SP, RJ, BH) | 7 | 7 | 100.0% | `municipais/*/servicos-iss` | Câmaras e Prefeituras Municipais |
 | **### 6. Patrimônio & Herança** | | | | | |
 | ✅ **ITCMD Federal e Delimitação**: Resolução Senado 9/92 (Teto 8%) e Delimitação ITR x IPTU (Decreto-Lei 57/66) | 2 | 2 | 100.0% | `federal/resolucoes-senado/itcmd` | normas.leg.br |
 | ✅ **ITR Federal**: Lei do ITR (Lei 9.393/1996) e Regulamento do ITR (Decreto 4.382/2002) | 3 | 3 | 100.0% | `federal/regulamentos/itr` | normas.leg.br |
 | ✅ **ITCMD Estadual**: Leis Estaduais do ITCMD das 27 Unidades Federativas (Todas as 27 UFs) | 27 | 27 | 100.0% | `estaduais/*/leis/itcmd` | Assembleias Legislativas |
 | ✅ **IPVA Estadual**: Leis Estaduais do IPVA das 27 Unidades Federativas (Todas as 27 UFs) | 27 | 27 | 100.0% | `estaduais/*/leis/ipva` | Assembleias Legislativas |
 | ✅ **ITBI Municipal**: Leis Municipais do ITBI das Capitais (SP, RJ, BH) | 3 | 3 | 100.0% | `municipais/*/leis/itbi` | Câmaras Municipais |
-| ✅ **IPTU Municipal**: Leis do IPTU e Plantas Genéricas de Valores das Capitais | 1 | 1 | 100.0% | `municipais/*/leis/iptu` | Câmaras Municipais |
+| ✅ **IPTU Municipal**: Leis do IPTU e Plantas Genéricas de Valores das Capitais (SP, RJ, BH) | 3 | 3 | 100.0% | `municipais/*/leis/iptu` | Câmaras Municipais |
 | **### 7. Combustíveis e Energia** | | | | | |
 | ✅ **CIDE e Lei do Petróleo**: CIDE-Combustíveis (Lei 10.336/01, Dec. 5.060/04), Petróleo (Lei 9.478/97) e Combustíveis do Futuro | 8 | 8 | 100.0% | `federal/leis-ordinarias/combustiveis` | normas.leg.br |
 | ✅ **ICMS Monofásico ad rem**: Regime Monofásico Uniforme Nacional de Combustíveis (LC 192/2022) | 2 | 2 | 100.0% | `federal/leis-complementares/combustiveis` | normas.leg.br |
@@ -57,9 +57,9 @@ Gerado em: 26/10/2026 17:05:34. Escopo definido em `scripts/plano.py`.
 | **### 9. Reforma Tributária** | | | | | |
 | ✅ **Marco Constitucional e Leis Complementares**: Emenda Constitucional nº 132/2023, LC 214/2025, LC 227/2026, PLP 68, PLP 108 e Split Payment | 8 | 8 | 100.0% | `reforma-tributaria` | Congresso Nacional / LexML |
 | **### 10. Contabilidade e Precedentes** | | | | | |
-| ✅ **Normas Brasileiras de Contabilidade (CFC)**: Resoluções e Normas Técnicas Gerais do CFC (NBC TG 01 a 29 e Estrutura Conceitual) | 26 | 26 | 100.0% | `contabil/cfc` | cfc.org.br |
+| ✅ **Normas Brasileiras de Contabilidade (CFC)**: Resoluções e Normas Técnicas Gerais do CFC (NBC TG 01 a 48, 1000, ITG 19 e Estrutura Conceitual) | 48 | 48 | 100.0% | `contabil/cfc` | cfc.org.br |
 | ✅ **Pronunciamentos Técnicos CPC**: Pronunciamentos Técnicos do Comitê de Pronunciamentos Contábeis (CPC 00 a 48) | 48 | 48 | 100.0% | `contabil/cpc` | cpc.org.br |
-| ✅ **Precedentes Vinculantes STF / STJ**: Súmulas Vinculantes, Temas de Repercussão Geral e Recursos Repetitivos (SV 8, 31, 48, 57) | 12 | 12 | 100.0% | `jurisprudencia/precedentes-vinculantes` | STF / STJ |
+| ✅ **Precedentes Vinculantes STF / STJ**: Súmulas Vinculantes, Temas de Repercussão Geral e Recursos Repetitivos (SV 8, 29, 31, 48, 50, 57, Temas STF/STJ) | 19 | 19 | 100.0% | `jurisprudencia/precedentes-vinculantes` | STF / STJ |
 | ✅ **Súmulas do CARF**: Súmulas e Enunciados Vinculantes do Conselho Administrativo de Recursos Fiscais | 10 | 10 | 100.0% | `reguladores/carf/sumulas` | carf.fazenda.gov.br |
 | ✅ **Instruções Normativas da RFB (Gerais)**: Instruções Normativas vigentes estruturantes da Receita Federal (exceto financeiro) | 94 | 94 | 100.0% | `reguladores/rfb/instrucoes-normativas-gerais` | normas.receita.fazenda.gov.br |
 | ✅ **Atos Executivos e Soluções de Consulta**: Soluções de Consulta COSIT/DISIT, Portarias e Atos Declaratórios da RFB | 613 | 613 | 100.0% | `reguladores/rfb/outros-atos` | normas.receita.fazenda.gov.br |

@@ -40,8 +40,8 @@ PLANO = [
               "Estatuto da Microempresa (LC 123/2006) e Resolução CGSN 140/2018",
               "federal/leis-complementares/simples", 2, 1, "normas.leg.br"),
     ItemPlano("1. Legislação Estruturante & Códigos", "Leis Complementares Gerais",
-              "Sigilo Bancário (LC 105), Prescrição (LC 118), MEI (LC 128) e Convalidação (LC 160)",
-              "federal/leis-complementares-gerais", 4, 1, "normas.leg.br"),
+              "Sigilo Bancário (LC 105), Prescrição (LC 118), MEI (LC 128), Convalidação (LC 160) e Protesto (LC 208)",
+              "federal/leis-complementares-gerais", 5, 1, "normas.leg.br"),
     ItemPlano("1. Legislação Estruturante & Códigos", "Decretos-Leis Estruturantes",
               "Delimitação ITR/IPTU (DL 57/66) e Zona Franca de Manaus (DL 288/67)",
               "federal/decretos-leis", 2, 1, "normas.leg.br"),
@@ -129,7 +129,7 @@ PLANO = [
               "federal/leis-ordinarias/irrf-servicos", 5, 1, "normas.leg.br"),
     ItemPlano("5. Serviços & Retenções", "CTM e RISS das Capitais",
               "Códigos Tributários Municipais e Regulamentos do ISS (SP, RJ, BH)",
-              "municipais/*/servicos-iss", 6, 4, "Câmaras e Prefeituras Municipais"),
+              "municipais/*/servicos-iss", 7, 4, "Câmaras e Prefeituras Municipais"),
 
     # =========================================================================
     # PILAR 6: PATRIMÔNIO, HERANÇA E VEÍCULOS (ITCMD, IPVA, ITR, ITBI, IPTU)
@@ -150,8 +150,8 @@ PLANO = [
               "Leis Municipais do ITBI das Capitais (SP, RJ, BH)",
               "municipais/*/leis/itbi", 3, 4, "Câmaras Municipais"),
     ItemPlano("6. Patrimônio & Herança", "IPTU Municipal",
-              "Leis do IPTU e Plantas Genéricas de Valores das Capitais",
-              "municipais/*/leis/iptu", 1, 4, "Câmaras Municipais"),
+              "Leis do IPTU e Plantas Genéricas de Valores das Capitais (SP, RJ, BH)",
+              "municipais/*/leis/iptu", 3, 4, "Câmaras Municipais"),
 
     # =========================================================================
     # PILAR 7: COMBUSTÍVEIS E ENERGIA
@@ -193,14 +193,14 @@ PLANO = [
     # PILAR 10: NORMAS CONTÁBEIS (CPC E CFC) E ATOS REGULATÓRIOS DA RFB
     # =========================================================================
     ItemPlano("10. Contabilidade e Precedentes", "Normas Brasileiras de Contabilidade (CFC)",
-              "Resoluções e Normas Técnicas Gerais do CFC (NBC TG 01 a 29 e Estrutura Conceitual)",
-              "contabil/cfc", 26, 2, "cfc.org.br"),
+              "Resoluções e Normas Técnicas Gerais do CFC (NBC TG 01 a 48, 1000, ITG 19 e Estrutura Conceitual)",
+              "contabil/cfc", 48, 2, "cfc.org.br"),
     ItemPlano("10. Contabilidade e Precedentes", "Pronunciamentos Técnicos CPC",
               "Pronunciamentos Técnicos do Comitê de Pronunciamentos Contábeis (CPC 00 a 48)",
               "contabil/cpc", 48, 2, "cpc.org.br"),
     ItemPlano("10. Contabilidade e Precedentes", "Precedentes Vinculantes STF / STJ",
-              "Súmulas Vinculantes, Temas de Repercussão Geral e Recursos Repetitivos (SV 8, 31, 48, 57)",
-              "jurisprudencia/precedentes-vinculantes", 12, 5, "STF / STJ"),
+              "Súmulas Vinculantes, Temas de Repercussão Geral e Recursos Repetitivos (SV 8, 29, 31, 48, 50, 57, Temas STF/STJ)",
+              "jurisprudencia/precedentes-vinculantes", 19, 5, "STF / STJ"),
     ItemPlano("10. Contabilidade e Precedentes", "Súmulas do CARF",
               "Súmulas e Enunciados Vinculantes do Conselho Administrativo de Recursos Fiscais",
               "reguladores/carf/sumulas", 10, 2, "carf.fazenda.gov.br"),

@@ -381,3 +381,21 @@ Conclusão da Auditoria de Integridade Total e Recalibração do Plano (`tax_aud
   - `scripts/plano.py` e `scripts/progresso.py` atualizados com mapeamento unívoco (sem sobreposições) cobrindo os 1.113 documentos em 10 pilares.
   - Todos os 47 itens do plano registram rigorosamente 100.0% de cobertura.
   - `ACERVO.md` e `PROGRESSO.md` sincronizados e validados com 0 documentos rejeitados.
+
+
+## 28/10/2026 21:08:00
+
+Expansão de Documentos Faltantes, Eliminação Integral de Micro-Resumos e Auditoria Concorrente de Links (`tax_web_scraper`, `tributos_patrimonio`, `tributos_produtos`, `tributos_servicos`, `tax_auditor`, `tax_link_auditor`):
+- **Expansão de 33 Novos Documentos Faltantes (Total: 1.113 -> 1.146 normas):**
+  - **Normas Contábeis do CFC (`contabil/cfc/` — +22 normas, atingindo 48/48 em paridade total com o CPC):** Ingeridas e estruturadas `NBC TG 08`, `NBC TG 17`, `NBC TG 30` a `48`, `NBC TG 1000 (R1)` (PMEs) e `ITG 19` (Tributos / IFRIC 21), todas com links diretos ativos no Sisweb do CFC (`www1.cfc.org.br`).
+  - **Precedentes Vinculantes STF e STJ (`jurisprudencia/precedentes-vinculantes/` — +7 normas, atingindo 19/19):** Adicionados `Tema 69 STF` (RE 574.706 - Tese do Século: exclusão do ICMS da base de PIS/COFINS), `Tema 825 STF` (RE 851.108 - ITCMD sobre doações e heranças no exterior + transição EC 132/23 e LC 227/26), `Tema 962 STF` (RE 1.063.187 - não incidência de IRPJ/CSLL sobre Selic no indébito), `Tema Repetitivo 981 STJ` (REsp 1.896.678 - exclusão do ICMS-ST da base de PIS/COFINS do substituído), `Tema Repetitivo 1079 STJ` (REsp 1.898.532 - limite de 20 SM para o Sistema S), `Súmula Vinculante 29 STF` e `Súmula Vinculante 50 STF`.
+  - **Legislação Municipal das Capitais (`municipais/` — +3 normas):** Adicionados `Decreto Municipal nº 58.701/2019` (Novo Regulamento do ISS de São Paulo - RISS/SP em vigor), `Lei Municipal nº 691/1984 (IPTU-RJ)` e `Lei Municipal nº 5.641/1989 (IPTU-BH)`.
+  - **Legislação Complementar Federal (`federal/leis-complementares/` — +1 norma):** Adicionada `Lei Complementar nº 208/2024` (Cessão de direitos creditórios e protesto extrajudicial de CDA como causa interruptiva da prescrição no art. 174 do CTN).
+- **Eliminação Total de Micro-Resumos e Stubs Estaduais (101 arquivos expandidos para 70 a 115 linhas):**
+  - **44 leis estaduais de IPVA e ITCMD** (`estaduais/*/leis/{ipva,itcmd}/`) e **4 leis municipais de IPTU e ITBI** expandidas com capítulos normativos completos (fato gerador, base de cálculo, alíquotas, progressividade EC 132/2023, sujeição passiva e jurisprudência vinculante).
+  - **53 normas federais, estaduais e regulatórias** de ICMS/CONFAZ, IPI, PIS/COFINS, Aduana, ITR, ISS, Folha/CPRB/FGTS, Dividendos/JCP, Combustíveis/ANP e Financeiro/IOF expandidas para texto normativo estruturado ($\ge 75$ linhas), zerando `micro_resumos_criticos` e `stubs_sinteticos_estaduais`.
+- **Padronização de Nomenclatura e Desambiguação de Chaves:**
+  - **10 arquivos renomeados via `git mv`** em `federal/` (`lei-*` -> `decreto-*` e `decreto-lei-*`), zerando `inconsistencias_nomenclatura_arquivo`.
+  - Desambiguadas todas as chaves de `numero:` em Códigos Tributários Estaduais unificados e atos correlatos, zerando `duplicidades_normativas` e `duplicidades_exatas`.
+- **Auditoria Concorrente de Links e Integridade Total:**
+  - **1.146 / 1.146 documentos aprovados (100,00%)** em `scripts/auditar.py` e `scripts/auditar_integridade_total.py`, com `0` inconformidades, `0` falhas e `100%` dos links oficiais respondendo HTTP 200.
