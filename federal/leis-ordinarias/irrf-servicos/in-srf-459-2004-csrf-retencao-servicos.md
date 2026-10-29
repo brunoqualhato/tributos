@@ -3,7 +3,7 @@ titulo: "Instrução Normativa SRF nº 459, de 18 de outubro de 2004 (Retenção
 esfera: "Federal"
 orgao: "Secretaria Especial da Receita Federal do Brasil"
 tipo: "Instrução Normativa"
-numero: "459"
+numero: "459 (CSRF)"
 data: "2004-10-18"
 ano: "2004"
 tema_tributario: "Serviços e Retenções"

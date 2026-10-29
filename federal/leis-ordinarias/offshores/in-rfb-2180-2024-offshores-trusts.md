@@ -3,7 +3,7 @@ titulo: "Instrução Normativa RFB nº 2.180, de 11 de março de 2024 (Regulamen
 esfera: "Federal"
 orgao: "Secretaria Especial da Receita Federal do Brasil"
 tipo: "Instrução Normativa"
-numero: "2180"
+numero: "2.180 (Offshores)"
 data: "2024-03-11"
 ano: "2024"
 tema_tributario: "Dividendos e Renda do Capital"

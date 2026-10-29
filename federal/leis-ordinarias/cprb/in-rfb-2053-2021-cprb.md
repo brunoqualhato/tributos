@@ -3,7 +3,7 @@ titulo: "Instrução Normativa RFB nº 2.053, de 6 de dezembro de 2021 (Regulame
 esfera: "Federal"
 orgao: "Secretaria Especial da Receita Federal do Brasil"
 tipo: "Instrução Normativa"
-numero: "2053"
+numero: "2.053 (CPRB)"
 data: "2021-12-06"
 ano: "2021"
 tema_tributario: "Folha de Pagamento e Encargos"
