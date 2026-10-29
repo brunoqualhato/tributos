@@ -3,7 +3,7 @@ titulo: "Portaria Conjunta RFB / MPS / MTE nº 44, de 11 de agosto de 2023 (Leia
 esfera: "Federal"
 orgao: "Secretaria Especial da Receita Federal do Brasil / Ministério do Trabalho e Emprego"
 tipo: "Portaria Conjunta"
-numero: "44"
+numero: "44 (eSocial)"
 data: "2023-08-11"
 ano: "2023"
 tema_tributario: "Folha de Pagamento e Encargos"

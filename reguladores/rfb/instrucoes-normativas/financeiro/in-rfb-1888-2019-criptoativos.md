@@ -3,7 +3,7 @@ titulo: "Instrução Normativa RFB nº 1.888, de 3 de maio de 2019 (Obrigatoried
 esfera: "Federal"
 orgao: "Secretaria Especial da Receita Federal do Brasil"
 tipo: "Instrução Normativa"
-numero: "1888"
+numero: "1.888 (Criptoativos)"
 data: "2019-05-03"
 ano: "2019"
 tema_tributario: "Tributação Financeira e IOF"
