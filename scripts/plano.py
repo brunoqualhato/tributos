@@ -56,8 +56,8 @@ PLANO = [
               "Isenção de Dividendos e JCP (Lei 9.249/95 e Lei das S/A)",
               "federal/leis-ordinarias/dividendos-jcp", 5, 1, "normas.leg.br"),
     ItemPlano("2. Dividendos & Renda do Capital", "Lucro Real e Presumido",
-              "Norma Matriz do Lucro Real, IRPJ/CSLL (DL 1.598/77, Leis 7.689/88, 8.981/95, 12.973/14)",
-              "federal/leis-ordinarias/irpj-csll", 10, 1, "normas.leg.br"),
+              "Norma Matriz do Lucro Real, IRPJ/CSLL (DL 1.598/77, Leis 7.689/88, 8.981/95, 12.973/14, 14.871/24 e 15.079/24)",
+              "federal/leis-ordinarias/irpj-csll", 12, 1, "normas.leg.br"),
     ItemPlano("2. Dividendos & Renda do Capital", "Offshores e Trusts",
               "Tributação de Renda e Controladas no Exterior (Lei 14.754/2023)",
               "federal/leis-ordinarias/offshores", 5, 1, "normas.leg.br"),
@@ -128,8 +128,8 @@ PLANO = [
               "Retenção de Serviços e CSRF (Lei 10.833/03)",
               "federal/leis-ordinarias/irrf-servicos", 5, 1, "normas.leg.br"),
     ItemPlano("5. Serviços & Retenções", "CTM e RISS das Capitais",
-              "Códigos Tributários Municipais e Regulamentos do ISS (SP, RJ, BH)",
-              "municipais/*/servicos-iss", 7, 4, "Câmaras e Prefeituras Municipais"),
+              "Códigos Tributários Municipais e Regulamentos do ISS (SP, RJ, BH, Salvador, Fortaleza, Goiânia, Belém, Recife, Curitiba, Porto Alegre, Florianópolis)",
+              "municipais/*/servicos-iss", 15, 4, "Câmaras e Prefeituras Municipais"),
 
     # =========================================================================
     # PILAR 6: PATRIMÔNIO, HERANÇA E VEÍCULOS (ITCMD, IPVA, ITR, ITBI, IPTU)
@@ -157,8 +157,8 @@ PLANO = [
     # PILAR 7: COMBUSTÍVEIS E ENERGIA
     # =========================================================================
     ItemPlano("7. Combustíveis e Energia", "CIDE e Lei do Petróleo",
-              "CIDE-Combustíveis (Lei 10.336/01, Dec. 5.060/04), Petróleo (Lei 9.478/97) e Combustíveis do Futuro",
-              "federal/leis-ordinarias/combustiveis", 8, 1, "normas.leg.br"),
+              "CIDE-Combustíveis (Lei 10.336/01, Dec. 5.060/04), Petróleo (Lei 9.478/97), Combustíveis do Futuro (Lei 14.993/24) e Mercado de Carbono SBCE (Lei 15.042/24)",
+              "federal/leis-ordinarias/combustiveis", 9, 1, "normas.leg.br"),
     ItemPlano("7. Combustíveis e Energia", "ICMS Monofásico ad rem",
               "Regime Monofásico Uniforme Nacional de Combustíveis (LC 192/2022)",
               "federal/leis-complementares/combustiveis", 2, 1, "normas.leg.br"),
@@ -186,18 +186,18 @@ PLANO = [
     # PILAR 9: REFORMA TRIBUTÁRIA E TRANSIÇÃO
     # =========================================================================
     ItemPlano("9. Reforma Tributária", "Marco Constitucional e Leis Complementares",
-              "Emenda Constitucional nº 132/2023, LC 214/2025, LC 227/2026, PLP 68, PLP 108 e Split Payment",
-              "reforma-tributaria", 8, 5, "Congresso Nacional / LexML"),
+              "Emenda Constitucional nº 132/2023, LC 214/2025, LC 227/2026, PLP 68, PLP 108, Split Payment e NT NFS-e Nacional IBS/CBS",
+              "reforma-tributaria", 9, 5, "Congresso Nacional / LexML"),
 
     # =========================================================================
     # PILAR 10: NORMAS CONTÁBEIS (CPC E CFC) E ATOS REGULATÓRIOS DA RFB
     # =========================================================================
     ItemPlano("10. Contabilidade e Precedentes", "Normas Brasileiras de Contabilidade (CFC)",
-              "Resoluções e Normas Técnicas Gerais do CFC (NBC TG 01 a 48, 1000, ITG 19 e Estrutura Conceitual)",
-              "contabil/cfc", 48, 2, "cfc.org.br"),
+              "Resoluções e Normas Técnicas Gerais do CFC (NBC TG 01 a 48, 1000, CTG 07, ITG 10, ITG 19, ITG 22 e Estrutura Conceitual)",
+              "contabil/cfc", 51, 2, "cfc.org.br"),
     ItemPlano("10. Contabilidade e Precedentes", "Pronunciamentos Técnicos CPC",
-              "Pronunciamentos Técnicos do Comitê de Pronunciamentos Contábeis (CPC 00 a 48)",
-              "contabil/cpc", 48, 2, "cpc.org.br"),
+              "Pronunciamentos Técnicos (CPC 00 a 48), Interpretações (ICPC 10, 19, 22) e Orientações (OCPC 07) do CPC",
+              "contabil/cpc", 52, 2, "cpc.org.br"),
     ItemPlano("10. Contabilidade e Precedentes", "Precedentes Vinculantes STF / STJ",
               "Súmulas Vinculantes, Temas de Repercussão Geral e Recursos Repetitivos (SV 8, 29, 31, 48, 50, 57, Temas STF/STJ)",
               "jurisprudencia/precedentes-vinculantes", 19, 5, "STF / STJ"),

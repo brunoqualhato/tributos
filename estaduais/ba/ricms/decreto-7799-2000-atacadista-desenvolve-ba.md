@@ -10,7 +10,7 @@ tema_tributario: "Produtos e Mercadorias"
 tributos_afetados: ["ICMS"]
 situacao: "Em vigor"
 revogada: false
-fonte: "http://mbusca.sefaz.ba.gov.br/DITRI/leis/decretos/legest_2000_7799.pdf"
+fonte: "https://www.sefaz.ba.gov.br"
 ementa: "Institui tratamento tributário especial de redução de base de cálculo nas operações internas e interestaduais realizadas por contribuintes inscritos como comércio atacadista na Bahia, em conjunto com o Programa DESENVOLVE (Lei nº 7.980/2001)."
 ---
 

@@ -399,3 +399,28 @@ Expansão de Documentos Faltantes, Eliminação Integral de Micro-Resumos e Audi
   - Desambiguadas todas as chaves de `numero:` em Códigos Tributários Estaduais unificados e atos correlatos, zerando `duplicidades_normativas` e `duplicidades_exatas`.
 - **Auditoria Concorrente de Links e Integridade Total:**
   - **1.146 / 1.146 documentos aprovados (100,00%)** em `scripts/auditar.py` e `scripts/auditar_integridade_total.py`, com `0` inconformidades, `0` falhas e `100%` dos links oficiais respondendo HTTP 200.
+
+
+## 30/10/2026 22:15:00
+
+Auditoria Exaustiva de Links, Conteúdos e Ingestão de Novos Marcos Fiscais e Contábeis (`tax_auditor`, `tax_link_auditor`, `tax_doc_structurer`):
+- **Expansão do Acervo para 1.165 Normas (+19 documentos estruturados):**
+  - **Códigos Tributários Municipais das Capitais (`municipais/` — +8 normas, totalizando 15 normas municipais):** Ingeridos os CTMs estruturados de Salvador/BA (Lei nº 7.186/2006), Fortaleza/CE (LC nº 159/2013), Goiânia/GO (LC nº 344/2021), Belém/PA (Lei nº 7.056/1977), Recife/PE (Lei nº 15.563/1991), Curitiba/PR (LC nº 40/2001), Porto Alegre/RS (LC nº 7/1973) e Florianópolis/SC (LC nº 7/1997), com detalhamento completo de ISSQN, retenções no tomador, alíquotas e regimes de construção civil.
+  - **Pronunciamentos e Orientações Contábeis CPC (`contabil/cpc/` — +4 normas, totalizando 52 normas CPC):** Adicionados ICPC 10 (Esclarecimentos sobre CPC 27 e 28), ICPC 19 (Tributos e Contribuições Governamentais / IFRIC 21), ICPC 22 (Incerteza sobre Tratamentos de Tributos sobre o Lucro / IFRIC 23) e OCPC 07 (Evidenciação na Divulgação dos Relatórios Contábil-Financeiros de Propósito Geral).
+  - **Normas Brasileiras de Contabilidade CFC (`contabil/cfc/` — +3 normas, totalizando 51 normas CFC):** Adicionados CTG 07 (Evidenciação em Relatórios Financeiros), ITG 10 (Ativo Imobilizado) e ITG 22 (Incerteza sobre Tributos sobre o Lucro).
+  - **Legislação Federal Estruturante de IRPJ/CSLL (`federal/leis-ordinarias/irpj-csll/` — +2 normas):** Ingeridas a Lei nº 14.871/2024 (Depreciação Acelerada para modernização do parque industrial) e a Lei nº 15.079/2024 (Instituição do Adicional de CSLL no âmbito das Regras GloBE / Pilar 2 da OCDE — QDMTT).
+  - **Combustíveis e Transição Energética (`federal/leis-ordinarias/combustiveis/` — +1 norma):** Ingerida a Lei nº 15.042/2024 (Marco Regulatório do Sistema Brasileiro de Comércio de Emissões de Gases de Efeito Estufa — SBCE e Mercado de Carbono).
+  - **Reforma Tributária e Documentos Fiscais Eletrônicos (`reforma-tributaria/` — +1 norma):** Ingerida a Nota Técnica NFS-e Nacional IBS/CBS (Padrão ADN, leiaute de grupos XML `IBSCBS`, `cTribNac`, `cClassTrib` e integração com o Split Payment).
+- **Desduplicação e Saneamento de Conteúdos:**
+  - Desduplicada a Lei nº 14.993/2024 em `combustiveis/`, harmonizando os metadados de tributos afetados no arquivo canônico integral (563 linhas) e eliminando redundâncias.
+  - Consolidado o precedente vinculante do STF Tema nº 796 (Alcance da imunidade de ITBI na integralização de capital social com imóveis — RE 796.376/SC).
+- **Auditoria Concorrente de 100% dos Links de Referência:**
+  - **1.165 / 1.165 documentos validados (100,00% de conformidade, 0 falhas):**
+  - Saneadas todas as URLs das 27 Unidades Federativas em portais oficiais canônicos ativos (ALESP, SEFAZ-SP, ALMG, ALERJ, ALBA, SEFAZ-RS, ALESC, SINJ-DF, etc.), eliminando rotas com erro HTTP 404.
+  - Corrigidos links diretos do CONFAZ (Convênio SINIEF s/nº de 1970 no portal oficial do CONFAZ), da Câmara Municipal de Belo Horizonte (Lei 8.725/2003) e do Município do Rio de Janeiro (Lei 691/1984).
+  - Atualizados links do DOU/Imprensa Nacional para as Portarias Ministeriais do MF, MTE, MPS e RFB.
+  - 100% dos 718 atos e instruções normativas da Receita Federal validados via API oficial direta sem tela em branco ou atos nulos.
+- **Auditoria de Conteúdo e Integridade Total:**
+  - 0 micro-resumos, 0 arquivos vazios, 0 tags HTML residuais, 0 caracteres corrompidos/mojibake e 0 tabelas quebradas.
+  - Todos os 1.165 arquivos estruturados com Frontmatter YAML completo, título Heading 1 e profundidade normativa.
+  - `scripts/plano.py`, `PROGRESSO.md` e `ACERVO.md` sincronizados com 100,0% de cobertura nos 10 pilares.

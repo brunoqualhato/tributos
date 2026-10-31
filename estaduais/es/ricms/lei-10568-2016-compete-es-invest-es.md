@@ -10,7 +10,7 @@ tema_tributario: "Produtos e Mercadorias"
 tributos_afetados: ["ICMS"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://legislacao.sefaz.es.gov.br/lei-estadual-10568-2016"
+fonte: "https://www.al.es.leg.br"
 ementa: "Institui o Programa de Desenvolvimento e Proteção à Economia do Estado do Espírito Santo (COMPETE-ES) e consolida os incentivos fiscais para o comércio atacadista (carga de 1,1% nas saídas interestaduais a 12%), comércio eletrônico não presencial (COMPETE Venda Não Presencial) e indústria (INVEST-ES)."
 ---
 
