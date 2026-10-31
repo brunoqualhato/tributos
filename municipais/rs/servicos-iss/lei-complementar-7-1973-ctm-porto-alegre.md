@@ -14,7 +14,7 @@ fonte: "https://leismunicipais.com.br/codigo-tributario-porto-alegre-rs"
 ementa: "Institui e disciplina os tributos de competência do Município de Porto Alegre, Estado do Rio Grande do Sul (ISSQN, IPTU, ITBI e Taxas), consolidado com a Lei Complementar nº 306/1993, LC nº 501/2003, LC nº 809/2016, LC nº 866/2019 e LC nº 966/2022."
 ---
 
-# Lei Complementar Municipal nº 7, de 7 de dezembro de 1973 e LC nº 306/1993 (Código Tributário do Município de Porto Alegre/RS)
+# Lei Complementar Municipal nº 7, de 7 de dezembro de 1973 e LC nº 306/1993 (Código Tributário Municipal e Legislação do ISSQN de Porto Alegre/RS)
 
 ## Identificação Normativa
 

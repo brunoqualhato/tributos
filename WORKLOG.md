@@ -442,3 +442,43 @@ Auditoria Nacional e Análise Comparativa dos 27 Estados, PIS/COFINS, Pasep e Re
 - **Consolidação Técnica Nacional:**
   - Publicação do relatório `_auditoria/auditoria_nacional_estados_e_tributos.md` reunindo tabela comparativa das 27 UFs (alíquotas modais, DIFAL, agro, indústria, atacado e transição) e roteiro prioritário de expansão do acervo.
 
+
+## 30/10/2026 23:25:00
+
+Estruturação do Obsidian Vault (Grafo de Conhecimento, Canvas e MOCs), Auditoria Independente Concorrente e Saneamento Geral (`tax_auditor`, `tax_link_auditor`):
+- **Integração Completa do Repositório ao Obsidian Vault:**
+  - **Configurações Nativas (`.obsidian/`):**
+    - `.obsidian/app.json`: Habilitados wikilinks canônicos `[[Link]]`, numeração de linhas, busca ativa e vinculação de cabeçalhos.
+    - `.obsidian/graph.json`: Configurado motor do Grafo de Conhecimento com 9 agrupamentos cromáticos temáticos (Reforma Tributária em Vermelho, Legislação Estadual em Laranja, Legislação Municipal em Roxo, Legislação Federal em Ciano, Contabilidade em Verde, Jurisprudência em Amarelo e CARF em Rosa).
+    - `.obsidian/types.json`: Mapeamento estruturado de metadados do frontmatter YAML (esfera, órgão, tema, tributos, ano).
+  - **Landing Page do Vault (`Home.md`):**
+    - Painel mestre interativo de navegação com catálogo consolidado das 1.231 normas, atalhos diretos para os 10 pilares tributários, visão dos painéis especiais e links para relatórios de governança.
+  - **Mapas de Conteúdo (Maps of Content — MOCs em `obsidian/`):**
+    - Criados 13 MOCs temáticos cobrindo os 10 pilares da tributação brasileira + Matriz Interestadual das 27 UFs + Fundos Agropecuários (Art. 136 ADCT) + Processo Administrativo Tributário Estadual (PAT).
+    - Mapeamento e validação de 433 wikilinks cruzados interligando leis federais, convênios CONFAZ, leis matrizes estaduais, RICMS, CTMs municipais, instruções normativas, NBC TG/CPC e precedentes vinculantes (0 links quebrados).
+  - **Whiteboard Interativo (`obsidian/Mapa_Mental_Sistema_Tributario.canvas`):**
+    - Canvas gráfico em tela infinita contendo 26 nós conceituais estruturados e 7 arestas direcionadas conectando Federação (União, Estados, Municípios), Tributos sobre Renda, Consumo, Patrimônio e o Novo Sistema Tributário sobre o Consumo (IBS/CBS, Split Payment, Comitê Gestor).
+- **Resultados da Auditoria Independente Concorrente (4 Subagentes):**
+  - **Auditor Federal e Jurisprudência (`tax_auditor`):** 100% de conformidade técnica e material nas normas federais de Pasep, créditos agroindustriais e repetitivos STF/STJ/CARF.
+  - **Auditor das 27 Leis Orgânicas do ICMS (`tax_auditor`):** 100% de conformidade material com análise comparativa de alíquotas modais, base dupla do DIFAL e créditos.
+  - **Auditor de Fundos Agropecuários e PAT (`tax_auditor`):** 100% de precisão material nos indexadores UPF/MT, UFERMS, tetos de 1,65% e salvaguarda do art. 136 do ADCT, e profundidade exaustiva nas instâncias singulares e recursais de todos os tribunais de fazenda estaduais (TIT/SP, CCRJ, CCMG, CCRF/PR, TAT/SC, TARF/RS, CAT/GO, CONSEF/BA).
+  - **Auditor dos CTMs das Capitais (`tax_link_auditor`):** 100% de aprovação nos Códigos Tributários Municipais com disciplina expressa da retenção na fonte / substituição tributária e inclusão vinculante da dedução de materiais da construção civil (Tema 247/STF — RE 603.497/MG) em todas as capitais.
+- **Saneamento e Harmonização Integral do Acervo:**
+  - Saneadas 100% das URLs de fontes governamentais apontadas nas auditorias (SEFAZ-MS, SEFAZ-MT, AL-PI, ALERJ e SEFAZ-RJ).
+  - Sincronizados 36 cabeçalhos H1 (`# Título`) para correspondência estrita com a propriedade `titulo` do frontmatter YAML.
+  - `python3 scripts/auditar.py`: 1.231 documentos inspecionados, 1.231 aprovados (100,00% de conformidade técnica, 0 falhas).
+
+
+Ingestão Concorrente Massiva: Fechamento das 27 UFs (ICMS Matrizes e Fundos Agro), 26 Capitais (CTM), PAT Estadual, PIS/PASEP Governamental e Precedentes Vinculantes (`agente_ingestao_tributaria`, `tax_auditor`):
+- **Expansão Histórica do Acervo para 1.231 Normas (+66 documentos estruturados e aprovados):**
+  - **Leis Orgânicas Matrizes do ICMS das 27 Unidades da Federação (`estaduais/*/leis/icms/` — +27 normas):** Ingestão completa do marco legislativo primário estadual em 100% dos entes federados (SP Lei 6.374/89, RJ Lei 2.657/96, MG Lei 6.763/75, ES Lei 7.000/01, PR Lei 11.580/96, SC Lei 10.297/96, RS Lei 8.820/89, GO Lei 11.651/91, MT Lei 7.098/98, MS Lei 1.810/97, DF Lei 1.254/96, BA Lei 7.014/96, CE Lei 18.665/23, PE Lei 15.730/16, MA Lei 7.799/02, PB Lei 6.379/96, PI Lei 4.257/89, RN Lei 6.968/96, AL Lei 5.900/96, SE Lei 3.796/96, AM LC 242/22, PA Lei 5.530/89, RO Lei 688/96, TO Lei 1.287/01, AC LC 396/22, AP Lei 400/97 e RR Lei 1.640/22).
+  - **Fundos Agropecuários e de Infraestrutura Estaduais ("Taxas do Agro" — `estaduais/*/leis/fundos/` — +5 normas):** Instituição e disciplina tributária dos fundos amparados pelo art. 136 do ADCT da EC nº 132/2023: FETHAB/MT (Lei 7.263/00), FUNDEINFRA/GO (Lei 21.670/22), FUNDERSUL/MS (Lei 4.049/11), FECOP/MA (Lei 8.205/04) e FEFIR/FAIN/BA (Lei 14.527/22).
+  - **Processo Administrativo Tributário Estadual (`estaduais/*/leis/pat/` — +8 normas):** Legislação dos Tribunais Administrativos de Fazenda e rito de contencioso fiscal em SP (TIT/SP Lei 13.457/09), RJ (Conselho de Contribuintes Dec-Lei 5/75 e Dec. 42.859/11), MG (CCMG Dec. 44.747/08 - RPTA), PR (CCRF/PR Lei 18.877/16), SC (TAT/SC Lei 3.938/66), RS (TARF/RS Lei 6.537/73), GO (CAT/GO Lei 16.469/09) e BA (CONSEF/BA Dec. 7.629/99).
+  - **Códigos Tributários Municipais (CTM) e ISSQN das Capitais (`municipais/*/servicos-iss/` — +15 normas, totalizando 100% das 26 Capitais Estaduais + DF):** Incorporados os CTMs de Manaus/AM (Lei 1.628/11), Porto Velho/RO (LC 878/21), Palmas/TO (LC 285/13), Rio Branco/AC (LC 107/21), Macapá/AP (LC 156/23), Boa Vista/RR (LC 1.223/17), Cuiabá/MT (LC 043/97), Campo Grande/MS (LC 59/03), São Luís/MA (Lei 6.289/17), João Pessoa/PB (LC 53/08), Teresina/PI (LC 4.974/16), Natal/RN (LC 166/17), Maceió/AL (Lei 6.685/17), Aracaju/SE (LC 154/16) e Vitória/ES (Lei 6.075/03).
+  - **PIS / PASEP Governamental, Desoneração Agroindustrial e Terceiro Setor (`federal/` — +6 normas):** Pasep Governamental de 1,0% sobre receitas correntes de entes públicos (Lei 9.715/98), Unificação dos fundos PIS-PASEP (LC 26/75), regimes de suspensão e crédito presumido agroindustrial da carne bovina (Lei 12.058/09), aves, suínos e café (Lei 12.350/10) e complexo soja (Lei 12.865/13), e PIS 1% sobre folha de salários para entidades sem fins lucrativos (MP 2.158-35/01 art. 13).
+  - **Precedentes Vinculantes STF/STJ e CARF (`jurisprudencia/` e `reguladores/` — +5 normas):** Tema 779/STJ (Insumos na não-cumulatividade do PIS/Cofins e critérios de essencialidade/relevância), Tema 1.050/STJ (Vedação de crédito na revenda monofásica a alíquota zero), Tema 1.125/STJ (Exclusão do ICMS-ST da base de cálculo do PIS/Cofins), Tema 1.231/STF (Constitucionalidade da restauração das alíquotas sobre receitas financeiras) e Súmulas do CARF nº 178, 183, 189 e 190.
+- **Auditoria de Integridade e Sincronização Geral:**
+  - 100% dos 1.231 documentos aprovados pela rotina canônica `scripts/auditar.py` (0 erros de schema, 0 tags HTML residuais, 0 arquivos vazios).
+  - `scripts/plano.py`, `PROGRESSO.md` e `ACERVO.md` atualizados e sincronizados em 100,0% de aderência nos 10 pilares.
+
+

@@ -14,7 +14,7 @@ fonte: "https://leismunicipais.com.br/codigo-tributario-florianopolis-sc"
 ementa: "Consolida as Leis Tributárias do Município de Florianópolis, Estado de Santa Catarina (Código Tributário Municipal), dispondo sobre o ISSQN, o IPTU, o ITBI, as Taxas e o Processo Administrativo Tributário, com as alterações das Leis Complementares nº 126/2003, nº 480/2013, nº 631/2017 e nº 732/2022."
 ---
 
-# Lei Complementar Municipal CMF nº 007, de 18 de fevereiro de 1997 (Consolidação das Leis Tributárias de Florianópolis/SC)
+# Lei Complementar Municipal CMF nº 007, de 18 de fevereiro de 1997 (Consolidação das Leis Tributárias do Município de Florianópolis/SC)
 
 ## Identificação Normativa
 

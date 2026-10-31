@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"hub-central","type":"text","text":"# 🏛️ SISTEMA TRIBUTÁRIO NACIONAL\n\n**Acervo Unificado de 1.231 Normas Fiscais e Contábeis**\n\n- [[Home|Painel Principal]]\n- [[obsidian/MOC-01-Legislacao-Estruturante|MOC 01 - Legislação Estruturante]]\n- [[obsidian/MOC-Matriz-Interestadual-27-UFs|Matriz Interestadual das 27 UFs]]","x":0,"y":0,"width":380,"height":220,"color":"6"},
+		{"id":"group-federal","type":"group","label":"FEDERAL (União / RFB)","x":-650,"y":-450,"width":550,"height":420,"color":"5"},
+		{"id":"node-fed-1","type":"file","file":"federal/leis-complementares/ctn/lei-5172-1966.md","x":-630,"y":-400,"width":240,"height":160},
+		{"id":"node-fed-2","type":"file","file":"federal/leis-ordinarias/lei-10637-2002.md","x":-360,"y":-400,"width":240,"height":160},
+		{"id":"node-fed-3","type":"file","file":"federal/leis-ordinarias/irpj-csll/decreto-lei-1598-1977.md","x":-630,"y":-210,"width":240,"height":160},
+		{"id":"node-fed-4","type":"file","file":"federal/leis-ordinarias/pis-cofins/lei-9715-1998-pasep-governamental.md","x":-360,"y":-210,"width":240,"height":160},
+		{"id":"group-estadual","type":"group","label":"ESTADUAL (27 Unidades da Federação / CONFAZ)","x":480,"y":-450,"width":550,"height":420,"color":"3"},
+		{"id":"node-est-1","type":"file","file":"federal/leis-complementares/kandir/lei-87-1996.md","x":500,"y":-400,"width":240,"height":160},
+		{"id":"node-est-2","type":"file","file":"estaduais/confaz/convenios-icms/2024/convenio-icms-109-2024.md","x":770,"y":-400,"width":240,"height":160},
+		{"id":"node-est-3","type":"file","file":"estaduais/sp/leis/icms/lei-6374-1989.md","x":500,"y":-210,"width":240,"height":160},
+		{"id":"node-est-4","type":"file","file":"estaduais/mt/leis/fundos/lei-7263-2000-fethab.md","x":770,"y":-210,"width":240,"height":160},
+		{"id":"group-municipal","type":"group","label":"MUNICIPAL (26 Capitais + DF / ISSQN)","x":-650,"y":250,"width":550,"height":380,"color":"4"},
+		{"id":"node-mun-1","type":"file","file":"federal/leis-complementares/iss/lei-116-2003.md","x":-630,"y":300,"width":240,"height":150},
+		{"id":"node-mun-2","type":"file","file":"municipais/sp/servicos-iss/lei-13701-2003.md","x":-360,"y":300,"width":240,"height":150},
+		{"id":"node-mun-3","type":"file","file":"municipais/am/servicos-iss/lei-1628-2011-ctm-manaus.md","x":-630,"y":465,"width":240,"height":150},
+		{"id":"node-mun-4","type":"file","file":"municipais/ba/servicos-iss/lei-7186-2006-ctm-salvador.md","x":-360,"y":465,"width":240,"height":150},
+		{"id":"group-reforma","type":"group","label":"NOVO SISTEMA TRIBUTÁRIO (IBS / CBS / Comitê Gestor)","x":480,"y":250,"width":550,"height":380,"color":"1"},
+		{"id":"node-ref-1","type":"file","file":"reforma-tributaria/emenda-constitucional-132-2023.md","x":500,"y":300,"width":240,"height":150},
+		{"id":"node-ref-2","type":"file","file":"reforma-tributaria/lei-complementar-214-2025.md","x":770,"y":300,"width":240,"height":150},
+		{"id":"node-ref-3","type":"file","file":"reforma-tributaria/lei-complementar-227-2026.md","x":500,"y":465,"width":240,"height":150},
+		{"id":"node-ref-4","type":"file","file":"reforma-tributaria/split-payment/split-payment-modelo-operacional.md","x":770,"y":465,"width":240,"height":150},
+		{"id":"group-jurisprudencia","type":"group","label":"JURISPRUDÊNCIA VINCULANTE (STF / STJ / CARF / PAT)","x":-80,"y":700,"width":550,"height":380,"color":"2"},
+		{"id":"node-jur-1","type":"file","file":"jurisprudencia/precedentes-vinculantes/tema-69-stf-exclusao-icms-pis-cofins.md","x":-60,"y":750,"width":240,"height":150},
+		{"id":"node-jur-2","type":"file","file":"jurisprudencia/precedentes-vinculantes/stj/tema-779-stj-insumo-pis-cofins.md","x":210,"y":750,"width":240,"height":150},
+		{"id":"node-jur-3","type":"file","file":"jurisprudencia/precedentes-vinculantes/stf/adc-49-transferencia-interestadual-mesmo-titular.md","x":-60,"y":915,"width":240,"height":150},
+		{"id":"node-jur-4","type":"file","file":"reguladores/carf/sumulas/sumula-carf-178-insumos-essencialidade.md","x":210,"y":915,"width":240,"height":150}
+	],
+	"edges":[
+		{"id":"e-hub-fed","fromNode":"hub-central","fromSide":"left","toNode":"group-federal","toSide":"right","label":"Tributos Federais","color":"5"},
+		{"id":"e-hub-est","fromNode":"hub-central","fromSide":"right","toNode":"group-estadual","toSide":"left","label":"ICMS & 27 UFs","color":"3"},
+		{"id":"e-hub-mun","fromNode":"hub-central","fromSide":"bottom","toNode":"group-municipal","toSide":"top","label":"ISSQN 26 Capitais","color":"4"},
+		{"id":"e-hub-ref","fromNode":"hub-central","fromSide":"bottom","toNode":"group-reforma","toSide":"top","label":"Transição IVA Dual","color":"1"},
+		{"id":"e-ref-transicao-fed","fromNode":"group-reforma","fromSide":"left","toNode":"group-jurisprudencia","toSide":"right","label":"Segurança Jurídica","color":"2"},
+		{"id":"e-adc49-kandir","fromNode":"node-jur-3","fromSide":"top","toNode":"node-est-2","toSide":"bottom","label":"Convênio 109/2024","color":"3"},
+		{"id":"e-tema69-pis","fromNode":"node-jur-1","fromSide":"left","toNode":"node-fed-2","toSide":"bottom","label":"Exclusão da Base","color":"5"}
+	]
+}

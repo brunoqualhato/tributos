@@ -14,7 +14,7 @@ fonte: "https://leismunicipais.com.br/codigo-tributario-curitiba-pr"
 ementa: "Dispõe sobre os tributos municipais (ISS, IPTU, ITBI, Taxas e Contribuição de Melhoria) e aprova o Código Tributário do Município de Curitiba, Estado do Paraná, com as alterações das Leis Complementares nº 48/2003, nº 73/2009, nº 107/2017, nº 129/2021 e nº 136/2022."
 ---
 
-# Lei Complementar Municipal nº 40, de 18 de dezembro de 2001 (Código Tributário do Município de Curitiba/PR)
+# Lei Complementar Municipal nº 40, de 18 de dezembro de 2001 (Código Tributário Municipal e Legislação do ISSQN, IPTU e ITBI de Curitiba/PR)
 
 ## Identificação Normativa
 
