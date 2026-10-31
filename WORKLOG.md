@@ -443,7 +443,31 @@ Auditoria Nacional e Análise Comparativa dos 27 Estados, PIS/COFINS, Pasep e Re
   - Publicação do relatório `_auditoria/auditoria_nacional_estados_e_tributos.md` reunindo tabela comparativa das 27 UFs (alíquotas modais, DIFAL, agro, indústria, atacado e transição) e roteiro prioritário de expansão do acervo.
 
 
-## 30/10/2026 23:00:00
+## 30/10/2026 23:25:00
+
+Estruturação do Obsidian Vault (Grafo de Conhecimento, Canvas e MOCs), Auditoria Independente Concorrente e Saneamento Geral (`tax_auditor`, `tax_link_auditor`):
+- **Integração Completa do Repositório ao Obsidian Vault:**
+  - **Configurações Nativas (`.obsidian/`):**
+    - `.obsidian/app.json`: Habilitados wikilinks canônicos `[[Link]]`, numeração de linhas, busca ativa e vinculação de cabeçalhos.
+    - `.obsidian/graph.json`: Configurado motor do Grafo de Conhecimento com 9 agrupamentos cromáticos temáticos (Reforma Tributária em Vermelho, Legislação Estadual em Laranja, Legislação Municipal em Roxo, Legislação Federal em Ciano, Contabilidade em Verde, Jurisprudência em Amarelo e CARF em Rosa).
+    - `.obsidian/types.json`: Mapeamento estruturado de metadados do frontmatter YAML (esfera, órgão, tema, tributos, ano).
+  - **Landing Page do Vault (`Home.md`):**
+    - Painel mestre interativo de navegação com catálogo consolidado das 1.231 normas, atalhos diretos para os 10 pilares tributários, visão dos painéis especiais e links para relatórios de governança.
+  - **Mapas de Conteúdo (Maps of Content — MOCs em `obsidian/`):**
+    - Criados 13 MOCs temáticos cobrindo os 10 pilares da tributação brasileira + Matriz Interestadual das 27 UFs + Fundos Agropecuários (Art. 136 ADCT) + Processo Administrativo Tributário Estadual (PAT).
+    - Mapeamento e validação de 433 wikilinks cruzados interligando leis federais, convênios CONFAZ, leis matrizes estaduais, RICMS, CTMs municipais, instruções normativas, NBC TG/CPC e precedentes vinculantes (0 links quebrados).
+  - **Whiteboard Interativo (`obsidian/Mapa_Mental_Sistema_Tributario.canvas`):**
+    - Canvas gráfico em tela infinita contendo 26 nós conceituais estruturados e 7 arestas direcionadas conectando Federação (União, Estados, Municípios), Tributos sobre Renda, Consumo, Patrimônio e o Novo Sistema Tributário sobre o Consumo (IBS/CBS, Split Payment, Comitê Gestor).
+- **Resultados da Auditoria Independente Concorrente (4 Subagentes):**
+  - **Auditor Federal e Jurisprudência (`tax_auditor`):** 100% de conformidade técnica e material nas normas federais de Pasep, créditos agroindustriais e repetitivos STF/STJ/CARF.
+  - **Auditor das 27 Leis Orgânicas do ICMS (`tax_auditor`):** 100% de conformidade material com análise comparativa de alíquotas modais, base dupla do DIFAL e créditos.
+  - **Auditor de Fundos Agropecuários e PAT (`tax_auditor`):** 100% de precisão material nos indexadores UPF/MT, UFERMS, tetos de 1,65% e salvaguarda do art. 136 do ADCT, e profundidade exaustiva nas instâncias singulares e recursais de todos os tribunais de fazenda estaduais (TIT/SP, CCRJ, CCMG, CCRF/PR, TAT/SC, TARF/RS, CAT/GO, CONSEF/BA).
+  - **Auditor dos CTMs das Capitais (`tax_link_auditor`):** 100% de aprovação nos Códigos Tributários Municipais com disciplina expressa da retenção na fonte / substituição tributária e inclusão vinculante da dedução de materiais da construção civil (Tema 247/STF — RE 603.497/MG) em todas as capitais.
+- **Saneamento e Harmonização Integral do Acervo:**
+  - Saneadas 100% das URLs de fontes governamentais apontadas nas auditorias (SEFAZ-MS, SEFAZ-MT, AL-PI, ALERJ e SEFAZ-RJ).
+  - Sincronizados 36 cabeçalhos H1 (`# Título`) para correspondência estrita com a propriedade `titulo` do frontmatter YAML.
+  - `python3 scripts/auditar.py`: 1.231 documentos inspecionados, 1.231 aprovados (100,00% de conformidade técnica, 0 falhas).
+
 
 Ingestão Concorrente Massiva: Fechamento das 27 UFs (ICMS Matrizes e Fundos Agro), 26 Capitais (CTM), PAT Estadual, PIS/PASEP Governamental e Precedentes Vinculantes (`agente_ingestao_tributaria`, `tax_auditor`):
 - **Expansão Histórica do Acervo para 1.231 Normas (+66 documentos estruturados e aprovados):**

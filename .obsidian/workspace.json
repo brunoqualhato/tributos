@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "39697e63fac0e817",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d56e3883210ea33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73a2b9d2732c4578",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8844b3c89cabc31e",
+    "type": "split",
+    "children": [
+      {
+        "id": "10978a0aa20aa842",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08b8dedfe1db91bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "aff6f06e85e5f635",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "dd409dba9ee81728",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d2496e9ea627e79",
+    "type": "split",
+    "children": [
+      {
+        "id": "81c1f0f10de48742",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85fded0dd21717cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "471ea15862a4b2db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "08bdf56d8741b2fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "7795ecb1066d2c8a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "1023097de0bc2f54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "73a2b9d2732c4578",
+  "lastOpenFiles": [
+    "obsidian/Mapa_Mental_Sistema_Tributario.canvas",
+    "obsidian/MOC-01-Legislacao-Estruturante.md",
+    "README.md",
+    "ACERVO.md",
+    "federal/regulamentos/rir/decreto-9580-2018.md",
+    "obsidian/MOC-02-Dividendos-IRPJ-CSLL.md",
+    "obsidian/MOC-Processo-Administrativo-Tributario-PAT.md",
+    "obsidian/MOC-08-Financeiro-IOF.md",
+    "obsidian/MOC-07-Combustiveis-Energia.md",
+    "obsidian/MOC-06-Patrimonio-ITCMD-IPVA-ITR.md",
+    "obsidian/MOC-05-ISSQN-26-Capitais-Servicos.md",
+    "obsidian/MOC-04-ICMS-27-UFs-Produtos.md",
+    "obsidian/MOC-03-Folha-Previdencia.md"
+  ]
+}

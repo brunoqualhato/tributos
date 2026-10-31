@@ -1,0 +1,17 @@
+{
+  "types": {
+    "titulo": "text",
+    "esfera": "text",
+    "orgao": "text",
+    "tipo": "text",
+    "numero": "text",
+    "ano": "text",
+    "data": "date",
+    "tema_tributario": "text",
+    "tributos_afetados": "multitext",
+    "situacao": "text",
+    "revogada": "checkbox",
+    "fonte": "text",
+    "ementa": "text"
+  }
+}
