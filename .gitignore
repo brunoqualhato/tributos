@@ -18,5 +18,5 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Obsidian local workspace state
-.obsidian/workspace*.json
+# Obsidian (vault reside em ~/bruno-pensamentos)
+.obsidian/
