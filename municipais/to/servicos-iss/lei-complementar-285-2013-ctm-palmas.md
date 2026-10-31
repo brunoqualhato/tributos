@@ -14,7 +14,7 @@ fonte: "https://leismunicipais.com.br/codigo-tributario-palmas-to"
 ementa: "Institui o Código Tributário do Município de Palmas (CTM/Palmas), revogando a Lei Complementar nº 107/2005, e disciplina o Sistema Tributário Municipal, o Imposto sobre Serviços de Qualquer Natureza (ISSQN), o regime de alíquota fixa para autônomos e sociedades uniprofissionais de médicos e advogados, as regras de retenção na fonte e substituição tributária, o IPTU, o ITBI e as taxas de poder de polícia."
 ---
 
-# Lei Complementar nº 285, de 31 de outubro de 2013 (Código Tributário de Palmas/TO)
+# Lei Complementar nº 285, de 31 de outubro de 2013 (Código Tributário do Município de Palmas/TO)
 
 ## Identificação Normativa
 
@@ -85,7 +85,20 @@ Por ser a capital e centro decisório do Tocantins, Palmas concentra grande cont
 
 ---
 
-## 5. IPTU, ITBI e Tributos Patrimoniais em Palmas
+## 5. Regime da Construção Civil e Obras de Engenharia (Subitens 7.02 e 7.05)
+
+### 5.1. Base de Cálculo e Deduções Vinculadas ao Tema 247 do STF
+Na execução por administração, empreitada ou subempreitada de obras de construção civil, hidráulica, elétrica e congêneres (subitem 7.02) e de reparação, conservação e reforma de edifícios, estradas e pontes (subitem 7.05), a base de cálculo do ISSQN em Palmas é o valor total da nota fiscal de serviços ou fatura da medição, admitindo-se estritamente as seguintes deduções:
+1. **Materiais Fabricados pelo Prestador Fora do Local da Obra:** Exclusivamente o montante dos materiais produzidos pelo próprio prestador fora do canteiro de obras e nele incorporados em caráter permanente, sujeitos à comprovada incidência do ICMS estadual mercantil (em estrita consonância com o precedente vinculante do **Tema 247 do STF — RE 603.497/MG**);
+2. **Subempreitadas Já Tributadas:** O valor das subempreitadas contratadas para a mesma obra cujo ISSQN já tenha sido tempestivamente recolhido ou retido em favor do Município de Palmas.
+- **Vedação Absoluta a Compras Correntes:** É terminantemente proibida a dedução de notas fiscais de materiais adquiridos no comércio varejista ou atacadista (cimento, agregados, blocos, areia, brita, ferro e acabamentos) empregados diretamente no canteiro de obras.
+
+### 5.2. Habite-se e Certidão Negativa de Obras
+A emissão da Certidão de Conclusão de Obra e do "Habite-se" pela Secretaria Municipal de Desenvolvimento Urbano de Palmas subordina-se à regular liquidação do ISSQN incidente sobre a área construída, apurado pelo Fisco Municipal com base na pauta fiscal e nos custos unitários do CUB/TO.
+
+---
+
+## 6. IPTU, ITBI e Tributos Patrimoniais em Palmas
 
 - **IPTU (Arts. 196 a 240):**
   - **Alíquotas Progressivas do IPTU:**
@@ -96,7 +109,7 @@ Por ser a capital e centro decisório do Tocantins, Palmas concentra grande cont
 
 ---
 
-## 6. Obrigações Acessórias: CADES, NFS-e Palmas e ADN
+## 7. Obrigações Acessórias: CADES, NFS-e Palmas e ADN
 
 - **Cadastro de Atividades Econômico-Sociais (CADES):** Inscrição obrigatória para qualquer pessoa física ou jurídica que exerça atividade econômica habitual ou esporádica no território municipal;
 - **Nota Fiscal de Serviços Eletrônica (NFS-e Palmas):** Emissão via plataforma eletrônica da SEFIN Palmas, contendo validação de código de autenticidade digital;

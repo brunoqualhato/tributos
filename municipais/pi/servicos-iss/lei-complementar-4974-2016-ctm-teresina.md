@@ -112,7 +112,20 @@ Os hospitais e clínicas médicas de Teresina sofrem retenção na fonte do ISSQ
 
 ---
 
-## 7. Tributos Imobiliários e Taxas Especiais no CTMT
+## 7. Regime da Construção Civil e Obras de Engenharia (Subitens 7.02 e 7.05)
+
+### 7.1. Base de Cálculo e Deduções Vinculadas ao Tema 247 do STF
+Na execução de obras de engenharia civil, pavimentação, edificações residenciais, comerciais e industriais, e reformas em geral (subitens 7.02 e 7.05 da Lista de Serviços), a base de cálculo do ISSQN em Teresina é o preço total dos serviços pactuados ou valor medido da obra, autorizando-se unicamente as seguintes deduções:
+1. **Materiais Fabricados pelo Prestador Fora do Local da Obra:** Exclusivamente o montante dos materiais produzidos pelo próprio prestador fora do canteiro de obras e nele incorporados permanentemente, desde que devidamente comprovada a incidência e o pagamento do ICMS estadual mercantil (em estrita observância ao precedente vinculante do **Tema 247 da Repercussão Geral do STF — RE 603.497/MG**);
+2. **Subempreitadas Tributadas:** O valor relativo às subempreitadas contratadas para a mesma obra cujo ISSQN já tenha sido tempestivamente recolhido ou retido em favor do Município de Teresina.
+- **Vedação a Compras Correntes:** É absolutamente vedada a dedução de notas fiscais relativas a materiais de construção adquiridos de terceiros em revendas, lojas ou distribuidores atacadistas (cimento, agregados, ferro, argamassa e acabamentos).
+
+### 7.2. Habite-se e Certidão de Regularidade Fiscal de Obras
+A emissão da certidão de "Habite-se" pela autoridade urbanística municipal de Teresina condiciona-se à prévia quitação integral do ISSQN correspondente à área total edificada, calculado pelo Fisco Municipal com base na pauta fiscal e nos parâmetros do Custo Unitário Básico (CUB/PI), liquidando-se eventuais diferenças apuradas no encerramento da obra.
+
+---
+
+## 8. Tributos Imobiliários e Taxas Especiais no CTMT
 
 - **IPTU (Arts. 171 a 220):**
   - **Fato Gerador:** Posse, domínio útil ou propriedade de bem imóvel situado na zona urbana de Teresina.
@@ -124,7 +137,7 @@ Os hospitais e clínicas médicas de Teresina sofrem retenção na fonte do ISSQ
 
 ---
 
-## 8. Obrigações Acessórias Digitais e Transição para a LC nº 214/2025
+## 9. Obrigações Acessórias Digitais e Transição para a LC nº 214/2025
 
 - **NFS-e Teresina (Sistema SIGISS):** Emissão obrigatória e instantânea da Nota Fiscal de Serviços Eletrônica para todos os atos médicos, odontológicos e hospitalares;
 - **Declaração Mensal de Serviços Médicos (DMS-Saúde):** Cruzamento obrigatório de informações entre faturamentos hospitalares, guias de internação e retenções do SUS/planos;

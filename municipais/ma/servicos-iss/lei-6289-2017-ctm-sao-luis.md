@@ -107,10 +107,11 @@ Para combater a elisão fiscal e a simulação de estabelecimentos em município
 ## 6. Regime da Construção Civil (Subitens 7.02 e 7.05)
 
 - **Base de Cálculo:** O valor total da prestação ou fatura da medição da obra.
-- **Deduções Admitidas:** Admite-se unicamente a dedução:
-  I - do valor dos materiais produzidos pelo próprio prestador fora do local da obra e nela incorporados definitivamente, que tenham sido objeto de tributação pelo ICMS mercantil;
+- **Deduções Admitidas:** Em estrita observância ao precedente vinculante do **Tema 247 da Repercussão Geral do STF (RE 603.497/MG)**, admite-se unicamente a dedução:
+  I - do valor dos materiais produzidos pelo próprio prestador fora do local da obra e nela incorporados definitivamente, que tenham sido objeto de comprovada tributação pelo ICMS mercantil estadual;
   II - das subempreitadas já comprovadamente tributadas com recolhimento ou retenção de ISSQN em favor do Município de São Luís.
 - **Vedação a Compras Correntes:** É expressamente vedada a dedução genérica de aquisições de cimento, ferro, areia e materiais de terceiros adquiridos no comércio varejista ou atacadista para aplicação direta no canteiro da obra.
+- **Habite-se e Certidão de Regularidade Fiscal da Obra:** A expedição do "Habite-se" pela autoridade urbanística municipal condiciona-se à prévia quitação integral do ISSQN devido sobre a edificação, apurado mediante confronto entre as medições fiscais declaradas e a pauta fiscal mínima baseada no Custo Unitário Básico da Construção Civil (CUB/MA).
 
 ---
 

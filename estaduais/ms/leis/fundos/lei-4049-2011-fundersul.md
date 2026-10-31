@@ -10,7 +10,7 @@ tema_tributario: "Agronegócio e Fundos"
 tributos_afetados: ["FUNDERSUL", "ICMS"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://www.al.ms.gov.br/Legislacao/Norma/15594"
+fonte: "https://www.sefaz.ms.gov.br/legislacao"
 ementa: "Altera e consolida dispositivos da Lei nº 1.963, de 11 de junho de 1999, que cria o Fundo de Desenvolvimento do Sistema Rodoviário do Estado de Mato Grosso do Sul - FUNDERSUL, disciplina a contribuição financeira incidente sobre a produção agropecuária (pecuária de corte, soja e milho) e combustíveis, sua indexação em UFERMS, vinculação ao diferimento do ICMS, repasses municipais e recepção pelo art. 136 do ADCT."
 ---
 

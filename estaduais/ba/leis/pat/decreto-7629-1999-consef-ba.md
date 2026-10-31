@@ -14,7 +14,7 @@ fonte: "https://www.al.ba.gov.br"
 ementa: "Aprova o Regulamento do Processo Administrativo Fiscal - RPAF do Estado da Bahia e disciplina a estrutura e o funcionamento do Conselho de Fazenda Estadual - CONSEF (com as alterações supervenientes)."
 ---
 
-# Decreto nº 7.629, de 9 de julho de 1999
+# Decreto nº 7.629, de 9 de julho de 1999 (RPAF e CONSEF - Bahia)
 
 Aprova o Regulamento do Processo Administrativo Fiscal - RPAF e disciplina o Conselho de Fazenda Estadual - CONSEF.
 

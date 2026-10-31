@@ -14,7 +14,7 @@ fonte: "https://www.fazenda.mg.gov.br"
 ementa: "Estabelece o Regulamento do Processo e dos Procedimentos Tributários Administrativos (RPTA) no âmbito do Estado de Minas Gerais e disciplina o contencioso fiscal perante o Conselho de Contribuintes do Estado de Minas Gerais (CCMG)."
 ---
 
-# Decreto nº 44.747, de 3 de março de 2008
+# Decreto nº 44.747, de 3 de março de 2008 (RPTA e CCMG - Minas Gerais)
 
 Estabelece o Regulamento do Processo e dos Procedimentos Tributários Administrativos (RPTA).
 

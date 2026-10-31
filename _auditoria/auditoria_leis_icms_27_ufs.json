@@ -1,0 +1,527 @@
+{
+  "auditor": "tax_auditor (Agente Auditor Independente)",
+  "data_auditoria": "2026-10-31",
+  "total_documentos": 27,
+  "aprovados_plenos": 24,
+  "aprovados_com_ressalva": 0,
+  "requerem_saneamento": 3,
+  "score_medio_nacional": 93.1,
+  "itens": [
+    {
+      "uf": "AC",
+      "arquivo": "estaduais/ac/leis/icms/lei-complementar-396-2022.md",
+      "lei": "Lei Complementar 396/2022",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 91,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "16/20",
+        "c3_titulo_alinhado": "10/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": [
+        "Link aponta para portal raiz da assembleia: https://www.al.ac.leg.br",
+        "Divergência entre titulo no frontmatter e cabeçalho # do corpo"
+      ]
+    },
+    {
+      "uf": "AL",
+      "arquivo": "estaduais/al/leis/icms/lei-5900-1996.md",
+      "lei": "Lei Ordinária 5.900/1996",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 96,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "16/20",
+        "c3_titulo_alinhado": "15/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": [
+        "Link aponta para portal raiz da assembleia: https://www.al.al.leg.br"
+      ]
+    },
+    {
+      "uf": "AM",
+      "arquivo": "estaduais/am/leis/icms/lei-complementar-242-2022.md",
+      "lei": "Lei Complementar 242/2022",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 91,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "16/20",
+        "c3_titulo_alinhado": "10/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": [
+        "Link aponta para portal raiz da assembleia: https://www.aleam.gov.br",
+        "Divergência entre titulo no frontmatter e cabeçalho # do corpo"
+      ]
+    },
+    {
+      "uf": "AP",
+      "arquivo": "estaduais/ap/leis/icms/lei-400-1997.md",
+      "lei": "Lei Ordinária 400/1997",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 91,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "16/20",
+        "c3_titulo_alinhado": "10/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": [
+        "Link aponta para portal raiz da assembleia: https://www.al.ap.leg.br",
+        "Divergência entre titulo no frontmatter e cabeçalho # do corpo"
+      ]
+    },
+    {
+      "uf": "BA",
+      "arquivo": "estaduais/ba/leis/icms/lei-7014-1996.md",
+      "lei": "Lei Ordinária 7014/1996",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 91,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "16/20",
+        "c3_titulo_alinhado": "10/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": [
+        "Link aponta para portal raiz da assembleia: https://www.al.ba.gov.br",
+        "Divergência entre titulo no frontmatter e cabeçalho # do corpo"
+      ]
+    },
+    {
+      "uf": "CE",
+      "arquivo": "estaduais/ce/leis/icms/lei-18665-2023.md",
+      "lei": "Lei Ordinária 18665/2023",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 91,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "16/20",
+        "c3_titulo_alinhado": "10/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": [
+        "Link aponta para portal raiz da assembleia: https://www.al.ce.gov.br",
+        "Divergência entre titulo no frontmatter e cabeçalho # do corpo"
+      ]
+    },
+    {
+      "uf": "DF",
+      "arquivo": "estaduais/df/leis/icms/lei-1254-1996.md",
+      "lei": "Lei Ordinária 1254/1996",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 100,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "20/20",
+        "c3_titulo_alinhado": "15/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": []
+    },
+    {
+      "uf": "ES",
+      "arquivo": "estaduais/es/leis/icms/lei-7000-2001.md",
+      "lei": "Lei Ordinária 7000/2001",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 96,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "16/20",
+        "c3_titulo_alinhado": "15/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": [
+        "Link aponta para portal raiz da assembleia: https://www.al.es.leg.br"
+      ]
+    },
+    {
+      "uf": "GO",
+      "arquivo": "estaduais/go/leis/icms/lei-11651-1991.md",
+      "lei": "Lei Ordinária 11651/1991",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 100,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "20/20",
+        "c3_titulo_alinhado": "15/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": []
+    },
+    {
+      "uf": "MA",
+      "arquivo": "estaduais/ma/leis/icms/lei-7799-2002.md",
+      "lei": "Lei Ordinária 7799/2002",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 91,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "16/20",
+        "c3_titulo_alinhado": "10/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": [
+        "Link aponta para portal raiz da assembleia: https://www.al.ma.leg.br",
+        "Divergência entre titulo no frontmatter e cabeçalho # do corpo"
+      ]
+    },
+    {
+      "uf": "MG",
+      "arquivo": "estaduais/mg/leis/icms/lei-6763-1975.md",
+      "lei": "Lei Ordinária 6763/1975",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 100,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "20/20",
+        "c3_titulo_alinhado": "15/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": []
+    },
+    {
+      "uf": "MS",
+      "arquivo": "estaduais/ms/leis/icms/lei-1810-1997.md",
+      "lei": "Lei Ordinária 1810/1997",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 85,
+      "status": "REQUER SANEAMENTO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "5/20",
+        "c3_titulo_alinhado": "15/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": [
+        "URL retorna HTTP 404 (https://www.al.ms.gov.br/Legislacao/Norma/15594)"
+      ]
+    },
+    {
+      "uf": "MT",
+      "arquivo": "estaduais/mt/leis/icms/lei-7098-1998.md",
+      "lei": "Lei Ordinária 7098/1998",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 85,
+      "status": "REQUER SANEAMENTO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "5/20",
+        "c3_titulo_alinhado": "15/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": [
+        "URL retorna HTTP 404 (https://www.al.mt.gov.br/norma/lei/7098/1998)"
+      ]
+    },
+    {
+      "uf": "PA",
+      "arquivo": "estaduais/pa/leis/icms/lei-5530-1989.md",
+      "lei": "Lei Ordinária 5530/1989",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 91,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "16/20",
+        "c3_titulo_alinhado": "10/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": [
+        "Link aponta para portal raiz da assembleia: https://www.alepa.pa.gov.br",
+        "Divergência entre titulo no frontmatter e cabeçalho # do corpo"
+      ]
+    },
+    {
+      "uf": "PB",
+      "arquivo": "estaduais/pb/leis/icms/lei-6379-1996.md",
+      "lei": "Lei Ordinária 6379/1996",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 91,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "16/20",
+        "c3_titulo_alinhado": "10/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": [
+        "Link aponta para portal raiz da assembleia: https://www.al.pb.leg.br",
+        "Divergência entre titulo no frontmatter e cabeçalho # do corpo"
+      ]
+    },
+    {
+      "uf": "PE",
+      "arquivo": "estaduais/pe/leis/icms/lei-15730-2016.md",
+      "lei": "Lei Ordinária 15730/2016",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 95,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "20/20",
+        "c3_titulo_alinhado": "10/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": [
+        "Divergência entre titulo no frontmatter e cabeçalho # do corpo"
+      ]
+    },
+    {
+      "uf": "PI",
+      "arquivo": "estaduais/pi/leis/icms/lei-4257-1989.md",
+      "lei": "Lei Ordinária 4.257/1989",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 85,
+      "status": "REQUER SANEAMENTO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "5/20",
+        "c3_titulo_alinhado": "15/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": [
+        "URL com falha SSL Hostname Mismatch / HTTP 404 (https://www.alepi.pi.gov.br)"
+      ]
+    },
+    {
+      "uf": "PR",
+      "arquivo": "estaduais/pr/leis/icms/lei-11580-1996.md",
+      "lei": "Lei Ordinária 11580/1996",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 95,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "20/20",
+        "c3_titulo_alinhado": "10/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": [
+        "Divergência entre titulo no frontmatter e cabeçalho # do corpo"
+      ]
+    },
+    {
+      "uf": "RJ",
+      "arquivo": "estaduais/rj/leis/icms/lei-2657-1996.md",
+      "lei": "Lei Ordinária 2657/1996",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 94,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "14/20",
+        "c3_titulo_alinhado": "15/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": [
+        "URL utiliza HTTP inseguro em vez de HTTPS (http://alerjln1.alerj.rj.gov.br)"
+      ]
+    },
+    {
+      "uf": "RN",
+      "arquivo": "estaduais/rn/leis/icms/lei-6968-1996.md",
+      "lei": "Lei Ordinária 6.968/1996",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 96,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "16/20",
+        "c3_titulo_alinhado": "15/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": [
+        "Link aponta para portal raiz da assembleia: https://www.al.rn.leg.br"
+      ]
+    },
+    {
+      "uf": "RO",
+      "arquivo": "estaduais/ro/leis/icms/lei-688-1996.md",
+      "lei": "Lei Ordinária 688/1996",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 91,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "16/20",
+        "c3_titulo_alinhado": "10/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": [
+        "Link aponta para portal raiz da assembleia: https://www.al.ro.leg.br",
+        "Divergência entre titulo no frontmatter e cabeçalho # do corpo"
+      ]
+    },
+    {
+      "uf": "RR",
+      "arquivo": "estaduais/rr/leis/icms/lei-1640-2022.md",
+      "lei": "Lei Ordinária 1640/2022",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 91,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "16/20",
+        "c3_titulo_alinhado": "10/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": [
+        "Link aponta para portal raiz da assembleia: https://al.rr.leg.br",
+        "Divergência entre titulo no frontmatter e cabeçalho # do corpo"
+      ]
+    },
+    {
+      "uf": "RS",
+      "arquivo": "estaduais/rs/leis/icms/lei-8820-1989.md",
+      "lei": "Lei Ordinária 8820/1989",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 95,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "20/20",
+        "c3_titulo_alinhado": "10/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": [
+        "Divergência entre titulo no frontmatter e cabeçalho # do corpo"
+      ]
+    },
+    {
+      "uf": "SC",
+      "arquivo": "estaduais/sc/leis/icms/lei-10297-1996.md",
+      "lei": "Lei Ordinária 10297/1996",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 95,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "20/20",
+        "c3_titulo_alinhado": "10/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": [
+        "Divergência entre titulo no frontmatter e cabeçalho # do corpo"
+      ]
+    },
+    {
+      "uf": "SE",
+      "arquivo": "estaduais/se/leis/icms/lei-3796-1996.md",
+      "lei": "Lei Ordinária 3.796/1996",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 96,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "16/20",
+        "c3_titulo_alinhado": "15/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": [
+        "Link aponta para portal raiz da assembleia: https://al.se.leg.br"
+      ]
+    },
+    {
+      "uf": "SP",
+      "arquivo": "estaduais/sp/leis/icms/lei-6374-1989.md",
+      "lei": "Lei Ordinária 6374/1989",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 100,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "20/20",
+        "c3_titulo_alinhado": "15/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": []
+    },
+    {
+      "uf": "TO",
+      "arquivo": "estaduais/to/leis/icms/lei-1287-2001.md",
+      "lei": "Lei Ordinária 1287/2001",
+      "aliquota_modal": "Validada no corpo",
+      "score_total": 91,
+      "status": "APROVADO",
+      "criterios": {
+        "c1_frontmatter_13_campos": "20/20",
+        "c2_fonte_url_oficial": "16/20",
+        "c3_titulo_alinhado": "10/15",
+        "c4_zero_html": "15/15",
+        "c5_integridade_sem_placeholders": "15/15",
+        "c6_aliquotas_difal_base_dupla": "15/15"
+      },
+      "apontamentos": [
+        "Link aponta para portal raiz da assembleia: https://al.to.leg.br",
+        "Divergência entre titulo no frontmatter e cabeçalho # do corpo"
+      ]
+    }
+  ]
+}

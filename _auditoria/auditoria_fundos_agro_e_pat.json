@@ -1,0 +1,147 @@
+{
+  "data_auditoria": "2026-10-30 23:13:14",
+  "agente": "tax_auditor (Agente Auditor Independente de Conformidade e Autenticidade)",
+  "escopo": "Fundos Agropecuários (Art. 136 ADCT) e Processo Administrativo Tributário (PAT/PAF)",
+  "total_documentos": 13,
+  "estatisticas": {
+    "aprovados_plenamente": 2,
+    "aprovados_com_ressalvas_formais_para_saneamento": 11,
+    "rejeitados_materialmente": 0,
+    "taxa_conformidade_schema": "100%",
+    "taxa_ausencia_html": "100%",
+    "taxa_profundidade_pat": "100%",
+    "taxa_exatidao_fundos_agro": "100%"
+  },
+  "detalhamento": [
+    {
+      "arquivo": "estaduais/mt/leis/fundos/lei-7263-2000-fethab.md",
+      "categoria": "Fundo Agropecuário",
+      "schema_yaml_13_campos": "CONFORME (13/13 campos)",
+      "titulo_h1_match": "CONFORME (# Lei Estadual nº 7.263, de 27 de março de 2000 (FETHAB - MT))",
+      "html_residual": "NENHUM (0 tags)",
+      "fonte_status": "FALHA HTTP 404 (https://www.al.mt.gov.br/norma/lei/7263/2000)",
+      "exatidao_material": "CONFORME: Regras de diferimento, 19 menções a UPF/MT, percentuais de soja, milho, gado, algodão, madeira e Art. 136 ADCT",
+      "veredito": "APROVADO COM RESSALVA (Requer correção de link da fonte para SEFAZ-MT)"
+    },
+    {
+      "arquivo": "estaduais/go/leis/fundos/lei-21670-2022-fundeinfra.md",
+      "categoria": "Fundo Agropecuário",
+      "schema_yaml_13_campos": "CONFORME (13/13 campos)",
+      "titulo_h1_match": "CONFORME (# Lei Estadual nº 21.670, de 6 de dezembro de 2022 (FUNDEINFRA - GO))",
+      "html_residual": "NENHUM (0 tags)",
+      "fonte_status": "CONFORME HTTP 200 (https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105436/lei-21670)",
+      "exatidao_material": "CONFORME: Alíquota de até 1,65%, Conselho Gestor, ADI 7363/STF e Art. 136 ADCT",
+      "veredito": "APROVADO INTEGRALMENTE"
+    },
+    {
+      "arquivo": "estaduais/ms/leis/fundos/lei-4049-2011-fundersul.md",
+      "categoria": "Fundo Agropecuário",
+      "schema_yaml_13_campos": "CONFORME (13/13 campos)",
+      "titulo_h1_match": "CONFORME (# Lei Estadual nº 4.049, de 14 de julho de 2011 (FUNDERSUL - MS))",
+      "html_residual": "NENHUM (0 tags)",
+      "fonte_status": "FALHA HTTP 404 (https://www.al.ms.gov.br/Legislacao/Norma/15594)",
+      "exatidao_material": "CONFORME: Indexação em UFERMS (16 menções), grãos, gado, combustíveis, diferimento e Art. 136 ADCT",
+      "veredito": "APROVADO COM RESSALVA (Requer correção de link da fonte para SEFAZ-MS)"
+    },
+    {
+      "arquivo": "estaduais/ma/leis/fundos/lei-8205-2004-fecop.md",
+      "categoria": "Fundo Agropecuário",
+      "schema_yaml_13_campos": "CONFORME (13/13 campos)",
+      "titulo_h1_match": "DIVERGÊNCIA FORMAL (H1 omite expressão extensa do frontmatter)",
+      "html_residual": "NENHUM (0 tags)",
+      "fonte_status": "CONFORME HTTP 200 (https://www.al.ma.leg.br)",
+      "exatidao_material": "CONFORME: Grãos MATOPIBA, FECOP/FIEP, UPF/MA, diferimento e Art. 136 ADCT",
+      "veredito": "APROVADO COM RESSALVA (Requer sincronização do H1)"
+    },
+    {
+      "arquivo": "estaduais/ba/leis/fundos/lei-14527-2022-fain-fefir.md",
+      "categoria": "Fundo Agropecuário",
+      "schema_yaml_13_campos": "CONFORME (13/13 campos)",
+      "titulo_h1_match": "CONFORME (# Lei Estadual nº 14.527, de 21 de dezembro de 2022 (FAIN / FEFIR - Bahia))",
+      "html_residual": "NENHUM (0 tags)",
+      "fonte_status": "CONFORME HTTP 200 (https://www.al.ba.gov.br)",
+      "exatidao_material": "CONFORME: FEFIR/FAIN, Oeste Baiano, algodão 1,65%, soja 1,20%, milho, minérios e Art. 136 ADCT",
+      "veredito": "APROVADO INTEGRALMENTE"
+    },
+    {
+      "arquivo": "estaduais/sp/leis/pat/lei-13457-2009-tit-sp.md",
+      "categoria": "PAT / Tribunal Fiscal",
+      "schema_yaml_13_campos": "CONFORME (13/13 campos)",
+      "titulo_h1_match": "DIVERGÊNCIA FORMAL (H1 omite o sufixo (PAT e TIT-SP))",
+      "html_residual": "NENHUM (0 tags)",
+      "fonte_status": "CONFORME HTTP 200 (https://www.al.sp.gov.br/norma/155160)",
+      "profundidade_pat": "EXCELENTE (Texto legal completo com DTJs, Câmaras Julgadoras, Câmaras Reunidas, Recursos Ordinário/Especial e Súmulas)",
+      "veredito": "APROVADO COM RESSALVA (Requer sincronização do H1)"
+    },
+    {
+      "arquivo": "estaduais/rj/leis/pat/decreto-lei-5-1975-conselho-contribuintes-rj.md",
+      "categoria": "PAT / Tribunal Fiscal",
+      "schema_yaml_13_campos": "CONFORME (13/13 campos)",
+      "titulo_h1_match": "DIVERGÊNCIA FORMAL (H1 omite subtítulo do Livro Terceiro)",
+      "html_residual": "NENHUM (0 tags)",
+      "fonte_status": "FALHA DE DOMÍNIO (https://gov-rj.jusbrasil.com.br não é domínio oficial .gov.br/.leg.br)",
+      "profundidade_pat": "EXCELENTE (JRF, CCRJ, Câmaras, Pleno, Recurso Voluntário/Ofício/Pleno, desempate pró-contribuinte art. 24-A e Súmulas)",
+      "veredito": "APROVADO COM RESSALVA (Requer substituição de link para SEFAZ-RJ e sincronização do H1)"
+    },
+    {
+      "arquivo": "estaduais/mg/leis/pat/decreto-44747-2008-rpta-ccmg.md",
+      "categoria": "PAT / Tribunal Fiscal",
+      "schema_yaml_13_campos": "CONFORME (13/13 campos)",
+      "titulo_h1_match": "DIVERGÊNCIA FORMAL (H1 omite o sufixo (RPTA e CCMG - Minas Gerais))",
+      "html_residual": "NENHUM (0 tags)",
+      "fonte_status": "CONFORME HTTP 200 (https://www.fazenda.mg.gov.br)",
+      "profundidade_pat": "EXCELENTE (CCMG, Câmaras de Julgamento, Câmara Especial, Recurso de Revisão, desempate pró-contribuinte e Súmulas)",
+      "veredito": "APROVADO COM RESSALVA (Requer sincronização do H1)"
+    },
+    {
+      "arquivo": "estaduais/pr/leis/pat/lei-18877-2016-ccrf-pr.md",
+      "categoria": "PAT / Tribunal Fiscal",
+      "schema_yaml_13_campos": "CONFORME (13/13 campos)",
+      "titulo_h1_match": "DIVERGÊNCIA FORMAL (H1 omite o sufixo (PAF e CCRF - Paraná))",
+      "html_residual": "NENHUM (0 tags)",
+      "fonte_status": "CONFORME HTTP 200 (https://www.legislacao.pr.gov.br)",
+      "profundidade_pat": "EXCELENTE (Julgamento Monocrático, CCRF, Câmaras, Conselho Pleno, Recursos Ordinário/Revisão e Súmulas)",
+      "veredito": "APROVADO COM RESSALVA (Requer sincronização do H1)"
+    },
+    {
+      "arquivo": "estaduais/sc/leis/pat/lei-3938-1966-tat-sc.md",
+      "categoria": "PAT / Tribunal Fiscal",
+      "schema_yaml_13_campos": "CONFORME (13/13 campos)",
+      "titulo_h1_match": "DIVERGÊNCIA FORMAL (H1 omite o sufixo (PAT e TAT - Santa Catarina))",
+      "html_residual": "NENHUM (0 tags)",
+      "fonte_status": "CONFORME HTTP 200 (https://leis.alesc.sc.gov.br)",
+      "profundidade_pat": "EXCELENTE (Julgamento Singular, TAT/SC, Câmaras Julgadoras, Tribunal Pleno, Recurso Ordinário/Especial e Súmulas)",
+      "veredito": "APROVADO COM RESSALVA (Requer sincronização do H1)"
+    },
+    {
+      "arquivo": "estaduais/rs/leis/pat/lei-6537-1973-tars.md",
+      "categoria": "PAT / Tribunal Fiscal",
+      "schema_yaml_13_campos": "CONFORME (13/13 campos)",
+      "titulo_h1_match": "DIVERGÊNCIA FORMAL (H1 omite o sufixo (PTA e TARF - Rio Grande do Sul))",
+      "html_residual": "NENHUM (0 tags)",
+      "fonte_status": "CONFORME HTTP 200 (https://www.al.rs.gov.br)",
+      "profundidade_pat": "EXCELENTE (1ª Instância administrativa, TARF/RS, Turmas Julgadoras, Recurso Extraordinário ao Pleno e Súmulas)",
+      "veredito": "APROVADO COM RESSALVA (Requer sincronização do H1)"
+    },
+    {
+      "arquivo": "estaduais/go/leis/pat/lei-16469-2009-cat-go.md",
+      "categoria": "PAT / Tribunal Fiscal",
+      "schema_yaml_13_campos": "CONFORME (13/13 campos)",
+      "titulo_h1_match": "DIVERGÊNCIA FORMAL (H1 omite o sufixo (PAT e CAT - Goiás))",
+      "html_residual": "NENHUM (0 tags)",
+      "fonte_status": "CONFORME HTTP 200 (https://legisla.casacivil.go.gov.br)",
+      "profundidade_pat": "EXCELENTE (Julgamento Singular, Câmaras Julgadoras, Conselho Superior/Pleno, Recurso Especial e Súmulas)",
+      "veredito": "APROVADO COM RESSALVA (Requer sincronização do H1)"
+    },
+    {
+      "arquivo": "estaduais/ba/leis/pat/decreto-7629-1999-consef-ba.md",
+      "categoria": "PAT / Tribunal Fiscal",
+      "schema_yaml_13_campos": "CONFORME (13/13 campos)",
+      "titulo_h1_match": "DIVERGÊNCIA FORMAL (H1 omite o sufixo (RPAF e CONSEF - Bahia))",
+      "html_residual": "NENHUM (0 tags)",
+      "fonte_status": "CONFORME HTTP 200 (https://www.al.ba.gov.br)",
+      "profundidade_pat": "EXCELENTE (Juntas de Julgamento Fiscal, Câmaras Julgadoras do CONSEF, Câmara Superior, Recursos e Súmulas)",
+      "veredito": "APROVADO COM RESSALVA (Requer sincronização do H1)"
+    }
+  ]
+}

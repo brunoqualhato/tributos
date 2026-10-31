@@ -14,7 +14,7 @@ fonte: "https://www.al.ac.leg.br"
 ementa: "Altera a Lei Complementar Estadual nº 55, de 9 de julho de 1997, adequando a regência do ICMS acreano às diretrizes da Lei Complementar Federal nº 190/2021 e da Emenda Constitucional nº 87/2015 sobre o DIFAL, estabelecendo a metodologia de cálculo em Base Dupla, articulando-se com a Lei Complementar Estadual nº 423/2022 (alíquota modal interna de 19%), as regras fiscais das Áreas de Livre Comércio de Brasiléia, Epitaciolândia e Cruzeiro do Sul, os incentivos industriais da COPIAI (Lei nº 1.358/2000) e o agronegócio de fronteira."
 ---
 
-# Lei Complementar Estadual nº 396, de 30 de março de 2022
+# Lei Complementar Estadual nº 396, de 30 de março de 2022 (ICMS-AC, DIFAL e Alíquota de 19%)
 
 Altera a Lei Complementar nº 55, de 9 de julho de 1997, que dispõe sobre o Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, para adequação à Lei Complementar Federal nº 190, de 4 de janeiro de 2022, disciplina o Diferencial de Alíquotas e dá outras providências.
 

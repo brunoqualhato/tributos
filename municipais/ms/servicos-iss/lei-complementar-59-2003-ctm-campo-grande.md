@@ -14,7 +14,7 @@ fonte: "https://leismunicipais.com.br/codigo-tributario-campo-grande-ms"
 ementa: "Dispõe sobre o Sistema Tributário do Município de Campo Grande/MS, reestruturando as normas do Imposto sobre Serviços de Qualquer Natureza (ISSQN) em conformidade com a Lei Complementar Federal nº 116/2003, as alíquotas aplicáveis aos serviços veterinários, pecuários e de construção civil, a retenção na fonte por tomadores, o regime uniprofissional e autônomo, o IPTU, o ITBI e a consolidação do Código Tributário Municipal articulada à Lei nº 1.466/1973 e leis posteriores."
 ---
 
-# Lei Complementar nº 59, de 2 de outubro de 2003 (Código Tributário de Campo Grande/MS)
+# Lei Complementar nº 59, de 2 de outubro de 2003 (Código Tributário do Município de Campo Grande/MS)
 
 ## Identificação Normativa
 

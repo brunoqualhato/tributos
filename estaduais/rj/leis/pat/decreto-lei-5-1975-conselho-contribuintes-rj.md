@@ -10,11 +10,11 @@ tema_tributario: "Contencioso e Processo Fiscal"
 tributos_afetados: ["ICMS", "IPVA", "ITD", "Taxas Estaduais", "Processo Administrativo-Tributário - PAT", "Conselho de Contribuintes do RJ"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://gov-rj.jusbrasil.com.br"
+fonte: "https://www.fazenda.rj.gov.br"
 ementa: "Institui o Código Tributário do Estado do Rio de Janeiro e regula o Processo Administrativo-Tributário (Livro Terceiro, arts. 205 a 280), a Junta de Revisão Fiscal e o Conselho de Contribuintes do Estado do Rio de Janeiro, com as alterações da Lei nº 4.080/2003 e normas correlatas do Decreto nº 42.859/2011."
 ---
 
-# Decreto-Lei nº 5, de 15 de março de 1975
+# Decreto-Lei nº 5, de 15 de março de 1975 (Código Tributário do RJ - Livro Terceiro: PAT e Conselho de Contribuintes)
 
 Institui o Código Tributário do Estado do Rio de Janeiro.
 

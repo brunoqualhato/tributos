@@ -14,7 +14,7 @@ fonte: "https://leismunicipais.com.br/codigo-tributario-cuiaba-mt"
 ementa: "Institui o Código Tributário do Município de Cuiabá (CTM/Cuiabá), regulamentando o Sistema Tributário Municipal, o Imposto sobre Serviços de Qualquer Natureza (ISSQN) com disciplina específica para serviços de armazenagem, logística e consultoria agronômica no polo do agronegócio mato-grossense, as hipóteses de retenção na fonte, o regime uniprofissional e autônomo, o IPTU, o ITBI e o processo administrativo tributário."
 ---
 
-# Lei Complementar nº 043, de 23 de dezembro de 1997 (Código Tributário de Cuiabá/MT)
+# Lei Complementar nº 043, de 23 de dezembro de 1997 (Código Tributário do Município de Cuiabá/MT)
 
 ## Identificação Normativa
 
@@ -87,7 +87,20 @@ Em virtude da intensa movimentação de capital das holdings do agronegócio e �
 
 ---
 
-## 6. IPTU, ITBI e Tributos Patrimoniais em Cuiabá
+## 6. Regime da Construção Civil e Obras de Engenharia (Subitens 7.02 e 7.05)
+
+### 6.1. Base de Cálculo e Deduções Vinculadas ao Tema 247 do STF
+Na execução de obras de construção civil, terraplanagem, pavimentação, obras rodoviárias, hidráulicas e de reformas de edifícios (subitens 7.02 e 7.05), a base de cálculo do ISSQN em Cuiabá é o preço bruto dos serviços ou valor apurado na medição, admitindo-se estritamente as seguintes deduções:
+1. **Materiais Fabricados pelo Prestador Fora do Local da Obra:** Exclusivamente o valor dos materiais produzidos pelo próprio prestador fora do canteiro de obras e nele incorporados em caráter permanente, sujeitos à comprovada e regular incidência do ICMS mercantil de competência de Mato Grosso (em estrita consonância com o precedente vinculante do **Tema 247 da Repercussão Geral do STF — RE 603.497/MG**);
+2. **Subempreitadas Já Tributadas:** O valor das subempreitadas contratadas para a mesma obra cujo ISSQN já tenha sido recolhido ou retido em benefício do Município de Cuiabá.
+- **Vedação Absoluta a Materiais Adquiridos no Comércio:** Fica absolutamente vedada a dedução de notas fiscais de cimento, ferro, areia, brita, tijolos, tintas e insumos comuns adquiridos de terceiros em depósitos ou lojas de materiais de construção civil.
+
+### 6.2. Habite-se e Certidão Fiscal da Obra
+A concessão do "Habite-se" pela autoridade urbanística municipal condiciona-se à prévia quitação integral do ISSQN relativo à edificação, apurado mediante confronto entre o imposto recolhido e a pauta fiscal mínima calculada com base no Custo Unitário Básico (CUB/MT).
+
+---
+
+## 7. IPTU, ITBI e Tributos Patrimoniais em Cuiabá
 
 - **IPTU:**
   - Imóveis residenciais edificados: alíquotas progressivas variando de **0,4% a 0,8%** conforme o valor venal e o padrão de construção;
@@ -98,7 +111,7 @@ Em virtude da intensa movimentação de capital das holdings do agronegócio e �
 
 ---
 
-## 7. Obrigações Acessórias: NFS-e Cuiabá, Declaração Mensal e ADN
+## 8. Obrigações Acessórias: NFS-e Cuiabá, Declaração Mensal e ADN
 
 - **NFS-e Cuiabá:** Emissão eletrônica mandatória para todas as pessoas jurídicas prestadoras de serviços;
 - **Livro Eletrônico e Declaração Mensal de Serviços (DMS Cuiabá):** Escrituração digital de receitas e de serviços tomados sujeitos à retenção;

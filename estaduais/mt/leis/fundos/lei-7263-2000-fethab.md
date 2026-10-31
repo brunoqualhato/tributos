@@ -10,7 +10,7 @@ tema_tributario: "Agronegócio e Fundos"
 tributos_afetados: ["FETHAB", "ICMS"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://www.al.mt.gov.br/norma/lei/7263/2000"
+fonte: "https://www.sefaz.mt.gov.br/legislacao"
 ementa: "Cria o Fundo de Transporte e Habitação - FETHAB e dá outras providências."
 ---
 

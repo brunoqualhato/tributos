@@ -14,7 +14,7 @@ fonte: "https://leismunicipais.com.br/codigo-tributario-rio-branco-ac"
 ementa: "Dispõe sobre o Sistema Tributário do Município de Rio Branco/AC, disciplinando o Imposto sobre Serviços de Qualquer Natureza (ISSQN), as alíquotas para transportes intramunicipais e obras de engenharia civil, o regime de retenção na fonte por tomadores, o regime especial uniprofissional e autônomo, o IPTU, o ITBI e a consolidação das normas tributárias da capital acreana alinhadas à Lei nº 1.508/2003 e leis complementares posteriores."
 ---
 
-# Lei Complementar nº 107, de 22 de dezembro de 2021 (Código Tributário de Rio Branco/AC)
+# Lei Complementar nº 107, de 22 de dezembro de 2021 (Código Tributário do Município de Rio Branco/AC)
 
 ## Identificação Normativa
 

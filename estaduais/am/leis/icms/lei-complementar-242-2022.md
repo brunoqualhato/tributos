@@ -14,7 +14,7 @@ fonte: "https://www.aleam.gov.br"
 ementa: "Altera a Lei Complementar Estadual nº 19, de 29 de dezembro de 1997 (Código Tributário do Estado do Amazonas), fixando a alíquota modal interna do ICMS em 20%, disciplinando as operações com o Diferencial de Alíquotas (DIFAL) com metodologia de Base Dupla em consonância com a Lei Complementar nº 190/2021, integrando a Política de Incentivos Fiscais da Zona Franca de Manaus e do Polo Industrial de Manaus (Lei nº 2.826/2003) e as garantias constitucionais do art. 92-B do ADCT da Emenda Constitucional nº 132/2023."
 ---
 
-# Lei Complementar Estadual nº 242, de 29 de dezembro de 2022
+# Lei Complementar Estadual nº 242, de 29 de dezembro de 2022 (ICMS-AM, Alíquota Modal de 20% e DIFAL)
 
 Altera a Lei Complementar Estadual nº 19, de 29 de dezembro de 1997, que institui o Código Tributário do Estado do Amazonas, majora a alíquota interna padrão do ICMS, regulamenta o Diferencial de Alíquotas e disciplina o regime de conformidade fiscal.
 

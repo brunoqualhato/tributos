@@ -14,7 +14,7 @@ fonte: "https://leismunicipais.com.br/codigo-tributario-macapa-ap"
 ementa: "Dispõe sobre o Sistema Tributário do Município de Macapá/AP, estruturando o Imposto sobre Serviços de Qualquer Natureza (ISSQN), as alíquotas de 2% a 5%, os incentivos fiscais do Programa Inova Macapá e regimes de serviços na Área de Livre Comércio de Macapá e Santana (ALCMS), a retenção de tomadores, o IPTU, o ITBI e as taxas de poder de polícia articuladas à Lei Complementar nº 144/2021."
 ---
 
-# Lei Complementar nº 156, de 27 de dezembro de 2023 (Código Tributário de Macapá/AP)
+# Lei Complementar nº 156, de 27 de dezembro de 2023 (Código Tributário do Município de Macapá/AP)
 
 ## Identificação Normativa
 
@@ -77,7 +77,20 @@ A legislação municipal impõe a retenção compulsória do ISSQN na fonte aos 
 
 ---
 
-## 6. IPTU, ITBI e Tributos Patrimoniais em Macapá
+## 6. Regime da Construção Civil e Obras de Engenharia (Subitens 7.02 e 7.05)
+
+### 6.1. Base de Cálculo e Deduções Vinculadas ao Tema 247 do STF
+Na prestação de serviços de execução por administração, empreitada ou subempreitada de obras de construção civil, hidráulica, elétrica e congêneres (subitem 7.02) e de reparação, conservação e reforma de edifícios, estradas e pontes (subitem 7.05), a base de cálculo do ISSQN em Macapá é o valor total da nota fiscal de serviços ou fatura da medição, admitindo-se unicamente as seguintes deduções:
+1. **Materiais Fabricados pelo Prestador Fora do Local da Obra:** Exclusivamente o montante dos materiais produzidos pelo próprio prestador fora do canteiro de obras e nele incorporados em caráter permanente, sujeitos à regular e comprovada incidência do ICMS estadual mercantil (em estrita observância ao precedente vinculante do **Tema 247 do STF — RE 603.497/MG**);
+2. **Subempreitadas Já Tributadas:** O valor das subempreitadas contratadas para a mesma obra cujo ISSQN já tenha sido tempestivamente recolhido ou retido em favor do Município de Macapá.
+- **Vedação a Compras Correntes no Comércio:** É absolutamente vedada a dedução de notas fiscais de materiais adquiridos de terceiros em revendas de construção civil (cimento, areia, brita, ferro, telhas e ferragens).
+
+### 6.2. Habite-se e Certidão de Regularidade de Obra
+A emissão do "Habite-se" pela Secretaria Municipal de Habitação e Ordenamento Urbano de Macapá condiciona-se à prévia quitação integral do ISSQN correspondente à edificação, apurado mediante confronto entre os recolhimentos efetuados e a pauta fiscal com base no Custo Unitário Básico (CUB/AP).
+
+---
+
+## 7. IPTU, ITBI e Tributos Patrimoniais em Macapá
 
 - **IPTU (Imposto Predial e Territorial Urbano):**
   - Alíquotas graduadas por faixas de valor venal e destinação do imóvel:
@@ -88,7 +101,7 @@ A legislação municipal impõe a retenção compulsória do ISSQN na fonte aos 
 
 ---
 
-## 7. Obrigações Acessórias e Fiscalização Digital: NFS-e Macapá e ADN
+## 8. Obrigações Acessórias e Fiscalização Digital: NFS-e Macapá e ADN
 
 - **NFS-e Macapá:** Emissão obrigatória por meio de sistema eletrônico em nuvem mantido pela SEMFIN Macapá;
 - **Livro Eletrônico Fiscal e Declaração Mensal:** Obrigação de prestadores e tomadores para homologação automática do crédito tributário e emissão das guias DAM;

@@ -14,7 +14,7 @@ fonte: "https://leismunicipais.com.br/codigo-tributario-porto-velho-ro"
 ementa: "Institui o Código Tributário e de Rendas do Município de Porto Velho (CTRM), revogando a Lei Complementar nº 199/2004 e a Lei Complementar nº 369/2009, disciplinando o Sistema Tributário Municipal, as normas de incidência e alíquotas do ISSQN com ênfase no complexo portuário e hidroviário do Rio Madeira, a retenção na fonte, o IPTU, o ITBI, as taxas e o regime de penalidades fiscais."
 ---
 
-# Lei Complementar nº 878, de 22 de dezembro de 2021 (Código Tributário e de Rendas de Porto Velho/RO)
+# Lei Complementar nº 878, de 22 de dezembro de 2021 (Código Tributário e de Rendas do Município de Porto Velho/RO)
 
 ## Identificação Normativa
 
@@ -75,14 +75,27 @@ A LC nº 878/2021 instituiu regime compulsório de substituição tributária no
 
 ---
 
-## 5. Regimes Especiais: Profissionais Liberais e Sociedades Uniprofissionais
+## 5. Regime da Construção Civil e Obras de Engenharia (Subitens 7.02 e 7.05)
+
+### 5.1. Base de Cálculo e Deduções Vinculadas ao Tema 247 do STF
+Na prestação de serviços de execução por administração, empreitada ou subempreitada de obras de construção civil, hidráulica, elétrica e congêneres (subitem 7.02) e de reparação, conservação e reforma de edifícios, estradas e pontes (subitem 7.05), a base de cálculo do ISSQN é o preço total dos serviços contratados ou valor faturado nas medições, admitindo-se unicamente as seguintes deduções expressas:
+1. **Materiais Fabricados pelo Prestador Fora do Local da Obra:** Exclusivamente o valor dos materiais produzidos pelo próprio prestador fora do canteiro de obras e nele incorporados definitivamente, desde que comprovadamente submetidos à regular incidência do ICMS mercantil estadual (precedente de repercussão geral com efeito vinculante firmado no **Tema 247 do STF — RE 603.497/MG**);
+2. **Subempreitadas Tributadas:** O valor das subempreitadas contratadas para a mesma obra cujo ISSQN já tenha sido tempestivamente recolhido ou retido em favor do Município de Porto Velho.
+- **Vedação a Compras no Comércio:** É absolutamente vedada a dedução de notas fiscais de materiais adquiridos de terceiros no comércio varejista ou atacadista (cimento, brita, areia, ferragens e insumos aplicados no canteiro da obra).
+
+### 5.2. Habite-se e Certidão Negativa de Obras
+A emissão da Certidão de Conclusão de Obra e do "Habite-se" pela autoridade urbanística de Porto Velho fica estritamente condicionada à prévia liquidação do ISSQN correspondente à área total edificada, apurado pelo Fisco Municipal com base na pauta fiscal e nos parâmetros do Custo Unitário Básico da Construção (CUB/RO).
+
+---
+
+## 6. Regimes Especiais: Profissionais Liberais e Sociedades Uniprofissionais
 
 - **Profissionais Autônomos (Art. 262):** Quando a prestação do serviço for realizada sob a forma de trabalho estritamente pessoal, o ISSQN é cobrado anualmente em valor fixo calculado com base na **Unidade Padrão Fiscal do Município de Porto Velho (UPF)**, graduado segundo o grau de formação acadêmica (nível fundamental, médio ou superior);
 - **Sociedades Uniprofissionais — SUP (Art. 263):** As sociedades de médicos, advogados, contadores, engenheiros e dentistas que prestem serviços de forma pessoal, assumindo responsabilidade profissional ilimitada perante o conselho de classe e sem formato mercantil de sociedade por quotas ou anônima, recolhem o ISSQN mediante valor fixo mensal multiplicado pelo número de sócios e profissionais habilitados a serviço da entidade.
 
 ---
 
-## 6. IPTU, ITBI e Regras Patrimoniais no CTRM
+## 7. IPTU, ITBI e Regras Patrimoniais no CTRM
 
 - **IPTU (Arts. 286 a 330):**
   - **Base de Cálculo:** Valor venal do solo e das construções, determinado pela Planta Genérica de Valores (PGV);
@@ -94,7 +107,7 @@ A LC nº 878/2021 instituiu regime compulsório de substituição tributária no
 
 ---
 
-## 7. Regime de Penalidades e Fiscalização Digital
+## 8. Regime de Penalidades e Fiscalização Digital
 
 O CTRM de Porto Velho estabelece sanções fiscais rigorosas graduadas no Livro III da LC nº 878/2021:
 - **Multa de Mora:** 0,33% ao dia de atraso, limitada a 20%, acrescida de juros equivalentes à taxa SELIC;

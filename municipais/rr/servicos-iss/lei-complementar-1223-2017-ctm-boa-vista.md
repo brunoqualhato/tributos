@@ -14,7 +14,7 @@ fonte: "https://leismunicipais.com.br/codigo-tributario-boa-vista-rr"
 ementa: "Dispõe sobre o Código Tributário do Município de Boa Vista (CTM/Boa Vista), regulamentando o Sistema Tributário Municipal, o Imposto sobre Serviços de Qualquer Natureza (ISSQN), as alíquotas e deduções legais, as normas de retenção na fonte por tomadores, o regime de alíquota fixa para profissionais autônomos e sociedades uniprofissionais, o IPTU, o ITBI e a consolidação das normas tributárias da capital roraimense fundamentada na matriz da Lei Complementar nº 1.223/2009 e leis posteriores."
 ---
 
-# Lei Complementar nº 1.223, de 29 de dezembro de 2017 (Código Tributário de Boa Vista/RR)
+# Lei Complementar nº 1.223, de 29 de dezembro de 2017 (Código Tributário do Município de Boa Vista/RR)
 
 ## Identificação Normativa
 
