@@ -424,3 +424,21 @@ Auditoria Exaustiva de Links, Conteúdos e Ingestão de Novos Marcos Fiscais e C
   - 0 micro-resumos, 0 arquivos vazios, 0 tags HTML residuais, 0 caracteres corrompidos/mojibake e 0 tabelas quebradas.
   - Todos os 1.165 arquivos estruturados com Frontmatter YAML completo, título Heading 1 e profundidade normativa.
   - `scripts/plano.py`, `PROGRESSO.md` e `ACERVO.md` sincronizados com 100,0% de cobertura nos 10 pilares.
+
+
+## 30/10/2026 22:40:00
+
+Auditoria Nacional e Análise Comparativa dos 27 Estados, PIS/COFINS, Pasep e Reforma Tributária (`agente_estadual_tributos`, `tax_auditor`):
+- **Diagnóstico Tributário Integrado dos 27 Entes Federativos (26 Estados + DF):**
+  - Mobilização paralela de 18 subagentes analistas tributários com geração de 27 relatórios estaduais individuais em `_auditoria/estados/` (totalizando 10.383 linhas de fundamentação técnica e regulatória).
+  - Análise exaustiva dos mecanismos de relacionamento interestadual:
+    - **DIFAL Contribuinte:** Mapeamento da metodologia de Base Dupla ("por dentro") adotada formalmente por todas as 27 UFs, demonstrando o efeito confiscatório de acréscimo de 16% a 22% sobre aquisições interestaduais de bens para o ativo permanente e materiais de uso/consumo.
+    - **Transferências entre Filiais:** Padronização nacional pós-ADC 49/STF e LC 204/2023 regida pelo Convênio ICMS 109/2024 (não incidência como regra geral com transferência de créditos, e faculdade anual via RUDFTO de equiparação à operação tributada para salvaguarda de créditos presumidos).
+    - **Substituição Tributária (ICMS-ST):** Mapeamento do Convênio ICMS 142/2018, MVA ajustada, ressarcimento/complementação pós-Tema 201/STF e regimes de incentivo para atacado e e-commerce (SC TTD 409/77, ES COMPETE, PE PRODEPE, BA DESENVOLVE, GO art. 11/Anexo IX, TO Lei 1.201).
+    - **Agronegócio e Fundos Agro:** Estruturação das regras de diferimento na saída interna de commodities e cobrança de fundos de infraestrutura (MT FETHAB, GO FUNDEINFRA, MS FUNDERSUL, MA FECOP, BA FAIN/FEFIR) mantidos até 2043 pelo art. 136 do ADCT.
+- **Auditoria de PIS, COFINS, Pasep e Reforma Tributária (IBS/CBS):**
+  - Mapeamento das normas fundamentais federais ausentes no acervo para próxima etapa de ingestão: Leis 10.637/02, 10.833/03, 9.718/98, 9.715/98 (Pasep Governamental 1% da RCL), 10.865/04 (PIS/COFINS Importação), MP 2.158-35/01 (art. 13, folha) e IN RFB 2.121/2022.
+  - Sistematização da Reforma Tributária (EC 132/23, LC 214/25, LC 227/26): transição federativa 2026-2033, crédito financeiro puro, princípio do destino, Split Payment inteligente, extinção da cumulatividade e transição de saldos credores de ICMS em 240 parcelas mensais (art. 134 do ADCT) e Fundo de Compensação de Benefícios Fiscais (FCBF de R$ 160 bi).
+- **Consolidação Técnica Nacional:**
+  - Publicação do relatório `_auditoria/auditoria_nacional_estados_e_tributos.md` reunindo tabela comparativa das 27 UFs (alíquotas modais, DIFAL, agro, indústria, atacado e transição) e roteiro prioritário de expansão do acervo.
+
