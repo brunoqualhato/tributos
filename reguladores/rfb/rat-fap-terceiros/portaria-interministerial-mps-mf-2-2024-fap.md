@@ -10,7 +10,7 @@ tema_tributario: "Folha de Pagamento e Encargos"
 tributos_afetados: ["RAT/FAP"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://normas.leg.br/?urn=urn:lex:br:ministerio.previdencia.social:portaria.interministerial:2024-09-25;2"
+fonte: "https://www.gov.br/previdencia/pt-br"
 ementa: "Divulga os índices de frequência, gravidade e custo, por atividade econômica, e disponibiliza a consulta do Fator Acidentário de Prevenção (FAP) para vigência no ano de 2025."
 ---
 

@@ -10,7 +10,7 @@ tema_tributario: "Reforma Tributária e Transição"
 tributos_afetados: ["IBS", "CBS", "Imposto Seletivo", "Split Payment"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://normas.leg.br/?urn=urn:lex:br:ministerio.fazenda:portaria:2024-01-11;34"
+fonte: "https://www.gov.br/fazenda/pt-br"
 ementa: "Institui no âmbito do Ministério da Fazenda o Programa de Assessoramento Técnico à Implementação da Reforma da Tributação sobre o Consumo (PAT-RTC), para subsidiar a elaboração dos anteprojetos de lei complementar da Reforma Tributária decorrentes da Emenda Constitucional nº 132/2023."
 ---
 
