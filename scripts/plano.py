@@ -48,6 +48,9 @@ PLANO = [
     ItemPlano("1. Legislação Estruturante & Códigos", "Processo Fiscal, Consulta e CIDE",
               "Processo Administrativo Fiscal (Dec. 70.235/72), Consulta (Dec. 7.574/11) e CIDE (Dec. 5.060/04)",
               "federal/regulamentos/paf_consulta_cide", 3, 1, "normas.leg.br"),
+    ItemPlano("1. Legislação Estruturante & Códigos", "Processo Tributário Estadual (PAT/PAF)",
+              "Tribunais Administrativos de Fazenda Estadual (TIT/SP, CCRJ, CCMG, CCRF/PR, TAT/SC, TARF/RS, CAT/GO, CONSEF/BA)",
+              "estaduais/*/leis/pat", 8, 3, "Secretarias de Fazenda Estaduais"),
 
     # =========================================================================
     # PILAR 2: DIVIDENDOS, RENDA DO CAPITAL & IRPJ/CSLL
@@ -89,6 +92,9 @@ PLANO = [
     ItemPlano("3. Folha & Encargos", "RAT, FAP e Sistema S",
               "Normas de Riscos Ambientais, FAP e Contribuições a Terceiros",
               "reguladores/rfb/rat-fap-terceiros", 5, 2, "RFB / MPS"),
+    ItemPlano("3. Folha & Encargos", "Pasep Governamental e Terceiro Setor",
+              "Pasep Governamental (Lei 9.715/98), Unificação PIS/PASEP (LC 26/75) e PIS Folha Entidades Imunes/Isentas (MP 2.158-35/01 art. 13)",
+              "federal/pis-pasep-folha-governamental", 3, 1, "normas.leg.br"),
 
     # =========================================================================
     # PILAR 4: PRODUTOS, MERCADORIAS & INDÚSTRIA (ICMS, IPI, PIS/COFINS)
@@ -117,6 +123,15 @@ PLANO = [
     ItemPlano("4. Produtos & Mercadorias", "RICMS Estaduais",
               "Regulamentos do ICMS das 27 Unidades Federativas (Todas as 27 UFs)",
               "estaduais/*/ricms", 36, 3, "Secretarias de Fazenda Estaduais"),
+    ItemPlano("4. Produtos & Mercadorias", "Leis Orgânicas do ICMS das 27 UFs",
+              "Leis Matrizes do ICMS de todas as 27 Unidades Federativas (26 Estados e DF)",
+              "estaduais/*/leis/icms", 27, 3, "Assembleias Legislativas Estaduais"),
+    ItemPlano("4. Produtos & Mercadorias", "Fundos Agropecuários e de Infraestrutura Estaduais",
+              "Taxas do Agro constitucionalizadas pelo art. 136 do ADCT (FETHAB/MT, FUNDEINFRA/GO, FUNDERSUL/MS, FECOP/MA, FAIN/BA)",
+              "estaduais/*/leis/fundos", 5, 3, "Secretarias de Fazenda Estaduais"),
+    ItemPlano("4. Produtos & Mercadorias", "Créditos Presumidos Agropecuários e Cadeias Produtivas",
+              "Regimes de PIS/COFINS da Carne Bovina (Lei 12.058/09), Aves/Suínos/Café (Lei 12.350/10) e Complexo Soja (Lei 12.865/13)",
+              "federal/agro-pis-cofins", 3, 1, "normas.leg.br"),
 
     # =========================================================================
     # PILAR 5: SERVIÇOS & RETENÇÕES NA FONTE (ISSQN, CSRF, IRRF)
@@ -128,8 +143,8 @@ PLANO = [
               "Retenção de Serviços e CSRF (Lei 10.833/03)",
               "federal/leis-ordinarias/irrf-servicos", 5, 1, "normas.leg.br"),
     ItemPlano("5. Serviços & Retenções", "CTM e RISS das Capitais",
-              "Códigos Tributários Municipais e Regulamentos do ISS (SP, RJ, BH, Salvador, Fortaleza, Goiânia, Belém, Recife, Curitiba, Porto Alegre, Florianópolis)",
-              "municipais/*/servicos-iss", 15, 4, "Câmaras e Prefeituras Municipais"),
+              "Códigos Tributários Municipais e Regulamentos do ISS de todas as 26 Capitais Estaduais e DF",
+              "municipais/*/servicos-iss", 30, 4, "Câmaras e Prefeituras Municipais"),
 
     # =========================================================================
     # PILAR 6: PATRIMÔNIO, HERANÇA E VEÍCULOS (ITCMD, IPVA, ITR, ITBI, IPTU)
@@ -200,10 +215,10 @@ PLANO = [
               "contabil/cpc", 52, 2, "cpc.org.br"),
     ItemPlano("10. Contabilidade e Precedentes", "Precedentes Vinculantes STF / STJ",
               "Súmulas Vinculantes, Temas de Repercussão Geral e Recursos Repetitivos (SV 8, 29, 31, 48, 50, 57, Temas STF/STJ)",
-              "jurisprudencia/precedentes-vinculantes", 19, 5, "STF / STJ"),
+              "jurisprudencia/precedentes-vinculantes", 23, 5, "STF / STJ"),
     ItemPlano("10. Contabilidade e Precedentes", "Súmulas do CARF",
               "Súmulas e Enunciados Vinculantes do Conselho Administrativo de Recursos Fiscais",
-              "reguladores/carf/sumulas", 10, 2, "carf.fazenda.gov.br"),
+              "reguladores/carf/sumulas", 11, 2, "carf.fazenda.gov.br"),
     ItemPlano("10. Contabilidade e Precedentes", "Instruções Normativas da RFB (Gerais)",
               "Instruções Normativas vigentes estruturantes da Receita Federal (exceto financeiro)",
               "reguladores/rfb/instrucoes-normativas-gerais", 94, 2, "normas.receita.fazenda.gov.br"),
@@ -231,6 +246,16 @@ def resolver_arquivos(caminho_relativo: str) -> set[Path]:
         reg_itr = set(Path(f).resolve() for f in glob.glob(str(RAIZ / "federal/regulamentos/itr/**/*.md"), recursive=True))
         lei_itr = set(Path(f).resolve() for f in glob.glob(str(RAIZ / "federal/leis-ordinarias/itr/**/*.md"), recursive=True))
         return reg_itr | lei_itr
+    elif caminho_relativo == "federal/pis-pasep-folha-governamental":
+        p1 = RAIZ / "federal/leis-ordinarias/pis-cofins/lei-9715-1998-pasep-governamental.md"
+        p2 = RAIZ / "federal/leis-complementares/pis-pasep/lei-complementar-26-1975-unificacao-pis-pasep.md"
+        p3 = RAIZ / "federal/leis-ordinarias/pis-cofins/mp-2158-35-2001-art-13-pis-folha-salarios.md"
+        return {p.resolve() for p in (p1, p2, p3) if p.exists()}
+    elif caminho_relativo == "federal/agro-pis-cofins":
+        p1 = RAIZ / "federal/leis-ordinarias/pis-cofins/lei-12058-2009-credito-presumido-bovinos.md"
+        p2 = RAIZ / "federal/leis-ordinarias/pis-cofins/lei-12350-2010-credito-presumido-aves-suinos-cafe.md"
+        p3 = RAIZ / "federal/leis-ordinarias/pis-cofins/lei-12865-2013-credito-presumido-soja.md"
+        return {p.resolve() for p in (p1, p2, p3) if p.exists()}
     elif "*" in caminho_relativo:
         return set(Path(f).resolve() for f in glob.glob(str(RAIZ / caminho_relativo / "**/*.md"), recursive=True))
     else:

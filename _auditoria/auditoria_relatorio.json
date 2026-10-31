@@ -1,7 +1,6 @@
 {
-  "total_auditado": 1165,
-  "aprovados": 1165,
+  "total_auditado": 1231,
+  "aprovados": 1231,
   "rejeitados": 0,
-  "taxa_aprovacao": "100.00%",
-  "data_auditoria": "2026-10-31T01:17:07.976982+00:00"
+  "taxa_aprovacao": "100.0%"
 }

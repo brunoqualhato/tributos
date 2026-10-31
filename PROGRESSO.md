@@ -1,8 +1,8 @@
 # Progresso do Acervo Tributário e Contábil
 
-Gerado em: 30/10/2026 22:16:13. Escopo definido em `scripts/plano.py`.
+Gerado em: 30/10/2026 23:01:26. Escopo definido em `scripts/plano.py`.
 
-**Total de Documentos no Acervo:** 1165 / 1165 (100.0%)
+**Total de Documentos no Acervo:** 1231 / 1231 (100.0%)
 
 | Pilar / Subtema | Documentos | Meta | Cobertura | Pasta | Fonte Principal |
 | :--- | ---: | ---: | :---: | :--- | :--- |
@@ -12,6 +12,7 @@ Gerado em: 30/10/2026 22:16:13. Escopo definido em `scripts/plano.py`.
 | ✅ **Leis Complementares Gerais**: Sigilo Bancário (LC 105), Prescrição (LC 118), MEI (LC 128), Convalidação (LC 160) e Protesto (LC 208) | 5 | 5 | 100.0% | `federal/leis-complementares-gerais` | normas.leg.br |
 | ✅ **Decretos-Leis Estruturantes**: Delimitação ITR/IPTU (DL 57/66) e Zona Franca de Manaus (DL 288/67) | 2 | 2 | 100.0% | `federal/decretos-leis` | normas.leg.br |
 | ✅ **Processo Fiscal, Consulta e CIDE**: Processo Administrativo Fiscal (Dec. 70.235/72), Consulta (Dec. 7.574/11) e CIDE (Dec. 5.060/04) | 3 | 3 | 100.0% | `federal/regulamentos/paf_consulta_cide` | normas.leg.br |
+| ✅ **Processo Tributário Estadual (PAT/PAF)**: Tribunais Administrativos de Fazenda Estadual (TIT/SP, CCRJ, CCMG, CCRF/PR, TAT/SC, TARF/RS, CAT/GO, CONSEF/BA) | 8 | 8 | 100.0% | `estaduais/*/leis/pat` | Secretarias de Fazenda Estaduais |
 | **### 2. Dividendos & Renda do Capital** | | | | | |
 | ✅ **Dividendos e JCP**: Isenção de Dividendos e JCP (Lei 9.249/95 e Lei das S/A) | 5 | 5 | 100.0% | `federal/leis-ordinarias/dividendos-jcp` | normas.leg.br |
 | ✅ **Lucro Real e Presumido**: Norma Matriz do Lucro Real, IRPJ/CSLL (DL 1.598/77, Leis 7.689/88, 8.981/95, 12.973/14, 14.871/24 e 15.079/24) | 12 | 12 | 100.0% | `federal/leis-ordinarias/irpj-csll` | normas.leg.br |
@@ -25,6 +26,7 @@ Gerado em: 30/10/2026 22:16:13. Escopo definido em `scripts/plano.py`.
 | ✅ **FGTS e eSocial**: Normas do FGTS (Lei 8.036/1990) e Obrigações Trabalhistas | 3 | 3 | 100.0% | `federal/leis-ordinarias/fgts` | normas.leg.br |
 | ✅ **FGTS Digital e Operação**: Manuais e Portarias do FGTS Digital (Portaria MTE 240/2024) e eSocial | 5 | 5 | 100.0% | `reguladores/mte-caixa/fgts-esocial` | Caixa / MTE |
 | ✅ **RAT, FAP e Sistema S**: Normas de Riscos Ambientais, FAP e Contribuições a Terceiros | 5 | 5 | 100.0% | `reguladores/rfb/rat-fap-terceiros` | RFB / MPS |
+| ✅ **Pasep Governamental e Terceiro Setor**: Pasep Governamental (Lei 9.715/98), Unificação PIS/PASEP (LC 26/75) e PIS Folha Entidades Imunes/Isentas (MP 2.158-35/01 art. 13) | 3 | 3 | 100.0% | `federal/pis-pasep-folha-governamental` | normas.leg.br |
 | **### 4. Produtos & Mercadorias** | | | | | |
 | ✅ **ICMS e DIFAL**: Lei Kandir (LC 87/1996) e Regulamentação do DIFAL (LC 190/2022) | 6 | 6 | 100.0% | `federal/leis-complementares/kandir` | normas.leg.br |
 | ✅ **Alíquotas Interestaduais do ICMS**: Resoluções do Senado Federal nº 22/1989, 95/1996 e 13/2012 | 3 | 3 | 100.0% | `federal/resolucoes-senado/icms` | normas.leg.br |
@@ -34,10 +36,13 @@ Gerado em: 30/10/2026 22:16:13. Escopo definido em `scripts/plano.py`.
 | ✅ **Leis Federais Estruturantes**: PIS/COFINS Geral (Leis 10.637, 10.833, 9.718), Preços de Transferência (14.596) e Transação (13.988) | 14 | 14 | 100.0% | `federal/leis-ordinarias-estruturantes` | normas.leg.br |
 | ✅ **Comércio Exterior e Aduana**: Regulamento Aduaneiro consolidado (Decreto 6.759/2009) e Imposto de Importação | 3 | 3 | 100.0% | `federal/regulamentos/aduana` | normas.leg.br |
 | ✅ **RICMS Estaduais**: Regulamentos do ICMS das 27 Unidades Federativas (Todas as 27 UFs) | 36 | 36 | 100.0% | `estaduais/*/ricms` | Secretarias de Fazenda Estaduais |
+| ✅ **Leis Orgânicas do ICMS das 27 UFs**: Leis Matrizes do ICMS de todas as 27 Unidades Federativas (26 Estados e DF) | 27 | 27 | 100.0% | `estaduais/*/leis/icms` | Assembleias Legislativas Estaduais |
+| ✅ **Fundos Agropecuários e de Infraestrutura Estaduais**: Taxas do Agro constitucionalizadas pelo art. 136 do ADCT (FETHAB/MT, FUNDEINFRA/GO, FUNDERSUL/MS, FECOP/MA, FAIN/BA) | 5 | 5 | 100.0% | `estaduais/*/leis/fundos` | Secretarias de Fazenda Estaduais |
+| ✅ **Créditos Presumidos Agropecuários e Cadeias Produtivas**: Regimes de PIS/COFINS da Carne Bovina (Lei 12.058/09), Aves/Suínos/Café (Lei 12.350/10) e Complexo Soja (Lei 12.865/13) | 3 | 3 | 100.0% | `federal/agro-pis-cofins` | normas.leg.br |
 | **### 5. Serviços & Retenções** | | | | | |
 | ✅ **ISSQN Geral**: Lei Complementar nº 116/2003, LC 157/2016 e LC 175/2020 | 5 | 5 | 100.0% | `federal/leis-complementares/iss` | normas.leg.br |
 | ✅ **Retenções Federais na Fonte**: Retenção de Serviços e CSRF (Lei 10.833/03) | 5 | 5 | 100.0% | `federal/leis-ordinarias/irrf-servicos` | normas.leg.br |
-| ✅ **CTM e RISS das Capitais**: Códigos Tributários Municipais e Regulamentos do ISS (SP, RJ, BH, Salvador, Fortaleza, Goiânia, Belém, Recife, Curitiba, Porto Alegre, Florianópolis) | 15 | 15 | 100.0% | `municipais/*/servicos-iss` | Câmaras e Prefeituras Municipais |
+| ✅ **CTM e RISS das Capitais**: Códigos Tributários Municipais e Regulamentos do ISS de todas as 26 Capitais Estaduais e DF | 30 | 30 | 100.0% | `municipais/*/servicos-iss` | Câmaras e Prefeituras Municipais |
 | **### 6. Patrimônio & Herança** | | | | | |
 | ✅ **ITCMD Federal e Delimitação**: Resolução Senado 9/92 (Teto 8%) e Delimitação ITR x IPTU (Decreto-Lei 57/66) | 2 | 2 | 100.0% | `federal/resolucoes-senado/itcmd` | normas.leg.br |
 | ✅ **ITR Federal**: Lei do ITR (Lei 9.393/1996) e Regulamento do ITR (Decreto 4.382/2002) | 3 | 3 | 100.0% | `federal/regulamentos/itr` | normas.leg.br |
@@ -59,7 +64,7 @@ Gerado em: 30/10/2026 22:16:13. Escopo definido em `scripts/plano.py`.
 | **### 10. Contabilidade e Precedentes** | | | | | |
 | ✅ **Normas Brasileiras de Contabilidade (CFC)**: Resoluções e Normas Técnicas Gerais do CFC (NBC TG 01 a 48, 1000, CTG 07, ITG 10, ITG 19, ITG 22 e Estrutura Conceitual) | 51 | 51 | 100.0% | `contabil/cfc` | cfc.org.br |
 | ✅ **Pronunciamentos Técnicos CPC**: Pronunciamentos Técnicos (CPC 00 a 48), Interpretações (ICPC 10, 19, 22) e Orientações (OCPC 07) do CPC | 52 | 52 | 100.0% | `contabil/cpc` | cpc.org.br |
-| ✅ **Precedentes Vinculantes STF / STJ**: Súmulas Vinculantes, Temas de Repercussão Geral e Recursos Repetitivos (SV 8, 29, 31, 48, 50, 57, Temas STF/STJ) | 19 | 19 | 100.0% | `jurisprudencia/precedentes-vinculantes` | STF / STJ |
-| ✅ **Súmulas do CARF**: Súmulas e Enunciados Vinculantes do Conselho Administrativo de Recursos Fiscais | 10 | 10 | 100.0% | `reguladores/carf/sumulas` | carf.fazenda.gov.br |
+| ✅ **Precedentes Vinculantes STF / STJ**: Súmulas Vinculantes, Temas de Repercussão Geral e Recursos Repetitivos (SV 8, 29, 31, 48, 50, 57, Temas STF/STJ) | 23 | 23 | 100.0% | `jurisprudencia/precedentes-vinculantes` | STF / STJ |
+| ✅ **Súmulas do CARF**: Súmulas e Enunciados Vinculantes do Conselho Administrativo de Recursos Fiscais | 11 | 11 | 100.0% | `reguladores/carf/sumulas` | carf.fazenda.gov.br |
 | ✅ **Instruções Normativas da RFB (Gerais)**: Instruções Normativas vigentes estruturantes da Receita Federal (exceto financeiro) | 94 | 94 | 100.0% | `reguladores/rfb/instrucoes-normativas-gerais` | normas.receita.fazenda.gov.br |
 | ✅ **Atos Executivos e Soluções de Consulta**: Soluções de Consulta COSIT/DISIT, Portarias e Atos Declaratórios da RFB | 613 | 613 | 100.0% | `reguladores/rfb/outros-atos` | normas.receita.fazenda.gov.br |
