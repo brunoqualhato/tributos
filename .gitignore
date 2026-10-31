@@ -17,3 +17,6 @@ ENV/
 # Sistema operacional
 .DS_Store
 Thumbs.db
+
+# Obsidian local workspace state
+.obsidian/workspace*.json
