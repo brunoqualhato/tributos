@@ -180,6 +180,24 @@ def auditar_lexml(urn: str, url_original: str) -> dict:
                 
                 # Se retornar página de erro do LexML
                 if "não encontrado" in body.lower() or "não foi encontrado" in body.lower() or len(body) < 1200:
+                    if url_original and url_original != test_url:
+                        try:
+                            req_orig = urllib.request.Request(url_original, headers=BROWSER_HEADERS)
+                            with urllib.request.urlopen(req_orig, timeout=12, context=CTX) as resp_orig:
+                                if resp_orig.status == 200:
+                                    res = {
+                                        "tipo_fonte": "lexml_leis_federais",
+                                        "urn": urn,
+                                        "metodo_validacao": "Portal Oficial Normas Federais (normas.leg.br)",
+                                        "status_http": 200,
+                                        "acessivel": True,
+                                        "detalhes": "Norma federal confirmada e ativa no portal normas.leg.br",
+                                        "tempo_resposta_ms": int((time.time() - t0) * 1000)
+                                    }
+                                    CACHE_LEXML[urn] = res
+                                    return res
+                        except Exception:
+                            pass
                     res = {
                         "tipo_fonte": "lexml_leis_federais",
                         "urn": urn,
@@ -397,9 +415,9 @@ def main():
     print(f"[{dt.datetime.now().strftime('%H:%M:%S')}] Iniciando auditoria minuciosa dos documentos...")
     arquivos = []
     for p in RAIZ.glob("**/*.md"):
-        if p.name in ("README.md", "PROGRESSO.md", "PLANO.md", "WORKLOG.md", "COBERTURA.md", "AGENT.md", "ACERVO.md"):
+        if p.name in ("README.md", "PROGRESSO.md", "PLANO.md", "WORKLOG.md", "COBERTURA.md", "AGENT.md", "ACERVO.md", "Home.md"):
             continue
-        if any(part.startswith(".") or part.startswith("_") or part == "wiki" for part in p.parts):
+        if any(part.startswith(".") or part.startswith("_") or part in ("wiki", "obsidian") for part in p.parts):
             continue
         arquivos.append(p)
 

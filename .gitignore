@@ -18,5 +18,6 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Obsidian (vault reside em ~/bruno-pensamentos)
+# Obsidian (vault local / arquivos e configurações)
 .obsidian/
+obsidian/
