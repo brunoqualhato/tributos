@@ -482,3 +482,13 @@ Ingestão Concorrente Massiva: Fechamento das 27 UFs (ICMS Matrizes e Fundos Agr
   - `scripts/plano.py`, `PROGRESSO.md` e `ACERVO.md` atualizados e sincronizados em 100,0% de aderência nos 10 pilares.
 
 
+
+## 05/11/2026 — Publicações institucionais da reforma tributária
+
+- Acrescentadas três sínteses editoriais com fontes oficiais: cálculo de referência da CBS pelo TCU, cronograma de documentos fiscais da Receita e orientações da ANA para saneamento.
+- Registros classificados como informativos, sem força normativa; datas de publicação, atualização e consulta preservadas. Não são transcrições integrais de normas.
+- Deduplicação: a IN RFB nº 2.299/2025 já constava do acervo e não foi reinserida.
+- Catálogo e progresso regenerados: 1.234 documentos. A meta preexistente de 1.231 foi preservada.
+- Auditoria estrutural geral: 1.234 aprovados, zero rejeitados. Auditoria de rede com o auditor canônico limitada aos três novos documentos: três aprovados após nova tentativa com acesso externo; links locais conferidos. Resultado em `_auditoria/publicacoes_reforma_2026-11-05.json`.
+- As páginas institucionais foram lidas pela ferramenta web. A íntegra da Resolução ANA nº 307/2026 no DOU retornou 502 e não foi incorporada como norma; pendência registrada na ficha.
+- Branch: `codex/publicacoes-reforma-2026-11-05`. GitHub CLI sem autenticação nesta sessão; abertura de PR pendente.
