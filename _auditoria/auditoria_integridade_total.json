@@ -1,40 +1,122 @@
 {
   "resumo": {
-    "total_documentos": 1165,
-    "taxa_conformidade_schema": "100.00%",
-    "documentos_com_inconformidades": 0,
+    "total_documentos": 1255,
+    "taxa_conformidade_schema": "98.88%",
+    "documentos_com_inconformidades": 14,
     "distribuicao_linhas": {
-      "50-100": 816,
-      ">1000": 92,
-      "301-1000": 98,
-      "101-300": 123,
-      "<50": 36
+      "<50": 48,
+      "50-100": 821,
+      ">1000": 97,
+      "301-1000": 105,
+      "101-300": 184
     },
     "distribuicao_esferas": {
       "Federal / Profissional": 103,
-      "Estadual": 91,
+      "Estadual": 137,
       "Estadual / CONFAZ": 56,
       "Estadual / Interestadual": 4,
-      "Federal": 890,
-      "Municipal": 21
+      "Distrital": 1,
+      "Federal": 904,
+      "Municipal": 36
     },
     "distribuicao_temas": {
       "Contabilidade": 77,
       "Tributário e Contábil Geral": 36,
       "Dividendos e Renda do Capital": 291,
-      "Produtos e Mercadorias": 174,
+      "Produtos e Mercadorias": 208,
       "Serviços e Retenções": 59,
       "Folha de Pagamento e Encargos": 417,
       "Patrimônio, Herança e Veículos": 70,
+      "Agronegócio e Fundos": 10,
+      "Contencioso e Processo Fiscal": 10,
       "Combustíveis e Energia": 16,
+      "Folha e Previdência": 3,
       "Tributação Financeira e IOF": 12,
-      "Reforma Tributária e Transição": 9,
+      "Financeiro e Capitais": 1,
+      "Serviços e ISS": 15,
+      "Reforma Tributária e Transição": 12,
       "Contabilidade e Precedentes": 4
     },
-    "documentos_aprovados": 1165
+    "documentos_aprovados": 1241
   },
-  "schema_inconformidades": {},
-  "fontes_inconformidades": {},
+  "schema_inconformidades": {
+    "frontmatter_invalido": [
+      {
+        "arquivo": "Home.md",
+        "erro": "Frontmatter ausente (arquivo não inicia com ---)"
+      },
+      {
+        "arquivo": "obsidian/MOC-01-Legislacao-Estruturante.md",
+        "erro": "Frontmatter ausente (arquivo não inicia com ---)"
+      },
+      {
+        "arquivo": "obsidian/MOC-02-Dividendos-IRPJ-CSLL.md",
+        "erro": "Frontmatter ausente (arquivo não inicia com ---)"
+      },
+      {
+        "arquivo": "obsidian/MOC-03-Folha-Previdencia.md",
+        "erro": "Frontmatter ausente (arquivo não inicia com ---)"
+      },
+      {
+        "arquivo": "obsidian/MOC-04-ICMS-27-UFs-Produtos.md",
+        "erro": "Frontmatter ausente (arquivo não inicia com ---)"
+      },
+      {
+        "arquivo": "obsidian/MOC-05-ISSQN-26-Capitais-Servicos.md",
+        "erro": "Frontmatter ausente (arquivo não inicia com ---)"
+      },
+      {
+        "arquivo": "obsidian/MOC-06-Patrimonio-ITCMD-IPVA-ITR.md",
+        "erro": "Frontmatter ausente (arquivo não inicia com ---)"
+      },
+      {
+        "arquivo": "obsidian/MOC-07-Combustiveis-Energia.md",
+        "erro": "Frontmatter ausente (arquivo não inicia com ---)"
+      },
+      {
+        "arquivo": "obsidian/MOC-08-Financeiro-IOF.md",
+        "erro": "Frontmatter ausente (arquivo não inicia com ---)"
+      },
+      {
+        "arquivo": "obsidian/MOC-09-Reforma-Tributaria-Dual.md",
+        "erro": "Frontmatter ausente (arquivo não inicia com ---)"
+      },
+      {
+        "arquivo": "obsidian/MOC-10-Contabilidade-Precedentes-CARF.md",
+        "erro": "Frontmatter ausente (arquivo não inicia com ---)"
+      },
+      {
+        "arquivo": "obsidian/MOC-Fundos-Agropecuarios-Art-136-ADCT.md",
+        "erro": "Frontmatter ausente (arquivo não inicia com ---)"
+      },
+      {
+        "arquivo": "obsidian/MOC-Matriz-Interestadual-27-UFs.md",
+        "erro": "Frontmatter ausente (arquivo não inicia com ---)"
+      },
+      {
+        "arquivo": "obsidian/MOC-Processo-Administrativo-Tributario-PAT.md",
+        "erro": "Frontmatter ausente (arquivo não inicia com ---)"
+      }
+    ]
+  },
+  "fontes_inconformidades": {
+    "fonte_vazia": [
+      "Home.md",
+      "obsidian/MOC-01-Legislacao-Estruturante.md",
+      "obsidian/MOC-02-Dividendos-IRPJ-CSLL.md",
+      "obsidian/MOC-03-Folha-Previdencia.md",
+      "obsidian/MOC-04-ICMS-27-UFs-Produtos.md",
+      "obsidian/MOC-05-ISSQN-26-Capitais-Servicos.md",
+      "obsidian/MOC-06-Patrimonio-ITCMD-IPVA-ITR.md",
+      "obsidian/MOC-07-Combustiveis-Energia.md",
+      "obsidian/MOC-08-Financeiro-IOF.md",
+      "obsidian/MOC-09-Reforma-Tributaria-Dual.md",
+      "obsidian/MOC-10-Contabilidade-Precedentes-CARF.md",
+      "obsidian/MOC-Fundos-Agropecuarios-Art-136-ADCT.md",
+      "obsidian/MOC-Matriz-Interestadual-27-UFs.md",
+      "obsidian/MOC-Processo-Administrativo-Tributario-PAT.md"
+    ]
+  },
   "profundidade_textual": {
     "vazios_sem_corpo": [],
     "micro_resumos_criticos": [],
@@ -52,7 +134,21 @@
       }
     },
     "duplicidades_exatas": {},
-    "duplicidades_normativas": {}
+    "duplicidades_normativas": {
+      "Lei Estadual 11651/1991": [
+        "estaduais/go/leis/icms/lei-11651-1991.md",
+        "estaduais/go/leis/ipva/lei-11651-1991.md",
+        "estaduais/go/leis/itcmd/lei-11651-1991.md"
+      ],
+      "Medida Provisória 2158-35/2001": [
+        "federal/leis-ordinarias/offshores/mp-2158-35-2001-tributacao-universal.md",
+        "federal/leis-ordinarias/pis-cofins/mp-2158-35-2001-art-13-pis-folha-salarios.md"
+      ],
+      "Notícia institucional Sem número/2026": [
+        "reforma-tributaria/publicacoes/2026/ana-adequacao-tarifas-saneamento-cbs.md",
+        "reforma-tributaria/publicacoes/2026/tcu-calculo-referencia-cbs-2027.md"
+      ]
+    }
   },
   "vigencia_inconsistencias": {
     "revogadas_marcadas_em_vigor": [],
@@ -60,16 +156,66 @@
     "inconsistencias_flag_revogada": []
   },
   "qualidade_corpo": {
-    "html_residual": [],
+    "html_residual": [
+      {
+        "arquivo": "obsidian/MOC-Processo-Administrativo-Tributario-PAT.md",
+        "contagem": 8,
+        "tags": [
+          "<br>"
+        ]
+      }
+    ],
     "mojibake_e_caracteres_corrompidos": [],
     "html_entities_residuais": [],
     "marcadores_raspagem_lexml": [],
     "scraping_boilerplate": [],
-    "tabelas_quebradas": [],
+    "tabelas_quebradas": [
+      {
+        "arquivo": "obsidian/MOC-01-Legislacao-Estruturante.md",
+        "motivo": "Linhas com pipes sem linha delimitadora de cabeçalho"
+      },
+      {
+        "arquivo": "obsidian/MOC-02-Dividendos-IRPJ-CSLL.md",
+        "motivo": "Linhas com pipes sem linha delimitadora de cabeçalho"
+      },
+      {
+        "arquivo": "obsidian/MOC-03-Folha-Previdencia.md",
+        "motivo": "Linhas com pipes sem linha delimitadora de cabeçalho"
+      },
+      {
+        "arquivo": "obsidian/MOC-06-Patrimonio-ITCMD-IPVA-ITR.md",
+        "motivo": "Linhas com pipes sem linha delimitadora de cabeçalho"
+      },
+      {
+        "arquivo": "obsidian/MOC-07-Combustiveis-Energia.md",
+        "motivo": "Linhas com pipes sem linha delimitadora de cabeçalho"
+      },
+      {
+        "arquivo": "obsidian/MOC-08-Financeiro-IOF.md",
+        "motivo": "Linhas com pipes sem linha delimitadora de cabeçalho"
+      },
+      {
+        "arquivo": "obsidian/MOC-10-Contabilidade-Precedentes-CARF.md",
+        "motivo": "Linhas com pipes sem linha delimitadora de cabeçalho"
+      }
+    ],
     "ausencia_titulo_h1": [],
     "inconsistencias_nomenclatura_arquivo": []
   },
   "detalhes_por_arquivo": {
+    "Home.md": {
+      "linhas": 41,
+      "caracteres": 3764,
+      "tipo": "",
+      "titulo": "",
+      "situacao": "",
+      "erros": [
+        "Frontmatter ausente (arquivo não inicia com ---)",
+        "Campo 'fonte' vazio ou nulo"
+      ],
+      "avisos": [],
+      "conforme": false
+    },
     "contabil/cfc/ctg-07-evidenciacao-relatorios.md": {
       "linhas": 87,
       "caracteres": 10088,
@@ -1100,6 +1246,16 @@
       "avisos": [],
       "conforme": true
     },
+    "estaduais/ac/leis/icms/lei-complementar-396-2022.md": {
+      "linhas": 149,
+      "caracteres": 12020,
+      "tipo": "Lei Complementar",
+      "titulo": "Lei Complementar Estadual nº 396, de 30 de março de 2022 (ICMS-AC, DIFAL e Alíquota de 19%)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "estaduais/ac/leis/ipva/lei-114-2002.md": {
       "linhas": 83,
       "caracteres": 9414,
@@ -1130,6 +1286,16 @@
       "avisos": [],
       "conforme": true
     },
+    "estaduais/al/leis/icms/lei-5900-1996.md": {
+      "linhas": 237,
+      "caracteres": 21689,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei nº 5.900, de 27 de dezembro de 1996 (Lei Geral do ICMS de Alagoas)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "estaduais/al/leis/ipva/lei-6555-2004.md": {
       "linhas": 83,
       "caracteres": 9531,
@@ -1155,6 +1321,16 @@
       "caracteres": 9500,
       "tipo": "Decreto Estadual",
       "titulo": "Decreto nº 35.245, de 26 de dezembro de 1991 (Regulamento do ICMS - RICMS/AL)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/am/leis/icms/lei-complementar-242-2022.md": {
+      "linhas": 157,
+      "caracteres": 15048,
+      "tipo": "Lei Complementar",
+      "titulo": "Lei Complementar Estadual nº 242, de 29 de dezembro de 2022 (ICMS-AM, Alíquota Modal de 20% e DIFAL)",
       "situacao": "Em vigor",
       "erros": [],
       "avisos": [],
@@ -1200,6 +1376,16 @@
       "avisos": [],
       "conforme": true
     },
+    "estaduais/ap/leis/icms/lei-400-1997.md": {
+      "linhas": 163,
+      "caracteres": 12646,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 400, de 22 de dezembro de 1997 (Código Tributário do Amapá - Livro do ICMS)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "estaduais/ap/leis/ipva/lei-400-1997.md": {
       "linhas": 83,
       "caracteres": 9429,
@@ -1230,6 +1416,26 @@
       "avisos": [],
       "conforme": true
     },
+    "estaduais/ba/leis/fundos/lei-14527-2022-fain-fefir.md": {
+      "linhas": 122,
+      "caracteres": 11602,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 14.527, de 21 de dezembro de 2022 (FEFIR / FAIN - BA)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/ba/leis/icms/lei-7014-1996.md": {
+      "linhas": 281,
+      "caracteres": 21802,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 7.014, de 4 de dezembro de 1996 (Lei Geral do ICMS da Bahia)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "estaduais/ba/leis/ipva/lei-6348-1991.md": {
       "linhas": 578,
       "caracteres": 37985,
@@ -1250,6 +1456,16 @@
       "avisos": [],
       "conforme": true
     },
+    "estaduais/ba/leis/pat/decreto-7629-1999-consef-ba.md": {
+      "linhas": 152,
+      "caracteres": 11016,
+      "tipo": "Decreto",
+      "titulo": "Decreto nº 7.629, de 9 de julho de 1999 (RPAF e CONSEF - Bahia)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "estaduais/ba/ricms/decreto-13780-2012.md": {
       "linhas": 88,
       "caracteres": 10028,
@@ -1265,6 +1481,16 @@
       "caracteres": 8535,
       "tipo": "Decreto Estadual",
       "titulo": "Decreto Estadual nº 7.799, de 9 de maio de 2000 e Lei nº 7.980/2001 (Regime Especial de Atacadista e Programa DESENVOLVE na Bahia)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/ce/leis/icms/lei-18665-2023.md": {
+      "linhas": 224,
+      "caracteres": 18129,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 18.665, de 20 de dezembro de 2023 (Lei Geral do ICMS do Ceará)",
       "situacao": "Em vigor",
       "erros": [],
       "avisos": [],
@@ -1920,6 +2146,16 @@
       "avisos": [],
       "conforme": true
     },
+    "estaduais/df/leis/icms/lei-1254-1996.md": {
+      "linhas": 270,
+      "caracteres": 26195,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Distrital nº 1.254, de 1º de dezembro de 1996 (Lei Básica do ICMS do Distrito Federal)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "estaduais/df/leis/ipva/lei-7431-1985.md": {
       "linhas": 83,
       "caracteres": 9672,
@@ -1945,6 +2181,16 @@
       "caracteres": 9493,
       "tipo": "Decreto Estadual",
       "titulo": "Decreto nº 18.955, de 22 de dezembro de 1997 (Regulamento do ICMS - RICMS/DF)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/es/leis/icms/lei-7000-2001.md": {
+      "linhas": 230,
+      "caracteres": 17004,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 7.000, de 27 de dezembro de 2001 (Lei Geral do ICMS do Espírito Santo)",
       "situacao": "Em vigor",
       "erros": [],
       "avisos": [],
@@ -1990,41 +2236,161 @@
       "avisos": [],
       "conforme": true
     },
-    "estaduais/go/leis/ipva/lei-11651-1991.md": {
-      "linhas": 83,
-      "caracteres": 9565,
+    "estaduais/go/leis/fundos/lei-21670-2022-fundeinfra.md": {
+      "linhas": 282,
+      "caracteres": 21660,
       "tipo": "Lei Estadual",
-      "titulo": "Lei Estadual nº 11651, de 1991 (IPVA/GO - Goiás)",
-      "situacao": "Em vigor",
+      "titulo": "Lei Estadual nº 21.670, de 6 de dezembro de 2022 (FUNDEINFRA - GO)",
+      "situacao": "Lei instituidora com alterações; contribuição encerrada para operações de 2026",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/go/leis/fundos/lei-21671-2022-condicoes-fundeinfra.md": {
+      "linhas": 132,
+      "caracteres": 8946,
+      "tipo": "Lei Estadual",
+      "titulo": "Lei Estadual nº 21.671, de 6 de dezembro de 2022 (condições tributárias do FUNDEINFRA)",
+      "situacao": "Efeitos dos dispositivos especificados limitados a 31/12/2025 pela Lei nº 24.133/2026",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/go/leis/fundos/lei-24133-2026-encerramento-contribuicao-fundeinfra.md": {
+      "linhas": 86,
+      "caracteres": 6214,
+      "tipo": "Lei Estadual",
+      "titulo": "Lei Estadual nº 24.133, de 13 de março de 2026 (encerramento da contribuição ao FUNDEINFRA)",
+      "situacao": "Em vigor; redações históricas preservadas",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/go/leis/icms/lei-11651-1991.md": {
+      "linhas": 13502,
+      "caracteres": 801902,
+      "tipo": "Lei Estadual",
+      "titulo": "Lei Estadual nº 11.651, de 26 de dezembro de 1991 (Código Tributário do Estado de Goiás)",
+      "situacao": "Em vigor; redações históricas preservadas",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/go/leis/icms/lei-22460-2023-aliquota-modal.md": {
+      "linhas": 66,
+      "caracteres": 3295,
+      "tipo": "Lei Estadual",
+      "titulo": "Lei Estadual nº 22.460, de 12 de dezembro de 2023 (alíquota modal do ICMS)",
+      "situacao": "Em vigor; redações históricas preservadas",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/go/leis/icms/lei-24441-2026-progoias.md": {
+      "linhas": 68,
+      "caracteres": 4242,
+      "tipo": "Lei Estadual",
+      "titulo": "Lei Estadual nº 24.441, de 10 de julho de 2026 (alteração do PROGOIÁS)",
+      "situacao": "Em vigor; redações históricas preservadas",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/go/leis/ipva/lei-11651-1991.md": {
+      "linhas": 842,
+      "caracteres": 45252,
+      "tipo": "Lei Estadual",
+      "titulo": "Lei Estadual nº 11.651/1991 — recorte do IPVA de Goiás",
+      "situacao": "Em vigor; redações históricas preservadas",
       "erros": [],
       "avisos": [],
       "conforme": true
     },
     "estaduais/go/leis/itcmd/lei-11651-1991.md": {
-      "linhas": 83,
-      "caracteres": 9371,
+      "linhas": 1212,
+      "caracteres": 85119,
       "tipo": "Lei Estadual",
-      "titulo": "Lei Estadual nº 11651, de 1991 (ITCMD/GO - Goiás)",
-      "situacao": "Em vigor",
+      "titulo": "Lei Estadual nº 11.651/1991 — recorte do ITCD de Goiás",
+      "situacao": "Em vigor; redações históricas preservadas",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/go/leis/pat/lei-16469-2009-cat-go.md": {
+      "linhas": 2474,
+      "caracteres": 153687,
+      "tipo": "Lei Estadual",
+      "titulo": "Lei Estadual nº 16.469, de 19 de janeiro de 2009 (PAT e CAT - Goiás)",
+      "situacao": "Em vigor; redações históricas preservadas",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/go/leis/pat/lei-23130-2024-alteracoes-pat.md": {
+      "linhas": 452,
+      "caracteres": 34217,
+      "tipo": "Lei Estadual",
+      "titulo": "Lei Estadual nº 23.130, de 6 de dezembro de 2024 (alterações do PAT)",
+      "situacao": "Em vigor; redações históricas preservadas",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/go/leis/pat/lei-24391-2026-cte-pat.md": {
+      "linhas": 84,
+      "caracteres": 5133,
+      "tipo": "Lei Estadual",
+      "titulo": "Lei Estadual nº 24.391, de 29 de junho de 2026 (alterações do CTE e do PAT)",
+      "situacao": "Em vigor; redações históricas preservadas",
       "erros": [],
       "avisos": [],
       "conforme": true
     },
     "estaduais/go/ricms/decreto-4852-1997.md": {
-      "linhas": 88,
-      "caracteres": 9967,
+      "linhas": 27771,
+      "caracteres": 1868093,
       "tipo": "Decreto Estadual",
-      "titulo": "Decreto nº 4.852, de 29 de dezembro de 1997 (Regulamento do Código Tributário do Estado de Goiás - RCTE/GO)",
-      "situacao": "Em vigor",
+      "titulo": "Decreto nº 4.852, de 29 de dezembro de 1997 (RCTE/GO)",
+      "situacao": "Em vigor; redações históricas preservadas",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/go/ricms/decreto-9724-2020-progoias.md": {
+      "linhas": 948,
+      "caracteres": 68185,
+      "tipo": "Decreto Estadual",
+      "titulo": "Decreto nº 9.724, de 7 de outubro de 2020 (regulamentação do PROGOIÁS)",
+      "situacao": "Em vigor; redações históricas preservadas",
       "erros": [],
       "avisos": [],
       "conforme": true
     },
     "estaduais/go/ricms/lei-20787-2020-progoias-atacadista-fundeinfra.md": {
-      "linhas": 83,
-      "caracteres": 8461,
+      "linhas": 596,
+      "caracteres": 49327,
       "tipo": "Lei Estadual",
-      "titulo": "Lei Estadual nº 20.787, de 3 de junho de 2020 (Programa PROGOIÁS, Crédito Outorgado Atacadista de Goiás e FUNDEINFRA)",
+      "titulo": "Lei Estadual nº 20.787, de 3 de junho de 2020 (PROGOIÁS)",
+      "situacao": "Em vigor; redações históricas preservadas",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/ma/leis/fundos/lei-8205-2004-fecop.md": {
+      "linhas": 110,
+      "caracteres": 10646,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 8.205, de 22 de dezembro de 2004 (FECOP / FIEP - Fundo de Infraestrutura e FECOP - MA)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/ma/leis/icms/lei-7799-2002.md": {
+      "linhas": 210,
+      "caracteres": 16049,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 7.799, de 19 de dezembro de 2002 (Código Tributário do Maranhão - ICMS)",
       "situacao": "Em vigor",
       "erros": [],
       "avisos": [],
@@ -2060,6 +2426,16 @@
       "avisos": [],
       "conforme": true
     },
+    "estaduais/mg/leis/icms/lei-6763-1975.md": {
+      "linhas": 274,
+      "caracteres": 20676,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 6.763, de 26 de dezembro de 1975 (Consolidação da Legislação Tributária de Minas Gerais)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "estaduais/mg/leis/ipva/lei-14937-2003.md": {
       "linhas": 84,
       "caracteres": 7703,
@@ -2080,6 +2456,16 @@
       "avisos": [],
       "conforme": true
     },
+    "estaduais/mg/leis/pat/decreto-44747-2008-rpta-ccmg.md": {
+      "linhas": 191,
+      "caracteres": 13092,
+      "tipo": "Decreto",
+      "titulo": "Decreto nº 44.747, de 3 de março de 2008 (RPTA e CCMG - Minas Gerais)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "estaduais/mg/ricms/decreto-48589-2023-tts-corredor-importacao-ecommerce-mg.md": {
       "linhas": 37,
       "caracteres": 3154,
@@ -2095,6 +2481,26 @@
       "caracteres": 9839,
       "tipo": "Decreto Estadual",
       "titulo": "Decreto nº 48.589, de 22 de março de 2023 (Regulamento do ICMS - RICMS/MG)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/ms/leis/fundos/lei-4049-2011-fundersul.md": {
+      "linhas": 146,
+      "caracteres": 12681,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 4.049, de 14 de julho de 2011 (FUNDERSUL - MS)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/ms/leis/icms/lei-1810-1997.md": {
+      "linhas": 272,
+      "caracteres": 25602,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 1.810, de 22 de dezembro de 1997 (Código Tributário Estadual de Mato Grosso do Sul - CTE/MS - Livro do ICMS)",
       "situacao": "Em vigor",
       "erros": [],
       "avisos": [],
@@ -2130,6 +2536,26 @@
       "avisos": [],
       "conforme": true
     },
+    "estaduais/mt/leis/fundos/lei-7263-2000-fethab.md": {
+      "linhas": 151,
+      "caracteres": 15468,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 7.263, de 27 de março de 2000 (FETHAB - MT)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/mt/leis/icms/lei-7098-1998.md": {
+      "linhas": 285,
+      "caracteres": 28481,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 7.098, de 30 de dezembro de 1998 (Lei Geral do ICMS do Estado de Mato Grosso)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "estaduais/mt/leis/ipva/lei-7301-2000.md": {
       "linhas": 83,
       "caracteres": 9558,
@@ -2155,6 +2581,16 @@
       "caracteres": 9435,
       "tipo": "Decreto Estadual",
       "titulo": "Decreto nº 2.214, de 27 de março de 2014 (Regulamento do ICMS - RICMS/MT)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/pa/leis/icms/lei-5530-1989.md": {
+      "linhas": 181,
+      "caracteres": 17062,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 5.530, de 13 de janeiro de 1989 (Lei Geral do ICMS do Pará)",
       "situacao": "Em vigor",
       "erros": [],
       "avisos": [],
@@ -2190,6 +2626,16 @@
       "avisos": [],
       "conforme": true
     },
+    "estaduais/pb/leis/icms/lei-6379-1996.md": {
+      "linhas": 198,
+      "caracteres": 15162,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 6.379, de 2 de dezembro de 1996 (Lei Geral do ICMS da Paraíba)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "estaduais/pb/leis/ipva/lei-11007-2017.md": {
       "linhas": 83,
       "caracteres": 9556,
@@ -2215,6 +2661,16 @@
       "caracteres": 9266,
       "tipo": "Decreto Estadual",
       "titulo": "Decreto nº 18.930, de 19 de junho de 1997 (Regulamento do ICMS - RICMS/PB)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/pe/leis/icms/lei-15730-2016.md": {
+      "linhas": 213,
+      "caracteres": 17003,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 15.730, de 17 de março de 2016 (Lei Geral do ICMS de Pernambuco)",
       "situacao": "Em vigor",
       "erros": [],
       "avisos": [],
@@ -2260,6 +2716,16 @@
       "avisos": [],
       "conforme": true
     },
+    "estaduais/pi/leis/icms/lei-4257-1989.md": {
+      "linhas": 283,
+      "caracteres": 25916,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei nº 4.257, de 6 de janeiro de 1989 (Lei Geral do ICMS do Piauí)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "estaduais/pi/leis/ipva/lei-4548-1992.md": {
       "linhas": 83,
       "caracteres": 9459,
@@ -2290,6 +2756,16 @@
       "avisos": [],
       "conforme": true
     },
+    "estaduais/pr/leis/icms/lei-11580-1996.md": {
+      "linhas": 340,
+      "caracteres": 24795,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei nº 11.580, de 14 de novembro de 1996 (Lei Orgânica do ICMS do Estado do Paraná)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "estaduais/pr/leis/ipva/lei-14260-2003.md": {
       "linhas": 1658,
       "caracteres": 94730,
@@ -2310,11 +2786,31 @@
       "avisos": [],
       "conforme": true
     },
+    "estaduais/pr/leis/pat/lei-18877-2016-ccrf-pr.md": {
+      "linhas": 175,
+      "caracteres": 11947,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 18.877, de 27 de setembro de 2016 (PAF e CCRF - Paraná)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "estaduais/pr/ricms/decreto-7871-2017.md": {
       "linhas": 88,
       "caracteres": 9880,
       "tipo": "Decreto Estadual",
       "titulo": "Decreto nº 7.871, de 29 de setembro de 2017 (Regulamento do ICMS - RICMS/PR)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/rj/leis/icms/lei-2657-1996.md": {
+      "linhas": 264,
+      "caracteres": 20778,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 2.657, de 26 de dezembro de 1996 (Lei Geral do ICMS do Rio de Janeiro)",
       "situacao": "Em vigor",
       "erros": [],
       "avisos": [],
@@ -2340,11 +2836,31 @@
       "avisos": [],
       "conforme": true
     },
+    "estaduais/rj/leis/pat/decreto-lei-5-1975-conselho-contribuintes-rj.md": {
+      "linhas": 263,
+      "caracteres": 20272,
+      "tipo": "Decreto",
+      "titulo": "Decreto-Lei nº 5, de 15 de março de 1975 (Código Tributário do RJ - Livro Terceiro: PAT e Conselho de Contribuintes)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "estaduais/rj/ricms/decreto-27427-2000.md": {
       "linhas": 88,
       "caracteres": 10083,
       "tipo": "Decreto Estadual",
       "titulo": "Decreto nº 27.427, de 17 de novembro de 2000 (Regulamento do ICMS - RICMS/RJ)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/rn/leis/icms/lei-6968-1996.md": {
+      "linhas": 252,
+      "caracteres": 23632,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei nº 6.968, de 30 de dezembro de 1996 (Lei Geral do ICMS do Rio Grande do Norte)",
       "situacao": "Em vigor",
       "erros": [],
       "avisos": [],
@@ -2380,6 +2896,16 @@
       "avisos": [],
       "conforme": true
     },
+    "estaduais/ro/leis/icms/lei-688-1996.md": {
+      "linhas": 153,
+      "caracteres": 13448,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 688, de 27 de dezembro de 1996 (Lei Geral do ICMS de Rondônia)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "estaduais/ro/leis/ipva/lei-950-2000.md": {
       "linhas": 83,
       "caracteres": 9485,
@@ -2405,6 +2931,16 @@
       "caracteres": 9627,
       "tipo": "Decreto Estadual",
       "titulo": "Decreto nº 22.721, de 5 de abril de 2018 (Regulamento do ICMS - RICMS/RO)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/rr/leis/icms/lei-1640-2022.md": {
+      "linhas": 168,
+      "caracteres": 13623,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 1.640, de 27 de janeiro de 2022 (ICMS-RR, DIFAL e Alíquota de 20%)",
       "situacao": "Em vigor",
       "erros": [],
       "avisos": [],
@@ -2440,6 +2976,16 @@
       "avisos": [],
       "conforme": true
     },
+    "estaduais/rs/leis/icms/lei-8820-1989.md": {
+      "linhas": 301,
+      "caracteres": 18673,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei nº 8.820, de 27 de janeiro de 1989 (Lei Orgânica do ICMS do Estado do Rio Grande do Sul)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "estaduais/rs/leis/ipva/lei-8115-1985.md": {
       "linhas": 604,
       "caracteres": 40121,
@@ -2460,11 +3006,31 @@
       "avisos": [],
       "conforme": true
     },
+    "estaduais/rs/leis/pat/lei-6537-1973-tars.md": {
+      "linhas": 181,
+      "caracteres": 11811,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 6.537, de 27 de fevereiro de 1973 (PTA e TARF - Rio Grande do Sul)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "estaduais/rs/ricms/decreto-37699-1997.md": {
       "linhas": 88,
       "caracteres": 9688,
       "tipo": "Decreto Estadual",
       "titulo": "Decreto nº 37.699, de 26 de agosto de 1997 (Regulamento do ICMS - RICMS/RS)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/sc/leis/icms/lei-10297-1996.md": {
+      "linhas": 284,
+      "caracteres": 19132,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei nº 10.297, de 26 de dezembro de 1996 (Lei Orgânica do ICMS do Estado de Santa Catarina)",
       "situacao": "Em vigor",
       "erros": [],
       "avisos": [],
@@ -2490,6 +3056,16 @@
       "avisos": [],
       "conforme": true
     },
+    "estaduais/sc/leis/pat/lei-3938-1966-tat-sc.md": {
+      "linhas": 172,
+      "caracteres": 11796,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 3.938, de 26 de dezembro de 1966 (PAT e TAT - Santa Catarina)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "estaduais/sc/ricms/decreto-2870-2001.md": {
       "linhas": 88,
       "caracteres": 9766,
@@ -2505,6 +3081,16 @@
       "caracteres": 9543,
       "tipo": "Lei Estadual",
       "titulo": "Lei Estadual nº 17.763, de 12 de agosto de 2019 e Anexo 2 do RICMS/SC (Regimes Especiais TTD 409, TTD 410, TTD 411 de Importação e TTD 478 de E-Commerce em Santa Catarina)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/se/leis/icms/lei-3796-1996.md": {
+      "linhas": 244,
+      "caracteres": 22907,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei nº 3.796, de 26 de dezembro de 1996 (Lei Geral do ICMS de Sergipe)",
       "situacao": "Em vigor",
       "erros": [],
       "avisos": [],
@@ -2540,6 +3126,16 @@
       "avisos": [],
       "conforme": true
     },
+    "estaduais/sp/leis/icms/lei-6374-1989.md": {
+      "linhas": 302,
+      "caracteres": 23550,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 6.374, de 1º de março de 1989 (Lei Orgânica do ICMS de São Paulo)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "estaduais/sp/leis/ipva/lei-13296-2008.md": {
       "linhas": 81,
       "caracteres": 6894,
@@ -2560,11 +3156,31 @@
       "avisos": [],
       "conforme": true
     },
+    "estaduais/sp/leis/pat/lei-13457-2009-tit-sp.md": {
+      "linhas": 1645,
+      "caracteres": 85768,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 13.457, de 18 de março de 2009 (PAT e TIT-SP)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "estaduais/sp/ricms/decreto-45490-2000.md": {
       "linhas": 88,
       "caracteres": 9793,
       "tipo": "Decreto Estadual",
       "titulo": "Decreto nº 45.490, de 30 de novembro de 2000 (Regulamento do ICMS - RICMS/SP)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "estaduais/to/leis/icms/lei-1287-2001.md": {
+      "linhas": 150,
+      "caracteres": 13604,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Estadual nº 1.287, de 28 de dezembro de 2001 (Código Tributário do Estado do Tocantins - Livro do ICMS)",
       "situacao": "Em vigor",
       "erros": [],
       "avisos": [],
@@ -2825,6 +3441,16 @@
       "caracteres": 10999,
       "tipo": "Lei Complementar",
       "titulo": "Lei Complementar nº 208, de 2 de julho de 2024 (Cessão de Direitos Creditórios Tributários e Protesto Extrajudicial como Interrupção da Prescrição no CTN)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "federal/leis-complementares/pis-pasep/lei-complementar-26-1975-unificacao-pis-pasep.md": {
+      "linhas": 131,
+      "caracteres": 12160,
+      "tipo": "Lei Complementar",
+      "titulo": "Lei Complementar nº 26, de 11 de setembro de 1975 (Unificação PIS-PASEP)",
       "situacao": "Em vigor",
       "erros": [],
       "avisos": [],
@@ -3510,6 +4136,56 @@
       "avisos": [],
       "conforme": true
     },
+    "federal/leis-ordinarias/pis-cofins/lei-12058-2009-credito-presumido-bovinos.md": {
+      "linhas": 117,
+      "caracteres": 11476,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei nº 12.058, de 13 de outubro de 2009 (Crédito Presumido e Suspensão na Cadeia Bovina e Ovina)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "federal/leis-ordinarias/pis-cofins/lei-12350-2010-credito-presumido-aves-suinos-cafe.md": {
+      "linhas": 120,
+      "caracteres": 11586,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei nº 12.350, de 20 de dezembro de 2010 (Crédito Presumido na Cadeia de Aves, Suínos e Agronegócio)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "federal/leis-ordinarias/pis-cofins/lei-12865-2013-credito-presumido-soja.md": {
+      "linhas": 116,
+      "caracteres": 10392,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei nº 12.865, de 9 de outubro de 2013 (Crédito Presumido e Suspensão na Cadeia da Soja)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "federal/leis-ordinarias/pis-cofins/lei-9715-1998-pasep-governamental.md": {
+      "linhas": 157,
+      "caracteres": 13770,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei nº 9.715, de 25 de novembro de 1998 (Pasep Governamental)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "federal/leis-ordinarias/pis-cofins/mp-2158-35-2001-art-13-pis-folha-salarios.md": {
+      "linhas": 108,
+      "caracteres": 10313,
+      "tipo": "Medida Provisória",
+      "titulo": "Medida Provisória nº 2.158-35, de 24 de agosto de 2001 (PIS sobre a Folha de Salários e Isenção de Receitas Próprias)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "federal/leis-ordinarias/pis-cofins-monofasico/decreto-8426-2015.md": {
       "linhas": 78,
       "caracteres": 7035,
@@ -3950,6 +4626,16 @@
       "avisos": [],
       "conforme": true
     },
+    "jurisprudencia/precedentes-vinculantes/stf/tema-1231-stf-decreto-receitas-financeiras.md": {
+      "linhas": 119,
+      "caracteres": 11278,
+      "tipo": "Precedente Vinculante",
+      "titulo": "Precedente Vinculante do STF — ADC 84, ADI 7342, RE 1.458.106 e Tema 1337 (Constitucionalidade do Decreto nº 11.374/2023 e Alíquotas de PIS/COFINS sobre Receitas Financeiras)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "jurisprudencia/precedentes-vinculantes/stf/tema-201-restituicao-icms-st-base-menor.md": {
       "linhas": 67,
       "caracteres": 6350,
@@ -3995,6 +4681,36 @@
       "caracteres": 6772,
       "tipo": "Súmula do STJ",
       "titulo": "Súmula nº 166 - STJ (Não Incidência de ICMS no Simples Deslocamento Físico de Mercadoria entre Estabelecimentos do Mesmo Contribuinte)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "jurisprudencia/precedentes-vinculantes/stj/tema-1050-stj-credito-monofasico-aliquota-zero.md": {
+      "linhas": 127,
+      "caracteres": 12264,
+      "tipo": "Precedente Vinculante",
+      "titulo": "Tema Repetitivo nº 1093 / 1050 do STJ — REsp 1.894.741/RS e REsp 1.895.255/RS (Vedação de Créditos de PIS/COFINS na Aquisição de Produtos Monofásicos com Revenda a Alíquota Zero)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "jurisprudencia/precedentes-vinculantes/stj/tema-1125-stj-exclusao-icms-st-pis-cofins.md": {
+      "linhas": 110,
+      "caracteres": 9702,
+      "tipo": "Precedente Vinculante",
+      "titulo": "Tema Repetitivo nº 1125 do STJ — REsp 1.896.678/RS e REsp 1.958.265/SP (Exclusão do ICMS-ST da Base de Cálculo do PIS e da COFINS do Contribuinte Substituído)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "jurisprudencia/precedentes-vinculantes/stj/tema-779-stj-insumo-pis-cofins.md": {
+      "linhas": 125,
+      "caracteres": 13249,
+      "tipo": "Precedente Vinculante",
+      "titulo": "Tema Repetitivo nº 779 do STJ — REsp 1.221.170/PR (Conceito de Insumo para Fins de Creditamento de PIS e COFINS)",
       "situacao": "Em vigor",
       "erros": [],
       "avisos": [],
@@ -4070,6 +4786,46 @@
       "avisos": [],
       "conforme": true
     },
+    "municipais/ac/servicos-iss/lei-complementar-107-2021-ctm-rio-branco.md": {
+      "linhas": 107,
+      "caracteres": 10077,
+      "tipo": "Lei Complementar",
+      "titulo": "Lei Complementar nº 107, de 22 de dezembro de 2021 (Código Tributário do Município de Rio Branco/AC)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "municipais/al/servicos-iss/lei-6685-2017-ctm-maceio.md": {
+      "linhas": 132,
+      "caracteres": 12668,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Municipal nº 6.685, de 18 de agosto de 2017 (Código Tributário do Município de Maceió/AL)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "municipais/am/servicos-iss/lei-1628-2011-ctm-manaus.md": {
+      "linhas": 103,
+      "caracteres": 11076,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei nº 1.628, de 30 de dezembro de 2011 (Código Tributário do Município de Manaus/AM)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "municipais/ap/servicos-iss/lei-complementar-156-2023-ctm-macapa.md": {
+      "linhas": 108,
+      "caracteres": 10759,
+      "tipo": "Lei Complementar",
+      "titulo": "Lei Complementar nº 156, de 27 de dezembro de 2023 (Código Tributário do Município de Macapá/AP)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "municipais/ba/servicos-iss/lei-7186-2006-ctm-salvador.md": {
       "linhas": 77,
       "caracteres": 8328,
@@ -4110,6 +4866,16 @@
       "avisos": [],
       "conforme": true
     },
+    "municipais/es/servicos-iss/lei-6075-2003-ctm-vitoria.md": {
+      "linhas": 156,
+      "caracteres": 15274,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Municipal nº 6.075, de 29 de dezembro de 2003 (Código Tributário do Município de Vitória/ES)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "municipais/go/servicos-iss/lei-complementar-344-2021-ctm-goiania.md": {
       "linhas": 81,
       "caracteres": 9235,
@@ -4120,9 +4886,19 @@
       "avisos": [],
       "conforme": true
     },
+    "municipais/ma/servicos-iss/lei-6289-2017-ctm-sao-luis.md": {
+      "linhas": 143,
+      "caracteres": 15261,
+      "tipo": "Lei Ordinária",
+      "titulo": "Lei Municipal nº 6.289, de 28 de dezembro de 2017 (Código Tributário do Município de São Luís/MA)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "municipais/mg/servicos-iss/decreto-17174-2019.md": {
       "linhas": 89,
-      "caracteres": 7821,
+      "caracteres": 7780,
       "tipo": "Decreto Municipal",
       "titulo": "Decreto Municipal nº 17.174, de 27 de setembro de 2019 (RISS-BH)",
       "situacao": "Em vigor",
@@ -4140,11 +4916,41 @@
       "avisos": [],
       "conforme": true
     },
+    "municipais/ms/servicos-iss/lei-complementar-59-2003-ctm-campo-grande.md": {
+      "linhas": 108,
+      "caracteres": 10089,
+      "tipo": "Lei Complementar",
+      "titulo": "Lei Complementar nº 59, de 2 de outubro de 2003 (Código Tributário do Município de Campo Grande/MS)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "municipais/mt/servicos-iss/lei-complementar-043-1997-ctm-cuiaba.md": {
+      "linhas": 118,
+      "caracteres": 11258,
+      "tipo": "Lei Complementar",
+      "titulo": "Lei Complementar nº 043, de 23 de dezembro de 1997 (Código Tributário do Município de Cuiabá/MT)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "municipais/pa/servicos-iss/lei-7056-1977-ctm-belem.md": {
       "linhas": 77,
       "caracteres": 8711,
       "tipo": "Lei Ordinária Municipal",
       "titulo": "Lei Municipal nº 7.056, de 30 de dezembro de 1977 (Código Tributário e de Rendas do Município de Belém/PA)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "municipais/pb/servicos-iss/lei-complementar-53-2008-ctm-joao-pessoa.md": {
+      "linhas": 133,
+      "caracteres": 14104,
+      "tipo": "Lei Complementar",
+      "titulo": "Lei Complementar Municipal nº 53, de 23 de dezembro de 2008 (Código Tributário do Município de João Pessoa/PB)",
       "situacao": "Em vigor",
       "erros": [],
       "avisos": [],
@@ -4160,9 +4966,19 @@
       "avisos": [],
       "conforme": true
     },
+    "municipais/pi/servicos-iss/lei-complementar-4974-2016-ctm-teresina.md": {
+      "linhas": 145,
+      "caracteres": 15776,
+      "tipo": "Lei Complementar",
+      "titulo": "Lei Complementar Municipal nº 4.974, de 26 de dezembro de 2016 (Código Tributário do Município de Teresina/PI)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "municipais/pr/servicos-iss/lei-complementar-40-2001-ctm-curitiba.md": {
       "linhas": 75,
-      "caracteres": 8191,
+      "caracteres": 8223,
       "tipo": "Lei Complementar Municipal",
       "titulo": "Lei Complementar Municipal nº 40, de 18 de dezembro de 2001 (Código Tributário Municipal e Legislação do ISSQN, IPTU e ITBI de Curitiba/PR)",
       "situacao": "Em vigor",
@@ -4192,7 +5008,7 @@
     },
     "municipais/rj/servicos-iss/decreto-44637-2018.md": {
       "linhas": 95,
-      "caracteres": 8241,
+      "caracteres": 8192,
       "tipo": "Decreto Municipal",
       "titulo": "Decreto Municipal nº 44.637, de 18 de junho de 2018 (RISS-RJ)",
       "situacao": "Em vigor",
@@ -4210,9 +5026,39 @@
       "avisos": [],
       "conforme": true
     },
+    "municipais/rn/servicos-iss/lei-complementar-166-2017-ctm-natal.md": {
+      "linhas": 128,
+      "caracteres": 12585,
+      "tipo": "Lei Complementar",
+      "titulo": "Lei Complementar Municipal nº 166, de 29 de dezembro de 2017 (Código Tributário do Município de Natal/RN)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "municipais/ro/servicos-iss/lei-complementar-878-2021-ctm-porto-velho.md": {
+      "linhas": 116,
+      "caracteres": 11536,
+      "tipo": "Lei Complementar",
+      "titulo": "Lei Complementar nº 878, de 22 de dezembro de 2021 (Código Tributário e de Rendas do Município de Porto Velho/RO)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "municipais/rr/servicos-iss/lei-complementar-1223-2017-ctm-boa-vista.md": {
+      "linhas": 105,
+      "caracteres": 9797,
+      "tipo": "Lei Complementar",
+      "titulo": "Lei Complementar nº 1.223, de 29 de dezembro de 2017 (Código Tributário do Município de Boa Vista/RR)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
     "municipais/rs/servicos-iss/lei-complementar-7-1973-ctm-porto-alegre.md": {
       "linhas": 72,
-      "caracteres": 8197,
+      "caracteres": 8216,
       "tipo": "Lei Complementar Municipal",
       "titulo": "Lei Complementar Municipal nº 7, de 7 de dezembro de 1973 e LC nº 306/1993 (Código Tributário Municipal e Legislação do ISSQN de Porto Alegre/RS)",
       "situacao": "Em vigor",
@@ -4222,9 +5068,19 @@
     },
     "municipais/sc/servicos-iss/lei-complementar-7-1997-ctm-florianopolis.md": {
       "linhas": 81,
-      "caracteres": 8723,
+      "caracteres": 8736,
       "tipo": "Lei Complementar Municipal",
       "titulo": "Lei Complementar Municipal CMF nº 007, de 18 de fevereiro de 1997 (Consolidação das Leis Tributárias do Município de Florianópolis/SC)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "municipais/se/servicos-iss/lei-complementar-154-2016-ctm-aracaju.md": {
+      "linhas": 131,
+      "caracteres": 12849,
+      "tipo": "Lei Complementar",
+      "titulo": "Lei Complementar Municipal nº 154, de 22 de dezembro de 2016 (Código Tributário do Município de Aracaju/SE)",
       "situacao": "Em vigor",
       "erros": [],
       "avisos": [],
@@ -4279,6 +5135,200 @@
       "erros": [],
       "avisos": [],
       "conforme": true
+    },
+    "municipais/to/servicos-iss/lei-complementar-285-2013-ctm-palmas.md": {
+      "linhas": 116,
+      "caracteres": 11622,
+      "tipo": "Lei Complementar",
+      "titulo": "Lei Complementar nº 285, de 31 de outubro de 2013 (Código Tributário do Município de Palmas/TO)",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "obsidian/MOC-01-Legislacao-Estruturante.md": {
+      "linhas": 42,
+      "caracteres": 2834,
+      "tipo": "",
+      "titulo": "",
+      "situacao": "",
+      "erros": [
+        "Frontmatter ausente (arquivo não inicia com ---)",
+        "Campo 'fonte' vazio ou nulo"
+      ],
+      "avisos": [
+        "Possível tabela Markdown quebrada (faltando separador |---|)"
+      ],
+      "conforme": false
+    },
+    "obsidian/MOC-02-Dividendos-IRPJ-CSLL.md": {
+      "linhas": 42,
+      "caracteres": 3748,
+      "tipo": "",
+      "titulo": "",
+      "situacao": "",
+      "erros": [
+        "Frontmatter ausente (arquivo não inicia com ---)",
+        "Campo 'fonte' vazio ou nulo"
+      ],
+      "avisos": [
+        "Possível tabela Markdown quebrada (faltando separador |---|)"
+      ],
+      "conforme": false
+    },
+    "obsidian/MOC-03-Folha-Previdencia.md": {
+      "linhas": 52,
+      "caracteres": 4018,
+      "tipo": "",
+      "titulo": "",
+      "situacao": "",
+      "erros": [
+        "Frontmatter ausente (arquivo não inicia com ---)",
+        "Campo 'fonte' vazio ou nulo"
+      ],
+      "avisos": [
+        "Possível tabela Markdown quebrada (faltando separador |---|)"
+      ],
+      "conforme": false
+    },
+    "obsidian/MOC-04-ICMS-27-UFs-Produtos.md": {
+      "linhas": 94,
+      "caracteres": 9899,
+      "tipo": "",
+      "titulo": "",
+      "situacao": "",
+      "erros": [
+        "Frontmatter ausente (arquivo não inicia com ---)",
+        "Campo 'fonte' vazio ou nulo"
+      ],
+      "avisos": [],
+      "conforme": false
+    },
+    "obsidian/MOC-05-ISSQN-26-Capitais-Servicos.md": {
+      "linhas": 56,
+      "caracteres": 7902,
+      "tipo": "",
+      "titulo": "",
+      "situacao": "",
+      "erros": [
+        "Frontmatter ausente (arquivo não inicia com ---)",
+        "Campo 'fonte' vazio ou nulo"
+      ],
+      "avisos": [],
+      "conforme": false
+    },
+    "obsidian/MOC-06-Patrimonio-ITCMD-IPVA-ITR.md": {
+      "linhas": 48,
+      "caracteres": 6051,
+      "tipo": "",
+      "titulo": "",
+      "situacao": "",
+      "erros": [
+        "Frontmatter ausente (arquivo não inicia com ---)",
+        "Campo 'fonte' vazio ou nulo"
+      ],
+      "avisos": [
+        "Possível tabela Markdown quebrada (faltando separador |---|)"
+      ],
+      "conforme": false
+    },
+    "obsidian/MOC-07-Combustiveis-Energia.md": {
+      "linhas": 30,
+      "caracteres": 2518,
+      "tipo": "",
+      "titulo": "",
+      "situacao": "",
+      "erros": [
+        "Frontmatter ausente (arquivo não inicia com ---)",
+        "Campo 'fonte' vazio ou nulo"
+      ],
+      "avisos": [
+        "Possível tabela Markdown quebrada (faltando separador |---|)"
+      ],
+      "conforme": false
+    },
+    "obsidian/MOC-08-Financeiro-IOF.md": {
+      "linhas": 28,
+      "caracteres": 2040,
+      "tipo": "",
+      "titulo": "",
+      "situacao": "",
+      "erros": [
+        "Frontmatter ausente (arquivo não inicia com ---)",
+        "Campo 'fonte' vazio ou nulo"
+      ],
+      "avisos": [
+        "Possível tabela Markdown quebrada (faltando separador |---|)"
+      ],
+      "conforme": false
+    },
+    "obsidian/MOC-09-Reforma-Tributaria-Dual.md": {
+      "linhas": 47,
+      "caracteres": 4121,
+      "tipo": "",
+      "titulo": "",
+      "situacao": "",
+      "erros": [
+        "Frontmatter ausente (arquivo não inicia com ---)",
+        "Campo 'fonte' vazio ou nulo"
+      ],
+      "avisos": [],
+      "conforme": false
+    },
+    "obsidian/MOC-10-Contabilidade-Precedentes-CARF.md": {
+      "linhas": 55,
+      "caracteres": 6710,
+      "tipo": "",
+      "titulo": "",
+      "situacao": "",
+      "erros": [
+        "Frontmatter ausente (arquivo não inicia com ---)",
+        "Campo 'fonte' vazio ou nulo"
+      ],
+      "avisos": [
+        "Possível tabela Markdown quebrada (faltando separador |---|)"
+      ],
+      "conforme": false
+    },
+    "obsidian/MOC-Fundos-Agropecuarios-Art-136-ADCT.md": {
+      "linhas": 29,
+      "caracteres": 3644,
+      "tipo": "",
+      "titulo": "",
+      "situacao": "",
+      "erros": [
+        "Frontmatter ausente (arquivo não inicia com ---)",
+        "Campo 'fonte' vazio ou nulo"
+      ],
+      "avisos": [],
+      "conforme": false
+    },
+    "obsidian/MOC-Matriz-Interestadual-27-UFs.md": {
+      "linhas": 75,
+      "caracteres": 8668,
+      "tipo": "",
+      "titulo": "",
+      "situacao": "",
+      "erros": [
+        "Frontmatter ausente (arquivo não inicia com ---)",
+        "Campo 'fonte' vazio ou nulo"
+      ],
+      "avisos": [],
+      "conforme": false
+    },
+    "obsidian/MOC-Processo-Administrativo-Tributario-PAT.md": {
+      "linhas": 27,
+      "caracteres": 4126,
+      "tipo": "",
+      "titulo": "",
+      "situacao": "",
+      "erros": [
+        "Frontmatter ausente (arquivo não inicia com ---)",
+        "Campo 'fonte' vazio ou nulo",
+        "HTML residual detectado (8 ocorrências): ['<br>']"
+      ],
+      "avisos": [],
+      "conforme": false
     },
     "reforma-tributaria/cbs-receita-federal/nota-tecnica-nfse-nacional-ibs-cbs.md": {
       "linhas": 99,
@@ -4346,6 +5396,36 @@
       "tipo": "Projeto de Lei Complementar",
       "titulo": "Projeto de Lei Complementar nº 68, de 2024 (Lei Geral do IBS, CBS e Imposto Seletivo)",
       "situacao": "Aprovado no Congresso Nacional (Convertido na LC 214/2025)",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "reforma-tributaria/publicacoes/2026/ana-adequacao-tarifas-saneamento-cbs.md": {
+      "linhas": 40,
+      "caracteres": 2254,
+      "tipo": "Notícia institucional",
+      "titulo": "ANA orienta adequação das tarifas de saneamento à CBS",
+      "situacao": "Informativo — sem força normativa",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "reforma-tributaria/publicacoes/2026/rfb-cronograma-documentos-fiscais.md": {
+      "linhas": 44,
+      "caracteres": 2092,
+      "tipo": "Orientação institucional",
+      "titulo": "Cronograma dos documentos fiscais eletrônicos da reforma tributária",
+      "situacao": "Informativo — sem força normativa",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "reforma-tributaria/publicacoes/2026/tcu-calculo-referencia-cbs-2027.md": {
+      "linhas": 38,
+      "caracteres": 1743,
+      "tipo": "Notícia institucional",
+      "titulo": "TCU calcula alíquota de referência de 11,3% para a CBS",
+      "situacao": "Informativo — sem força normativa",
       "erros": [],
       "avisos": [],
       "conforme": true
@@ -4455,6 +5535,16 @@
       "caracteres": 1157,
       "tipo": "Súmula do CARF",
       "titulo": "Súmula CARF nº 178",
+      "situacao": "Em vigor",
+      "erros": [],
+      "avisos": [],
+      "conforme": true
+    },
+    "reguladores/carf/sumulas/sumula-carf-178-insumos-essencialidade.md": {
+      "linhas": 141,
+      "caracteres": 13431,
+      "tipo": "Precedente Vinculante",
+      "titulo": "Súmula CARF nº 178 e Jurisprudência Vinculante do CARF — Aplicação dos Critérios de Essencialidade e Relevância para Créditos de PIS/COFINS sobre Insumos",
       "situacao": "Em vigor",
       "erros": [],
       "avisos": [],
