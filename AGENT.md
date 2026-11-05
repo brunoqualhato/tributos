@@ -8,12 +8,17 @@ Este documento define as regras operacionais, taxonomia, padrões de engenharia 
 
 Construir o acervo definitivo, aberto e de alta fidelidade do **Direito Tributário, Legislação Fiscal e Normas Contábeis Brasileiras** em **Markdown estruturado com metadados YAML canônicos**.
 
-O projeto tem como padrão arquitetural a disciplina do [`ctresb/leis`](https://github.com/ctresb/leis), adaptado com foco cirúrgico nos **4 Pilares Tributários Fundamentais + Contabilidade**:
-1. 💰 **Dividendos & Renda do Capital**: Isenção de dividendos (Lei 9.249/95), JCP (Juros sobre Capital Próprio), IRPJ e CSLL (Lucro Real, Presumido e Arbitrado), RIR/2018, Offshores e Trusts (Lei 14.754/23) e Subvenções (Lei 14.789/23).
-2. 👥 **Folha de Pagamento & Encargos**: Custeio da Previdência Social (Lei 8.212/91), INSS patronal, RAT/FAP, Contribuições ao Sistema S, Retenção do IRPF na folha, PLR (Lei 10.101/00), Desoneração da Folha (CPRB - Lei 12.546/11) e FGTS (Lei 8.036/90).
-3. 📦 **Produtos & Mercadorias**: ICMS (Lei Kandir LC 87/96 e LC 190/22 DIFAL), Convênios e Protocolos CONFAZ (Substituição Tributária - ICMS-ST Convênio 142/18), IPI (Lei 4.502/64 e RIPI/2010), PIS/COFINS regimes monofásicos e concentrados, Regulamento Aduaneiro e Imposto Seletivo (EC 132/23).
-4. 💼 **Serviços & Retenções**: ISSQN (Lei Complementar 116/2003 e CTMs das capitais), Retenções na Fonte sobre serviços tomados (CSRF 4,65% - art. 30 da Lei 10.833/03; IRRF 1,5% serviços regulamentados; Retenção INSS 11% cessão de mão de obra) e transição para o IBS/CBS.
-5. 📊 **Normas Contábeis & Jurisprudência**: Pronunciamentos Técnicos CPC (CPC 00 R2, CPC 32 Tributos sobre o Lucro), Normas Brasileiras de Contabilidade do CFC (NBC TG), Súmulas e Acórdãos do CARF, Súmulas Vinculantes e Temas Tributários do STF/STJ.
+O projeto tem como padrão arquitetural a disciplina do [`ctresb/leis`](https://github.com/ctresb/leis), adaptado com foco cirúrgico nos **10 Pilares do Sistema Tributário e Contábil Nacional (1.241 Normas Catalogadas)**:
+1. 🏛️ **Legislação Estruturante & Códigos**: Código Tributário Nacional (CTN Lei 5.172/66), Simples Nacional (LC 123/06), PAF Federal (Dec. 70.235/72) e Processo Tributário Estadual (PAT/PAF das Fazendas Estaduais).
+2. 💰 **Dividendos & Renda do Capital**: Isenção de dividendos (Lei 9.249/95), JCP (Juros sobre Capital Próprio), IRPJ e CSLL (Lucro Real, Presumido e Arbitrado), RIR/2018 integral, Offshores e Trusts (Lei 14.754/23) e Subvenções (Lei 14.789/23).
+3. 👥 **Folha de Pagamento & Encargos**: Custeio da Previdência Social (Lei 8.212/91), RPS (Dec. 3.048/99), INSS patronal, RAT/FAP, Sistema S, CPRB (Lei 14.973/24), FGTS Digital e Pasep Governamental.
+4. 📦 **Produtos & Mercadorias**: Leis Orgânicas do ICMS das 27 UFs, RICMS das 27 UFs, Fundos Agropecuários (FETHAB, FUNDEINFRA, FUNDERSUL, FECOP, FAIN), Lei Kandir (LC 87/96), DIFAL (LC 190/22), Convênio ICMS-ST 142/18, IPI, PIS/COFINS regimes monofásicos e Regulamento Aduaneiro.
+5. 💼 **Serviços & Retenções**: ISSQN geral (LC 116/03), CTMs e Regulamentos do ISS de todas as 26 Capitais Estaduais + DF, Retenções na Fonte (CSRF 4,65%, IRRF 1,5% e INSS 11%).
+6. 🏰 **Patrimônio, Herança & Veículos**: Leis do ITCMD das 27 UFs (Res. Senado 9/92), Leis do IPVA das 27 UFs, ITR Federal, ITBI e IPTU municipais.
+7. ⛽ **Combustíveis & Energia**: CIDE-Combustíveis, Lei do Petróleo, Regime Monofásico ad rem de ICMS (LC 192/22), RenovaBio e Mercado de Carbono.
+8. 📈 **Tributação Financeira & IOF**: RIOF (Dec. 6.306/07), IOF Crédito/Câmbio/Títulos, Renda Fixa/Variável e Criptoativos.
+9. 🚀 **Reforma Tributária & Transição**: EC 132/23, LC 214/25 (IBS/CBS/IS), LC 227/26 (Comitê Gestor), Split Payment Inteligente e Publicações Oficiais.
+10. 📊 **Normas Contábeis, CARF & Jurisprudência**: Pronunciamentos Técnicos CPC (00 a 48), NBC TG do CFC (01 a 48, 1000), Súmulas Vinculantes do CARF e Precedentes Vinculantes do STF e STJ.
 
 ---
 

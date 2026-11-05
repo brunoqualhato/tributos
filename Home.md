@@ -1,7 +1,7 @@
 # Acervo Nacional de Direito Tributário e Contabilidade
 
 > **Base Canônica de Legislação Fiscal, Contábil e Regulatória do Brasil**  
-> **Total de Documentos Catalogados:** 1.231 normas estruturadas  
+> **Total de Documentos Catalogados:** 1.241 normas estruturadas  
 > **Status:** 100% de conformidade técnica, schema YAML canônico e URLs oficiais ativas.
 
 ---
@@ -29,13 +29,13 @@ Navegue pela base de conhecimento estruturada através dos **Mapas de Conteúdo 
 
 - 📊 **[[obsidian/Mapa_Mental_Sistema_Tributario.canvas|Whiteboard Interativo (Obsidian Canvas)]]**: Mapa conceitual em tela infinita conectando a Federação, Tributos sobre Renda, Consumo, Patrimônio e Reforma Tributária.
 - 🌐 **[[obsidian/MOC-Matriz-Interestadual-27-UFs|Matriz Interestadual das 27 UFs]]**: Tabela comparativa nacional das 27 Unidades da Federação com alíquotas modais, metodologia de Base Dupla do DIFAL, transferências entre filiais pós-ADC 49 (Convênio 109/2024) e hubs logísticos.
-- 🌾 **[[obsidian/MOC-Fundos-Agropecuarios-Art-136-ADCT|Fundos Agropecuários Estaduais ("Taxas do Agro")]]**: Detalhamento dos fundos FETHAB (MT), FUNDEINFRA (GO), FUNDERSUL (MS), FECOP (MA) e FEFIR (BA) com vigência constitucionalizada até 2043 pelo art. 136 do ADCT.
-- ⚖️ **[[obsidian/MOC-Processo-Administrativo-Tributario-PAT|Processo Administrativo Tributário (PAT Estadual)]]**: Tribunais de Impostos das Fazendas Estaduais (TIT/SP, CCRJ, CCMG, CCRF/PR, TAT/SC, TARF/RS, CAT/GO e CONSEF/BA).
+- 🌾 **[[obsidian/MOC-Fundos-Agropecuarios-Art-136-ADCT|Fundos Agropecuários Estaduais ("Taxas do Agro")]]**: Detalhamento dos fundos FETHAB (MT), FUNDEINFRA (GO - contribuição encerrada para 2026 pela Lei nº 24.133), FUNDERSUL (MS), FECOP (MA) e FEFIR (BA) com vigência constitucionalizada pelo art. 136 do ADCT.
+- ⚖️ **[[obsidian/MOC-Processo-Administrativo-Tributario-PAT|Processo Administrativo Tributário (PAT Estadual)]]**: Tribunais de Impostos das Fazendas Estaduais (TIT/SP, CCRJ, CCMG, CCRF/PR, TAT/SC, TARF/RS, CAT/GO e Leis de GO, CONSEF/BA).
 
 ---
 
 ## 🔍 Índices e Relatórios de Governança
-- [[ACERVO|Catálogo Completo das 1.231 Normas (ACERVO.md)]]
+- [[ACERVO|Catálogo Completo das 1.241 Normas (ACERVO.md)]]
 - [[PROGRESSO|Relatório de Metas e Cobertura dos 10 Pilares (PROGRESSO.md)]]
 - [[WORKLOG|Histórico de Atualizações e Registro Cronológico (WORKLOG.md)]]
 - [[_auditoria/auditoria_nacional_estados_e_tributos|Diagnóstico Nacional de PIS/COFINS, IBS/CBS e 27 UFs]]

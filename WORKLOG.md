@@ -517,3 +517,13 @@ Ingestão Concorrente Massiva: Fechamento das 27 UFs (ICMS Matrizes e Fundos Agr
 - Higienizados os textos brutos de Goiás (`lei-11651-1991.md`, `decreto-4852-1997.md` e `lei-16469-2009-cat-go.md`), eliminando resíduos de navegação ASP ("Clique aqui...", botões de artigos e tabelas de navegação).
 - Regenerados `ACERVO.md` e `PROGRESSO.md` via `scripts/catalogo.py` e `scripts/progresso.py`: 1.241 / 1.241 documentos mapeados (100,0% rigoroso em todos os pilares).
 
+## 05/11/2026 — Sincronização e consolidação da documentação (1.241 normas)
+
+- Atualizada a documentação institucional e técnica do acervo com base na totalidade das 1.241 normas ativas:
+  - `README.md`: Atualizados badges (1.241 normas, 100% de cobertura), detalhamento dos 10 pilares canônicos, mapa completo da estrutura de pastas (incluindo as 27 UFs, 26 capitais + DF, jurisprudência vinculante STF/STJ e normas contábeis) e tabela de agentes especialistas.
+  - `Home.md`: Total de documentos sincronizado para 1.241 normas estruturadas e notas contextuais atualizadas.
+  - `AGENT.md`: Introdução alinhada com a taxonomia dos 10 pilares canônicos e escopo integral.
+  - `wiki/Home.md`: Referências e links sincronizados para as 1.241 normas catalogadas.
+  - Relatório de integridade total validado com 1.241 documentos em conformidade plena.
+
+

@@ -1,6 +1,6 @@
 # 📚 Wiki do Acervo Tributário e Contábil Brasileiro
 
-Bem-vindo à Wiki oficial do repositório **Tributos** — a base aberta, hiperestruturada e canônica da legislação tributária, fiscal e contábil brasileira, com auditoria automatizada e links de visualização direta oficial.
+Bem-vindo à Wiki oficial do repositório **Tributos** — a base aberta, hiperestruturada e canônica da legislação tributária, fiscal e contábil brasileira, com auditoria automatizada e links de visualização direta oficial (1.241 normas catalogadas e auditadas nos 10 pilares).
 
 ## 🗺️ Mapa de Navegação da Wiki
 
@@ -20,8 +20,8 @@ Bem-vindo à Wiki oficial do repositório **Tributos** — a base aberta, hipere
 
 ## ⚙️ Arquitetura, Governança e Automação
 - [Arquitetura dos Agentes, Auditoria e Rotina Periódica Local](Arquitetura-dos-Agentes-e-Automacao.md)
-- [Catálogo Completo das Normas Coletadas (`ACERVO.md`)](../ACERVO.md)
-- [Quadro de Metas e Cobertura Histórica (`PROGRESSO.md`)](../PROGRESSO.md)
+- [Catálogo Completo das 1.241 Normas Catalogadas (`ACERVO.md`)](../ACERVO.md)
+- [Quadro de Metas e Cobertura dos 10 Pilares (`PROGRESSO.md`)](../PROGRESSO.md)
 - [Manual de Governança dos Agentes (`AGENT.md`)](../AGENT.md)
 
 ## 🏛️ Diretrizes de Qualidade dos Documentos
