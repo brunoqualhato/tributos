@@ -1,144 +1,282 @@
 ---
 titulo: "Lei Estadual nº 21.670, de 6 de dezembro de 2022 (FUNDEINFRA - GO)"
 esfera: "Estadual"
-orgao: "Assembleia Legislativa do Estado de Goiás"
-tipo: "Lei Ordinária"
+orgao: "Estado de Goiás / Secretaria de Estado da Economia"
+tipo: "Lei Estadual"
 numero: "21670"
-ano: "2022"
 data: "2022-12-06"
+ano: "2022"
 tema_tributario: "Agronegócio e Fundos"
 tributos_afetados: ["FUNDEINFRA", "ICMS"]
-situacao: "Em vigor"
+situacao: "Lei instituidora com alterações; contribuição encerrada para operações de 2026"
 revogada: false
-fonte: "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105436/lei-21670"
-ementa: "Cria o Fundo Estadual de Infraestrutura - FUNDEINFRA na Secretaria de Estado da Infraestrutura - SEINFRA, institui a contribuição a ele destinada incidente sobre a produção agrícola, pecuária e mineral goiana vinculada ao diferimento e benefícios fiscais do ICMS, disciplina o Conselho Gestor e estabelece sua recepção constitucional pelo art. 136 do ADCT da EC 132/2023."
+fonte: "https://appasp.economia.go.gov.br/legislacao/arquivos/leis/L_21670.htm"
+ementa: "Dispõe sobre a criação do Fundo Estadual de Infraestrutura - FUNDEINFRA."
+data_consulta: "2026-11-05"
+natureza_conteudo: "Transcrição da página oficial consolidada; anexos externos não incluídos"
 ---
-
 # Lei Estadual nº 21.670, de 6 de dezembro de 2022 (FUNDEINFRA - GO)
+
+## Nota editorial de conferência — 05/11/2026
+
+Texto extraído da Secretaria da Economia de Goiás. Preservadas as redações anteriores e as notas de alteração da fonte: este arquivo não apresenta apenas os dispositivos vigentes. A transcrição não substitui a publicação no Diário Oficial. A cobrança vinculada ao FUNDEINFRA foi encerrada para operações a partir de janeiro de 2026 pela [Lei nº 24.133/2026](lei-24133-2026-encerramento-contribuicao-fundeinfra.md). Não confundir o encerramento da contribuição com revogação integral da lei instituidora do fundo. A disciplina tributária também consta da [Lei nº 21.671/2022](lei-21671-2022-condicoes-fundeinfra.md). O controle judicial das parcerias na ADI 7885 é distinto do debate anterior sobre a contribuição; esta ficha não afirma constitucionalidade definitiva de todo o regime.
+
+## Texto oficial
 
 LEI Nº 21.670, DE 6 DE DEZEMBRO DE 2022
 
-Cria o Fundo Estadual de Infraestrutura - FUNDEINFRA na Secretaria de Estado da Infraestrutura - SEINFRA, institui a contribuição sobre a produção agropecuária e mineral como condição para fruição de regimes especiais, diferimento do ICMS e benefícios fiscais nos termos do Código Tributário do Estado de Goiás (Lei nº 11.651/1991), estabelece a composição do Conselho Gestor, os percentuais de incidência, o controle na ADI 7363 no STF e a constitucionalização transitória pelo art. 136 do ADCT da CF/88.
+(publicado no SUPLEMENTO DO doe de 06.12.22)
+
+Exposição de motivos EXPEDIDA PELA CASA CIVIL
+
+Este texto não substitui o publicado no doe
+
+Atualizações:
+
+1. Lei nº 21.792, de 17.02.23;
+
+2. Lei nº 22.940, de 23.08.24.
+
+REGULAMENTADA PELO DECRETO Nº 10.241, DE 24.03.23
+
+Dispõe sobre a criação do Fundo Estadual de Infraestrutura - FUNDEINFRA.
+
+Nota: Redação com vigência de 01.01.23 a 20.08.24
+
+CONFERIDA NOVA REDAÇÃO à ementa PELO ART. 1º DA LEI Nº 22.940, DE 16.02.23 - VIGÊNCIA: 21.08.24
+
+Dispõe sobre a criação do Fundo Estadual de Infraestrutura - FUNDEINFRA e cria o Programa de Parcerias Institucionais para o Progresso e o Desenvolvimento Econômico do Estado de Goiás.
 
 A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:
 
----
+Art. 1º Fica instituído, na Agência Goiana de Infraestrutura e Transportes - GOINFRA, o Fundo Estadual de Infraestrutura - FUNDEINFRA, dotado de autonomia administrativa, financeira e contábil, para captar recursos financeiros destinados ao desenvolvimento econômico do Estado de Goiás, sem prejuízo das dotações consignadas no orçamento e em outros fundos com a mesma finalidade, e ele tem ainda os seguintes objetivos:
 
-## CAPÍTULO I — DA CRIAÇÃO, NATUREZA JURÍDICA E FINALIDADES DO FUNDEINFRA
+Nota: Redação com vigência de 01.01.23 a 28.03.23
 
-**Art. 1º** Fica instituído, no âmbito do Poder Executivo do Estado de Goiás, vinculado à Secretaria de Estado da Infraestrutura - SEINFRA, o **Fundo Estadual de Infraestrutura - FUNDEINFRA**, fundo especial de natureza orçamentária, contábil e financeira, dotado de autonomia de gestão, com a finalidade de captar e destinar recursos financeiros para o desenvolvimento econômico do Estado, prioritariamente mediante:
-I - investimentos em obras públicas de implantação, pavimentação, duplicação, restauração, sinalização, recuperação e conservação da malha viária rodoviária estadual e das vias estratégicas de escoamento da produção agropecuária e industrial;
-II - modernização, ampliação e manutenção da infraestrutura aeroviária estadual, incluindo aeródromos e pistas de pouso regionais de suporte logístico;
-III - construção, reforma e reforço de pontes, viadutos, obras de arte especiais e estruturas de drenagem essenciais à trafegabilidade permanente nos polos do agronegócio e da mineração;
-IV - fomento a estudos, projetos, planos diretores de transportes e logística integrada e parcerias público-privadas voltadas à expansão da malha logística estadual.
+CONFERIDA NOVA REDAÇÃO AO CAPUT DO ART. 1º PELO ART. 130 DA LEI Nº 21.792, DE 16.02.23 - VIGÊNCIA: 01.03.23
 
-**Art. 2º** Constituem receitas financeiras do FUNDEINFRA:
-I - as contribuições pecuniárias facultativas, exigidas como encargo ou contrapartida para a fruição de regimes especiais, diferimento do ICMS, isenções ou outros tratamentos tributários favorecidos, nos termos da legislação tributária estadual;
-II - as dotações consignadas na Lei Orçamentária Anual - LOA do Estado de Goiás e os créditos adicionais e suplementares que lhe forem destinados;
-III - os rendimentos de aplicações financeiras dos saldos disponíveis em conta corrente própria;
-IV - os recursos oriundos de convênios, acordos, ajustes, subvenções ou doações celebrados com entidades públicas federais, distritais, municipais ou organismos privados nacionais e internacionais;
-V - outras receitas operacionais ou patrimoniais legalmente vinculadas ao fundo.
+Art. 1º Fica instituído, na Secretaria de Estado da Infraestrutura - SEINFRA, o Fundo Estadual de Infraestrutura - FUNDEINFRA, de natureza orçamentária e dotado de autonomia administrativa, contábil e financeira, para a captação de recursos destinados ao desenvolvimento econômico do Estado de Goiás, sem prejuízo das dotações consignadas em outros fundos e entidades com a mesma finalidade, e ele tem ainda os seguintes objetivos:
 
----
+I - gerir os recursos oriundos da produção agrícola, pecuária e mineral no Estado de Goiás, além das demais fontes de receitas definidas nele; e
 
-## CAPÍTULO II — DA ESTRUTURA TRIBUTÁRIA, FATO GERADOR CONDICIONADO E ALÍQUOTAS
+II - implementar, em âmbito estadual, políticas e ações administrativas de infraestrutura agropecuária, dos modais de transporte, recuperação, manutenção, conservação, pavimentação e implantação de rodovias, sinalização, artes especiais, pontes, bueiros, edificação e operacionalização de aeródromos.
 
-### Seção I — Da Articulação com o Código Tributário Estadual (Lei nº 11.651/1991)
+§ 1º Para o desenvolvimento e a consecução dos objetivos do FUNDEINFRA, poderão ser contratados estudos técnicos de planejamento e avaliação de infraestrutura e logística.
 
-**Art. 3º** A contribuição financeira destinada ao FUNDEINFRA articula-se com os regimes de desoneração e suspensão do ICMS previstos no Código Tributário do Estado de Goiás - CTE (Lei nº 11.651, de 26 de dezembro de 1991), em especial com o art. 11-B e o art. 38-A, bem como com o Regulamento do Código Tributário Estadual (RCTE/GO - Decreto nº 4.852/1997).
+§ 2º Compete à GOINFRA garantir o suporte técnico e material necessário à organização administrativa e contábil para a implementação do FUNDEINFRA.
 
-§ 1º A fruição dos regimes especiais que autorizam:
-I - o **diferimento do ICMS** nas operações internas com produtos agrícolas, pecuários e minerais colhidos, extraídos ou produzidos em Goiás;
-II - o gozo de benefícios fiscais de redução de base de cálculo, isenção ou créditos outorgados relativos ao agronegócio e extrativismo mineral;
-III - a não incidência ou suspensão do ICMS nas saídas internas destinadas a armazéns gerais, entrepostos aduaneiros ou estabelecimentos com fim específico de exportação (trading companies);
-fica estrita e expressamente condicionada ao recolhimento tempestivo da contribuição ao FUNDEINFRA.
+Nota: Redação com vigência de 01.01.23 a 28.03.23
 
-§ 2º A adesão à contribuição ao FUNDEINFRA reveste-se de caráter voluntário em sua constituição, porém compulsória e resolutiva quanto à preservação do benefício fiscal ou diferimento auferido:
-I - caso o contribuinte opte por **não realizar** a contribuição ao FUNDEINFRA, a operação com o produto agrícola, pecuário ou mineral fica sujeita à tributação ordinária imediata do ICMS, aplicando-se a alíquota padrão interna (17% ou 19%) ou interestadual (7% ou 12%), sem qualquer aproveitamento de diferimento;
-II - optando pela fruição do regime especial ou diferimento do ICMS, o pagamento da contribuição ao FUNDEINFRA torna-se condição jurídica inafastável, sob pena de decadência do benefício e lançamento de ofício do tributo integral.
+CONFERIDA NOVA REDAÇÃO AO § 2º DO ART. 1º PELO ART. 130 DA LEI Nº 21.792, DE 16.02.23 - VIGÊNCIA: 01.03.23
 
-### Seção II — Das Alíquotas e Produtos Tributados
+§ 2º Compete à SEINFRA garantir o suporte técnico e material necessário à organização administrativa e contábil para a implementação do FUNDEINFRA.
 
-**Art. 4º** O montante da contribuição ao FUNDEINFRA é quantificado mediante a aplicação de alíquotas de **até 1,65% (um inteiro e sessenta e cinco centésimos por cento)** sobre o valor comercial da operação ou sobre o valor de pauta fiscal fixado pela Secretaria de Estado da Economia, observada a seguinte gradação setorial estabelecida em decreto regulamentador (Decreto nº 10.187/2022 e alterações):
+Art. 2º A destinação dos recursos do FUNDEINFRA ficará a cargo de seu Conselho Gestor, o qual será composto por um presidente e demais membros com seus suplentes, em composição paritária, e terá representantes do Estado de Goiás e da iniciativa privada.
 
-I - **Soja em Grãos:** alíquota de **1,65% (um inteiro e sessenta e cinco centésimos por cento)** sobre o valor da operação praticada;
-II - **Milho em Grãos:** alíquota de **1,10% (um inteiro e dez centésimos por cento)** sobre o valor da operação;
-III - **Cana-de-Açúcar:** alíquota de **1,20% (um inteiro e vinte centésimos por cento)** sobre o valor da matéria-prima destinada à fabricação de açúcar ou álcool;
-IV - **Gado Bovino e Bubalino:** alíquota de **0,50% (cinquenta centésimos por cento)** sobre o valor da operação de abate em frigoríficos estabelecidos no Estado ou de remessa para outras Unidades da Federação;
-V - **Substâncias Minerais e Minérios:** alíquota de **até 1,65% (um inteiro e sessenta e cinco centésimos por cento)** sobre o valor bruto das saídas de amianto crisotila, sulfeto de níquel, fosfato, bauxita, cobre, nióbio, calcário industrial e minério de ouro.
+§ 1º Os membros integrantes do Conselho Gestor e seus suplentes serão nomeados por ato do Governador do Estado de Goiás para o mandato de 12 (doze) meses.
 
-§ 1º A base de cálculo da contribuição corresponde ao valor total da mercadoria consignado no documento fiscal de saída ou, subsidiariamente, ao valor da pauta de mercadorias agrícolas da Secretaria da Economia de Goiás se o valor declarado for inferior ao preço corrente de mercado.
+Nota: Redação com vigência de 01.01.23 a 28.03.23
 
-§ 2º É vedada a cumulação ou a exigência simultânea de contribuição sobre a mesma saca, tonelada ou cabeça em mais de uma etapa da cadeia dentro do Estado de Goiás, assegurando-se o pagamento monofásico na saída do produtor rural ou na retenção do primeiro adquirente.
+CONFERIDA NOVA REDAÇÃO AO § 1º DO ART. 2º PELO ART. 130 DA LEI Nº 21.792, DE 16.02.23 - VIGÊNCIA: 01.03.23
 
----
+§ 1º Os membros integrantes do Conselho Gestor e seus suplentes serão nomeados por ato do Governador do Estado de Goiás, sendo os representantes do Estado de Goiás membros natos e os da iniciativa privada sujeitos a mandato de 12 (doze) meses.
 
-## CAPÍTULO III — DA RESPONSABILIDADE POR SUBSTITUIÇÃO E DO PROCEDIMENTO ARRECADATÓRIO
+§ 2º As deliberações do Conselho Gestor serão por maioria, e o Presidente votará somente em caso de empate.
 
-**Art. 5º** Fica atribuída a condição de **substituto tributário** ou **responsável solidário** pela apuração e pelo recolhimento da contribuição ao FUNDEINFRA ao estabelecimento destinatário das mercadorias situado em território goiano, notadamente:
-I - os estabelecimentos industriais moageiros, esmagadores de soja e fabricantes de óleo vegetal e biodiesel;
-II - os armazéns gerais, entrepostos de grãos, cerealistas e cooperativas agropecuárias;
-III - os frigoríficos, matadouros-frigoríficos e indústrias de processamento e conservação de carne bovina e suína;
-IV - as usinas sucroalcooleiras e fabricantes de etanol e derivados de cana;
-V - as indústrias mineradoras e metalúrgicas adquirentes ou processadoras de substâncias minerais.
+§ 3º Os membros do Conselho Gestor não serão remunerados pelos trabalhos desenvolvidos em favor do FUNDEINFRA.
 
-§ 1º O substituto tributário reterá o valor correspondente ao FUNDEINFRA no ato da liquidação financeira da aquisição perante o produtor rural ou extrator, emitindo o correspondente Documento de Arrecadação de Receitas Estaduais - DARE com o código específico da receita do FUNDEINFRA.
+Art. 3º Competem ao Conselho Gestor do FUNDEINFRA a gestão e a definição da destinação dos recursos de que disporá, conforme está previsto no § 2º do art. 1º desta Lei.
 
-§ 2º Nas saídas de produtos promovidas diretamente pelo produtor com destino a outras Unidades da Federação ou destinadas à exportação sem intermédio de armazém credenciado, o recolhimento do DARE deverá ocorrer previamente à saída do produto da propriedade rural, devendo o comprovante acompanhar o documento fiscal de transporte.
+Art. 4º O acompanhamento das ações concernentes à captação de recursos e ao custeio das atividades implementadas competirá ao Conselho Fiscal, com a seguinte composição:
 
-**Art. 6º** Na Nota Fiscal Eletrônica (NF-e) que acobertar o transporte e circulação das mercadorias, o contribuinte consignará obrigatoriamente no campo de Informações Complementares o número do DARE emitido e o valor recolhido ao FUNDEINFRA, sob pena de ineficácia probatória da quitação.
+I - um representante da Secretaria de Estado da Economia;
 
----
+II - um representante da Controladoria-Geral do Estado; e
 
-## CAPÍTULO IV — DO CONSELHO GESTOR DO FUNDEINFRA
+III - um representante do setor privado.
 
-**Art. 7º** Fica criado o **Conselho Gestor do FUNDEINFRA**, órgão colegiado de deliberação coletiva, fiscalização e controle social da aplicação dos recursos do Fundo, com a seguinte composição paritária:
-I - Membros Representantes do Poder Executivo Estadual:
-    a) Secretário de Estado da Infraestrutura - SEINFRA, que o presidirá;
-    b) Secretário de Estado da Economia;
-    c) Secretário de Estado de Agricultura, Pecuária e Abastecimento - SEAPA;
-    d) Secretário-Geral de Governo - SGG;
-    e) Presidente da Agência Goiana de Infraestrutura e Transportes - GOINFRA;
-II - Membros Representantes do Setor Produtivo e da Sociedade Civil:
-    a) 2 (dois) representantes indicados pela Federação da Agricultura e Pecuária de Goiás - FAEG;
-    b) 1 (um) representante indicado pela Federação das Indústrias do Estado de Goiás - FIEG;
-    c) 1 (um) representante indicado pelo Sistema OCB/GO (Organização das Cooperativas Brasileiras);
-    d) 1 (um) representante indicado pela Associação Pró-Desenvolvimento Industrial do Estado de Goiás - ADIAL.
+§ 1º Cabe também ao Conselho Fiscal a publicação de relatórios trimestrais de arrecadação e aplicação dos recursos.
 
-§ 1º Compete ao Conselho Gestor do FUNDEINFRA:
-I - examinar e aprovar o Plano Anual de Aplicação dos Recursos do FUNDEINFRA, contendo as obras e trechos rodoviários prioritários a serem executados pela GOINFRA e pela SEINFRA;
-II - acompanhar a execução físico-financeira das obras licitadas e contratadas com receitas do Fundo;
-III - deliberar sobre propostas de convênios com municípios goianos e consórcios intermunicipais para recuperação de pontes e estradas troncais de escoamento;
-IV - emitir parecer técnico circunstanciado semestral sobre a prestação de contas do Fundo, encaminhando-o ao Tribunal de Contas do Estado de Goiás - TCE/GO e à Assembleia Legislativa.
+§ 2º Os membros do Conselho Fiscal não serão remunerados pelos trabalhos desenvolvidos em favor do FUNDEINFRA.
 
-§ 2º A função de membro do Conselho Gestor é considerada serviço público relevante, não remunerada a qualquer título.
+Art. 5º Constituem receitas do FUNDEINFRA:
 
----
+I - contribuição exigida no âmbito do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS como condição para:
 
-## CAPÍTULO V — DO CONTENCIOSO CONSTITUCIONAL E DA JURISPRUDÊNCIA NO STF (ADI 7363)
+a) a fruição de benefício ou incentivo fiscal;
 
-**Art. 8º** Registra-se, para fins de interpretação e aplicação deste regime, o contencioso constitucional instaurado perante o Supremo Tribunal Federal nos autos da **Ação Direta de Inconstitucionalidade (ADI) nº 7363**, ajuizada em face da Lei nº 21.670/2022 e da Lei nº 21.671/2022:
-I - **Teses dos Impugnantes:** A arguição fundou-se na alegação de que a contribuição ao FUNDEINFRA violaria o art. 155, § 2º, X, "a", da Constituição Federal (imunidade objetiva das exportações de mercadorias ao ICMS), afrontaria o princípio da não afetação de receitas de impostos (art. 167, IV, CF) e mascararia um imposto estadual inominado sobre produtos primários;
-II - **Teses de Sustentação do Estado de Goiás:** A Procuradoria-Geral do Estado defendeu que a exação possui natureza jurídica de encargo contratual ou condição resolutiva facultativa atrelada a benesses fiscais (diferimento e regimes especiais que dispensam o desembolso imediato de ICMS ordinário), inspirada na robusta jurisprudência consolidada sobre o FETHAB de Mato Grosso e o FUNDERSUL de Mato Grosso do Sul;
-III - **Solução Constitucional em Plenário e Pacificação:** O debate foi em definitivo solvido pelo Poder Constituinte Derivado através da promulgação da Emenda Constitucional nº 132/2023, restando esvaziada a alegação de inconstitucionalidade material em virtude da positivação expressa contida no art. 136 do ADCT.
+b) o contribuinte que optar por regime especial que vise ao controle das saídas de produtos destinados ao exterior ou com o fim específico de exportação e à comprovação da efetiva exportação; e
 
----
+c) o imposto devido por substituição tributária pelas operações anteriores ser:
 
-## CAPÍTULO VI — DA CONSTITUCIONALIZAÇÃO E TRANSIÇÃO PELO ARTIGO 136 DO ADCT (EC Nº 132/2023)
+1. pago pelo contribuinte credenciado para tal fim por ocasião da saída subsequente; ou
 
-**Art. 9º** A contribuição criada por esta Lei submete-se expressamente ao regramento estatuído no **artigo 136 do Ato das Disposições Constitucionais Transitórias - ADCT da Constituição Federal**, introduzido pela Emenda Constitucional nº 132/2023:
+2. apurado juntamente com aquele devido pela operação de saída própria do estabelecimento eleito substituto, o que resultará um só débito por período;
 
-> *"Art. 136. Os Estados e o Distrito Federal poderão estabelecer contribuição sobre produtos primários e semielaborados, produzidos nos respectivos territórios, para investimento em obras de infraestrutura e habitação, em substituição a contribuição a fundo estadual que tenha como condição aos benefícios fiscais do imposto de que trata o art. 155, II, da Constituição Federal, ou à sua aplicação ou fruição, a sua realização, existente em 30 de abril de 2023.*  
-> *Parágrafo único. A contribuição de que trata o caput:*  
-> *I - vigorará até 31 de dezembro de 2043;*  
-> *II - terá o seu valor reduzido na mesma proporção da redução das alíquotas do imposto de que trata o art. 155, II, da Constituição Federal, fixada na forma do art. 129 deste Ato das Disposições Constitucionais Transitórias."*
+II - recursos oriundos de convênios firmados com o Governo Federal para a aplicação na infraestrutura geral do Estado de Goiás, nas áreas de modais de transporte, edificações públicas, produção mineral e energia;
 
-§ 1º Face ao atendimento dos requisitos de preexistência temporal ao marco de 30 de abril de 2023, o FUNDEINFRA:
-I - continuará em vigor com plena exigibilidade até **31 de dezembro de 2043**;
-II - não poderá ter suas alíquotas elevadas acima do teto de 1,65% nem alargada sua base de incidência material para além da moldura normativa praticada até a data-limite de abril de 2023;
-III - sofrerá decréscimo gradual e progressivo de sua carga econômica nos exercícios de 2029 a 2032, nos mesmos percentuais em que for reduzido o ICMS estadual durante a transição para o IBS (art. 129 do ADCT);
-IV - a partir de 2033, convolar-se-á em contribuição autônoma estadual sobre a produção primária, descolada da sistemática do ICMS extinto, operando estritamente até sua cessação improrrogável em 31 de dezembro de 2043.
+III - verbas, convênios e doações provenientes de organismos internacionais de fomento ao desenvolvimento da infraestrutura pública, produção mineral e geração de energia;
 
-**Art. 10.** Esta Lei entra em vigor na data de sua publicação, com efeitos financeiros e tributários a partir do primeiro dia útil do exercício fiscal subsequente, respeitados os prazos de anterioridade.
+IV - contribuições oriundas de taxas de prestação de serviços relativos a políticas de infraestrutura, edificação, desenvolvimento de modal de transporte, produção mineral e energia;
 
-GABINETE DO GOVERNADOR DO ESTADO DE GOIÁS, em Goiânia, aos 6 dias do mês de dezembro de 2022.
+V - receitas provenientes de concessões formalizadas para o desenvolvimento dos objetivos definidos no art. 1º desta Lei e de parcerias público-privadas;
+
+VI - dotações orçamentárias do Tesouro Estadual;
+
+VII - rendas oriundas de aplicação financeira dos recursos arrecadados;
+
+VIII - doações realizadas por pessoas físicas e jurídicas, públicas e privadas;
+
+IX - transferências à conta do orçamento do Estado; e
+
+X - transferências efetuadas de outros fundos.
+
+Parágrafo único. A contribuição referida no inciso I deste artigo pode ser cobrada:
+
+I - em percentual não superior a 1,65% (um inteiro e sessenta e cinco centésimos por cento) sobre o valor da operação com as mercadorias discriminadas na legislação do imposto; ou
+
+II - por unidade de medida adotada na comercialização da mercadoria.
+
+Art. 6º Os recursos do FUNDEINFRA serão empregados em projetos, atividades e ações inerentes aos seus objetivos e empenhados à conta das dotações específicas administradas pela GOINFRA, com recursos transitados pela conta única do Tesouro Estadual.
+
+Nota: Redação com vigência de 01.01.23 a 28.03.23
+
+CONFERIDA NOVA REDAÇÃO AO CAPUT DO ART. 6º PELO ART. 130 DA LEI Nº 21.792, DE 16.02.23 - VIGÊNCIA: 01.03.23
+
+Art. 6º Os recursos do FUNDEINFRA serão empregados em projetos, atividades e ações inerentes aos seus objetivos e empenhados à conta das dotações específicas administradas pela SEINFRA, com recursos transitados pela conta única do Tesouro Estadual.
+
+Parágrafo único. As construções, os serviços, os equipamentos e os demais bens públicos construídos ou adquiridos com o FUNDEINFRA se incorporarão ao patrimônio do Estado.
+
+ACRESCIDO O ART. 6º-A PELO ART. 2º DA LEI Nº 22.940, DE 16.02.23 - VIGÊNCIA: 21.08.24
+
+Art. 6º-A Ficam autorizadas, nos termos de regulamento a ser editado pelo Secretário de Estado da Infraestrutura, a contratação de estudos de viabilidade técnica, econômica e ambiental - EVTEAs, de projetos básicos e/ou projetos executivos, para posterior utilização pela administração pública, e a execução de obras de engenharia por contribuintes, de maneira privada, em regime de compensação com os créditos do FUNDEINFRA, admitida a formação de consórcios para essa finalidade.
+
+Nota: Para lançamento dos créditos decorrentes do regime de compensação de que trata este artigo, vide a Instrução Normativa nº 1.591/24-GSE, de 23.10.24
+
+Art. 7º A GOINFRA poderá abrir uma conta-corrente específica na instituição de crédito oficial para a movimentação e a arrecadação de receitas relativas ao FUNDEINFRA.
+
+Nota: Redação com vigência de 01.01.23 a 28.03.23
+
+CONFERIDA NOVA REDAÇÃO AO ART. 7º PELO ART. 130 DA LEI Nº 21.792, DE 16.02.23 - VIGÊNCIA: 01.03.23
+
+Art. 7º A SEINFRA poderá abrir conta-corrente específica na instituição de crédito oficial para a movimentação e a arrecadação de receitas relativas ao FUNDEINFRA.
+
+Art. 8º Os saldos financeiros apurados ao final do exercício e não comprometidos para o pagamento dos restos a pagar também as despesas liquidadas e não pagas do exercício corrente relativas ao FUNDEINFRA serão transferidos, a seu favor, para o ano seguinte.
+
+ACRESCIDO O ART. 8º-A PELO ART. 2º DA LEI Nº 22.940, DE 16.02.23 - VIGÊNCIA: 21.08.24
+
+Art. 8º-A Fica criado o Programa de Parcerias Institucionais para o Progresso e o Desenvolvimento Econômico do Estado de Goiás, com a finalidade de viabilizar os objetivos estabelecidos no art. 1º desta Lei.
+
+§ 1º A execução do programa a que se refere o caput deste artigo ocorrerá mediante celebração de ajuste de parceria com entidades privadas sem fins econômicos constituídas por representantes dos setores econômicos contribuintes do FUNDEINFRA que, sob a forma associativa, se predisponham ao desempenho de atividades, projetos e ações de fomento ao desenvolvimento econômico e à infraestrutura do Estado.
+
+§ 2º A SEINFRA é o órgão supervisor da política pública de que cuida esta Lei e dos ajustes de parceria com base nela firmados, facultado ao seu titular solicitar, quando for necessário, o auxílio técnico da Agência Goiana de Infraestrutura e Transportes - GOINFRA.
+
+ACRESCIDO O ART. 8º-B PELO ART. 2º DA LEI Nº 22.940, DE 16.02.23 - VIGÊNCIA: 21.08.24
+
+Art. 8º-B São diretrizes fundamentais do regime jurídico da parceria institucional de que trata esta Lei:
+
+I - a promoção, o fortalecimento institucional, a capacitação da sociedade civil e o incentivo à organização dela para a cooperação com o poder público quanto ao desenvolvimento econômico e à criação de infraestruturas;
+
+II - a priorização do controle de resultados;
+
+III - o intercâmbio de experiências entre os setores público e privado, que, para alcançar eficiência, deverá incorporar soluções inovadoras nas perspectivas econômica e administrativa;
+
+IV - o estabelecimento de mecanismos que ampliem a gestão de informação, transparência e publicidade; e
+
+V - a adoção de práticas de gestão administrativa necessárias e suficientes para coibir a obtenção, individual ou coletiva, de benefícios ou vantagens indevidos.
+
+ACRESCIDO O ART. 8º-C PELO ART. 2º DA LEI Nº 22.940, DE 16.02.23 - VIGÊNCIA: 21.08.24
+
+Art. 8º-C As entidades representativas dos setores produtivos, empresariais, industriais, profissionais e acadêmicos, constituídas há pelo menos 2 (dois) anos antes da publicação da presente lei e interessadas em colaborar para o progresso e o desenvolvimento econômico do Estado de Goiás poderão se associar, por meio da constituição de pessoa jurídica de direito privado sem fins econômicos, cujo estatuto deverá contemplar os seguintes elementos:
+
+I - a finalidade institucional constituída pelo desenvolvimento e pelo fomento de atividades e projetos nas áreas de infraestrutura agropecuária, modais de transporte, recuperação, manutenção, conservação, pavimentação e implantação de rodovias, sinalização e artes especiais;
+
+II - a finalidade não lucrativa, com a obrigatoriedade de investimento de seus excedentes financeiros no desenvolvimento das próprias atividades, previstas em ajuste de parceria, mediante a aprovação prévia do parceiro público;
+
+III - a previsão expressa de a entidade possuir, como órgãos de deliberação superior e de direção:
+
+a) Conselho de Administração e Diretoria definidos nos termos do estatuto, asseguradas àquele a composição e as atribuições normativas e de controle básicas; e
+
+b) Conselho Fiscal, como órgão de fiscalização quanto ao bom emprego dos recursos públicos transferidos ao parceiro privado em ajuste de parceria;
+
+IV - a previsão expressa de a entidade editar regulamento próprio, com os procedimentos que deverá adotar para a contratação de obras, serviços, compras, alienações e admissão de pessoal, com respeito aos princípios da impessoalidade, da isonomia, da moralidade, da publicidade, da eficiência, da economicidade e do julgamento objetivo; e
+
+V - a disposição de que, caso haja a dissolução da entidade, o respectivo patrimônio líquido será transferido a outra pessoa jurídica de igual natureza que preencha os requisitos desta Lei, com vínculo de parceria celebrado com o Estado de Goiás e cujo objeto social seja, preferencialmente, o mesmo da entidade extinta.
+
+§ 1º O Conselho de Administração das entidades que se predisponham a participar do programa instituído pelo art. 8º-A desta Lei será composto por 30% (trinta por cento) de representantes do poder público estadual, indicados pelo titular da SEINFRA.
+
+§ 2º O poder público estadual fomentará a criação das pessoas jurídicas de direito privado de que trata o caput deste artigo, para viabilizar a celebração de futuras parcerias.
+
+ACRESCIDO O ART. 8º-D PELO ART. 2º DA LEI Nº 22.940, DE 16.02.23 - VIGÊNCIA: 21.08.24
+
+Art. 8º-D Fica facultado ao Estado de Goiás integrar a entidade associativa de que trata o art. 8º-C desta Lei, por meio da SEINFRA, caso em que os regulamentos de contratações da entidade e os processos seletivos correspondentes poderão, a critério do titular da referida pasta, ser submetidos à Procuradoria-Geral do Estado - PGE, para suporte e análise jurídica.
+
+ACRESCIDO O ART. 8º-E PELO ART. 2º DA LEI Nº 22.940, DE 16.02.23 - VIGÊNCIA: 21.08.24
+
+Art. 8º-E A SEINFRA deverá aprovar previamente os planos de trabalho apresentados por entidades associativas interessadas, com posterior ratificação pelo Conselho Gestor do FUNDEINFRA, condição sem a qual não poderá ser celebrada a parceria de que trata esta Lei.
+
+§ 1º Deverão constar do plano de trabalho:
+
+I - a descrição das metas a serem atingidas e de atividades ou projetos a serem executados;
+
+II - a previsão de receitas e de despesas a serem realizadas na execução das atividades ou dos projetos abrangidos pela parceria;
+
+III - a forma de execução das atividades ou dos projetos e de cumprimento das metas a eles atreladas; e
+
+IV - a definição dos parâmetros a serem utilizados para a aferição do cumprimento das metas.
+
+§ 2º Com o plano de trabalho, deverão ser apresentados documentos comprobatórios da regularidade jurídico-fiscal, econômica e financeira da entidade, bem como documentos demonstrativos da experiência técnica do corpo diretivo da entidade.
+
+§ 3º A SEINFRA deverá manter, em seu sítio eletrônico oficial na internet, a relação das parcerias celebradas e dos respectivos planos de trabalho até 180 (cento e oitenta) dias após o respectivo encerramento, como medida de promoção da transparência ativa.
+
+ACRESCIDO O ART. 8º-F PELO ART. 2º DA LEI Nº 22.940, DE 16.02.23 - VIGÊNCIA: 21.08.24
+
+Art. 8º-F Fica autorizada a transferência de recursos econômicos do FUNDEINFRA às entidades que firmarem o ajuste de parceria a que se refere o § 1º do art. 8º-A desta Lei.
+
+§ 1º Os recursos econômicos serão transferidos pelo Estado de Goiás em estrito cumprimento do plano de trabalho, com prestação de contas mensal, sob o acompanhamento e a supervisão da SEINFRA, da Controladoria-Geral do Estado - CGE, da Agência Goiana de Regulação, Controle e Fiscalização de Serviços Públicos - AGR, do Conselho Gestor do FUNDEINFRA e, quando houver solicitação pelo titular do órgão supervisor, da GOINFRA.
+
+§ 2º A administração pública poderá fornecer, a título de colaboração, manuais específicos às entidades por ocasião da celebração da parceria, que terão como premissas a simplificação, a racionalização dos procedimentos e o diálogo público-privado.
+
+§ 3º Deverá constar do instrumento da parceria o livre acesso dos agentes da administração pública, do controle interno e do Tribunal de Contas do Estado de Goiás - TCE-GO aos correspondentes processos e documentos, também às informações relacionadas à execução do ajuste, bem como aos locais de realização do respectivo objeto.
+
+§ 4º A prestação de contas deverá atender aos princípios que regem a administração pública, com a aplicação supletiva, no que couber, da Lei federal nº 13.019, de 31 de julho de 2014.
+
+ACRESCIDO O ART. 8º-G PELO ART. 2º DA LEI Nº 22.940, DE 16.02.23 - VIGÊNCIA: 21.08.24
+
+Art. 8º-G A administração pública promoverá o monitoramento e a avaliação do cumprimento do objeto da parceria.
+
+§ 1º Para a implementação do disposto no caput deste artigo, a administração pública poderá se valer do apoio técnico de terceiros, delegar competência ou firmar parcerias com órgãos ou entidades que se situem próximos ao local de aplicação dos recursos.
+
+§ 2º Fica facultado ao titular da SEINFRA convocar servidores efetivos do Estado de Goiás, inclusive do quadro da GOINFRA, preferencialmente dos cargos de Gestor de Infraestrutura e/ou Analista Técnico de Infraestrutura, a fim de comporem colegiado de engenheiros para acompanhar e fiscalizar as contratações realizadas, bem como os projetos a serem executados pelos parceiros privados.
+
+§ 3º Os demais procedimentos de monitoramento e avaliação do cumprimento do objeto da parceria deverão ser disciplinados em ato do titular da SEINFRA.
+
+ACRESCIDO O ART. 8º-H PELO ART. 2º DA LEI Nº 22.940, DE 16.02.23 - VIGÊNCIA: 21.08.24
+
+Art. 8º-H Por ocasião da conclusão, da denúncia, da rescisão ou da extinção da parceria, os saldos financeiros remanescentes, inclusive os provenientes das receitas obtidas das aplicações financeiras realizadas, serão devolvidos à administração pública no prazo improrrogável de 30 (trinta) dias, sob pena da imediata instauração de tomada de contas especial do responsável, providenciada pela autoridade competente do poder público.
+
+ACRESCIDO O ART. 8º-I PELO ART. 2º DA LEI Nº 22.940, DE 16.02.23 - VIGÊNCIA: 21.08.24
+
+Art. 8º-I O instrumento de parceria, que terá por base minuta padrão elaborada pela SEINFRA e submetida à PGE, deverá discriminar as atribuições, as responsabilidades e as obrigações do poder público e da entidade parceira, sem prejuízo a outras especificidades e cláusulas técnicas, a cargo da referida secretaria.
+
+ACRESCIDO O ART. 8º-J PELO ART. 2º DA LEI Nº 22.940, DE 16.02.23 - VIGÊNCIA: 21.08.24
+
+Art. 8º-J A entidade parceira deverá comunicar imediatamente à SEINFRA e à PGE as eventuais demandas judiciais em que figurar como parte, com o encaminhamento a este último órgão das informações, dos dados e dos documentos requisitados para a defesa dos interesses do Estado de Goiás, em juízo ou fora dele, sob pena de responsabilidade administrativa, civil e criminal de quem deixar de fazê-lo.
+
+ACRESCIDO O ART. 8º-K PELO ART. 2º DA LEI Nº 22.940, DE 16.02.23 - VIGÊNCIA: 21.08.24
+
+Art. 8º-K Para a execução da parceria de que trata esta Lei, serão aplicadas, no que couber, as disposições da Lei federal nº 13.019, de 2014.
+
+Art. 9º Fica autorizada a abertura de crédito especial destinado à implementação do FUNDEINFRA.
+
+Art. 10. As obras e os serviços de infraestrutura executados com recursos provenientes do FUNDEINFRA deverão ser identificados com o destaque: OBRA/SERVIÇO REALIZADO COM RECURSOS DO FUNDEINFRA.
+
+Art. 11. O Chefe do Poder Executivo regulamentará esta Lei antes da data da sua vigência.
+
+Art. 12. Esta Lei entra em vigor em 1º de janeiro de 2023.
+
+Goiânia, 6 de dezembro de 2022; 134º da República.
+
+RONALDO CAIADO
+
+Governador do Estado

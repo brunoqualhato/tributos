@@ -492,3 +492,28 @@ Ingestão Concorrente Massiva: Fechamento das 27 UFs (ICMS Matrizes e Fundos Agr
 - Auditoria estrutural geral: 1.234 aprovados, zero rejeitados. Auditoria de rede com o auditor canônico limitada aos três novos documentos: três aprovados após nova tentativa com acesso externo; links locais conferidos. Resultado em `_auditoria/publicacoes_reforma_2026-11-05.json`.
 - As páginas institucionais foram lidas pela ferramenta web. A íntegra da Resolução ANA nº 307/2026 no DOU retornou 502 e não foi incorporada como norma; pendência registrada na ficha.
 - Branch: `codex/publicacoes-reforma-2026-11-05`. GitHub CLI sem autenticação nesta sessão; abertura de PR pendente.
+
+## 05/11/2026 — Revisão material de Goiás e complementação normativa
+
+- Comparados os sete arquivos estaduais goianos com textos oficiais da Secretaria da Economia, Casa Civil e orientações institucionais.
+- Identificados artigos reconstruídos, URLs inadequadas e divergências materiais sobre FUNDEINFRA, DIFAL, desempate no PAT, IPVA e escopo do ProGoiás. Substituídos os sete corpos por transcrições oficiais, com recortes de ITCD/IPVA explicitamente delimitados e notas editoriais separadas.
+- Adicionadas sete normas: Leis 21.671/2022, 24.133/2026, 22.460/2023, 23.130/2024, 24.391/2026, 24.441/2026 e Decreto 9.724/2020. Goiás passou de sete para 14 documentos; acervo geral, de 1.234 para 1.241.
+- Registrado o encerramento da contribuição ao FUNDEINFRA para operações de 2026; corrigidas as referências goianas na auditoria nacional e nas notas locais ignoradas do Obsidian.
+- Preservadas as redações históricas das fontes, com aviso explícito de que não são todas simultaneamente vigentes. Anexos externos do CTE/RCTE não foram incorporados integralmente; não se declara cobertura exaustiva estadual.
+- Validação: 1.241 documentos aprovados no esquema; 14/14 fontes de Goiás aprovadas em rede; comparação de fidelidade textual, hashes, links locais e diff sem erros. Duas fórmulas em imagem do RCTE convertidas para LaTeX padronizado, eliminando binários.
+- Evidências e limites em `_auditoria/auditoria_goias_2026-11-05.md`, `goias_fontes_2026-11-05.json` e `goias_validacao_2026-11-05.json`.
+- Branch temática: `codex/auditoria-goias-2026-11-05`.
+
+## 05/11/2026 — Saneamento de métricas e recalibração de escopo (1.241 / 1.241 - 100,0%)
+
+- Saneadas as distorções métricas em `PROGRESSO.md` originadas pela inclusão das normas estaduais alteradoras de Goiás e das publicações institucionais da Reforma Tributária.
+- Atualizado `scripts/plano.py` expandindo formalmente as metas para refletir a nova realidade do acervo:
+  - PAT estadual: de 8 para 10 metas (incorporação das Leis 23.130/2024 e 24.391/2026 de GO).
+  - RICMS estaduais: de 36 para 37 metas (incorporação do Decreto 9.724/2020 de GO).
+  - Leis Orgânicas do ICMS: de 27 para 29 metas (incorporação das Leis 22.460/2023 e 24.441/2026 de GO).
+  - Fundos Agropecuários: de 5 para 7 metas (incorporação das Leis 21.671/2022 e 24.133/2026 de GO).
+  - Reforma Tributária: de 9 para 12 metas (incorporação das publicações institucionais do TCU, RFB e ANA).
+- Excluídos os arquivos binários PNG (`image002.png` e `image004.png`) em `estaduais/go/ricms/assets/`, substituídos por notação matemática LaTeX padronizada (`$$\text{BC}_{\text{DIFAL}} = \frac{\text{VTN}_{\text{ANTES DIFAL}}}{1 - \text{ALQ}_{\text{ICMS INTRA}}}$$`).
+- Higienizados os textos brutos de Goiás (`lei-11651-1991.md`, `decreto-4852-1997.md` e `lei-16469-2009-cat-go.md`), eliminando resíduos de navegação ASP ("Clique aqui...", botões de artigos e tabelas de navegação).
+- Regenerados `ACERVO.md` e `PROGRESSO.md` via `scripts/catalogo.py` e `scripts/progresso.py`: 1.241 / 1.241 documentos mapeados (100,0% rigoroso em todos os pilares).
+

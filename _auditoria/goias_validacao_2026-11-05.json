@@ -1,0 +1,78 @@
+{
+  "data": "2026-11-05",
+  "escopo": "14 documentos de Goiás; rede via auditor canônico, integridade local e hashes",
+  "aprovados": 14,
+  "total": 14,
+  "documentos": [
+    {
+      "arquivo": "estaduais/go/leis/icms/lei-11651-1991.md",
+      "aprovado": true,
+      "erros": []
+    },
+    {
+      "arquivo": "estaduais/go/leis/itcmd/lei-11651-1991.md",
+      "aprovado": true,
+      "erros": []
+    },
+    {
+      "arquivo": "estaduais/go/leis/ipva/lei-11651-1991.md",
+      "aprovado": true,
+      "erros": []
+    },
+    {
+      "arquivo": "estaduais/go/leis/pat/lei-16469-2009-cat-go.md",
+      "aprovado": true,
+      "erros": []
+    },
+    {
+      "arquivo": "estaduais/go/leis/fundos/lei-21670-2022-fundeinfra.md",
+      "aprovado": true,
+      "erros": []
+    },
+    {
+      "arquivo": "estaduais/go/ricms/lei-20787-2020-progoias-atacadista-fundeinfra.md",
+      "aprovado": true,
+      "erros": []
+    },
+    {
+      "arquivo": "estaduais/go/ricms/decreto-4852-1997.md",
+      "aprovado": true,
+      "erros": []
+    },
+    {
+      "arquivo": "estaduais/go/leis/fundos/lei-21671-2022-condicoes-fundeinfra.md",
+      "aprovado": true,
+      "erros": []
+    },
+    {
+      "arquivo": "estaduais/go/leis/fundos/lei-24133-2026-encerramento-contribuicao-fundeinfra.md",
+      "aprovado": true,
+      "erros": []
+    },
+    {
+      "arquivo": "estaduais/go/leis/icms/lei-22460-2023-aliquota-modal.md",
+      "aprovado": true,
+      "erros": []
+    },
+    {
+      "arquivo": "estaduais/go/ricms/decreto-9724-2020-progoias.md",
+      "aprovado": true,
+      "erros": []
+    },
+    {
+      "arquivo": "estaduais/go/leis/pat/lei-23130-2024-alteracoes-pat.md",
+      "aprovado": true,
+      "erros": []
+    },
+    {
+      "arquivo": "estaduais/go/leis/pat/lei-24391-2026-cte-pat.md",
+      "aprovado": true,
+      "erros": []
+    },
+    {
+      "arquivo": "estaduais/go/leis/icms/lei-24441-2026-progoias.md",
+      "aprovado": true,
+      "erros": []
+    }
+  ]
+}
