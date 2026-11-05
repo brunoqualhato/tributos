@@ -49,8 +49,8 @@ PLANO = [
               "Processo Administrativo Fiscal (Dec. 70.235/72), Consulta (Dec. 7.574/11) e CIDE (Dec. 5.060/04)",
               "federal/regulamentos/paf_consulta_cide", 3, 1, "normas.leg.br"),
     ItemPlano("1. Legislação Estruturante & Códigos", "Processo Tributário Estadual (PAT/PAF)",
-              "Tribunais Administrativos de Fazenda Estadual (TIT/SP, CCRJ, CCMG, CCRF/PR, TAT/SC, TARF/RS, CAT/GO, CONSEF/BA)",
-              "estaduais/*/leis/pat", 8, 3, "Secretarias de Fazenda Estaduais"),
+              "Tribunais Administrativos de Fazenda Estadual (TIT/SP, CCRJ, CCMG, CCRF/PR, TAT/SC, TARF/RS, CAT/GO, CONSEF/BA e alterações de GO)",
+              "estaduais/*/leis/pat", 10, 3, "Secretarias de Fazenda Estaduais"),
 
     # =========================================================================
     # PILAR 2: DIVIDENDOS, RENDA DO CAPITAL & IRPJ/CSLL
@@ -121,14 +121,14 @@ PLANO = [
               "Regulamento Aduaneiro consolidado (Decreto 6.759/2009) e Imposto de Importação",
               "federal/regulamentos/aduana", 3, 1, "normas.leg.br"),
     ItemPlano("4. Produtos & Mercadorias", "RICMS Estaduais",
-              "Regulamentos do ICMS das 27 Unidades Federativas (Todas as 27 UFs)",
-              "estaduais/*/ricms", 36, 3, "Secretarias de Fazenda Estaduais"),
+              "Regulamentos do ICMS das 27 Unidades Federativas (Todas as 27 UFs e decretos regulamentares)",
+              "estaduais/*/ricms", 37, 3, "Secretarias de Fazenda Estaduais"),
     ItemPlano("4. Produtos & Mercadorias", "Leis Orgânicas do ICMS das 27 UFs",
-              "Leis Matrizes do ICMS de todas as 27 Unidades Federativas (26 Estados e DF)",
-              "estaduais/*/leis/icms", 27, 3, "Assembleias Legislativas Estaduais"),
+              "Leis Matrizes do ICMS de todas as 27 Unidades Federativas (26 Estados, DF e leis complementares/modificadoras de GO)",
+              "estaduais/*/leis/icms", 29, 3, "Assembleias Legislativas Estaduais"),
     ItemPlano("4. Produtos & Mercadorias", "Fundos Agropecuários e de Infraestrutura Estaduais",
-              "Taxas do Agro constitucionalizadas pelo art. 136 do ADCT (FETHAB/MT, FUNDEINFRA/GO, FUNDERSUL/MS, FECOP/MA, FAIN/BA)",
-              "estaduais/*/leis/fundos", 5, 3, "Secretarias de Fazenda Estaduais"),
+              "Taxas do Agro constitucionalizadas pelo art. 136 do ADCT (FETHAB/MT, FUNDEINFRA/GO e normas de transição, FUNDERSUL/MS, FECOP/MA, FAIN/BA)",
+              "estaduais/*/leis/fundos", 7, 3, "Secretarias de Fazenda Estaduais"),
     ItemPlano("4. Produtos & Mercadorias", "Créditos Presumidos Agropecuários e Cadeias Produtivas",
               "Regimes de PIS/COFINS da Carne Bovina (Lei 12.058/09), Aves/Suínos/Café (Lei 12.350/10) e Complexo Soja (Lei 12.865/13)",
               "federal/agro-pis-cofins", 3, 1, "normas.leg.br"),
@@ -201,8 +201,8 @@ PLANO = [
     # PILAR 9: REFORMA TRIBUTÁRIA E TRANSIÇÃO
     # =========================================================================
     ItemPlano("9. Reforma Tributária", "Marco Constitucional e Leis Complementares",
-              "Emenda Constitucional nº 132/2023, LC 214/2025, LC 227/2026, PLP 68, PLP 108, Split Payment e NT NFS-e Nacional IBS/CBS",
-              "reforma-tributaria", 9, 5, "Congresso Nacional / LexML"),
+              "Emenda Constitucional nº 132/2023, LC 214/2025, LC 227/2026, PLP 68, PLP 108, Split Payment, NT NFS-e Nacional e publicações institucionais",
+              "reforma-tributaria", 12, 5, "Congresso Nacional / LexML"),
 
     # =========================================================================
     # PILAR 10: NORMAS CONTÁBEIS (CPC E CFC) E ATOS REGULATÓRIOS DA RFB
