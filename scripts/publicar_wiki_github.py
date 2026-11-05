@@ -30,16 +30,17 @@ def gerar_sidebar() -> str:
 
 ---
 
-### Os 9 Pilares Tributários
+### Os 10 Pilares Tributários e Contábeis
 1. 💰 [1. Dividendos e JCP](Pilar-1-Dividendos-e-Renda-do-Capital)
 2. 👥 [2. Folha e Encargos](Pilar-2-Folha-de-Pagamento-e-Encargos)
-3. 📦 [3. Produtos e ICMS](Pilar-3-Produtos-Mercadorias-e-ICMS)
-4. 🛠️ [4. Serviços e ISS](Pilar-4-Servicos-e-Retencoes)
+3. 📦 [3. Produtos e ICMS 27 UFs](Pilar-3-Produtos-Mercadorias-e-ICMS)
+4. 🛠️ [4. Serviços e ISS 26 Capitais](Pilar-4-Servicos-e-Retencoes)
 5. 🏰 [5. Patrimônio e Veículos](Pilar-5-Patrimonio-Heranca-e-Veiculos)
 6. ⛽ [6. Combustíveis e CIDE](Pilar-6-Combustiveis-e-Energia)
 7. 📈 [7. Financeiro e IOF](Pilar-7-Tributacao-Financeira-e-IOF)
 8. 🚀 [8. Reforma & Split Payment](Pilar-8-Reforma-Tributaria-e-Split-Payment)
 9. 📊 [9. Contabilidade (CPC/CFC)](Pilar-9-Normas-Contabeis-CPC-e-CFC)
+10. ⚖️ [10. Precedentes STF/CARF e PAT](Pilar-10-Jurisprudencia-Vinculante-e-Processo-Fiscal)
 
 ---
 

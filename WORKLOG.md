@@ -523,7 +523,7 @@ Ingestão Concorrente Massiva: Fechamento das 27 UFs (ICMS Matrizes e Fundos Agr
   - `README.md`: Atualizados badges (1.241 normas, 100% de cobertura), detalhamento dos 10 pilares canônicos, mapa completo da estrutura de pastas (incluindo as 27 UFs, 26 capitais + DF, jurisprudência vinculante STF/STJ e normas contábeis) e tabela de agentes especialistas.
   - `Home.md`: Total de documentos sincronizado para 1.241 normas estruturadas e notas contextuais atualizadas.
   - `AGENT.md`: Introdução alinhada com a taxonomia dos 10 pilares canônicos e escopo integral.
-  - `wiki/Home.md`: Referências e links sincronizados para as 1.241 normas catalogadas.
+  - `wiki/`: Guias temáticos atualizados com as normas vigentes (27 UFs, 26 capitais, Fundos Agro do art. 136 ADCT, precedentes vinculantes do STF/STJ e CARF). Criado o guia do Pilar 10 (`Pilar-10-Jurisprudencia-Vinculante-e-Processo-Fiscal.md`) e sincronizada a GitHub Wiki ao vivo via `scripts/publicar_wiki_github.py`.
   - Relatório de integridade total validado com 1.241 documentos em conformidade plena.
 
 

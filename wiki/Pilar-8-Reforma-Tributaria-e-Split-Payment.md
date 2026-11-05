@@ -5,14 +5,14 @@ A Emenda Constitucional nº 132, promulgada em 20 de dezembro de 2023, extingue 
 
 ## 2. A Estrutura do IVA Dual Brasileiro
 
-| Tributo | Esfera de Competência | Gestão / Arrecadação | Substitui |
-| :--- | :--- | :--- | :--- |
-| **CBS (Contribuição sobre Bens e Serviços)** | Federal | Secretaria Especial da Receita Federal do Brasil (RFB) | PIS/Pasep e Cofins |
-| **IBS (Imposto sobre Bens e Serviços)** | Subnacional (Estados, DF e Municípios) | Comitê Gestor do IBS (CG-IBS) | ICMS (estadual) e ISS (municipal) |
-| **Imposto Seletivo (IS)** | Federal | Receita Federal do Brasil | IPI (parcialmente, exceto Zona Franca) |
+| Tributo | Esfera de Competência | Gestão / Arrecadação | Base Legal Complementar | Substitui |
+| :--- | :--- | :--- | :--- | :--- |
+| **CBS (Contribuição sobre Bens e Serviços)** | Federal | Secretaria Especial da Receita Federal do Brasil (RFB) | [Lei Complementar nº 214/2025](../reforma-tributaria/lei-complementar-214-2025.md) | PIS/Pasep e Cofins |
+| **IBS (Imposto sobre Bens e Serviços)** | Subnacional (Estados, DF e Municípios) | Comitê Gestor do IBS (CG-IBS) | [Lei Complementar nº 214/2025](../reforma-tributaria/lei-complementar-214-2025.md) e [LC nº 227/2026](../reforma-tributaria/lei-complementar-227-2026.md) | ICMS (estadual) e ISS (municipal) |
+| **Imposto Seletivo (IS)** | Federal | Receita Federal do Brasil | [Lei Complementar nº 214/2025](../reforma-tributaria/lei-complementar-214-2025.md) | IPI (parcialmente, exceto Zona Franca) |
 
-## 3. A Tecnologia do Split Payment Inteligente (PLP 68/2024, Arts. 49 a 53)
-O [Split Payment Inteligente](../reforma-tributaria/split-payment/split-payment-modelo-operacional.md) é o mecanismo tecnológico mais inovador da Reforma Tributária brasileira:
+## 3. A Tecnologia do Split Payment Inteligente
+O [Split Payment Inteligente](../reforma-tributaria/split-payment/split-payment-modelo-operacional.md) é o mecanismo tecnológico estruturante da Reforma Tributária brasileira:
 - **Separação Automática no Ato do Pagamento:** Quando o comprador realiza um pagamento via Pix, cartão ou arranjo bancário, o valor do tributo devido é retido instantaneamente e depositado na conta única do IBS/CBS.
 - **Liquidação Líquida ao Fornecedor:** O fornecedor recebe apenas o valor líquido da mercadoria ou serviço, eliminando o passivo tributário a pagar e impedindo a inadimplência ou sonegação na cadeia.
 
@@ -20,7 +20,12 @@ O [Split Payment Inteligente](../reforma-tributaria/split-payment/split-payment-
 1. **Split Payment Padrão (Eletrônico Inteligente):** Integrado a arranjos de pagamento (Pix, cartões de crédito/débito e boleto bancário). A liquidação física dos recursos já separa a parcela do tributo e repassa diretamente para a conta única do IBS e da CBS.
 2. **Split Payment Simplificado:** Para transações sem identificação imediata da nota fiscal no ato do pagamento, com retenção de alíquota presumida e compensação na apuração mensal.
 
-## 4. O Comitê Gestor do IBS (PLP 108/2024)
-O [PLP 108/2024](../reforma-tributaria/plp-108-2024.md) institui o órgão público independente com representação paritária entre Estados (27 membros) e Municípios (27 membros), responsável por:
+## 4. O Comitê Gestor do IBS (Lei Complementar nº 227/2026)
+A [Lei Complementar nº 227/2026](../reforma-tributaria/lei-complementar-227-2026.md) disciplina o órgão público independente com representação paritária entre Estados (27 membros) e Municípios (27 membros), responsável por:
 - Arrecadar o IBS e distribuir as receitas aos entes federados conforme o princípio do destino.
-- Uniformizar a interpretação da legislação e julgar o contencioso administrativo tributário de forma única.
+- Uniformizar a interpretação da legislação e julgar o contencioso administrativo tributário do imposto de forma colegiada e harmônica em todo o país.
+
+## 5. Publicações Institucionais e Orientações Técnicas (2026)
+- **Cálculo da Alíquota de Referência pelo TCU ([Relatório TCU 2026](../reforma-tributaria/publicacoes/2026/tcu-calculo-referencia-cbs-2027.md)):** Estudo técnico do Tribunal de Contas da União estimando a alíquota de referência federal da CBS para 2027 em **11,3%**.
+- **Cronograma de Documentos Fiscais Eletrônicos da RFB ([Orientação RFB 2026](../reforma-tributaria/publicacoes/2026/rfb-cronograma-documentos-fiscais.md)):** Cronograma de adequação das NF-e, NFC-e e CT-e aos campos e regras do IBS, CBS e Split Payment.
+- **Adequação Tarifária do Saneamento pela ANA ([Resolução ANA 2026](../reforma-tributaria/publicacoes/2026/ana-adequacao-tarifas-saneamento-cbs.md)):** Diretrizes da Agência Nacional de Águas e Saneamento Básico para o reequilíbrio econômico-financeiro dos contratos de concessão perante a entrada em vigor da CBS.

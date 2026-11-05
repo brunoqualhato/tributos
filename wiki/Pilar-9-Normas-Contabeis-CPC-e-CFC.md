@@ -20,5 +20,14 @@ Este pilar documenta a interface entre as Normas Internacionais de Contabilidade
 | **CPC 47** | Receita de Contrato com Cliente (*IFRS 15*) | Marco para reconhecimento da receita bruta e momento de incidência do PIS, COFINS e ISS. |
 | **CPC 48** | Instrumentos Financeiros (*IFRS 9*) | Mensuração a valor justo através do resultado (*fair value*) e tributação de derivativos. |
 
-## 3. Conversão de Alta Precisão via Binário Nativo Swift
+## 3. Interpretações e Orientações Técnicas (ICPC, OCPC, CTG e ITG)
+O acervo reúne os pronunciamentos interpretativos complementares emitidos pelo CPC e pelo CFC:
+- **[ICPC 10](../contabil/cpc/icpc-10.md):** Esclarecimentos sobre a aplicação do CPC 27 e 28 ao ativo imobilizado.
+- **[ICPC 19](../contabil/cpc/icpc-19.md):** Tributos e taxas cobrados pelo poder público (interpretação da IFRIC 21).
+- **[ICPC 22](../contabil/cpc/icpc-22.md) / [ITG 22](../contabil/cfc/itg-22-incerteza-tributos-lucro.md):** Tratamento contábil e evidenciação de incertezas sobre tributos sobre o lucro (IFRIC 23).
+- **[OCPC 07](../contabil/cpc/ocpc-07.md):** Evidenciação na emissão das demonstrações contábeis de propósito geral.
+- **[CTG 07](../contabil/cfc/ctg-07-evidenciacao-relatorios.md):** Requisitos de evidenciação em relatórios contábeis e fiscais.
+- **[ITG 10](../contabil/cfc/itg-10-ativo-imobilizado.md):** Custos de desmontagem e restauração de ativos imobilizados.
+
+## 4. Conversão de Alta Precisão via Binário Nativo Swift
 Todas as normas contábeis do CPC e CFC foram convertidas utilizando o extrator compilado nativo `scripts/bin/extrair_pdf`, assegurando CommonMark de alta precisão sem quebras de layout.
