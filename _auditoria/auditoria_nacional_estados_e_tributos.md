@@ -1,5 +1,7 @@
 # Diagnóstico e Auditoria Estrutural Completa: PIS, COFINS, PIS/PASEP, CBS, IBS e ICMS nas 27 Unidades da Federação
 
+> Atualização de Goiás em 05/11/2026: as conclusões anteriores sobre FUNDEINFRA, DIFAL e PAT foram revistas. Consulte a [auditoria estadual](auditoria_goias_2026-11-05.md). Os demais estados não foram revalidados neste lote.
+
 **Data da Auditoria:** Outubro de 2026  
 **Abrangência:** Nacional (Federal, 26 Estados e Distrito Federal)  
 **Relatórios Estaduais Vinculados:** [`_auditoria/estados/`](file:///Users/brunoqualhato/Documents/meus/tributos/_auditoria/estados/) (27 relatórios técnicos individuais totalizando 10.383 linhas)
@@ -127,7 +129,7 @@ A Emenda Constitucional nº 132/2023, regulamentada pela Lei Complementar nº 21
 | **2027** | **Alíquota Plena** (estimada em ~8,8%) | Mantém 0,1% de teste | **EXTINTOS** | 100% vigentes | Fim do PIS e da COFINS. Entrada em vigor da CBS com Split Payment obrigatório e extinção do IPI (reduzido a zero, salvo ZFM). |
 | **2028** | Plena vigência | Mantém 0,1% de teste | Extintos | 100% vigentes | Consolidação da arrecadação federal da CBS e calibração das alíquotas de referência do IBS pelo Comitê Gestor. |
 | **2029** | Plena vigência | **10%** da alíquota de referência | Extintos | **90%** das alíquotas atuais | Início da transição do ICMS/ISS. Redução de 10% nos benefícios fiscais estaduais (art. 130 ADCT) e acionamento do FCBF. |
-| **2030** | Plena vigência | **20%** da alíquota de referência | Extintos | **80%** das alíquotas atuais | Redução progressiva de 20% do ICMS e dos fundos estaduais agropecuários (FETHAB, FUNDEINFRA). |
+| **2030** | Plena vigência | **20%** da alíquota de referência | Extintos | **80%** das alíquotas atuais | Redução progressiva de 20% do ICMS. |
 | **2031** | Plena vigência | **30%** da alíquota de referência | Extintos | **70%** das alíquotas atuais | Redução progressiva de 30% do ICMS e migração gradual dos sistemas corporativos. |
 | **2032** | Plena vigência | **40%** da alíquota de referência | Extintos | **60%** das alíquotas atuais | Último ano de vigência do ICMS e encerramento do Fundo de Compensação de Benefícios Fiscais (FCBF). |
 | **2033** | **Plena Vigência** | **100%** (Alíquota Plena do IBS) | **EXTINTOS** | **EXTINTOS DEFINITIVAMENTE** | Vigência integral do IVA Dual no Princípio do Destino. Início da compensação dos saldos de ICMS em 240 meses (art. 134 ADCT). |
@@ -192,7 +194,7 @@ Com base nos 27 relatórios analíticos de auditoria gerados pelos agentes espec
 | **SC** | **17,0%** (12% B2B inter) | **Base Dupla** (Lei 10.297/96) | Opção no RUDFTO (Lei 19.172/25) | Aves/Suínos (Seara/Aurora), Maçã, Arroz | Complexo Portuário (Itajaí/Navegantes), Têxtil | TTD 409/410/478 (Lei 17.763/19 - 1% a 2,6% efetivo) |
 | **RS** | **17,0%** (+2% AMPARA) | **Base Dupla** | Opção no RUDFTO (Dec. 57.886/24) | Arroz, Soja, Trigo, Uva/Vinho (Moratória pós-cheias) | Polo Petroquímico Triunfo, Metalmecânico, Couro | FUNDOPEM/RS e INTEGRAR (Lei 10.363/95) |
 | **MG** | **18,0%** | **Base Dupla** | Opção no RUDFTO | Café líder nacional, Laticínios, Esmagamento | Extração de Minério de Ferro (Vale/Samarco), Aço | Corredor de Importação, TTS E-commerce (1,3%) |
-| **GO** | **19,0%** (+2% PROTEGE) | **Base Dupla** (Lei 11.651/91) | Opção no RUDFTO (Dec. 10.370/23) | Soja, Milho, Algodão, Gado (**FUNDEINFRA até 1,65%**) | Polo Farmacêutico DAIA, Automotivo Catalão/Anápolis | PROGOIÁS (Lei 20.787/20 - crédito de até 67%), Atacado |
+| **GO** | **19,0%** modal; adicional apenas nas hipóteses legais | RCTE art. 65, III; ver orientação oficial 21629 | Conferir disciplina vigente e convênios aplicáveis | **FUNDEINFRA: contribuição encerrada para operações de 2026 (Lei 24.133/2026)** | Incentivos sujeitos às condições específicas | PROGOIÁS: Lei 20.787/2020, alterada pela Lei 24.441/2026 |
 | **MT** | **17,0%** (+2% FECOP) | **Base Dupla** | Não incidência; diferimento interrompido na filiação | Soja, Milho, Algodão, Boi (**FETHAB até 21,15% UPF**) | Esmagamento de Grãos, Biorrefinarias de Etanol Milho | PRODEIC (LC 631/19 - crédito de 65% a 85%), Frigoríficos |
 | **MS** | **17,0%** (+2% FECOEP) | **Base Dupla** | Opção no RUDFTO (Dec. 16.355/23) | Soja, Milho, Gado (**FUNDERSUL vinculado**) | Megacomplexo "Vale da Celulose" (Suzano/Arauco) | PRO-DESENVOLVE (LC 93/01 - crédito de até 67%) |
 | **DF** | **20,0%** (+2% FCEP) | **Base Dupla** | Opção no RUDFTO (Dec. 47.993/25) | PAD-DF (Grãos irrigados), Hortigranjeiros | Farmacêutico, Gráfico, Indústria da Transformação | Lei nº 5.005/2012 (Atacado - carga residual de 1% a 2%) |
@@ -226,7 +228,7 @@ Com base nos 27 relatórios analíticos de auditoria gerados pelos agentes espec
 3. **Fundos de Infraestrutura do Agronegócio (A "Taxa do Agro"):**
    - Os Estados líderes do Centro-Oeste criaram fundos incidentes sobre a produção agropecuária e mineral como **condição para usufruir de regimes de diferimento e exportação**:
      * **Mato Grosso:** FETHAB (Lei nº 7.263/2000);
-     * **Goiás:** FUNDEINFRA (Lei nº 21.670/2022);
+     * **Goiás:** FUNDEINFRA (Lei nº 21.670/2022); contribuição encerrada para operações de 2026 pela Lei nº 24.133/2026;
      * **Mato Grosso do Sul:** FUNDERSUL (Lei nº 4.049/2011);
    - A Emenda Constitucional nº 132/2023 salvaguardou expressamente no **art. 136 do ADCT** a vigência temporária desses fundos até 31 de dezembro de 2043, desde que criados até 30/04/2023, mantendo base e alíquotas congeladas;
 4. **Regimes Especiais de Centros de Distribuição e Atacado:**

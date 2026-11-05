@@ -1,0 +1,152 @@
+{
+  "data_consulta": "2026-11-05",
+  "metodo": "Comparação integral de caracteres alfanuméricos do HTML selecionado com o Markdown, desconsiderando formatação; índices de parágrafos são zero-based, fim exclusivo.",
+  "documentos": [
+    {
+      "fonte": "https://appasp.economia.go.gov.br/legislacao/arquivos/Cte/CTE.htm",
+      "sha256_html": "2748635c3385f2520d13b526afa6d9209a5b6deac9d6735e5d37c86e8af09f7a",
+      "bytes_html": 1999002,
+      "caracteres_texto": 794645,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/go/leis/icms/lei-11651-1991.md",
+      "sha256_markdown": "b52520fc7ee10ade36de7727ebe63c05115c1a1a32a547e6f20c05c866949413"
+    },
+    {
+      "fonte": "https://appasp.economia.go.gov.br/legislacao/arquivos/Cte/CTE.htm",
+      "sha256_html": "2748635c3385f2520d13b526afa6d9209a5b6deac9d6735e5d37c86e8af09f7a",
+      "bytes_html": 1999002,
+      "caracteres_texto": 82616,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": [
+        4563,
+        5184
+      ],
+      "arquivo": "estaduais/go/leis/itcmd/lei-11651-1991.md",
+      "sha256_markdown": "5ad634e0db2d1edb3d274fa367ca580ca9f4ea4570be9c8ad684fa58968f6197"
+    },
+    {
+      "fonte": "https://appasp.economia.go.gov.br/legislacao/arquivos/Cte/CTE.htm",
+      "sha256_html": "2748635c3385f2520d13b526afa6d9209a5b6deac9d6735e5d37c86e8af09f7a",
+      "bytes_html": 1999002,
+      "caracteres_texto": 42924,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": [
+        5184,
+        5626
+      ],
+      "arquivo": "estaduais/go/leis/ipva/lei-11651-1991.md",
+      "sha256_markdown": "c72c5b9ac227c5933dcbc723804e6441649221da2c8575d90bdfcde377186123"
+    },
+    {
+      "fonte": "https://appasp.economia.go.gov.br/Legislacao/arquivos/Cat/Leis/L_16469.htm",
+      "sha256_html": "b274a1f7c01708602fb5fb2c7ea86bfaf8573f8ba2756454e88de29a530b6e61",
+      "bytes_html": 522909,
+      "caracteres_texto": 151708,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/go/leis/pat/lei-16469-2009-cat-go.md",
+      "sha256_markdown": "752ede958220ae5a47c6037f6afa6b625fa4ca8ed028ff7f561d557d1a7c71b0"
+    },
+    {
+      "fonte": "https://appasp.economia.go.gov.br/legislacao/arquivos/leis/L_21670.htm",
+      "sha256_html": "45fe858ad66e188240edcc55dc6ba3f8bc6c70c0ee2f0bdb2238e95df291f702",
+      "bytes_html": 158735,
+      "caracteres_texto": 19914,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/go/leis/fundos/lei-21670-2022-fundeinfra.md",
+      "sha256_markdown": "d683cd5d5a923267eb03f9a8f2d929d226dc0db35a2def99162705d3012ebb1d"
+    },
+    {
+      "fonte": "https://appasp.economia.go.gov.br/legislacao/arquivos/leis/L_20787.htm",
+      "sha256_html": "686776d8f034f4966a396cd9233db2e6bc84f9a840b6afaa31f6102749754592",
+      "bytes_html": 128577,
+      "caracteres_texto": 47607,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/go/ricms/lei-20787-2020-progoias-atacadista-fundeinfra.md",
+      "sha256_markdown": "c0f10d0ce53aa4c48135c09d7528e6633fc85e19921785dff584c7a4bebf994d"
+    },
+    {
+      "fonte": "https://appasp.economia.go.gov.br/legislacao/arquivos/Rcte/RCTE.htm",
+      "sha256_html": "042e9e7a5beb450b5f90d0a752e0c05934b9d8447759c23805bbaaec90ef671e",
+      "bytes_html": 9944393,
+      "caracteres_texto": 1855033,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/go/ricms/decreto-4852-1997.md",
+      "sha256_markdown": "b5b7b20f88ba568dce3c5bd713c791ceab83fc65ecabf8904292d9c5ca6a697e"
+    },
+    {
+      "fonte": "https://appasp.economia.go.gov.br/legislacao/arquivos/leis/L_21671.htm",
+      "sha256_html": "ffac60f978cddbf2e71cf33d31bed8c8807e7147b290563df0a6984766f5e7aa",
+      "bytes_html": 138808,
+      "caracteres_texto": 7487,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/go/leis/fundos/lei-21671-2022-condicoes-fundeinfra.md",
+      "sha256_markdown": "f253d5edfb06ac2a3fc91989b17ec06492cb5c641a7922328e65f1dddaff50fc"
+    },
+    {
+      "fonte": "https://appasp.economia.go.gov.br/legislacao/arquivos/leis/L_24133.htm",
+      "sha256_html": "0e18ab0d03e2726a122768eb0033295cda29e24b36ed48071dab82151fe4690b",
+      "bytes_html": 135679,
+      "caracteres_texto": 4765,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/go/leis/fundos/lei-24133-2026-encerramento-contribuicao-fundeinfra.md",
+      "sha256_markdown": "2ef16d8d47bdfe71fad7303b577c3d1dea37607c366bff0235852e6f7d555431"
+    },
+    {
+      "fonte": "https://appasp.economia.go.gov.br/legislacao/arquivos/leis/L_22460.htm",
+      "sha256_html": "46614b3dbdfe540215150f038fa6c38849dfb5d11d0a457fd9efbbd7739b874a",
+      "bytes_html": 131883,
+      "caracteres_texto": 2011,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/go/leis/icms/lei-22460-2023-aliquota-modal.md",
+      "sha256_markdown": "9816dd5b3f92b161fafda661cad4f6b52bd0e655fe4641dfca714f51a9684b73"
+    },
+    {
+      "fonte": "https://appasp.economia.go.gov.br/legislacao/arquivos/decretos/D_09724.htm",
+      "sha256_html": "431209f6d24c43e57e3d000014e44008a3deaa7a317fb29c85944193c20e019c",
+      "bytes_html": 171796,
+      "caracteres_texto": 66698,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/go/ricms/decreto-9724-2020-progoias.md",
+      "sha256_markdown": "7f7c86e177752aeb54bcbbb4def8164757cc198ec61a1ae6e098062f38d0e12b"
+    },
+    {
+      "fonte": "https://appasp.economia.go.gov.br/legislacao/arquivos/leis/L_23130.htm",
+      "sha256_html": "2a3904d18093e243e28de7219a2e190d13a81cd34007830264ccfcf91d13fb0c",
+      "bytes_html": 175952,
+      "caracteres_texto": 32868,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/go/leis/pat/lei-23130-2024-alteracoes-pat.md",
+      "sha256_markdown": "78138bf99bb9273aca1f043d62c4dcb0c4a3ad1053a0eaf94b348bfa4007da1a"
+    },
+    {
+      "fonte": "https://appasp.economia.go.gov.br/legislacao/arquivos/leis/L_24391.htm",
+      "sha256_html": "37164baa053d957c4c7dbe213f5657ac084a74306a30f601299c8bc77cf8f3fd",
+      "bytes_html": 134600,
+      "caracteres_texto": 4028,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/go/leis/pat/lei-24391-2026-cte-pat.md",
+      "sha256_markdown": "1aab9d00fdecc19662a805182ca231a518f6fdcdf296b715525331384b87aa75"
+    },
+    {
+      "fonte": "https://appasp.economia.go.gov.br/legislacao/arquivos/leis/L_24441.htm",
+      "sha256_html": "137511d41aa46ef22e24cedff02f0aacc80478f8d145250c01a99a9cc4d8c789",
+      "bytes_html": 134500,
+      "caracteres_texto": 3192,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/go/leis/icms/lei-24441-2026-progoias.md",
+      "sha256_markdown": "7badf53d7434c6c34798383888319c15296a01e3567c7225e90a087711f276f5"
+    }
+  ]
+}
