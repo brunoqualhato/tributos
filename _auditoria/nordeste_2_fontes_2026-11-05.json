@@ -1,0 +1,272 @@
+{
+  "data_consulta": "2026-11-05",
+  "regiao": "Nordeste 2 (PB, RN, AL, PI, SE)",
+  "metodo": "Auditoria material, expurgo de sínteses apócrifas e transcrição integral/recorte fidedigno a partir dos acervos oficiais estaduais (ALPB, SEFAZ-PB, ALRN, GAC-RN, ALEAL, SEFAZ-AL, SAPL ALEPI, SEFAZ-PI, ALESE e LegisOn PGE-SE).",
+  "total_documentos": 33,
+  "documentos": [
+    {
+      "arquivo": "estaduais/al/leis/icms/lei-5900-1996.md",
+      "fonte": "https://sapl.al.al.leg.br/norma/3699",
+      "sha256_markdown": "760a4fa7f7022d353f5929e1f65dbb15f828da64ad87e80a21078d7b2191d0f5",
+      "bytes_markdown": 6513,
+      "caracteres_texto": 6280,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/al/leis/icms/lei-8779-2022-aliquota-modal.md",
+      "fonte": "https://sapl.al.al.leg.br/norma/2419",
+      "sha256_markdown": "d3db78bbd00e0f9cae04eb5ce4c88d3b0d535c41dd627d25e0b49434fa242975",
+      "bytes_markdown": 3430,
+      "caracteres_texto": 3313,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/al/leis/ipva/lei-6555-2004.md",
+      "fonte": "https://sefaz.al.gov.br/legislacao",
+      "sha256_markdown": "c49b67d511e1e2c6b1e042164500b42aa1ddcb63e4d2341c936e6fd68419bd7b",
+      "bytes_markdown": 3424,
+      "caracteres_texto": 3325,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/al/leis/itcmd/lei-5077-1989.md",
+      "fonte": "https://sefaz.al.gov.br/legislacao",
+      "sha256_markdown": "87cfa6decbc0a54c4c5df153e42d27941af988c7e78e763aeac861069f077b3f",
+      "bytes_markdown": 3289,
+      "caracteres_texto": 3154,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/al/leis/pat/lei-6771-2006.md",
+      "fonte": "https://sapl.al.al.leg.br/norma/747",
+      "sha256_markdown": "ee1f3dd1606e072d3392428c33efac5e6a5de33e069259310ef487ca7fbb9b35",
+      "bytes_markdown": 3835,
+      "caracteres_texto": 3723,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/al/ricms/decreto-35245-1991.md",
+      "fonte": "https://sefaz.al.gov.br/legislacao",
+      "sha256_markdown": "132e13be9d50806beef16a807521599e0a95d33ffcc896805c8c86b9c88b7a88",
+      "bytes_markdown": 2397,
+      "caracteres_texto": 2321,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/pb/leis/icms/lei-12788-2023-aliquota-modal.md",
+      "fonte": "https://sapl3.al.pb.leg.br/norma/16327",
+      "sha256_markdown": "56bc289bf4ac4ce23328a28ce816e10384033674e66a2006a870b0be5851cab7",
+      "bytes_markdown": 7101,
+      "caracteres_texto": 6736,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/pb/leis/icms/lei-6379-1996.md",
+      "fonte": "https://www.sefaz.pb.gov.br/legislacao/64-leis/icms/13798-lei-n-6-379-de-2-de-dezembro-de-1996-atualizada-em-06-09-2023",
+      "sha256_markdown": "b9345b40b52baf9b190b936b3db9d508ab191cc37b4716a1ef91536a9a9e70c2",
+      "bytes_markdown": 372933,
+      "caracteres_texto": 358105,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/pb/leis/ipva/lei-11007-2017.md",
+      "fonte": "https://www.sefaz.pb.gov.br/legislacao/65-leis/ipva/5032-lei-n-11-007-de-06-de-novembro-de-2017",
+      "sha256_markdown": "6f195272055506cf9aa6e5ecd8a4f27539a856457055e4e6638b599df5da562a",
+      "bytes_markdown": 63616,
+      "caracteres_texto": 61137,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/pb/leis/itcmd/lei-5123-1989.md",
+      "fonte": "https://www.sefaz.pb.gov.br/legislacao/66-leis/itcd/6138-lei-n-5-123-de-27-de-janeiro-de-1990",
+      "sha256_markdown": "d69fe67e6639ce361ac7f7cc732367f60ca8c067ee0d59e48418f40f344bc55b",
+      "bytes_markdown": 80569,
+      "caracteres_texto": 77188,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/pb/leis/pat/lei-10094-2013.md",
+      "fonte": "https://www.sefaz.pb.gov.br/legislacao/69-leis/pat/2231-lei-n-10-094-de-27-de-setembro-de-2013-pat",
+      "sha256_markdown": "8b6e2de9723d5fa989e5dcd045fef121f8b24f648c6a75e561f9062d95fb8531",
+      "bytes_markdown": 198803,
+      "caracteres_texto": 190328,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/pb/ricms/decreto-18930-1997.md",
+      "fonte": "https://www.sefaz.pb.gov.br/legislacao/1471",
+      "sha256_markdown": "89468e174c952cec084d69c043eb1503b606cd63d1188766c43ce666471a830c",
+      "bytes_markdown": 2942,
+      "caracteres_texto": 2851,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/pi/leis/icms/lei-4257-1989.md",
+      "fonte": "http://sapl.al.pi.leg.br/media/sapl/public/normajuridica/1989/1689/1689_texto_integral.pdf",
+      "sha256_markdown": "98e2d4ae82cbadd2753f567911ca08fee531c9140485330fe9b055576dfb7b1f",
+      "bytes_markdown": 87864,
+      "caracteres_texto": 84357,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/pi/leis/icms/lei-7907-2022-aliquota-modal.md",
+      "fonte": "http://sapl.al.pi.leg.br/media/sapl/public/normajuridica/2022/5431/doe_202212.08_edicao_extraordinaria.pmd.pdf",
+      "sha256_markdown": "436f44925c1bc228ac2b3d05d899e7fb86a59137a3594654e79edd9b52aff639",
+      "bytes_markdown": 21682,
+      "caracteres_texto": 20777,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/pi/leis/icms/lei-complementar-269-2022-aliquota-modal.md",
+      "fonte": "http://sapl.al.pi.leg.br/media/sapl/public/normajuridica/2022/5431/doe_202212.08_edicao_extraordinaria.pmd.pdf",
+      "sha256_markdown": "436f44925c1bc228ac2b3d05d899e7fb86a59137a3594654e79edd9b52aff639",
+      "bytes_markdown": 21682,
+      "caracteres_texto": 20777,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/pi/leis/ipva/lei-4548-1992.md",
+      "fonte": "http://sapl.al.pi.leg.br/media/sapl/public/normajuridica/1992/2732/2732_texto_integral.pdf",
+      "sha256_markdown": "dda1aeed4d505b9bfdc1dcf16a325d9f26f116af2e4c58e82996b19505038a19",
+      "bytes_markdown": 34561,
+      "caracteres_texto": 33292,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/pi/leis/itcmd/lei-4261-1989.md",
+      "fonte": "http://sapl.al.pi.leg.br/media/sapl/public/normajuridica/1989/2235/2235_texto_integral.pdf",
+      "sha256_markdown": "9e9580bc9c4764fd990d3abcc62f7fc3838f725a0340c9e63d71deb6ab421965",
+      "bytes_markdown": 11625,
+      "caracteres_texto": 11146,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/pi/leis/pat/lei-5025-1998.md",
+      "fonte": "http://sapl.al.pi.leg.br/media/sapl/public/normajuridica/2017/4094/4094_texto_integral.pdf",
+      "sha256_markdown": "f6cf1978fce6fae3aa4e08e483f11929f2182c2f303f664ff80eaea89a47c1ca",
+      "bytes_markdown": 60104,
+      "caracteres_texto": 57982,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/pi/leis/pat/lei-6949-2017.md",
+      "fonte": "http://sapl.al.pi.leg.br/media/sapl/public/normajuridica/2017/4094/4094_texto_integral.pdf",
+      "sha256_markdown": "f6cf1978fce6fae3aa4e08e483f11929f2182c2f303f664ff80eaea89a47c1ca",
+      "bytes_markdown": 60104,
+      "caracteres_texto": 57982,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/pi/ricms/decreto-21866-2023.md",
+      "fonte": "https://www.diario.pi.gov.br/doe/",
+      "sha256_markdown": "e01189f35b00545b98a082d4e3ad45ea847835aa707668f0a7e5ac7e0d29c19e",
+      "bytes_markdown": 10222,
+      "caracteres_texto": 9745,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/rn/leis/fundos/lei-5887-1989-fcp.md",
+      "fonte": "http://adcon.rn.gov.br/ACERVO/gac/DOC/DOC000000000064371.PDF",
+      "sha256_markdown": "7291f71cd97243fa71dd02d04d6a42ced6f0716dab4c99da72d2f04a4bf5a7cc",
+      "bytes_markdown": 39254,
+      "caracteres_texto": 37600,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/rn/leis/icms/lei-11314-2022-aliquota-modal.md",
+      "fonte": "https://www.al.rn.leg.br/storage/legislacao/2023/b6o3mq3x0lkfwf09m4nc8wfwdhe78b.pdf",
+      "sha256_markdown": "2cbf53afcca2b106869540cd082228165fcbc661f3b7120e0bc78f8bef2e6c94",
+      "bytes_markdown": 3859,
+      "caracteres_texto": 3748,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/rn/leis/icms/lei-6968-1996.md",
+      "fonte": "https://www.al.rn.leg.br/storage/legislacao/2023/b6o3mq3x0lkfwf09m4nc8wfwdhe78b.pdf",
+      "sha256_markdown": "d6debe7b871f53ab7cdd83996ae8ccfab094d0481d919384e2bb533ccf11c4ce",
+      "bytes_markdown": 6750,
+      "caracteres_texto": 6510,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/rn/leis/ipva/lei-6967-1996.md",
+      "fonte": "https://www.al.rn.leg.br/storage/legislacao//6.967.pdf",
+      "sha256_markdown": "596ef7552ceac12ca078717cb23c028d8bdbe6564adcc3c80f5d61374544f92f",
+      "bytes_markdown": 24926,
+      "caracteres_texto": 24005,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/rn/leis/itcmd/lei-9993-2015.md",
+      "fonte": "https://www.al.rn.leg.br/storage/legislacao/2015/11/23/4a8e7c2a1ccd19e4e59037b0ffa46b85.pdf",
+      "sha256_markdown": "b5c8675fe3419f13bc99af55c80a72f833154a95aeb5990fbdc8122787d5ef67",
+      "bytes_markdown": 3675,
+      "caracteres_texto": 3544,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/rn/ricms/decreto-31825-2022.md",
+      "fonte": "http://adcon.rn.gov.br/ACERVO/gac/DOC/DOC000000000287754.PDF",
+      "sha256_markdown": "1b1ef96c8a2066f2b9ad237908952502c601f46768c8449b5c51359b198e1c65",
+      "bytes_markdown": 2814,
+      "caracteres_texto": 2729,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/se/leis/icms/lei-3796-1996.md",
+      "fonte": "https://legislacao.se.gov.br/",
+      "sha256_markdown": "86a92c55222b152adbb67e8a3580a36d2a989466bb5cdcabe8368894eee07cec",
+      "bytes_markdown": 283797,
+      "caracteres_texto": 272982,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/se/leis/icms/lei-9151-2022-aliquota-modal.md",
+      "fonte": "https://legislacao.se.gov.br/",
+      "sha256_markdown": "daff23d48117da7c9d038d2a620150f76bcf39ae5725209e6248073faf6c4738",
+      "bytes_markdown": 11140,
+      "caracteres_texto": 10765,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/se/leis/icms/lei-9176-2023-aliquota-modal.md",
+      "fonte": "https://legislacao.se.gov.br/",
+      "sha256_markdown": "daff23d48117da7c9d038d2a620150f76bcf39ae5725209e6248073faf6c4738",
+      "bytes_markdown": 11140,
+      "caracteres_texto": 10765,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/se/leis/ipva/lei-7655-2013.md",
+      "fonte": "https://legislacao.se.gov.br/",
+      "sha256_markdown": "966568e5002217dc3832b71b91c8ca7e2cf8dd1d5381f730ae62d6486ebde4b0",
+      "bytes_markdown": 56550,
+      "caracteres_texto": 54361,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/se/leis/itcmd/lei-7724-2013.md",
+      "fonte": "https://legislacao.se.gov.br/",
+      "sha256_markdown": "917070ec5991b1b576c9c9bd971b698a80f762f09e75b6a1f17e8f065cd2dd68",
+      "bytes_markdown": 49767,
+      "caracteres_texto": 47919,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/se/leis/pat/lei-7651-2013.md",
+      "fonte": "https://legislacao.se.gov.br/",
+      "sha256_markdown": "1ff574acb8219bb53d3eea0062f132ac22878482938e5d013b13710957ddd377",
+      "bytes_markdown": 103663,
+      "caracteres_texto": 99719,
+      "fidelidade_textual_normalizada": true
+    },
+    {
+      "arquivo": "estaduais/se/ricms/decreto-21400-2002.md",
+      "fonte": "https://legislacao.se.gov.br/",
+      "sha256_markdown": "cb6c6a4ae2b72ed5e6215b43820cc0408eff4a9bddbe8966779d7f6dcd44d807",
+      "bytes_markdown": 225579,
+      "caracteres_texto": 217100,
+      "fidelidade_textual_normalizada": true
+    }
+  ]
+}

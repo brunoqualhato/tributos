@@ -118,11 +118,11 @@ II - utilizando-se o valor unitário, que será calculado pela média aritmétic
 
 Acrescido o § 8º à cláusula quinta pelo Conv. ICMS 76/14, efeitos a partir de 01.11.14.
 
- § 8º Na hipótese de produto novo, para fins de cálculo do conteúdo de importação, serão considerados: 
+ § 8º Na hipótese de produto novo, para fins de cálculo do conteúdo de importação, serão considerados:
 
- I - valor da parcela importada, o referido no inciso VI da cláusula quinta, apurado conforme inciso I do § 2º da cláusula quarta; 
+ I - valor da parcela importada, o referido no inciso VI da cláusula quinta, apurado conforme inciso I do § 2º da cláusula quarta;
 
- II - valor total da saída interestadual, o referido no inciso VII da cláusula quinta, informado com base no preço de venda, excluindo-se os valores do ICMS e do IPI. 
+ II - valor total da saída interestadual, o referido no inciso VII da cláusula quinta, informado com base no preço de venda, excluindo-se os valores do ICMS e do IPI.
 
 ** Cláusula sexta ** O contribuinte sujeito ao preenchimento da FCI deverá prestar a informação à unidade federada de origem por meio de declaração em arquivo digital com assinatura digital do contribuinte ou seu representante legal, certificada por entidade credenciada pela Infra-Estrutura de Chaves Públicas Brasileira - ICP-Brasil.
 
@@ -172,7 +172,7 @@ Redação original, efeitos até 15.08.13.
 
  Cláusula décima primeira Enquanto não forem criados campos próprios na NF-e para preenchimento das informações de que trata a cláusula sétima deverá ser informado no campo “Dados Adicionais do Produto” (TAG 325 - infAdProd), por bem ou mercadoria, o número da FCI do correspondente item da NF-e, bem como o percentual correspondente ao valor da parcela importada, com a expressão: “Resolução do Senado Federal nº 13/12, Número da FCI_______.”.
 
-** Cláusula décima segunda ** Ficam os Estados e o Distrito Federal autorizados a remitir os créditos tributários constituídos ou não em virtude do descumprimento das obrigações acessórias instituídas pelo Ajuste SINIEF nº 19, de 7 de novembro de 2012 . 
+** Cláusula décima segunda ** Ficam os Estados e o Distrito Federal autorizados a remitir os créditos tributários constituídos ou não em virtude do descumprimento das obrigações acessórias instituídas pelo Ajuste SINIEF nº 19, de 7 de novembro de 2012 .
 
 ** Cláusula décima terceira ** Este convênio entra em vigor na data de publicação da sua ratificação nacional, produzindo efeitos, em relação a entrega da Ficha de Conteúdo de Importação - FCI, a partir de 1º de agosto de 2013.
 

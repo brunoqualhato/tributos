@@ -1,0 +1,240 @@
+{
+  "data_consulta": "2026-11-05",
+  "regiao": "Nordeste 1 (BA, PE, CE, MA)",
+  "total_documentos": 29,
+  "metodo": "Transcrição e conferência integral de fontes oficiais (ALBA/SEFAZ-BA, ALEPE/SEFAZ-PE, ALECE/SEFAZ-CE, ALEMA/SEFAZ-MA), expurgo de artigos sintéticos/fabricados, eliminação de artefatos de paginação PDF/web e formatação em CommonMark estrito com frontmatter canônico e fórmulas em LaTeX.",
+  "documentos": [
+    {
+      "arquivo": "estaduais/ba/leis/fundos/lei-14527-2022-fain-fefir.md",
+      "fonte": "https://www.al.ba.gov.br/atividade-legislativa-nova/proposicao/PL.-24676-2022",
+      "caracteres_texto": 5164,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Texto integral oficial",
+      "sha256_markdown": "39254c79ae2eee2e34b22b2730851e728137a7db692e17620e54e510be9f59b7"
+    },
+    {
+      "arquivo": "estaduais/ba/leis/icms/lei-14629-2023-aliquota-modal.md",
+      "fonte": "https://www.al.ba.gov.br/atividade-legislativa-nova/proposicao/PL.-25091-2023",
+      "caracteres_texto": 2511,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Texto integral oficial",
+      "sha256_markdown": "756e870a71c6e95d3f337de4f24b865cdf800eb4c7af8c32cc60d3f1111f7be7"
+    },
+    {
+      "arquivo": "estaduais/ba/leis/icms/lei-7014-1996.md",
+      "fonte": "http://mbusca.sefaz.ba.gov.br/DITRI/leis/leis_estaduais/legest_1996_7014.pdf",
+      "caracteres_texto": 195274,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Texto integral oficial consolidado",
+      "sha256_markdown": "315a81b357caa821d4fbfe9fbe1b448bd94b02073c439f3d6d86b57a0df27d4e"
+    },
+    {
+      "arquivo": "estaduais/ba/leis/ipva/lei-6348-1991.md",
+      "fonte": "http://mbusca.sefaz.ba.gov.br/DITRI/leis/leis_estaduais/legest_1991_6348_lei_ipva.pdf",
+      "caracteres_texto": 38189,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Texto integral oficial consolidado",
+      "sha256_markdown": "0b1b232f2e648ef297930b8863fc81f8f133766e26b58da192dbaeebc1fd4d7c"
+    },
+    {
+      "arquivo": "estaduais/ba/leis/itcmd/lei-4826-1989.md",
+      "fonte": "http://mbusca.sefaz.ba.gov.br/DITRI/leis/leis_estaduais/legest_1989_4826_lei_itd.pdf",
+      "caracteres_texto": 20510,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Texto integral oficial consolidado",
+      "sha256_markdown": "661d10a33b8ebdea5ae846d72162edcfeb136398bb121e36447dd4b9d1b593fa"
+    },
+    {
+      "arquivo": "estaduais/ba/leis/pat/decreto-7629-1999-consef-ba.md",
+      "fonte": "http://mbusca.sefaz.ba.gov.br/DITRI/decretos/decretos_estaduais/decest_1999_7629_rpaf.pdf",
+      "caracteres_texto": 171976,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Consolidação regulamentar oficial",
+      "sha256_markdown": "9f76152fc4e098f1e34212b8ef7677caf19a156015c25ed53a8b121bbd3222fa"
+    },
+    {
+      "arquivo": "estaduais/ba/ricms/decreto-13780-2012.md",
+      "fonte": "http://mbusca.sefaz.ba.gov.br/DITRI/decretos/decretos_estaduais/decest_2012_13780_ricms.pdf",
+      "caracteres_texto": 10526,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Consolidação regulamentar oficial",
+      "sha256_markdown": "3ed40f7a311b6b94898724b68a508ec5d75fff7c313d1c07e3639f7e26dfd811"
+    },
+    {
+      "arquivo": "estaduais/ba/ricms/decreto-7799-2000-atacadista-desenvolve-ba.md",
+      "fonte": "http://mbusca.sefaz.ba.gov.br/DITRI/decretos/decretos_estaduais/decest_2000_7799.pdf",
+      "caracteres_texto": 38448,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Consolidação regulamentar oficial",
+      "sha256_markdown": "a014de836b5e1c261547da0057794657852efbc10ab0d96add3d37f59d78409f"
+    },
+    {
+      "arquivo": "estaduais/pe/leis/icms/lei-15730-2016.md",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?tiponorma=1&numero=15730&complemento=0&ano=2016&tipo=&url=",
+      "caracteres_texto": 290862,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Texto integral oficial consolidado",
+      "sha256_markdown": "6fc6030fb99b86a76a08fb09028e3e3fa599508a10bbf8cdd2ac14763b699937"
+    },
+    {
+      "arquivo": "estaduais/pe/leis/icms/lei-18305-2023-aliquota-modal.md",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?tiponorma=1&numero=18305&complemento=0&ano=2023&tipo=&url=",
+      "caracteres_texto": 102361,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Texto integral oficial",
+      "sha256_markdown": "b76dff938305024cf4ac7220cebdf6b9ff9f13d2d871cc54709fe775e611be24"
+    },
+    {
+      "arquivo": "estaduais/pe/leis/ipva/lei-10849-1992.md",
+      "fonte": "https://www.sefaz.pe.gov.br/Legislacao/Tributaria/Documents/legislacao/Leis_Tributarias/1992/Lei10849_92.htm",
+      "caracteres_texto": 127229,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Texto integral oficial consolidado",
+      "sha256_markdown": "9eeb2e9923d152d7b41771757d3eb4220c715f69ad71296edf8131fa0bd65fd5"
+    },
+    {
+      "arquivo": "estaduais/pe/leis/itcmd/lei-13974-2009.md",
+      "fonte": "https://www.sefaz.pe.gov.br/Legislacao/Tributaria/Documents/Legislacao/Leis_Tributarias/2009/Lei13974_2009.htm",
+      "caracteres_texto": 78170,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Texto integral oficial consolidado",
+      "sha256_markdown": "905a50e0d7d2bbe338905f5655802ab7e3e857e1eafb0c9d735557035fbc1df3"
+    },
+    {
+      "arquivo": "estaduais/pe/leis/pat/lei-10654-1991-tate-pat.md",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?tiponorma=1&numero=10654&complemento=0&ano=1991&tipo=&url=",
+      "caracteres_texto": 299312,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Texto integral oficial consolidado",
+      "sha256_markdown": "34a4c85ac13d808eb281a15f2ae96ce824de4180c922df2fe56af58169490f6d"
+    },
+    {
+      "arquivo": "estaduais/pe/ricms/decreto-44650-2017.md",
+      "fonte": "https://www.sefaz.pe.gov.br/Legislacao/Tributaria",
+      "caracteres_texto": 6753,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Consolidação regulamentar oficial",
+      "sha256_markdown": "2d4cb0eb135bee93d6870f183000ebc32f1b8b7af77c6201f67f330fe9dea1d7"
+    },
+    {
+      "arquivo": "estaduais/pe/ricms/lei-11675-1999-prodepe-pe.md",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?tiponorma=1&numero=11675&complemento=0&ano=1999&tipo=&url=",
+      "caracteres_texto": 130166,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Texto integral oficial consolidado",
+      "sha256_markdown": "9e2fb3239effce1530714fac7db17448accaba41308e774da6a6e864aa0463e0"
+    },
+    {
+      "arquivo": "estaduais/ce/leis/icms/lei-18305-2023-aliquota-modal.md",
+      "fonte": "https://www2.al.ce.gov.br/legislativo/legislacao5/leis2023/18305.htm",
+      "caracteres_texto": 6351,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Texto integral oficial",
+      "sha256_markdown": "9fd9b0ede8b438e0114a4fea7a77b887e2fa5879fd602f6fd0196c0b06f9e719"
+    },
+    {
+      "arquivo": "estaduais/ce/leis/icms/lei-18665-2023.md",
+      "fonte": "https://www2.al.ce.gov.br/legislativo/legislacao5/leis2023/18665.htm",
+      "caracteres_texto": 304926,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Texto integral oficial consolidado",
+      "sha256_markdown": "481ebea0978323ba60c7d3133e280d1de9803bd89b81bacbf15b12bdd8224088"
+    },
+    {
+      "arquivo": "estaduais/ce/leis/ipva/lei-12023-1992.md",
+      "fonte": "https://www2.al.ce.gov.br/legislativo/tramitando/lei/12023.htm",
+      "caracteres_texto": 13015,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Texto integral oficial consolidado",
+      "sha256_markdown": "ec9e69ca9433eea8e6248f339d2a15d6d7f71b289f9481ca559ee8363f602806"
+    },
+    {
+      "arquivo": "estaduais/ce/leis/itcmd/lei-15812-2015.md",
+      "fonte": "https://www2.al.ce.gov.br/legislativo/legislacao5/leis2015/15812.htm",
+      "caracteres_texto": 32047,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Texto integral oficial consolidado",
+      "sha256_markdown": "e2d1d9f27cf03fb085747b481a38b556e3b5c49b9d56bd4b2c03faf066311942"
+    },
+    {
+      "arquivo": "estaduais/ce/leis/pat/lei-15614-2014-conat-pat.md",
+      "fonte": "https://www2.al.ce.gov.br/legislativo/legislacao5/leis2014/15614.htm",
+      "caracteres_texto": 109613,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Texto integral oficial consolidado com notas históricas",
+      "sha256_markdown": "893ea0e0b5a017ae2ebf3f7e02e2665ae6ca47a6d71f68e8478c01d8985393e1"
+    },
+    {
+      "arquivo": "estaduais/ce/ricms/decreto-33327-2019.md",
+      "fonte": "https://www.sefaz.ce.gov.br/legislacao",
+      "caracteres_texto": 8972,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Consolidação regulamentar oficial",
+      "sha256_markdown": "dfd0de9d9bbb095342ff4ef2ccd6f4ee56c363a6424fce0683b499aad18e9120"
+    },
+    {
+      "arquivo": "estaduais/ce/ricms/lei-14237-2008-carga-liquida-fdi-ce.md",
+      "fonte": "https://www2.al.ce.gov.br/legislativo/legislacao5/leis2008/14237.htm",
+      "caracteres_texto": 38212,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Texto integral oficial consolidado",
+      "sha256_markdown": "0fc6f28ee116d53ae75ba1c918b4b28aa1d03e324726310628b1fb94c32e1c27"
+    },
+    {
+      "arquivo": "estaduais/ma/leis/fundos/lei-8205-2004-fecop.md",
+      "fonte": "https://arquivos.al.ma.leg.br:8443/ged/legislacao/LEI_8205",
+      "caracteres_texto": 9577,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Texto integral oficial",
+      "sha256_markdown": "2b2db8fb79c07c693618ff1e8967fdc86a3d0942857200aacf4c67a88da70ca7"
+    },
+    {
+      "arquivo": "estaduais/ma/leis/icms/lei-12120-2023-aliquota-modal.md",
+      "fonte": "https://arquivos.al.ma.leg.br:8443/ged/legislacao/LEI_12120",
+      "caracteres_texto": 28675,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Texto integral oficial",
+      "sha256_markdown": "6dcc0221e247a541884e388e0282d053beb38164b450c5501a464187debd66ff"
+    },
+    {
+      "arquivo": "estaduais/ma/leis/icms/lei-7799-2002.md",
+      "fonte": "https://arquivos.al.ma.leg.br:8443/ged/legislacao/LEI_7799",
+      "caracteres_texto": 90266,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Recorte literal da consolidação oficial",
+      "sha256_markdown": "ae24af44f53f9e28c48b3c3717a7421b8f3dd145c582580d6388de6e33f23234"
+    },
+    {
+      "arquivo": "estaduais/ma/leis/ipva/lei-7799-2002.md",
+      "fonte": "https://arquivos.al.ma.leg.br:8443/ged/legislacao/LEI_7799",
+      "caracteres_texto": 14911,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Recorte literal da consolidação oficial",
+      "sha256_markdown": "e48d189a1501c4fb15b511c3bf11850bd21cbc9339e30139d3bb8edbdb74dcc9"
+    },
+    {
+      "arquivo": "estaduais/ma/leis/itcmd/lei-7799-2002.md",
+      "fonte": "https://arquivos.al.ma.leg.br:8443/ged/legislacao/LEI_7799",
+      "caracteres_texto": 7581,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Recorte literal da consolidação oficial",
+      "sha256_markdown": "e47a513bf6df0a552e9668d51a271babc5990216c034fe2f6e4dab34067895a0"
+    },
+    {
+      "arquivo": "estaduais/ma/leis/pat/lei-9127-2010-tate-pat.md",
+      "fonte": "https://arquivos.al.ma.leg.br:8443/ged/legislacao/LEI_9127",
+      "caracteres_texto": 70427,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Texto integral oficial",
+      "sha256_markdown": "96e7c2a74188bd292b803a075bdfb36986f1139529bff7867b401370486befd2"
+    },
+    {
+      "arquivo": "estaduais/ma/ricms/decreto-19714-2003.md",
+      "fonte": "https://sistemas1.sefaz.ma.gov.br/portalsefaz",
+      "caracteres_texto": 6390,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Consolidação regulamentar oficial",
+      "sha256_markdown": "fcbc03b742973f63a85e32b93ebd2b879a3e375fb72fac7944017a0b30b399e9"
+    }
+  ]
+}

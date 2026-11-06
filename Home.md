@@ -1,7 +1,7 @@
 # Acervo Nacional de Direito Tributário e Contabilidade
 
 > **Base Canônica de Legislação Fiscal, Contábil e Regulatória do Brasil**  
-> **Total de Documentos Catalogados:** 1.241 normas estruturadas  
+> **Total de Documentos Catalogados:** 1.303 normas estruturadas
 > **Status:** 100% de conformidade técnica, schema YAML canônico e URLs oficiais ativas.
 
 ---
@@ -35,7 +35,7 @@ Navegue pela base de conhecimento estruturada através dos **Mapas de Conteúdo 
 ---
 
 ## 🔍 Índices e Relatórios de Governança
-- [[ACERVO|Catálogo Completo das 1.241 Normas (ACERVO.md)]]
+- [[ACERVO|Catálogo Completo das 1.303 Normas (ACERVO.md)]]
 - [[PROGRESSO|Relatório de Metas e Cobertura dos 10 Pilares (PROGRESSO.md)]]
 - [[WORKLOG|Histórico de Atualizações e Registro Cronológico (WORKLOG.md)]]
 - [[_auditoria/auditoria_nacional_estados_e_tributos|Diagnóstico Nacional de PIS/COFINS, IBS/CBS e 27 UFs]]

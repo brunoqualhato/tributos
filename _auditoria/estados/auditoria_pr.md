@@ -1,7 +1,7 @@
 # AUDITORIA TRIBUTÁRIA ESTATAL APROFUNDADA: ESTADO DO PARANÁ (PR)
-**Data de Emissão:** Outubro de 2026  
-**Auditor Responsável:** Auditor Tributarista Especialista em Legislação Tributária do Estado do Paraná  
-**Unidade Federativa:** Paraná (PR) | Região Sul  
+**Data de Emissão:** Outubro de 2026
+**Auditor Responsável:** Auditor Tributarista Especialista em Legislação Tributária do Estado do Paraná
+**Unidade Federativa:** Paraná (PR) | Região Sul
 **Escopo:** Auditoria do Acervo Normativo Local, Relações Interestaduais, Tributação Setorial (Agropecuária, Indústria e Portos, Atacado e Varejo) e Transição para o Novo Sistema Tributário Nacional (IBS/CBS - EC 132/2023 e LC 214/2025)
 
 ---
@@ -104,13 +104,13 @@ $$\text{Base Dupla PR} = \frac{\text{Valor Líquido}}{1 - \text{Alíquota Intern
 
 $$\text{DIFAL Devido PR} = (\text{Base Dupla PR} \times \text{Alíquota Interna PR}) - \text{ICMS Origem}$$
 
-*Exemplo Prático Numérico:*  
+*Exemplo Prático Numérico:*
 Aquisição de bem para ativo imobilizado oriundo de SP (alíquota interestadual de 12%) no valor de R$ 100.000,00:
 * ICMS de Origem destacado (12%): R$ 12.000,00;
 * Valor Líquido: $R\$\;100.000,00 - R\$\;12.000,00 = R\$\;88.000,00$;
 * Base Dupla Recomposta (com interna de 19,5%): $\frac{88.000,00}{1 - 0,195} = \frac{88.000,00}{0,805} \approx R\$\;109.316,77$;
 * Débito do ICMS Interno PR: $109.316,77 \times 19,5\% = R\$\;21.316,77$;
-* DIFAL a Recolher ao Paraná: $R\$\;21.316,77 - R\$\;12.000,00 = \mathbf{R\$\;9.316,77}$.  
+* DIFAL a Recolher ao Paraná: $R\$\;21.316,77 - R\$\;12.000,00 = \mathbf{R\$\;9.316,77}$.
 *(Caso o cálculo fosse em base simples nominal, o DIFAL seria de apenas 7,5% = R$ 7.500,00. A base dupla paranaense produz um acréscimo de R$ 1.816,77).*
 
 #### B) DIFAL Consumidor Final Não Contribuinte (EC 87/2015, LC 190/2021 e Lei PR nº 20.949/2021)
@@ -240,7 +240,7 @@ Nos termos do **Anexo III do RICMS/PR**, o Paraná concede créditos outorgados 
 
 ### 5.1. Tomada de Crédito sobre Matérias-Primas, Insumos e Energia Elétrica
 * **Matérias-Primas e Embalagens:** O crédito do ICMS é irrestrito para aquisições de insumos, matérias-primas e embalagens que sejam consumidos de forma direta e indispensável no processo de fabricação ou que integrem fisicamente o produto acabado comercializado (Lei nº 11.580/1996, art. 22).
-* **Energia Elétrica (LC 87/1996, art. 33, II, "b" e RICMS/PR, art. 23):**  
+* **Energia Elétrica (LC 87/1996, art. 33, II, "b" e RICMS/PR, art. 23):**
   O direito ao crédito da energia elétrica consumida no estabelecimento industrial não é integral. A apropriação restringe-se **exclusivamente à parcela da energia elétrica gasta diretamente na linha de produção / processo de industrialização**.
   - *Exigência do Laudo Técnico Pericial:* Para afastar glosas e autuações, a Receita Estadual do Paraná exige a apresentação de laudo técnico de rateio de energia elétrica subscrito por engenheiro habilitado junto ao CREA, demonstrando o consumo setorizado das máquinas fabris em relação às áreas administrativas, iluminação externa e refeitórios.
 
@@ -275,7 +275,7 @@ O **Programa Paraná Competitivo** é o principal vetor de atração e sustenta�
 
 ### 5.3. Complexo Portuário de Paranaguá e Antonina: Regimes de Importação e Drawback
 A infraestrutura portuária administrada pela empresa pública Portos do Paraná (Portos de Paranaguá e Antonina) opera com regime aduaneiro-tributário amplamente privilegiado:
-* **Diferimento na Importação Portuária (Lei nº 14.985/2006 com alterações da Lei nº 15.467/2007 e arts. 444 a 455 do RICMS/PR):**  
+* **Diferimento na Importação Portuária (Lei nº 14.985/2006 com alterações da Lei nº 15.467/2007 e arts. 444 a 455 do RICMS/PR):**
   O ICMS incidente no desembaraço aduaneiro de matérias-primas, produtos intermediários e insumos destinados à industrialização em estabelecimentos industriais paranaenses tem seu recolhimento **diferido** para o momento da saída do produto acabado resultante da fabricação.
   - *Condição Sine Qua Non:* É obrigatório o desembarque físico das cargas pelo Porto de Paranaguá ou Porto de Antonina e o correspondente desembaraço aduaneiro ser procedido perante a alfândega paranaense.
   - *Extensão Rodoviária (Lei 15.467/2007):* Aplica-se a suspensão do ICMS também a mercadorias procedentes de países da América Latina (Mercosul) que ingressem no Paraná por via rodoviária através da fronteira de Foz do Iguaçu (Ponte da Amizade e Ponte Tancredo Neves).

@@ -1,10 +1,10 @@
 # Relatório de Auditoria e Diagnóstico Tributário Aprofundado: Estado do Espírito Santo (ES)
 
 ---
-**Auditor Responsável:** Consultoria Tributária Especializada — Núcleo de Tributação Estadual e Regimes Especiais  
-**Unidade Federativa:** Estado do Espírito Santo (ES)  
-**Data da Auditoria:** Outubro de 2026  
-**Status do Repositório Estadual (`estaduais/es/`):** Auditado com Identificação de Lacunas Normativas e Plano de Ação  
+**Auditor Responsável:** Consultoria Tributária Especializada — Núcleo de Tributação Estadual e Regimes Especiais
+**Unidade Federativa:** Estado do Espírito Santo (ES)
+**Data da Auditoria:** Outubro de 2026
+**Status do Repositório Estadual (`estaduais/es/`):** Auditado com Identificação de Lacunas Normativas e Plano de Ação
 **Marco Legal Principal:** CF/88; Resoluções SF nº 22/1989 e 13/2012; LC nº 87/1996; LC nº 160/2017; LC nº 190/2021; LC nº 204/2023; EC nº 132/2023; LC nº 214/2025; Lei Estadual nº 7.000/2001; Decreto Estadual nº 1.090-R/2002 (RICMS/ES); Lei Estadual nº 10.568/2016 (COMPETE-ES e INVEST-ES); Lei Estadual nº 2.508/1970 (FUNDAP).
 
 ---
@@ -15,24 +15,24 @@
 
 O exame do diretório [`estaduais/es/`](file:///Users/brunoqualhato/Documents/meus/tributos/estaduais/es/) identificou a presença de 4 (quatro) arquivos estruturados em formato Markdown, contendo metadados completos em YAML Frontmatter e conteúdo analítico:
 
-1. **[`estaduais/es/ricms/decreto-1090-r-2002.md`](file:///Users/brunoqualhato/Documents/meus/tributos/estaduais/es/ricms/decreto-1090-r-2002.md):**  
-   - *Objeto:* Regulamento do ICMS do Estado do Espírito Santo (RICMS/ES), aprovado pelo Decreto nº 1.090-R, de 25 de outubro de 2002.  
-   - *Conteúdo Coberto:* Hipóteses de incidência e não incidência, quadro geral de alíquotas (alíquota modal de 17%, seletivas e interestaduais), regras de DIFAL (com ênfase na base única tradicional capixaba), substituição tributária (Anexo V) e menção genérica a transferências entre estabelecimentos da mesma titularidade (LC 204/2023).  
+1. **[`estaduais/es/ricms/decreto-1090-r-2002.md`](file:///Users/brunoqualhato/Documents/meus/tributos/estaduais/es/ricms/decreto-1090-r-2002.md):**
+   - *Objeto:* Regulamento do ICMS do Estado do Espírito Santo (RICMS/ES), aprovado pelo Decreto nº 1.090-R, de 25 de outubro de 2002.
+   - *Conteúdo Coberto:* Hipóteses de incidência e não incidência, quadro geral de alíquotas (alíquota modal de 17%, seletivas e interestaduais), regras de DIFAL (com ênfase na base única tradicional capixaba), substituição tributária (Anexo V) e menção genérica a transferências entre estabelecimentos da mesma titularidade (LC 204/2023).
    - *Diagnóstico Técnico:* Excelente estrutura conceitual, mas carece de incorporação das regulamentações recentes introduzidas pelos Decretos nº 5.589-R/2023 e nº 5.768-R/2024 (opção pelo Convênio ICMS 109/2024 no RUDFTO) e do detalhamento dos livros de apuração e anexos setoriais.
 
-2. **[`estaduais/es/ricms/lei-10568-2016-compete-es-invest-es.md`](file:///Users/brunoqualhato/Documents/meus/tributos/estaduais/es/ricms/lei-10568-2016-compete-es-invest-es.md):**  
-   - *Objeto:* Lei Estadual nº 10.568, de 26 de julho de 2016, que institui o Programa de Desenvolvimento e Proteção à Economia do Estado do Espírito Santo (COMPETE-ES) e consolida os regimes de incentivos fiscais atacadista, e-commerce e industrial (INVEST-ES).  
-   - *Conteúdo Coberto:* A assimetria constitucional da Resolução SF 22/89 (compras a 7% de Sul/Sudeste e saídas a 12%), o COMPETE Atacadista (carga líquida efetiva de 1,10% com estorno de créditos de entrada e crédito presumido de saída), COMPETE E-Commerce / Vendas Não Presenciais (carga líquida de 1,10% recolhida ao ES combinada com o DIFAL de destino) e introdução ao INVEST-ES e FUNDAP.  
+2. **[`estaduais/es/ricms/lei-10568-2016-compete-es-invest-es.md`](file:///Users/brunoqualhato/Documents/meus/tributos/estaduais/es/ricms/lei-10568-2016-compete-es-invest-es.md):**
+   - *Objeto:* Lei Estadual nº 10.568, de 26 de julho de 2016, que institui o Programa de Desenvolvimento e Proteção à Economia do Estado do Espírito Santo (COMPETE-ES) e consolida os regimes de incentivos fiscais atacadista, e-commerce e industrial (INVEST-ES).
+   - *Conteúdo Coberto:* A assimetria constitucional da Resolução SF 22/89 (compras a 7% de Sul/Sudeste e saídas a 12%), o COMPETE Atacadista (carga líquida efetiva de 1,10% com estorno de créditos de entrada e crédito presumido de saída), COMPETE E-Commerce / Vendas Não Presenciais (carga líquida de 1,10% recolhida ao ES combinada com o DIFAL de destino) e introdução ao INVEST-ES e FUNDAP.
    - *Diagnóstico Técnico:* Arquivo de alto valor estratégico e alta fidelidade prática. Encontra-se alocado dentro da pasta `ricms/`, recomendando-se criar link simbólico ou realocação conceitual na pasta `leis/icms/`.
 
-3. **[`estaduais/es/leis/itcmd/lei-10011-2013.md`](file:///Users/brunoqualhato/Documents/meus/tributos/estaduais/es/leis/itcmd/lei-10011-2013.md):**  
-   - *Objeto:* Lei Estadual nº 10.011, de 20 de maio de 2013, que disciplina o Imposto sobre a Transmissão Causa Mortis e Doação de Quaisquer Bens ou Direitos (ITCMD) no Espírito Santo.  
-   - *Conteúdo Coberto:* Fato gerador, regras de competência territorial pós-EC 132/2023, alíquota fixa linear de 4% (com projeto de adequação à progressividade obrigatória) e isenções.  
+3. **[`estaduais/es/leis/itcmd/lei-10011-2013.md`](file:///Users/brunoqualhato/Documents/meus/tributos/estaduais/es/leis/itcmd/lei-10011-2013.md):**
+   - *Objeto:* Lei Estadual nº 10.011, de 20 de maio de 2013, que disciplina o Imposto sobre a Transmissão Causa Mortis e Doação de Quaisquer Bens ou Direitos (ITCMD) no Espírito Santo.
+   - *Conteúdo Coberto:* Fato gerador, regras de competência territorial pós-EC 132/2023, alíquota fixa linear de 4% (com projeto de adequação à progressividade obrigatória) e isenções.
    - *Diagnóstico Técnico:* Completo, bem documentado e em plena conformidade com as diretrizes do repositório.
 
-4. **[`estaduais/es/leis/ipva/lei-6999-2001.md`](file:///Users/brunoqualhato/Documents/meus/tributos/estaduais/es/leis/ipva/lei-6999-2001.md):**  
-   - *Objeto:* Lei Estadual nº 6.999, de 27 de dezembro de 2001, instituidora do Imposto sobre a Propriedade de Veículos Automotores (IPVA) no Espírito Santo.  
-   - *Conteúdo Coberto:* Fato gerador, domicílio tributário e critério espacial (Tema 708 STF), alíquotas (2% para carros de passeio, 1% para caminhões, ônibus e utilitários), transferências interestaduais e não bi-tributação no mesmo exercício.  
+4. **[`estaduais/es/leis/ipva/lei-6999-2001.md`](file:///Users/brunoqualhato/Documents/meus/tributos/estaduais/es/leis/ipva/lei-6999-2001.md):**
+   - *Objeto:* Lei Estadual nº 6.999, de 27 de dezembro de 2001, instituidora do Imposto sobre a Propriedade de Veículos Automotores (IPVA) no Espírito Santo.
+   - *Conteúdo Coberto:* Fato gerador, domicílio tributário e critério espacial (Tema 708 STF), alíquotas (2% para carros de passeio, 1% para caminhões, ônibus e utilitários), transferências interestaduais e não bi-tributação no mesmo exercício.
    - *Diagnóstico Técnico:* Preciso, abordando os impactos da EC 132/2023 sobre veículos aéreos e aquáticos.
 
 ---
@@ -88,16 +88,16 @@ flowchart TD
 
 O Estado do Espírito Santo desfruta de um tratamento tributário único e privilegiado na federação brasileira, consagrado pelo artigo 155, § 2º, inciso IV da Constituição Federal de 1988 e consubstanciado na **Resolução do Senado Federal nº 22, de 19 de maio de 1989**:
 
-1. **Classificação Geopolítica vs. Tratamento Fiscal:**  
+1. **Classificação Geopolítica vs. Tratamento Fiscal:**
    Embora o Espírito Santo pertença física e geograficamente à Região Sudeste, a Resolução SF nº 22/1989 o equiparou expressamente às Regiões Norte, Nordeste e Centro-Oeste no tocante ao polo de destino das remessas interestaduais:
    - **Art. 1º, II da Res. SF 22/89:** Nas remessas interestaduais originadas nos Estados das Regiões Sul e Sudeste (São Paulo, Rio de Janeiro, Minas Gerais, Paraná, Santa Catarina e Rio Grande do Sul) com destino ao **Espírito Santo**, a alíquota interestadual aplicável às mercadorias nacionais é de **7% (sete por cento)**.
    - **Art. 1º, I da Res. SF 22/89:** Nas saídas interestaduais promovidas por estabelecimentos situados no Espírito Santo para **QUALQUER Estado da Federação** (inclusive para SP, RJ, MG, PR, SC e RS), a alíquota interestadual é de **12% (doze por cento)** para mercadorias de origem nacional (ou com Conteúdo de Importação $\le 40\%$).
 
-2. **O Mecanismo da Vantagem Competitiva de 5 Pontos Percentuais:**  
-   Em um regime tradicional de débito e crédito, uma empresa atacadista que compra a 7% em São Paulo e revende a 12% para um cliente em São Paulo ou Minas Gerais apuraria um débito próprio de $12\% - 7\% = 5\%$. Contudo, a legislação capixaba (Lei nº 10.568/2016 — COMPETE Atacadista) intervém concedendo um **crédito presumido que fixa a carga efetiva líquida de saída em 1,10%** (com estorno do crédito de entrada).  
+2. **O Mecanismo da Vantagem Competitiva de 5 Pontos Percentuais:**
+   Em um regime tradicional de débito e crédito, uma empresa atacadista que compra a 7% em São Paulo e revende a 12% para um cliente em São Paulo ou Minas Gerais apuraria um débito próprio de $12\% - 7\% = 5\%$. Contudo, a legislação capixaba (Lei nº 10.568/2016 — COMPETE Atacadista) intervém concedendo um **crédito presumido que fixa a carga efetiva líquida de saída em 1,10%** (com estorno do crédito de entrada).
    Ao mesmo tempo, o adquirente industrial ou comercial localizado em SP, RJ ou MG credita-se integralmente dos **12%** destacados na nota fiscal capixaba. Esse descolamento entre a carga suportada no ES (1,10%) e o crédito aproveitado no destino (12%) conferiu ao Espírito Santo uma alavanca imbatível de arbitragem tributária regional.
 
-3. **Impacto da Resolução do Senado Federal nº 13/2012 (Alíquota de 4% para Importados):**  
+3. **Impacto da Resolução do Senado Federal nº 13/2012 (Alíquota de 4% para Importados):**
    A promulgação da Resolução SF nº 13/2012 fixou a alíquota interestadual em **4%** para mercadorias importadas ou com Conteúdo de Importação superior a 40% (CST de origem 1, 2, 3 e 8), eliminando formalmente o diferencial de alíquotas interestadual para importados. Todavia, a legislação capixaba adaptou com êxito os regimes do COMPETE e INVEST-ES para a alíquota de 4%, mantendo carga efetiva de 1,10% a 1,30% sobre o desembaraço em seus portos, perpetuando o Espírito Santo como o maior *gateway* portuário de distribuição do país.
 
 | Rota Interestadual | Natureza da Mercadoria | Alíquota Interestadual Destacada | Base Legal Nacional / Estadual | Carga Efetiva no ES (c/ COMPETE) | Crédito Gerado no Destino |
@@ -121,7 +121,7 @@ O Estado do Espírito Santo desfruta de um tratamento tributário único e privi
    $$\text{ICMS Origem} = \text{Valor Operação} \times \text{ALQ Interestadual (4\%, 7\% ou 12\%)}$$
    $$\text{DIFAL ES} = \text{Valor Operação} \times (\text{ALQ Interna ES} - \text{ALQ Interestadual})$$
    $$\text{FCP ES (se supérfluo)} = \text{Valor Operação} \times 2\% \text{ (LC 336/2005)}$$
-3. **A Estratégia dos Centros de Distribuição de E-Commerce (COMPETE Venda Não Presencial):**  
+3. **A Estratégia dos Centros de Distribuição de E-Commerce (COMPETE Venda Não Presencial):**
    Nas saídas promovidas por estabelecimentos varejistas de e-commerce situados no Espírito Santo para consumidores finais em outras UFs (CFOP `6.107`/`6.108`), aplica-se a disciplina do art. 23 da Lei nº 10.568/2016:
    - Destaque da alíquota interestadual de 12% (para bens nacionais) ou 4% (importados) na NF-e.
    - O contribuinte recolhe para o Espírito Santo apenas a carga efetiva líquida de **1,10%** (via crédito outorgado que anula o débito restante).
@@ -137,12 +137,12 @@ $$\text{DIFAL Contribuinte ES} = V_{\text{operação}} \times (\text{ALQ}_{\text
 ### 2.3. Transferências entre Filiais (ADC 49 STF, LC nº 204/2023, Convênios ICMS nº 178/2023 e nº 109/2024 e Decreto ES nº 5.589-R/2023)
 
 1. **Julgamento da ADC 49 e Marco Legal:** Em sede da ADC 49, o STF declarou inconstitucional a incidência de ICMS no mero deslocamento físico de mercadorias entre estabelecimentos pertencentes à mesma pessoa jurídica (matriz e filiais), modulando os efeitos da decisão para o exercício financeiro de 2024. A **Lei Complementar nº 204/2023** alterou o art. 12 da LC nº 87/1996, positivando a **não incidência** e assegurando a transferência de créditos acumulados ao estabelecimento de destino.
-2. **Internalização no Espírito Santo:**  
+2. **Internalização no Espírito Santo:**
    O Governador do Estado do Espírito Santo editou o **Decreto Estadual nº 5.589-R, de 29 de dezembro de 2023**, e subsequentemente o **Decreto nº 5.768-R, de 16 de julho de 2024**, recepcionando as regras dos **Convênios ICMS nº 178/2023 e nº 109/2024**:
    - **Regra Geral (Não Incidência com Transferência de Crédito):** Na remessa de mercadorias entre matriz e filiais (CFOP `6.151`, `6.152`), não há recolhimento de ICMS. O crédito do imposto é transferido obrigatoriamente mediante aplicação das alíquotas interestaduais cabíveis (12%, 7% ou 4%) sobre o valor médio de aquisição das mercadorias em estoque ou custo de produção (art. 13, § 4º da LC 87/96).
    - **Opção pela Equiparação à Operação Tributada (Cláusula Sexta do Convênio ICMS nº 109/2024):** Os estabelecimentos capixabas podem optar por equiparar a transferência a uma operação regularmente tributada, com lançamento do imposto a débito na saída e a crédito na entrada do destinatário.
    - **Rito Operacional no ES:** A opção deve ser formalizada até o último dia de dezembro de cada exercício para produzir efeitos no ano-calendário subsequente, mediante lavratura de termo no **Livro Registro de Utilização de Documentos Fiscais e Termos de Ocorrências (RUDFTO)** e transmissão do evento correspondente via Sistema Eletrônico da SEFAZ/ES (Agência Virtual — AGV).
-3. **Impacto Estrutural sobre o COMPETE-ES:**  
+3. **Impacto Estrutural sobre o COMPETE-ES:**
    A sistemática da não incidência gerou severa apreensão inicial nos atacadistas e centros de distribuição capixabas, visto que a concessão do crédito presumido do COMPETE (art. 16 da Lei nº 10.568/2016) exigia formalmente a ocorrência de "saída interestadual tributada". Com a opção trazida pelo Convênio ICMS 109/2024 e chancelada pela SEFAZ/ES, os grupos empresariais mantêm a equiparação à tributação nas transferências destinadas a filiais de outros estados, garantindo a apropriação do crédito de 12% ou 4% na filial e a manutenção da carga efetiva de 1,10% na unidade capixaba.
 
 ---
@@ -158,12 +158,12 @@ $$\text{DIFAL Contribuinte ES} = V_{\text{operação}} \times (\text{ALQ}_{\text
    - Produtos de perfumaria, higiene pessoal e cosméticos;
    - Cigarros e derivados do fumo (Convênio ICMS 37/1994);
    - Combustíveis e lubrificantes (observada a monofasia nacional da LC 192/2022 para gasolina, diesel e GLP).
-3. **Mecânica do Ajuste da Margem de Valor Agregado (MVA Ajustada):**  
+3. **Mecânica do Ajuste da Margem de Valor Agregado (MVA Ajustada):**
    Quando uma mercadoria entra no Espírito Santo originada de SP, RJ, MG ou Sul (onde a alíquota interestadual destacada é de **7%**), e a alíquota interna em solo capixaba é de **17%**, a fórmula nacional do Convênio ICMS 142/2018 impõe uma MVA Ajustada substantiva:
    $$\text{MVA Ajustada} = \left[ \frac{(1 + \text{MVA-ST Original}) \times (1 - 0{,}07)}{(1 - 0{,}17)} \right] - 1 = \left[ \frac{(1 + \text{MVA Original}) \times 0{,}93}{0{,}83} \right] - 1$$
-   - Fator multiplicador de ajuste: $\frac{0{,}93}{0{,}83} \approx 1{,}12048$ (+12,05% sobre o índice de margem).  
+   - Fator multiplicador de ajuste: $\frac{0{,}93}{0{,}83} \approx 1{,}12048$ (+12,05% sobre o índice de margem).
    - Se o remetente de outra UF for optante pelo **Simples Nacional**, a aplicação da MVA ajustada é vedada por força do Convênio ICMS nº 35/2011, aplicando-se a MVA Original.
-4. **Restituição e Ressarcimento do ICMS-ST (Tema 201 STF e Art. 28-A da Lei nº 7.000/2001):**  
+4. **Restituição e Ressarcimento do ICMS-ST (Tema 201 STF e Art. 28-A da Lei nº 7.000/2001):**
    Em estrito cumprimento à tese vinculante fixada pelo STF no **RE 593.849/MG (Tema 201)**, o art. 28-A da Lei nº 7.000/2001 e os artigos 225 a 229 do RICMS/ES asseguram ao contribuinte substituído o direito à **restituição da quantia paga a maior a título de ICMS-ST**, quando a base de cálculo real da venda a consumidor for inferior à base presumida. De forma simétrica, o Fisco capixaba exige a complementação do imposto quando o valor efetivo da operação for superior ao presumido. A apuração é realizada via registros específicos na EFD ICMS/IPI (Bloco C180/C185) mediante pedido eletrônico na AGV da SEFAZ/ES.
 
 ---
@@ -174,7 +174,7 @@ $$\text{DIFAL Contribuinte ES} = V_{\text{operação}} \times (\text{ALQ}_{\text
 
 A não-cumulatividade do ICMS capixaba apoia-se no artigo 155, § 2º, inciso I da CF/88, nos artigos 19 e 20 da Lei Complementar nº 87/1996 e no Título I, Capítulo V do Decreto Estadual nº 1.090-R/2002:
 
-1. **Requisitos Substanciais e Formais:**  
+1. **Requisitos Substanciais e Formais:**
    O crédito fiscal é escriturado pelo valor cobrado nas operações ou prestações anteriores, desde que:
    - Acompanhado de documento fiscal hábil e idôneo (NF-e modelo 55, CT-e modelo 57) emitido por contribuinte em situação regular perante o Fisco de origem;
    - Destinado a estabelecimento que promova saídas tributadas subsequentes ou desoneradas com expressa manutenção de crédito;
@@ -186,7 +186,7 @@ A não-cumulatividade do ICMS capixaba apoia-se no artigo 155, § 2º, inciso I 
 ### 3.2. Controle de Crédito do Ativo Permanente (CIAP — 1/48 Avos)
 
 1. **Marco Normativo:** Art. 20, § 5º da LC nº 87/1996 (com redação da LC nº 102/2000) e artigos 85 a 91 do RICMS/ES.
-2. **Mecânica de Apropriação:**  
+2. **Mecânica de Apropriação:**
    O crédito de ICMS decorrente da aquisição de mercadorias destinadas ao Ativo Imobilizado (CSTs de entrada `1.551`, `2.551`) é apropriado à razão de **1/48 (um quarenta e oito avos) por mês**, a partir da data de entrada em operação do bem.
 3. **Fator Mensal de Apropriação ($F_{\text{CIAP}}$):**
    $$F_{\text{CIAP}} = \frac{\text{Saídas e Prestações Tributadas} + \text{Saídas para Exterior (art. 3º, II LC 87/96)}}{\text{Total das Saídas e Prestações do Mês}}$$
@@ -205,24 +205,24 @@ A não-cumulatividade do ICMS capixaba apoia-se no artigo 155, § 2º, inciso I 
    - Embarcações esportivas e recreativas, jet-skis e ultraleves;
    - Veículos automotores de alto valor comercial;
    - Joias, armas e munições.
-3. **Natureza Jurídica e Vedação de Compensação:**  
+3. **Natureza Jurídica e Vedação de Compensação:**
    O produto da arrecadação do adicional de 2% do FUNCAP é vinculado a conta especial gerida pela Secretaria de Estado de Trabalho, Assistência e Desenvolvimento Social (SETADES). **Não integra a sistemática da não-cumulatividade geral do ICMS**, sendo vedada a sua compensação com créditos acumulados ou créditos ordinários de entradas. O imposto correspondente deve ser recolhido em Documento Único de Arrecadação (DUA) segregado, com código de receita específico (`218-6` ou correlato).
 
 ---
 
 ### 3.4. Restrições Legais ao Creditamento (Art. 33 da LC nº 87/1996)
 
-1. **Energia Elétrica (Art. 33, II da LC nº 87/96 e Art. 83 do RICMS/ES):**  
+1. **Energia Elétrica (Art. 33, II da LC nº 87/96 e Art. 83 do RICMS/ES):**
    A tomada de crédito sobre faturas de energia elétrica é estritamente condicionada e restrita a três hipóteses taxativas:
    - Quando for objeto de operação de saída de energia elétrica;
    - Quando consumida diretamente no processo de industrialização por estabelecimentos industriais (exige-se a elaboração de **Laudo Técnico Pericial de Engenharia**, firmado por profissional habilitado no CREA, delimitando o percentual de energia consumido nos setores produtivos fabris versus área administrativa/comercial, ou adoção do índice padrão de 80% quando expressamente autorizado por ato da SEFAZ/ES);
    - Quando resultar em operação ou prestação que destine mercadorias ou serviços ao exterior, na proporção das exportações sobre as saídas totais.
-2. **Serviços de Comunicação (Art. 33, III da LC nº 87/96):**  
+2. **Serviços de Comunicação (Art. 33, III da LC nº 87/96):**
    O crédito de ICMS incidente sobre serviços de telefonia, links dedicados de internet e comunicação somente é admitido:
    - Por empresas que prestem serviços da mesma natureza (empresas de telecomunicações);
-   - Na proporção das operações e prestações destinadas ao exterior.  
+   - Na proporção das operações e prestações destinadas ao exterior.
    - É vedado o creditamento de comunicação para estabelecimentos atacadistas, varejistas e indústrias comuns.
-3. **Bens Destinados a Uso e Consumo (Art. 33, I da LC nº 87/96):**  
+3. **Bens Destinados a Uso e Consumo (Art. 33, I da LC nº 87/96):**
    O direito à apropriação de créditos de ICMS incidentes sobre a entrada de mercadorias destinadas a uso e consumo do estabelecimento foi sucessivamente prorrogado pelo Congresso Nacional, tendo a **Lei Complementar nº 203, de 06 de dezembro de 2023**, fixado o termo inicial de aproveitamento em **1º de janeiro de 2033** — data em que o ICMS já estará integralmente extinto pela Reforma Tributária, convertendo a restrição em vedação definitiva.
 
 ---
@@ -231,7 +231,7 @@ A não-cumulatividade do ICMS capixaba apoia-se no artigo 155, § 2º, inciso I 
 
 1. **Exportações (Art. 155, § 2º, X, "a" da CF/88):** A desoneração das exportações assegura a **manutenção integral dos créditos** cobrados nas operações e prestações anteriores (imunidade com crédito assegurado). Indústrias exportadoras de café, celulose, pelotas e rochas ornamentais acumulam saldos credores contínuos na EFD ICMS/IPI.
 2. **Isenção ou Não Incidência Interna (Art. 155, § 2º, II, "b" da CF/88):** Acarreta a obrigação incontornável de **estorno do imposto creditado** relativo às mercadorias e insumos utilizados na fabricação ou comercialização, salvo previsão explícita de "isenção com manutenção de crédito" aprovada em Convênio CONFAZ ou lei específica.
-3. **A Sistemática Singela do COMPETE-ES (Estorno Total vs. Crédito Presumido):**  
+3. **A Sistemática Singela do COMPETE-ES (Estorno Total vs. Crédito Presumido):**
    Nas empresas aderentes ao COMPETE Atacadista (art. 16 da Lei nº 10.568/2016) e COMPETE Venda Não Presencial (art. 23), a legislação impõe o **estorno integral de todos os créditos das aquisições** (inclusive os 7% recebidos de SP/RJ/MG ou os 4% da importação), operando a escrita com débito presumido líquido de 1,10% na saída interestadual. Essa técnica elimina contenciosos sobre apropriação de insumos e simplifica a fiscalização fazendária.
 
 ---
@@ -267,18 +267,18 @@ graph LR
     style Coop fill:#c5e1a5,stroke:#33691e,stroke-width:1px
 ```
 
-1. **Café Conilon e Café Arábica (O Maior Polo de Conilon do Brasil):**  
+1. **Café Conilon e Café Arábica (O Maior Polo de Conilon do Brasil):**
    - O Espírito Santo responde por aproximadamente **70% da produção brasileira de Café Conilon (espécie Robusta)** e é o 3º maior produtor de Café Arábica.
    - **Regime de Diferimento (Artigos 278 a 285 do RICMS/ES):** O imposto incidente sobre as sucessivas saídas internas de café cru, em coco ou em grão verde, promovidas por produtor rural ou suas cooperativas, fica **diferido** para o momento em que ocorrer:
      - Saída interestadual (alíquota de 12%, apurada com base na pauta fiscal de valores mínimos fixada periodicamente pela Portaria SEFAZ/ES);
      - Saída destinada a estabelecimento de torrefação e moagem no Estado;
      - Saída para o exterior (hipótese em que o imposto diferido não é exigido em face da imunidade do art. 155, § 2º, X, "a" da CF/88, com manutenção dos créditos permitidos).
-2. **Fruticultura (Polo Mundial de Mamão Papaya em Linhares):**  
+2. **Fruticultura (Polo Mundial de Mamão Papaya em Linhares):**
    - O Polo do Norte Capixaba (Linhares, Sooretama, Jaguaré) é o principal exportador de mamão do Brasil.
    - Aplica-se **isenção de ICMS** nas operações internas com hortifrutigranjeiros em estado natural (Convênio ICM 44/1975 e RICMS/ES) e **diferimento** nas remessas de frutas para cooperativas e galpões de seleção e embalagem (*packing houses*). Nas exportações aeroportuárias e marítimas, garante-se imunidade completa com apropriação e transferência de saldos credores de embalagens e insumos.
-3. **Cacauicultura (Vale do Rio Doce / Linhares):**  
+3. **Cacauicultura (Vale do Rio Doce / Linhares):**
    - Diferimento integral do ICMS nas saídas internas de amêndoas de cacau cru promovidas por produtores locais até a entrega nas indústrias processadoras de derivados de cacau e fábricas de chocolates instaladas no Estado.
-4. **Pimenta-do-Reino (Polo de São Mateus):**  
+4. **Pimenta-do-Reino (Polo de São Mateus):**
    - Líder absoluto em produção e exportação de pimenta-do-reino preta (*Piper nigrum*). As remessas internas gozam de diferimento fiscal, sendo o imposto desonerado na exportação portuária via Porto de Vitória e Barra do Riacho.
 
 ---
@@ -308,14 +308,14 @@ O **Programa de Incentivo ao Investimento no Estado do Espírito Santo (INVEST-E
    - **Diferimento na Importação de Bens do Imobilizado:** O ICMS incidente na importação de máquinas, aparelhos, equipamentos e matrizes de moldes é diferido para o momento da desincorporação (sendo o diferimento convertido em isenção ou dispensado o pagamento após transcorridos 48 meses de integração ao processo fabril local).
    - **Diferimento de Matérias-Primas e Insumos:** Diferimento na importação de matérias-primas e insumos (com desembaraço obrigatório nos recintos alfandegados do ES) e nas aquisições internas;
    - **Estorno de Débito / Crédito Presumido na Saída Industrial:** O contribuinte obtém redução de base de cálculo ou estorno de débito mensal de até **70% a 85%** sobre o saldo devedor de ICMS apurado exclusivamente nas operações com produtos por ele fabricados no ES, resultando em uma tributação marginal altamente competitiva frente a incentivos do Centro-Oeste ou Nordeste.
-3. **Convalidação Nacional (Lei Complementar nº 160/2017 e Convênio ICMS nº 190/2017):**  
+3. **Convalidação Nacional (Lei Complementar nº 160/2017 e Convênio ICMS nº 190/2017):**
    Todos os incentivos do INVEST-ES foram formalmente depositados e homologados perante o CONFAZ, com eficácia assegurada até 31 de dezembro de 2032, blindando as indústrias contra glosas de crédito por Fiscos concorrentes.
 
 ---
 
 ### 5.2. O Complexo Siderúrgico, Minério de Ferro e Pelotização
 
-1. **Atores e Infraestrutura:**  
+1. **Atores e Infraestrutura:**
    O Espírito Santo sedia unidades industriais de porte global: a usina siderúrgica de placas de aço laminadas **ArcelorMittal Tubarão** (antiga CST, em Serra), a aciaria **ArcelorMittal Cariacica**, e as instalações de pelotização da **Vale S.A.** e **Samarco Mineração** (complexo de Ubu/Anchieta). A integração logística se dá pela **Estrada de Ferro Vitória a Minas (EFVM)**, que transporta milhões de toneladas de minério das minas de Minas Gerais até o Porto de Tubarão e Praia Mole.
 2. **Regimes Especiais de ICMS:**
    - **Diferimento na Entrada:** Aplica-se diferimento do ICMS nas entradas de carvão mineral metalúrgico importado, sucatas ferrosas, cal, pelotas e minério de ferro transportados pela ferrovia;
@@ -325,7 +325,7 @@ O **Programa de Incentivo ao Investimento no Estado do Espírito Santo (INVEST-E
 
 ### 5.3. Setor de Rochas Ornamentais (Mármore e Granito)
 
-1. **Relevância Mundial do Polo Sul e Noroeste:**  
+1. **Relevância Mundial do Polo Sul e Noroeste:**
    O Espírito Santo concentra mais de **80% de toda a produção e exportação de rochas ornamentais do Brasil** (mármore, granito, quartzitos e ardósias), com epicentro fabril em Cachoeiro de Itapemirim, Barra de São Francisco e Nova Venécia.
 2. **Tratamento Tributário Específico:**
    - **Extração e Blocos Brutos:** Diferimento do ICMS nas saídas internas de blocos brutos das jazidas e pedreiras até os teares multilâminas e serrarias para desdobramento;
@@ -337,7 +337,7 @@ O **Programa de Incentivo ao Investimento no Estado do Espírito Santo (INVEST-E
 ### 5.4. Setor de Petróleo, Gás Natural e o REPETRO no Espírito Santo
 
 1. **Posição no Ranking Nacional:** O Espírito Santo é o **3º maior produtor nacional de petróleo e gás natural**, operando campos offshore nas Bacias de Campos e do Espírito Santo (ex.: Parque das Baleias, Jubarte, Golfinho, Roncador e plataformas FPSO).
-2. **Incorporação do Convênio ICMS nº 03/2018 (REPETRO-SPED):**  
+2. **Incorporação do Convênio ICMS nº 03/2018 (REPETRO-SPED):**
    O Decreto Estadual nº 1.090-R/2002 internalizou os benefícios fiscais do REPETRO-SPED para as operadoras (Petrobras, PRIO, BW Energy, Brava Energia) e fornecedoras de bens submarinos:
    - **Isenção do ICMS:** Na importação e aquisição interna de bens e equipamentos destinados exclusivamente às atividades de pesquisa e exploração de petróleo e gás (sem similar nacional);
    - **Redução da Base de Cálculo:** Carga tributária efetiva de **3% (três por cento)** na fase de desenvolvimento e produção de campos de petróleo, sem direito a créditos;
@@ -361,7 +361,7 @@ O **COMPETE Atacadista** é a engrenagem fiscal que consolidou o Espírito Santo
   Valor de Venda da Mercadoria: R$ 1.200.000,00
   Alíquota Interestadual Destacada na NF-e: 12%
   ICMS Destacado na NF-e: R$ 144.000,00 (Crédito Integral no Destino: R$ 144.000,00)
-  
+
   --> Apuração do ICMS Próprio no Espírito Santo:
       Carga Tributária Efetiva Legal: 1,10%
       ICMS Efetivo a Recolher: R$ 1.200.000,00 x 1,10% = R$ 13.200,00
@@ -379,21 +379,21 @@ O **COMPETE Atacadista** é a engrenagem fiscal que consolidou o Espírito Santo
 Com o advento da economia digital e a consolidação do comércio eletrônico nacional, a Lei nº 10.568/2016 inseriu o artigo 23 para atrair armazéns logísticos e centros de distribuição de comércio eletrônico (*e-commerce*, *marketplaces* e telemarketing):
 1. **Regra Operacional:** Saídas interestaduais destinadas a consumidor final não contribuinte (pessoa física ou jurídica).
 2. **Carga Tributária Própria no ES:** Estorno de todos os créditos de aquisição e concessão de crédito presumido de forma que a **carga tributária efetiva retida pelo Estado de origem (ES) seja de 1,10%** (tanto nas operações com alíquota interestadual de 12% quanto nas de 4%).
-3. **Mecanismo Concorrencial Perante Outros Estados:**  
+3. **Mecanismo Concorrencial Perante Outros Estados:**
    Em uma venda de R$ 1.000,00 de mercadoria nacional expedida a partir de um CD capixaba para um consumidor residencial no Rio de Janeiro (alíquota interna do RJ de 20% + 2% FECP = 22%):
    - Alíquota interestadual destacada na NF-e: 12% (R$ 120,00).
    - ICMS recolhido ao ES: $R\$ 1.000,00 \times 1,10\% = R\$ 11,00$.
    - DIFAL recolhido ao RJ: $R\$ 1.000,00 \times (22\% - 12\%) = R\$ 100,00$.
-   - Custo tributário total de ICMS: $R\$ 11,00 + R\$ 100,00 = R\$ 111,00$ (**11,10% de carga total**).  
+   - Custo tributário total de ICMS: $R\$ 11,00 + R\$ 100,00 = R\$ 111,00$ (**11,10% de carga total**).
    - Se o CD estivesse sediado no próprio Rio de Janeiro, a venda estaria sujeita à alíquota cheia interna de **22,00%** (R$ 220,00). O diferencial de quase 11 pontos percentuais atraiu operações de gigantes como Mercado Livre, Amazon, Wine, Shopee e companhias multinacionais para os municípios de Viana, Cariacica, Serra e Linhares.
 
 ---
 
 ### 6.3. O Legado do FUNDAP e a Transição Portuária
 
-1. **O Modelo Histórico do FUNDAP (Lei nº 2.508/1970):**  
+1. **O Modelo Histórico do FUNDAP (Lei nº 2.508/1970):**
    Durante quatro décadas, o Fundo para o Desenvolvimento das Atividades Portuárias foi o carro-chefe da economia capixaba. Operava mediante financiamento concedido pelo Banco de Desenvolvimento do Espírito Santo (BANDES) equivalente a até 8% do valor da operação de importação com alíquota de 12%, cujos créditos eram posteriormente quitados em leilões públicos por cerca de 10% do valor de face (carga efetiva líquida de ~1,20%).
-2. **O Impacto da Resolução SF nº 13/2012 e Reformulação pela Lei nº 11.246/2021:**  
+2. **O Impacto da Resolução SF nº 13/2012 e Reformulação pela Lei nº 11.246/2021:**
    A imposição da alíquota interestadual uniforme de 4% para mercadorias importadas pela Resolução SF 13/2012 reduziu a margem de financiamento do BANDES para até 3%. A Lei Estadual nº 11.246/2021 e a consolidação do COMPETE Atacadista permitiram que as antigas *tradings* do FUNDAP migrassem suas operações para os Contratos de Competitividade com desembaraço portuário (crédito outorgado com carga efetiva de 1,10% a 1,30%), mantendo os portos de Vitória e Vila Velha em plena capacidade operacional.
 
 ---
@@ -454,9 +454,9 @@ Nos termos do artigo 128 e seguintes do ADCT (acrescidos pela EC nº 132/2023) e
 ### 7.4. Homologação e Aproveitamento de Saldos Credores Acumulados de ICMS (Art. 134 do ADCT)
 
 1. **O Desafio dos Exportadores Capixabas:** As gigantes siderúrgicas, de pelotização, celulose e rochas ornamentais acumularão saldos credores de ICMS de bilhões de reais até o encerramento do exercício de 2032, resultantes da aquisição de bens do ativo (CIAP) e matérias-primas imunes na exportação.
-2. **Procedimento de Homologação Prévia:**  
+2. **Procedimento de Homologação Prévia:**
    Nos termos do art. 134 do ADCT e da LC nº 214/2025, os saldos credores de ICMS existentes em **31 de dezembro de 2032** somente poderão ser transferidos para o regime do IBS após **homologação formal e expressa pela SEFAZ/ES**. Caso o Fisco capixaba não se manifeste conclusivamente no prazo decadencial previsto em lei, haverá homologação tácita nos termos do regulamento nacional.
-3. **Regime de Amortização em 240 Meses (20 Anos):**  
+3. **Regime de Amortização em 240 Meses (20 Anos):**
    Uma vez homologado, o saldo credor acumulado de ICMS será aproveitado da seguinte forma:
    - Compensação em **240 (duzentas e quarenta) parcelas mensais, iguais e sucessivas**, para abatimento do IBS devido pelo contribuinte;
    - O saldo remanescente será anualmente e mensalmente **atualizado pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA)** divulgado pelo IBGE, garantindo a recomposição contra a inflação;

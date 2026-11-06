@@ -1,8 +1,8 @@
 # RELATÓRIO TÉCNICO DE AUDITORIA TRIBUTÁRIA — ESTADO DO RIO GRANDE DO SUL (RS)
 
-**Data de Elaboração:** Outubro de 2026  
-**Jurisdição:** Estado do Rio Grande do Sul (SEFAZ/RS — Receita Estadual do RS)  
-**Competência Analítica:** Direito Tributário Estadual, Direito Financeiro e Contabilidade Fiscal  
+**Data de Elaboração:** Outubro de 2026
+**Jurisdição:** Estado do Rio Grande do Sul (SEFAZ/RS — Receita Estadual do RS)
+**Competência Analítica:** Direito Tributário Estadual, Direito Financeiro e Contabilidade Fiscal
 **Destinação:** Repositório Analítico de Legislação Tributária Brasileira (`_auditoria/estados/auditoria_rs.md`)
 
 ---
@@ -63,13 +63,13 @@ O Rio Grande do Sul localiza-se na Região Sul do Brasil. Em virtude do pacto fe
 ```mermaid
 flowchart TD
     RS["Rio Grande do Sul (Origem / Destino)"]
-    
+
     RS -- "12% (Res. SF 22/89)" --> SulSudeste["Regiões Sul e Sudeste (PR, SC, SP, RJ, MG - exceto ES)"]
     RS -- "7% (Res. SF 22/89)" --> NorteNordeste["Regiões Norte, Nordeste, Centro-Oeste e ES"]
     RS -- "4% (Res. SF 13/12)" --> Importados["Bens Importados (> 40% FCI) p/ qualquer UF"]
-    
+
     OutrosEstados["Demais 26 UFs e DF"] -- "Entrada no RS a Consumidor Não Contribuinte" --> DIFAL_RS["DIFAL RS (Lei 15.767/2021): Alíquota Interna RS (17% a 25%) menos Alíquota Interestadual (7%, 12% ou 4%)"]
-    
+
     RS -- "Transferência entre Filiais (ADC 49 / LC 204/23)" --> TransfFilial["Opção: Transferência de Crédito ou Equiparação a Tributada (Conv. ICMS 109/2024 e Dec. RS 57.886/2024)"]
 ```
 
@@ -106,13 +106,13 @@ Para saídas a consumidor final **não contribuinte**, nos moldes do art. 13 da 
 
 $$\text{DIFAL Devido ao RS} = V_{\text{oper}} \times \left( \frac{\text{Alíquota Interna RS} - \text{Alíquota Interestadual}}{100} \right)$$
 
-*Exemplo Prático:*  
-- Remetente: Indústria em São Paulo (SP).  
-- Destinatário: Pessoa Física (consumidor final não contribuinte) em Porto Alegre (RS).  
-- Valor da Mercadoria (com frete e IPI embutido na base): R$ 10.000,00.  
-- Alíquota Interestadual (SP -> RS): 12%.  
-- Alíquota Interna RS (Mercadoria Geral): 17%.  
-- ICMS Interestadual (SP): $R\$ 10.000,00 \times 12\% = R\$ 1.200,00$.  
+*Exemplo Prático:*
+- Remetente: Indústria em São Paulo (SP).
+- Destinatário: Pessoa Física (consumidor final não contribuinte) em Porto Alegre (RS).
+- Valor da Mercadoria (com frete e IPI embutido na base): R$ 10.000,00.
+- Alíquota Interestadual (SP -> RS): 12%.
+- Alíquota Interna RS (Mercadoria Geral): 17%.
+- ICMS Interestadual (SP): $R\$ 10.000,00 \times 12\% = R\$ 1.200,00$.
 - DIFAL Devido ao RS: $R\$ 10.000,00 \times (17\% - 12\%) = R\$ 10.000,00 \times 5\% = R\$ 500,00$.
 
 *Atenção:* Já para a entrada interestadual de bens para **Uso, Consumo ou Ativo Imobilizado de adquirente CONTRIBUINTE do ICMS no RS**, aplica-se a sistemática da **Base Dupla** (Lei nº 8.820/1989, art. 13-A e Livro I, art. 16, I, "h" do RICMS/RS), onde o imposto da origem é excluído e o montante com a alíquota interna é incluído por dentro, elevando o recolhimento efetivo do diferencial.
@@ -178,16 +178,16 @@ O princípio da não-cumulatividade do ICMS no Rio Grande do Sul está alicerça
 ```mermaid
 graph LR
     Entrada["Entrada de Mercadorias / Insumos / Ativo"] --> AnaliseCredito{"Gera Direito a Crédito?"}
-    
+
     AnaliseCredito -- "Insumos, MP, Embalagens" --> CreditoIntegral["Crédito Integral no Mês (Livro I, art. 31)"]
     AnaliseCredito -- "Ativo Imobilizado" --> CIAP["CIAP: 1/48 avos por mês x Coeficiente (Livro I, art. 31, § 4º)"]
     AnaliseCredito -- "Energia Elétrica Industrial" --> CreditoRateio["Crédito Proporcional ao Processo Fabril (Laudo / LC 87/96)"]
     AnaliseCredito -- "Uso / Consumo Geral" --> Vedacao["Crédito Vedado (Prorrogado na LC 87/96)"]
-    
+
     CreditoIntegral --> Apuracao["Conta Gráfica Mensal (Quadro de Apuração)"]
     CIAP --> Apuracao
     CreditoRateio --> Apuracao
-    
+
     Apuracao --> Saidas{"Tipo de Saída Subsequente"}
     Saidas -- "Tributada / Interestadual" --> Compensacao["Compensação Débito x Crédito"]
     Saidas -- "Isenta / Não Tributada" --> Estorno["Estorno Obrigatório (Livro I, art. 34)"]
@@ -286,15 +286,15 @@ O agronegócio representa historicamente mais de 40% do PIB total e das exporta�
 flowchart TD
     Insumos["Insumos Agropecuários (Convênio ICMS 100/97: Adubos, Fertilizantes, Sementes)"]
     Insumos -- "Isenção ou Carga Reduzida (RICMS Livro I, art. 9º e 23)" --> ProdutorRural["Produtor Rural Gaúcho (Pessoa Física ou Jurídica)"]
-    
+
     ProdutorRural -- "NFP-e / Aplicativo Nota Fiscal Fácil (NFF)" --> SaidaCampo{"Destino da Produção"}
-    
+
     SaidaCampo -- "Saída Interna de Arroz, Soja, Trigo, Uva, Gado" --> IndCooperativa["Indústrias Beneficiadoras e Cooperativas no RS"]
     SaidaCampo -- "Saída Interestadual" --> TributacaoInterestadual["ICMS Interestadual (7% ou 12%)"]
     SaidaCampo -- "Exportação Direta" --> ImunidadeExportacao["Não Incidência / Imunidade Constitucional"]
-    
+
     IndCooperativa -. "Diferimento Integral (Livro III, art. 1º e Apêndice II)" .-> EncerramentoFase["Encerramento da Fase de Diferimento na Saída do Produto Beneficiado"]
-    
+
     ProdutorRural -. "Compensação de Custos" .-> CreditoPresumido["Crédito Presumido do Produtor Rural (Apêndice XXI RICMS)"]
 ```
 
@@ -377,7 +377,7 @@ A indústria gaúcha é a segunda mais diversificada da Região Sul e a quarta d
 graph TD
     Incentivo["FUNDOPEM/RS & INTEGRAR/RS (Lei 10.363/95 e Lei 15.642/21)"]
     Incentivo --> Financiamento["Financiamento e Abatimento de até 100% do ICMS Incremental"]
-    
+
     Financiamento --> PoloTriunfo["Polo Petroquímico de Triunfo (Braskem / 2ª Geração Plástica)"]
     Financiamento --> PoloSinos["Polo Calçadista do Vale dos Sinos (Calçados, Curtumes, Exportação)"]
     Financiamento --> PoloSerra["Polo Metalmecânico da Serra (Marcopolo, Randoncorp, Implementos)"]
@@ -471,21 +471,21 @@ Em simetria jurídica, os Estados instituíram a **complementação do ICMS-ST**
 ```mermaid
 flowchart TD
     VarejistaRS["Varejista Estabelecido no Rio Grande do Sul"] --> EscolhaROT{"Aderiu ao ROT-ST? (Lei 15.395/19 e Dec. 54.938/19)"}
-    
+
     EscolhaROT -- "SIM (Optante pelo ROT-ST)" --> RegimeDefinitivo["Tributação Definitiva da ST:
     1. Dispensa Complementação se Vender por Preço Maior que PMPF/MVA.
     2. Renúncia à Restituição se Vender por Preço Menor que PMPF/MVA.
     3. Dispensa de Escrituração do Ajuste de ST (Livro III, art. 25-A)."]
-    
+
     EscolhaROT -- "NÃO (Regime Geral de Apuração)" --> AjusteST["Apuração Mensal do Ajuste de ST Item a Item:
     - Se Preço Efetivo > Presumido: Paga Complementação.
     - Se Preço Efetivo < Presumido: Pede Restituição/Ressarcimento.
     - Obrigação Acessória Pesada de Cálculo Eletrônico."]
 ```
 
-1. **Instituição do Regime Geral de Ajuste de ST:**  
+1. **Instituição do Regime Geral de Ajuste de ST:**
    O Decreto nº 54.308/2018 introduziu no RICMS/RS (Livro III, arts. 25-A a 25-C) a sistemática de apuração mensal do ajuste do ICMS-ST para todo o comércio varejista. Caso um supermercado comprasse uma mercadoria com ICMS-ST retido com base presumida de R$ 10,00 e a vendesse na ponta por R$ 12,00, era compelido a calcular e pagar a complementação do imposto sobre a diferença de R$ 2,00.
-2. **Criação do ROT-ST:**  
+2. **Criação do ROT-ST:**
    Diante da avalanche de custos de conformidade e da pressão das federações do comércio (Fecomércio/RS, AGAS e CDL), o Estado promulgou a **Lei Estadual nº 15.395, de 16 de dezembro de 2019**, regulamentada pelo **Decreto Estadual nº 54.938/2019**:
    - Faculta-se aos contribuintes varejistas aderirem voluntariamente ao **Regime Optativo de Tributação da Substituição Tributária (ROT-ST)**.
    - Pela adesão ao ROT-ST, a tributação por substituição tributária adquire caráter **absolutamente definitivo**: o varejista fica integralmente dispensado de recolher o complemento do ICMS-ST se praticar preço final superior à pauta; em contrapartida, renuncia expressamente a qualquer pedido de restituição se praticar preço menor.
@@ -522,8 +522,8 @@ timeline
 A introdução do princípio do destino puro encerra uma era na política fazendária do Rio Grande do Sul:
 
 1. **Fim da Guerra Fiscal e Desidratação do FUNDOPEM:** Com a vedação expressa à concessão de incentivos fiscais unilaterais e desonerações heterônomas no IBS (art. 156-A, § 1º, X da CF/88), o Rio Grande do Sul não poderá mais utilizar o diferimento ou financiamento de ICMS para atrair plantas industriais. A competitividade do Estado passará a depender exclusivamente de fatores reais de produção: logística, infraestrutura portuária, energia, qualificação da mão de obra e tecnologia.
-2. **Impacto na Indústria de Transformação e Agronegócio Exportador:**  
-   - O RS é um estado tipicamente exportador líquido para os demais entes da Federação (vende ônibus, implementos, calçados e grãos para SP, MG e Centro-Oeste) e para o mercado internacional.  
+2. **Impacto na Indústria de Transformação e Agronegócio Exportador:**
+   - O RS é um estado tipicamente exportador líquido para os demais entes da Federação (vende ônibus, implementos, calçados e grãos para SP, MG e Centro-Oeste) e para o mercado internacional.
    - Sob o princípio da origem (vigente até 2028), o RS retém parte da renda tributária na expedição física das mercadorias. Sob a nova regra do destino, a tributação caberá integralmente ao Estado consumidor.
    - *Mecanismo de Proteção Federativa:* A perda imediata de arrecadação será neutralizada pela **regra de transição federativa de 50 anos (2029 a 2078)** prevista no art. 131 do ADCT, que redistribui a arrecadação global do IBS baseando-se na média histórica de participação de cada Estado na arrecadação do ICMS entre 2019 e 2028.
 
@@ -590,15 +590,15 @@ $$\text{Parcela Mensal} = \frac{R\$ 240.000.000,00}{240} = R\$ 1.000.000,00/\tex
 
 ### 8.2. Recomendações Técnicas para Enriquecimento do Repositório
 
-1. **Ingestão Prioritária da Lei Básica do ICMS (Lei nº 8.820/1989):**  
+1. **Ingestão Prioritária da Lei Básica do ICMS (Lei nº 8.820/1989):**
    Inserir com urgência o texto consolidado da Lei Estadual nº 8.820/1989 em `estaduais/rs/leis/icms/lei-8820-1989.md`, contemplando as alterações recentes promovidas pela Lei 15.767/2021 e leis de calamidade.
-2. **Consolidação dos Livros II e III do RICMS/RS:**  
+2. **Consolidação dos Livros II e III do RICMS/RS:**
    Substituir o arquivo resumido `estaduais/rs/ricms/decreto-37699-1997.md` pela estrutura integral dos Livros I, II e III do Decreto nº 37.699/1997, ou criar subpastas específicas com os Livros e os Apêndices essenciais (Apêndices I, II, XVII e XXI).
-3. **Ingestão da Lei do Procedimento Tributário Administrativo (Lei nº 6.537/1973):**  
+3. **Ingestão da Lei do Procedimento Tributário Administrativo (Lei nº 6.537/1973):**
    Disponibilizar a íntegra da legislação do PAT/RS em `estaduais/rs/leis/pat/lei-6537-1973.md`, fundamental para compreensão da jurisprudência do TARF-RS.
-4. **Ingestão da Legislação do FUNDOPEM/RS:**  
+4. **Ingestão da Legislação do FUNDOPEM/RS:**
    Cadastrar a Lei nº 10.363/1995 e a Lei nº 15.642/2021 em `estaduais/rs/leis/incentivos/lei-10363-1995.md`.
-5. **Criação de Seção Infralegal para a IN DRP nº 45/1998:**  
+5. **Criação de Seção Infralegal para a IN DRP nº 45/1998:**
    Catalogar os capítulos de maior impacto da Instrução Normativa DRP nº 45/1998 (CIAP, ROT-ST, pautas fiscais de PMPF e regimes especiais).
 
 ---

@@ -1,7 +1,7 @@
 # Relatório de Auditoria Tributária Estadual: Amazonas (AM)
-**Unidade Federativa:** Amazonas | **Sigla:** AM | **Região:** Norte  
-**Órgão Fazendário:** Secretaria de Estado da Fazenda do Amazonas (SEFAZ/AM)  
-**Data da Auditoria:** Outubro de 2026 | **Status:** Atualizado com a EC nº 132/2023 e LC nº 214/2025  
+**Unidade Federativa:** Amazonas | **Sigla:** AM | **Região:** Norte
+**Órgão Fazendário:** Secretaria de Estado da Fazenda do Amazonas (SEFAZ/AM)
+**Data da Auditoria:** Outubro de 2026 | **Status:** Atualizado com a EC nº 132/2023 e LC nº 214/2025
 
 ---
 
@@ -59,7 +59,7 @@ O Estado do Amazonas situa-se na Região Norte do Brasil. Conforme a regra feder
 - **Transporte Aéreo Interestadual:** Alíquota unificada de **4%** (Resolução SF nº 95/1996).
 
 #### Exceção Vital do Polo Industrial de Manaus na Resolução SF nº 13/2012
-A Resolução do Senado Federal nº 13/2012 impõe alíquota interestadual de **4%** para mercadorias importadas ou submetidas a processo produtivo com Conteúdo de Importação superior a 40% (CST de origem 1, 2, 3 ou 8). 
+A Resolução do Senado Federal nº 13/2012 impõe alíquota interestadual de **4%** para mercadorias importadas ou submetidas a processo produtivo com Conteúdo de Importação superior a 40% (CST de origem 1, 2, 3 ou 8).
 **Contudo, por mandamento expresso do art. 1º, § 4º, inciso II da referida Resolução, essa restrição NÃO SE APLICA às mercadorias produzidas na Zona Franca de Manaus segundo os Processos Produtivos Básicos (PPB - Decreto-Lei nº 288/1967).**
 - Mercadorias industrializadas no PIM com PPB (CST de Origem `4`): mantêm a **alíquota interestadual de 12%** em suas saídas para qualquer destino nacional, mesmo quando constituídas predominantemente de componentes eletrônicos ou matérias-primas importadas do exterior.
 

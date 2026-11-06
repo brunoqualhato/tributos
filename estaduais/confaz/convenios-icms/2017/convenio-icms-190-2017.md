@@ -400,7 +400,7 @@ Redação original dada ao § 4º da cláusula oitava pelo Conv. ICMS 122/19, de
 
 § 4º Relativamente aos Estados do Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Goiás, Maranhão, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Santa Catarina, São Paulo e Tocantins a data da reinstituição de que trata o inciso II do § 1º desta cláusula será 31 de agosto de 2019.
 
-Acrescido o § 5º à cláusula oitava pelo Conv. ICMS 01/20, efeitos a partir de 26.02.2020. 
+Acrescido o § 5º à cláusula oitava pelo Conv. ICMS 01/20, efeitos a partir de 26.02.2020.
 
 § 5º Relativamente ao Estado de Mato Grosso, a data limite da reinstituição de que trata o inciso II do § 1º desta cláusula é 31 de julho de 2019.
 

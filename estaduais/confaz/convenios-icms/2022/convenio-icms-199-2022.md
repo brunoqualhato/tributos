@@ -412,7 +412,7 @@ Redação original, efeitos até 13.03.23.
 
 Acrescidos os §§ 5º ao 8º na cláusula décima pelo Conv. ICMS 12/23, efeitos a partir de 01.05.23.
 
-§ 5º Fica diferido o recolhimento do imposto nas operações de transferência, entre estabelecimentos de mesma titularidade, com óleo diesel “A”, GLP e GLGN realizadas pela refinaria de petróleo e suas bases, pela CPQ e pela UPGN, devendo ser recolhido por ocasião da operação subsequente, devidamente tributada nos termos deste convênio. 
+§ 5º Fica diferido o recolhimento do imposto nas operações de transferência, entre estabelecimentos de mesma titularidade, com óleo diesel “A”, GLP e GLGN realizadas pela refinaria de petróleo e suas bases, pela CPQ e pela UPGN, devendo ser recolhido por ocasião da operação subsequente, devidamente tributada nos termos deste convênio.
 
 § 6º O disposto nos §§ 2º e 5º somente se aplica aos estabelecimentos relacionados em Ato COTEPE/ICMS, observado o seguinte:
 
@@ -664,7 +664,7 @@ Redação anterior acrescida do § 2º à cláusula décima quarta pelo Conv. IC
 
 I – do dia 1º até o dia 5 do mês, com base na média ponderada da alíquota esp3ecífica apurada no segundo mês imediatamente anterior ao da remessa;
 
-II – do dia 6 até o último dia do mês, com base na média ponderada da alíquota específica apurada no mês imediatamente 
+II – do dia 6 até o último dia do mês, com base na média ponderada da alíquota específica apurada no mês imediatamente
 
 Revogado §3º da cláusula décima quarta pelo Conv. ICMS 172/24, efeitos a partir de 01.05.23.
 

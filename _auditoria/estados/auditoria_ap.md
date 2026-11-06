@@ -1,6 +1,6 @@
 # Relatório de Auditoria Tributária Estadual: Amapá (AP)
-**Data de Emissão:** Outubro de 2026  
-**Auditor:** Agente Especialista em Tributação Estadual (AC / AP / RR)  
+**Data de Emissão:** Outubro de 2026
+**Auditor:** Agente Especialista em Tributação Estadual (AC / AP / RR)
 **Objeto:** Diagnóstico Normativo, Mapeamento Estrutural e Análise Tributária Avançada do Estado do Amapá
 
 ---

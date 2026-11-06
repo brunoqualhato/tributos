@@ -1,11 +1,11 @@
 # Relatório de Auditoria Tributária Estadual: Mato Grosso do Sul (MS)
 
-**Unidade Federativa Auditada:** Mato Grosso do Sul (MS)  
-**Órgão Fazendário Competente:** Secretaria de Estado de Fazenda de Mato Grosso do Sul (SEFAZ/MS)  
-**Contencioso Administrativo:** Tribunal Administrativo Tributário do Estado de Mato Grosso do Sul (TAT/MS)  
-**Responsável Técnico:** Consultoria Tributária Especializada em Tributos Estaduais e Federais  
-**Data da Auditoria:** Outubro de 2026  
-**Status do Mapeamento:** Completo / Conclusivo  
+**Unidade Federativa Auditada:** Mato Grosso do Sul (MS)
+**Órgão Fazendário Competente:** Secretaria de Estado de Fazenda de Mato Grosso do Sul (SEFAZ/MS)
+**Contencioso Administrativo:** Tribunal Administrativo Tributário do Estado de Mato Grosso do Sul (TAT/MS)
+**Responsável Técnico:** Consultoria Tributária Especializada em Tributos Estaduais e Federais
+**Data da Auditoria:** Outubro de 2026
+**Status do Mapeamento:** Completo / Conclusivo
 
 ---
 
@@ -39,7 +39,7 @@ graph TD
     A["Acervo Atual MS"] --> B["Decreto 9.203/98 (RICMS Resumo)"]
     A --> C["Lei 1.810/97 (ITCD Parcial)"]
     A --> D["Lei 1.810/97 (IPVA Parcial)"]
-    
+
     E["Normas Críticas Ausentes"] --> F["Lei 1.810/97 - CTE Integral (ICMS Geral)"]
     E --> G["Anexos Operacionais RICMS/MS (I a XXV)"]
     E --> H["Lei 2.315/2001 - PAT e TAT/MS"]
@@ -223,12 +223,12 @@ A disciplina da compensação do ICMS em Mato Grosso do Sul segue rigorosamente 
 ```mermaid
 flowchart TD
     Entrada["Entradas de Mercadorias / Insumos no Estabelecimento"] --> Valida{"Qual a destinação da entrada?"}
-    
+
     Valida -->|Insumos MP/ME p/ Industrialização| CreditoSim["Crédito Integralmente Apropriável (Art. 54 CTE)"]
     Valida -->|Bens do Ativo Imobilizado| CIAP["Apropriação à razão de 1/48 avos via CIAP Modelo D"]
     Valida -->|Uso e Consumo| Restricao["Vedado até 01/01/2033 (LC 87/96 c/c LC 203/23)"]
     Valida -->|Energia / Telecom| Eletric["Condicionado a Consumo no Processo Industrial ou Saída Ext."]
-    
+
     CreditoSim --> Saida{"Qual a natureza da saída subsequente?"}
     Saida -->|Saída Tributada Integralmente| Manut["Manutenção Plena do Crédito"]
     Saida -->|Exportação p/ o Exterior (Art. 3º, I)| Kandir["Manutenção e Acúmulo de Saldo Credor (Imunidade)"]

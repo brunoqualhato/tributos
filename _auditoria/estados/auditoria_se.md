@@ -1,9 +1,9 @@
 # RELATÓRIO DE AUDITORIA TRIBUTÁRIA ESTADUAL: SERGIPE (SE)
 
-**Data de Elaboração:** Outubro de 2026  
-**Jurisdição:** Estado de Sergipe (SE)  
-**Órgão Fazendário:** Secretaria de Estado da Fazenda de Sergipe (SEFAZ/SE)  
-**Status da Auditoria:** Concluída com Mapeamento Completo de Acervo Normativo, Relações Interestaduais, Cadeias Estratégicas e Transição Tributária  
+**Data de Elaboração:** Outubro de 2026
+**Jurisdição:** Estado de Sergipe (SE)
+**Órgão Fazendário:** Secretaria de Estado da Fazenda de Sergipe (SEFAZ/SE)
+**Status da Auditoria:** Concluída com Mapeamento Completo de Acervo Normativo, Relações Interestaduais, Cadeias Estratégicas e Transição Tributária
 
 ---
 
@@ -79,11 +79,11 @@ O regime sergipano prevê metodologias técnicas distintas em função da condi�
 * **Base Legal:** Art. 13 da Lei Estadual nº 3.796/1996, alterado pela Lei Estadual nº 8.952/2021, e art. 605 do RICMS/SE (Decreto nº 21.400/2002).
 * **Metodologia de Cálculo:** Aplicação da sistemática de **Base Dupla** com inclusão "por dentro" da alíquota interna de Sergipe (20%).
 * **Formulação Matemática do Cálculo em Sergipe:**
-  
+
   $$\text{Valor Líquido Sem ICMS Origem} = \text{Valor da Operação} \times (1 - \text{ALQ}_{\text{inter}})$$
-  
+
   $$\text{Base Dupla Recomposta} = \frac{\text{Valor Líquido Sem ICMS Origem}}{1 - \text{ALQ}_{\text{intra, efetiva}}}$$
-  
+
   $$\text{DIFAL a Recolher} = (\text{Base Dupla Recomposta} \times \text{ALQ}_{\text{intra, efetiva}}) - (\text{Valor da Operação} \times \text{ALQ}_{\text{inter}})$$
 
 * *Demonstração Numérica (Aquisição de equipamento fabril em SP a 7%, com alíquota de destino em SE de 20%):*
@@ -125,9 +125,9 @@ O regime sergipano prevê metodologias técnicas distintas em função da condi�
 * Regulamentado com base na Lei Complementar nº 102/2000 e normas internas da SEFAZ/SE:
   * Apropriação fracionada em **48 (quarenta e oito) meses consecutivos**.
   * Coeficiente de apropriação mensal $F$ calculado pela relação entre saídas tributadas/exportações e o total de saídas:
-    
+
     $$F = \frac{\text{Saídas Tributadas} + \text{Exportações Imunes}}{\text{Total das Saídas do Período}}$$
-    
+
     $$\text{Crédito Mensal do Mês} = \left( \frac{\text{ICMS Total do Bem}}{48} \right) \times F$$
 
   * Obrigatoriedade do preenchimento e validação do **Bloco G do SPED Fiscal (EFD-ICMS/IPI)**. Desincorporação, furto, perda ou alienação antecipada do bem extingue o saldo de parcelas remanescentes.

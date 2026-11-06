@@ -527,3 +527,22 @@ Ingestão Concorrente Massiva: Fechamento das 27 UFs (ICMS Matrizes e Fundos Agr
   - Relatório de integridade total validado com 1.241 documentos em conformidade plena.
 
 
+
+## 05/11/2026 — Auditoria e Saneamento Normativo Nacional das 26 UFs em Paralelo (1.303 normas)
+
+- Executada auditoria material, saneamento de artigos sintéticos e complementação normativa para as 26 demais Unidades Federativas (mais Goiás previamente concluído, totalizando as 27 UFs), mobilizando 6 subagentes autônomos em concorrência paralela por região:
+  - **Sudeste (SP, MG, RJ, ES):** 32 normas estruturadas (21 preexistentes saneadas + 11 novas incorporadas cobrindo TIT-SP, CCMG, CCRF-RJ, CERF-ES, alíquotas modais e fundos FECOEP, FEM, FOT, FEEF, FECP).
+  - **Sul (PR, SC, RS):** 23 normas estruturadas (16 preexistentes saneadas + 7 novas incorporadas cobrindo alíquotas modais de 19,5% no PR e 17% no RS, CCRF-PR, TAT-SC, TARF-RS e fundos FECOP-PR, FUNDOSOCIAL-SC e AMPARA-RS).
+  - **Centro-Oeste (DF, MT, MS):** 20 normas estruturadas (14 preexistentes saneadas + 6 novas incorporadas cobrindo TARF-DF, alíquotas modais DF/MT, PAT-MT, FUNDERSUL originário Lei 1.963/1999 e PAT-MS).
+  - **Nordeste 1 (BA, PE, CE, MA):** 29 normas estruturadas (22 preexistentes saneadas + 7 novas incorporadas cobrindo CONSEF-BA, TATE-PE, CONAT-CE, TATE-MA, alíquotas modais de 20,5% em BA/PE, 20% no CE e 22% no MA, além de FUNCEP e FECOP).
+  - **Nordeste 2 (PB, RN, AL, PI, SE):** 33 normas estruturadas (20 preexistentes saneadas + 13 novas incorporadas cobrindo PATs de PB, AL, PI, SE, alíquotas modais e OCR Neural Engine em DOEs históricos).
+  - **Norte (AM, PA, RO, TO, AC, AP, RR):** 48 normas estruturadas cobrindo as 7 UFs da região, integrando ZFM/PIM, atacadista TO, contenciosos fiscais e alíquotas modais.
+- **Saneamento Material:** Eliminados integralmente artigos sintéticos que mesclavam jurisprudência do STF (Temas 708, 825, 863, 1093, 1214), EC 132/2023 e PLP 108/2024 diretamente como redação legal, substituindo por transcrições autênticas obtidas dos portais oficiais (ALs, SEFAZs, Diários Oficiais).
+- **Padronização:** Fórmulas de base dupla do DIFAL convertidas para LaTeX ($$...$$), resíduos de quebras de página e raspagem de PDF/web eliminados.
+- **Relatórios Regionais e Manifestos:** Gerados relatórios analíticos (`auditoria_<regiao>_2026-11-05.md`) e manifestos SHA-256 (`<regiao>_fontes_2026-11-05.json`) para todas as regiões, além do relatório consolidado nacional `_auditoria/auditoria_nacional_27_ufs_2026-11-05.md`.
+- **Recalibração e Métricas:** Atualizado `scripts/plano.py` expandindo as metas:
+  - PAT estadual: de 10 para 31 metas.
+  - Leis Orgânicas e Alíquotas Modais do ICMS: de 29 para 60 metas.
+  - Fundos Estaduais (art. 136 ADCT e sociais): de 7 para 17 metas.
+- **Auditoria Plena:** 1.303 documentos auditados pelo validador canônico independente (`scripts/auditar.py`), com 1.303 aprovados e 0 rejeitados (100% de conformidade de schema, frontmatter canônico e links diretos oficiais).
+- **Catálogo e Progresso:** Regenerados `ACERVO.md` e `PROGRESSO.md` com 1.303 / 1.303 normas mapeadas (100,0% rigoroso).

@@ -1,9 +1,9 @@
 # Relatório Técnico de Auditoria Tributária Estadual: Paraíba (PB)
 
-**Data de Elaboração:** Outubro de 2026  
-**Competência Analítica:** Direito Tributário Estadual e Relações Federativas  
-**Unidade Federativa Auditada:** Estado da Paraíba (PB)  
-**Arquivo de Referência:** `_auditoria/estados/auditoria_pb.md`  
+**Data de Elaboração:** Outubro de 2026
+**Competência Analítica:** Direito Tributário Estadual e Relações Federativas
+**Unidade Federativa Auditada:** Estado da Paraíba (PB)
+**Arquivo de Referência:** `_auditoria/estados/auditoria_pb.md`
 
 ---
 

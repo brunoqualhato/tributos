@@ -1,8 +1,8 @@
 # Relatório de Auditoria e Diagnóstico Tributário: Estado do Rio de Janeiro (RJ)
 
-**Jurisdição:** Estado do Rio de Janeiro (SEFAZ/RJ)  
-**Data da Auditoria:** Outubro de 2026  
-**Período de Referência:** Ordenamento Vigente (Legislação Consolidada até 2026 e Transição da Reforma Tributária - EC 132/2023 e LC 214/2025)  
+**Jurisdição:** Estado do Rio de Janeiro (SEFAZ/RJ)
+**Data da Auditoria:** Outubro de 2026
+**Período de Referência:** Ordenamento Vigente (Legislação Consolidada até 2026 e Transição da Reforma Tributária - EC 132/2023 e LC 214/2025)
 **Status do Repositório Local (`estaduais/rj/`):** Auditoria Crítica de Cobertura e Lacunas
 
 ---
@@ -49,12 +49,12 @@ O relacionamento interestadual do Rio de Janeiro é caracterizado por sua posiç
 
 ```
        OPERACÕES INTERESTADUAIS ENVOLVENDO O RIO DE JANEIRO (RJ)
-       
+
        SAÍDAS DE RJ:
        ├── Destino: Regiões Norte, Nordeste, Centro-Oeste e ES ───> Alíquota: 7%
        ├── Destino: Regiões Sul e Sudeste (exceto ES: SP, MG, PR, SC, RS) ──> Alíquota: 12%
        └── Bens Importados (FCI > 40%) para qualquer UF ───────────> Alíquota: 4%
-       
+
        ENTRADAS EM RJ:
        ├── Origem: SP, MG, PR, SC, RS ─────────────────────────────> Alíquota: 12%
        ├── Origem: Norte, Nordeste, Centro-Oeste e ES ──────────────> Alíquota: 7%
@@ -154,14 +154,14 @@ A não-cumulatividade do ICMS no Rio de Janeiro encontra suporte regulamentar no
 
 ```
        CICLO DE CRÉDITO E APURAÇÃO DO ICMS FLUMINENSE
-       
+
        ENTRADA DE BENS E SERVIÇOS
        ├── Insumos Industriais (Matéria-prima / Embalagem) ───> Crédito Integral (100%)
        ├── Ativo Permanente (Máquinas / Equipamentos) ────────> CIAP: 1/48 avos/mês (Bloco G)
        ├── Energia Elétrica e Telecomunicações ───────────────> Regra Restritiva LC 87/96
        │                                                         (Exige Laudo Técnico Industrial)
        └── Uso e Consumo Geral ────────────────────────────────> Crédito Vedado até 2033
-       
+
        APURAÇÃO MENSAL (LIVRO I RICMS / LIVRO VI RES. 720)
        ├── Total Débitos (-) Total Créditos
        ├── Manutenção Assegurada: Exportações (Art. 40 Lei 2.657/96)
@@ -233,7 +233,7 @@ Apesar do perfil majoritariamente urbano e industrial do Estado do Rio de Janeir
 
 ```
          CADEIA TRIBUTÁRIA DO SETOR AGROPECUÁRIO FLUMINENSE
-         
+
     [Insumos Agrícolas] ──> Convênio ICMS 100/97 c/c 26/2021 (Isenção / Redução BC)
            │
     [Produtor Rural PF] ──> Inscrição CAP / NFP-e modelo 55 (Dispensa de EFD)
@@ -283,7 +283,7 @@ O setor industrial fluminense tem no segmento de Petróleo, Gás Natural e Apoio
 
 ```
        ARQUITETURA DE INCENTIVOS INDUSTRIAIS FLUMINENSES (CONVALIDADOS LC 160/17)
-       
+
        SETOR INDUSTRIAL / OFFSHORE NO RJ
        │
        ├── REPETRO-SPED / OFFSHORE (Lei 8.890/2020 e Res. SEFAZ 153/2020)
@@ -349,7 +349,7 @@ O setor atacadista e de logística de distribuição do Rio de Janeiro desempenh
 
 ```
        OPERAÇÕES ATACADISTAS E DISTRIBUIÇÃO NO RJ (LEI 9.025/2020)
-       
+
        MERCADORIAS IMPORTADAS / ADQUIRIDAS
        ├── Desembaraço em Portos/Aeroportos do RJ ───> ICMS Importação Diferido
        │
@@ -415,7 +415,7 @@ A promulgação da Emenda Constitucional nº 132/2023 e sua regulamentação pel
 
 ```
        CRONOGRAMA DE TRANSIÇÃO DO ICMS FLUMINENSE PARA O IBS (2026 - 2033)
-       
+
        2026: Início dos testes operacionais (CBS 0,9% e IBS 0,1%)
        2027: Entrada em vigor integral da CBS; extinção do PIS/COFINS; início do Imposto Seletivo
        2029: Redução das Alíquotas do ICMS para 90% (Redução proporcional dos Incentivos)

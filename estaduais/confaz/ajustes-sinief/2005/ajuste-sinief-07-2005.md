@@ -30,7 +30,7 @@ Vide o Ajuste Sinief 01/12, que trata de regime especial nas operações e prest
 
 Manual de Orientação do Contribuinte: Ato Cotepe/ICMS 51/15.
 
-Vide Ajuste SINIEF 19/16, que institui a NFC-e e DANFE-NC-e. 
+Vide Ajuste SINIEF 19/16, que institui a NFC-e e DANFE-NC-e.
 
 Vide Despacho 18/17, que torna sem efeito a republicação no DOU de 02.02.17, Seção 1, páginas 45 e 46.
 
@@ -1452,7 +1452,7 @@ Nova redação dada à cláusula décima nona-B pelo Ajuste SINIEF 33/20, efeito
 
 § 4º O restabelecimento do acesso aos ambientes autorizadores ao contribuinte que tenha sofrido o bloqueio dependerá de liberação realizada pela administração tributária da unidade federada onde estiver estabelecido.
 
-Redação anterior da cláusula décima nona-B pelo Ajuste SINIEF 10/20, efeitos de 07.04.20 a 15.10.20. 
+Redação anterior da cláusula décima nona-B pelo Ajuste SINIEF 10/20, efeitos de 07.04.20 a 15.10.20.
 
 Cláusula décima nona-B As administrações tributárias autorizadoras de NF-e poderão suspender, de forma temporária ou definitiva, o acesso aos seus respectivos ambientes autorizadores ao contribuinte que praticar, mesmo que de maneira não intencional, o consumo indevido de tais ambientes em desacordo com os padrões estabelecidos no MOC.
 

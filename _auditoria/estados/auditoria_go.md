@@ -1,6 +1,6 @@
 # Relatório de Auditoria Tributária Estadual: Goiás (GO)
-**Jurisdição:** Estado de Goiás (SEFAZ/GO - Secretaria de Estado da Economia)  
-**Data da Auditoria:** Outubro de 2026  
+**Jurisdição:** Estado de Goiás (SEFAZ/GO - Secretaria de Estado da Economia)
+**Data da Auditoria:** Outubro de 2026
 **Especialidade:** ICMS, ICMS-ST, Benefícios Fiscais, Agronegócio, Indústria, Atacado e Transição para o IBS/CBS (EC 132/2023 e LC 214/2025)
 
 ---
@@ -150,7 +150,7 @@ O Estado de Goiás é signatário de ampla gama de Convênios e Protocolos ICMS 
   - *Tintas, Vernizes e Solventes:* Convênio ICMS 118/2017;
   - *Cigarros e Produtos de Tabacaria:* Convênio ICMS 111/2017.
 
-- **Fórmula de Ajuste da Margem de Valor Agregado (MVA Ajustada):**  
+- **Fórmula de Ajuste da Margem de Valor Agregado (MVA Ajustada):**
   Nas operações interestaduais originadas em outros estados com destino a contribuintes goianos, quando a alíquota interna em Goiás (19%) for superior à alíquota interestadual de origem (7% ou 4%), aplica-se a MVA Ajustada obrigatória:
 
 $$\text{MVA Ajustada} = \left[ \frac{(1 + \text{MVA-ST Original}) \times (1 - \text{ALQ Inter})}{(1 - \text{ALQ Intra})} \right] - 1$$
@@ -211,7 +211,7 @@ Instituído pela Lei Estadual nº 14.469/2003 e regulamentado pelo Decreto Estad
 
 ### 3.5. Acúmulo de Saldos Credores e Ressarcimento
 - **Hipóteses Geradoras:** Concentram-se nas indústrias exportadoras de commodities (grãos, carnes, minérios), estabelecimentos comerciais atacadistas com vendas interestaduais e fabricantes de itens contemplados com alíquotas reduzidas na saída com insumos gravados à alíquota padrão.
-- **Ressarcimento de ICMS-ST (Instrução Normativa GSE nº 1.442/2019):**  
+- **Ressarcimento de ICMS-ST (Instrução Normativa GSE nº 1.442/2019):**
   O contribuinte substituído tem direito ao ressarcimento do ICMS retido por ST quando:
   1. Promover saída para estabelecimento situado em outra unidade da Federação;
   2. A mercadoria for objeto de perecimento, quebra, furto ou sinistro;
@@ -252,7 +252,7 @@ A internalização do Convênio ICMS 100/1997 em Goiás opera pelo Anexo IX do R
 
 Instituída no apagar das luzes de 2022 para recompor o erário goiano após a queda de arrecadação do ICMS imposta pela Lei Complementar federal nº 194/2022 (combustíveis e energia):
 
-- **Estruturação Jurídica e Natureza Condicionante:**  
+- **Estruturação Jurídica e Natureza Condicionante:**
   A contribuição ao Fundo Estadual de Infraestrutura (FUNDEINFRA) não foi instituída formalmente como imposto compulsório autônomo, mas sim como uma **condição potestativa/resolutiva de acesso a regimes tributários favorecidos**:
   - Para usufruir de **Diferimento do ICMS** nas operações internas;
   - Para usufruir de **Regime Especial de Apuração e Exportação** (dispensa de comprovação ato a ato do ICMS nas saídas com fim específico de exportação ou remessa para o exterior).
@@ -265,7 +265,7 @@ Instituída no apagar das luzes de 2022 para recompor o erário goiano após a q
   - **Algodão em caroço e em pluma:** até 1,65%;
   - **Minérios (Ferro, Ouro, Níquel, Fosfato):** até 1,65%.
 
-- **Contencioso Constitucional (ADI 7363 / STF):**  
+- **Contencioso Constitucional (ADI 7363 / STF):**
   Ajuizada pela Confederação Nacional da Indústria (CNI) e entidades do agronegócio, sustentando vício formal de tributação e quebra da não afetação de receitas. O Plenário do STF, em decisão de mérito com repercussão nacional, referendou a higidez do fundo, assentando que fundos vinculados a regimes desonerativos estaduais são válidos desde que:
   1. A contribuição seja rigorosamente facultativa (subsistindo ao contribuinte a opção de tributação ordinária pelo ICMS sem benefícios);
   2. As receitas auferidas fiquem estritamente vinculadas a obras de infraestrutura de transporte e logística agropecuária, vedado o desvio para despesas correntes de pessoal.
@@ -354,17 +354,17 @@ O Estado de Goiás consolidou-se como um dos principais eixos logísticos da dis
 
 ```
                OPERAÇÃO ATACADISTA INTERESTADUAL DE GOIÁS
-    
+
     1. Entrada no CD em Goiás (origem SP - alíquota 7%):
        - Custo de Compra: R$ 1.000.000,00
        - Crédito de ICMS de Entrada: R$ 70.000,00 (7%)
-    
+
     2. Saída Interestadual do Atacadista de GO (alíquota 12%):
        - Valor de Venda Interestadual: R$ 1.200.000,00
        - Débito Bruto Destacado na NF-e: R$ 144.000,00 (12%)
        - Crédito Outorgado de GO (Art. 11, III): R$ 36.000,00 (3% da Base)
        - Débito Efetivo Estadual: R$ 108.000,00 (9%)
-    
+
     3. Apuração Líquida do ICMS em Goiás:
        - Débito Efetivo (R$ 108.000,00) - Crédito Entrada (R$ 70.000,00)
        - ICMS Líquido a Recolher em GO: R$ 38.000,00 (Carga líquida de apenas 3,16%!)
@@ -400,7 +400,7 @@ A promulgação da **Emenda Constitucional nº 132/2023** e a disciplina da **Le
 
 ```
        CRONOGRAMA DE TRANSIÇÃO DO ICMS PARA O IBS EM GOIÁS
-  
+
   2026-2028: Teste Federal CBS (0,9%) e IBS (0,1%) | PROGOIÁS e Atacado 100%
   2029: Início da redução gradual do ICMS (90%) | Redução de 10% dos Benefícios
   2030: Redução de 25% dos Benefícios Fiscais (Fruição de 75%)

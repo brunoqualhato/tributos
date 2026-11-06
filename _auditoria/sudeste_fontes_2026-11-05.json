@@ -1,0 +1,329 @@
+{
+  "data_consulta": "2026-11-05",
+  "metodo": "Comparação integral e conversão de caracteres alfanuméricos do HTML oficial selecionado para CommonMark estrito; exclusão de artigos sintéticos e preservação literal das fontes oficiais das Assembleias e Secretarias de Fazenda.",
+  "documentos": [
+    {
+      "fonte": "https://www.al.sp.gov.br/repositorio/legislacao/lei/2008/lei-13296-23.12.2008.html",
+      "sha256_html": "a90f5477aa89a42844156d5692ac763ccf142f0394adad46dcd662be978bcb02",
+      "bytes_html": 125378,
+      "caracteres_texto": 77740,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/sp/leis/ipva/lei-13296-2008.md",
+      "sha256_markdown": "b434cc7b72d81fedc636367468e23bbb800d37cd4c093205aad6669150cb3e38"
+    },
+    {
+      "fonte": "https://www.al.sp.gov.br/repositorio/legislacao/lei/2000/lei-10705-28.12.2000.html",
+      "sha256_html": "2fc7eb13c81e5205fff4bd03d814ae764dda32c6bca0b8362974fea605e40210",
+      "bytes_html": 49281,
+      "caracteres_texto": 31226,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/sp/leis/itcmd/lei-10705-2000.md",
+      "sha256_markdown": "463e840735fe6226cfe1cb161fe4bff433124bee222d9aac905433f64ebe3536"
+    },
+    {
+      "fonte": "https://www.al.sp.gov.br/repositorio/legislacao/lei/1989/lei-6374-01.03.1989.html",
+      "sha256_html": "1f1d8527bdea3cf401fcb7ffaec7fc54a66e2bad537d205e68ee318df1746f75",
+      "bytes_html": 874041,
+      "caracteres_texto": 501335,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/sp/leis/icms/lei-6374-1989.md",
+      "sha256_markdown": "bb292e201e4fe852b9cbfba67469179e8ddcef186a985dd092d0463937c885bc"
+    },
+    {
+      "fonte": "https://www.al.sp.gov.br/repositorio/legislacao/lei/2009/lei-13457-18.03.2009.html",
+      "sha256_html": "76f925ac90fcb6ba041c4f8a0212bbb132bd7f091f92f352a7b04358fb45d9d9",
+      "bytes_html": 132837,
+      "caracteres_texto": 86552,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/sp/leis/pat/lei-13457-2009-tit-sp.md",
+      "sha256_markdown": "175ee33fd09e5acf7e75ef70ff4330ef3b2be19326850fc043b71fcce7ebb5ba"
+    },
+    {
+      "fonte": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2000/decreto-45490-30.11.2000.html",
+      "sha256_html": "470c297558b2af8f5deeff5329792f2808d19b202e33e512ffd1569b36c8437d",
+      "bytes_html": 3368085,
+      "caracteres_texto": 1116948,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/sp/ricms/decreto-45490-2000.md",
+      "sha256_markdown": "8538ad01e4cef05e671ac2006142571385eb624aab2f193691cd7a92243d4921"
+    },
+    {
+      "fonte": "https://www.al.sp.gov.br/repositorio/legislacao/lei/2015/lei-16006-24.11.2015.html",
+      "sha256_html": "bc117f1f47fd96712e8f93ba7646668ddf298cb461a7ef7e0a8befa221f52fba",
+      "bytes_html": 7718,
+      "caracteres_texto": 3684,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/sp/leis/fundos/lei-16006-2015-fecoep.md",
+      "sha256_markdown": "a14c8f5bd4d3ebf1797c95db93001ce6eeed35abbd618efe55eb233acfbf3f42"
+    },
+    {
+      "fonte": "https://www.al.sp.gov.br/repositorio/legislacao/lei/2020/lei-17293-15.10.2020.html",
+      "sha256_html": "688d798089dd8fc1f1fc32a080bf296d6656ad6183dc5790079a6f74940b1c87",
+      "bytes_html": 123542,
+      "caracteres_texto": 81546,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/sp/leis/icms/lei-17293-2020-ajuste-fiscal-aliquotas.md",
+      "sha256_markdown": "438e15e0825b7d74106fe1f30b5259d9eff1f600354f6a9f26c312995c15c64c"
+    },
+    {
+      "fonte": "https://www.almg.gov.br/legislacao-mineira/LEI/6763/1975/",
+      "sha256_html": "a1ba6101e4b60b50cbc0ac4378519d37f6650922c9927b6088be9c76a45a05df",
+      "bytes_html": 998838,
+      "caracteres_texto": 737955,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/mg/leis/icms/lei-6763-1975.md",
+      "sha256_markdown": "f921165277b3ead122293430eebebfdbd7cbd4ce37a34b1905da53c5515945b1"
+    },
+    {
+      "fonte": "https://www.almg.gov.br/legislacao-mineira/LEI/14937/2003/",
+      "sha256_html": "c3a84cce9ec77642db90ea3a87926e697a886505389542b38bc4090581eaf8b1",
+      "bytes_html": 50566,
+      "caracteres_texto": 28615,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/mg/leis/ipva/lei-14937-2003.md",
+      "sha256_markdown": "991a08fbd08af352d92f9a0f81ba85e005bf4a37a464375553fff5194ddedd2c"
+    },
+    {
+      "fonte": "https://www.almg.gov.br/legislacao-mineira/LEI/14941/2003/",
+      "sha256_html": "83341afdb1dee75d7c73251debd825a7762c18792e9d53c481dce5962939c196",
+      "bytes_html": 62340,
+      "caracteres_texto": 38463,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/mg/leis/itcmd/lei-14941-2003.md",
+      "sha256_markdown": "b2f1f166acd175d697fbfff0e42f7f99fdedc4631c5e94c1eb0f5656515ffa55"
+    },
+    {
+      "fonte": "https://www.almg.gov.br/legislacao-mineira/DEC/44747/2008/",
+      "sha256_html": "a80c462f2ac744edb1d487a1a56ef47e0c6fe0471974746e0973eabb24d35b4d",
+      "bytes_html": 270682,
+      "caracteres_texto": 215579,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/mg/leis/pat/decreto-44747-2008-rpta-ccmg.md",
+      "sha256_markdown": "1005e89ab1f0e9227e1d69f6e3df31fb0beacd806a064b5e9e40f11f9a08b2b0"
+    },
+    {
+      "fonte": "https://www.almg.gov.br/legislacao-mineira/DEC/48589/2023/",
+      "sha256_html": "f99b93af0d611c0e6681a3f19d4d590ea3614e83629e434008e926dcc996bad7",
+      "bytes_html": 446680,
+      "caracteres_texto": 343672,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/mg/ricms/decreto-48589-2023.md",
+      "sha256_markdown": "8447a59fd00c6bb0d14f519b14cd36e5ff056cd39cc1dca76f03e98a3ad3d9af"
+    },
+    {
+      "fonte": "https://www.almg.gov.br/legislacao-mineira/DEC/48589/2023/",
+      "sha256_html": "f99b93af0d611c0e6681a3f19d4d590ea3614e83629e434008e926dcc996bad7",
+      "bytes_html": 446680,
+      "caracteres_texto": 343478,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": [
+        1,
+        200
+      ],
+      "arquivo": "estaduais/mg/ricms/decreto-48589-2023-tts-corredor-importacao-ecommerce-mg.md",
+      "sha256_markdown": "89d325583593ec88b94c2904968f9e1940fec14460563b567bda6126ef3fcf7a"
+    },
+    {
+      "fonte": "https://www.almg.gov.br/legislacao-mineira/LEI/19990/2011/",
+      "sha256_html": "5ff69e0e49d1f6bf9d8265787512c546c5a2fc2ed7311bd972efbcb7ab531e4b",
+      "bytes_html": 30042,
+      "caracteres_texto": 10725,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/mg/leis/fundos/lei-19990-2011-fem.md",
+      "sha256_markdown": "4eef375679db82e86b5899857eadd265e2831bbae220e144f6171197ecc7a43b"
+    },
+    {
+      "fonte": "https://www.almg.gov.br/legislacao-mineira/LEI/24475/2023/",
+      "sha256_html": "634b45213f5920814a58f31ec64b8e6fbd64b873fc4d5a3667f07000b53017ab",
+      "bytes_html": 106907,
+      "caracteres_texto": 6577,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/mg/leis/icms/lei-24475-2023-aliquota-fem.md",
+      "sha256_markdown": "8b5bb07ffd678b9556812c6d1cceb0d0c1c574b05f20978aae7b2acf8a0f2ad1"
+    },
+    {
+      "fonte": "http://alerjln1.alerj.rj.gov.br/CONTLEI.NSF/f25571cac4a61011032564fe0052c89c/01cc04eee53b3b30032564fb005c2ddf?OpenDocument",
+      "sha256_html": "48384f2b27e4c79378ec7f9fdb66eb9870f47376ff4b9d0b0f4fdecafb31360c",
+      "bytes_html": 659950,
+      "caracteres_texto": 385675,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/rj/leis/icms/lei-2657-1996.md",
+      "sha256_markdown": "1682cd650b83e69deff4e6b22694a803ed4d60401d8a3742032b0af8e66b1669"
+    },
+    {
+      "fonte": "http://alerjln1.alerj.rj.gov.br/contlei.nsf/c8aa0900025feef6032564ec0060dfff/fa1a422b516211130325657a0064293f?OpenDocument",
+      "sha256_html": "1766ab6a984d67a3d54ede77d81b3210516db51c676cda84f656b5c2cd7fa2a1",
+      "bytes_html": 98882,
+      "caracteres_texto": 50492,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/rj/leis/ipva/lei-2877-1997.md",
+      "sha256_markdown": "6d0110c6e613d05b269fefc519ae517cc6efff5d63421251900352863f20aa0d"
+    },
+    {
+      "fonte": "http://alerjln1.alerj.rj.gov.br/CONTLEI.NSF/c8aa0900025feef6032564ec0060dfff/38c6d405dd5c89fd83257f1f006deb65?OpenDocument",
+      "sha256_html": "9a336be0872deec19b15b31bfdddadddef4db15112590559a36aaf5ba1e5f4e1",
+      "bytes_html": 75152,
+      "caracteres_texto": 49141,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/rj/leis/itcmd/lei-7174-2015.md",
+      "sha256_markdown": "094b57958733bf69777fbcfeb7bdaf290053aa590c99913f99c110429e15a147"
+    },
+    {
+      "fonte": "http://alerjln1.alerj.rj.gov.br/decest.nsf/83b1e11a446ce7f7032569ba0082511c/3997a1158a18789d03256aee00647cd6?OpenDocument",
+      "sha256_html": "bef06cdc1584b6cd4b5eae6e11cf16cb15a839e23b207d3d6368652c4943e705",
+      "bytes_html": 438014,
+      "caracteres_texto": 54553,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/rj/leis/pat/decreto-lei-5-1975-conselho-contribuintes-rj.md",
+      "sha256_markdown": "fb1b17e4f12b1348ad02f253738bdc8f517d75ff7b0355de24ca353d57309e8e"
+    },
+    {
+      "fonte": "http://alerjln1.alerj.rj.gov.br/decest.nsf/a912a1deb5407d36832569d0006f99d9/e435cb69bb47ffa7032569a10080b56c?OpenDocument",
+      "sha256_html": "0b32f854e08a888165024c1adb581e088f13783864b161c9c87750d5c2671eca",
+      "bytes_html": 6744,
+      "caracteres_texto": 2361,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/rj/ricms/decreto-27427-2000.md",
+      "sha256_markdown": "a25a5b7c30428afcb1abab753df30f3faf1744031c093fedca73b0e37491f109"
+    },
+    {
+      "fonte": "https://alerjln1.alerj.rj.gov.br/CONTLEI.NSF/c8aa0900025feef6032564ec0060dfff/5a2b93539750627e03258a92006d85c6?OpenDocument",
+      "sha256_html": "846874e042b1ac476d5827c8b742a7ebf2843c49a18aa3fa44e9bf7975ebf35e",
+      "bytes_html": 10289,
+      "caracteres_texto": 1330,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/rj/leis/icms/lei-10253-2023-aliquota-modal.md",
+      "sha256_markdown": "64d07bc85a2104f2be3a75ec51b99742b4b8a2e4cbc601055a01b10cb9d6a19d"
+    },
+    {
+      "fonte": "http://alerjln1.alerj.rj.gov.br/CONTLEI.NSF/e9589b9aabd9cac8032564fe0065abb4/5536b8ab9d43675d032584cc0063da30?OpenDocument",
+      "sha256_html": "afe16ad328b09f2f2425e0c9af62ba27a1e171c81738d114617024f81a6057a2",
+      "bytes_html": 30600,
+      "caracteres_texto": 15409,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/rj/leis/fundos/lei-8645-2019-fot.md",
+      "sha256_markdown": "3b85fbb760f8791102bf70db810fd876fa9eb218590751ace5180f31d77ee44a"
+    },
+    {
+      "fonte": "http://alerjln1.alerj.rj.gov.br/CONTLEI.NSF/e9589b9aabd9cac8032564fe0065abb4/34e6ad20131389098325803b00633bab?OpenDocument",
+      "sha256_html": "eeaa927787478841386a57e6ef7f14c9de3d287a546fdbfedb796e72e014424b",
+      "bytes_html": 59264,
+      "caracteres_texto": 18467,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/rj/leis/fundos/lei-7428-2016-feef.md",
+      "sha256_markdown": "abb38343484cffce6daf7856fac7c413743f881cab33f4b1702019c91cd869e6"
+    },
+    {
+      "fonte": "http://alerjln1.alerj.rj.gov.br/contlei.nsf/f25edae7e64db53b032564fe005262ef/554072cab7530f9683256ca00048d4dd?OpenDocument",
+      "sha256_html": "1fe7647a9810f92189b344a470de9ed160b2468b2995002504384f5067eb321a",
+      "bytes_html": 88636,
+      "caracteres_texto": 40298,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/rj/leis/fundos/lei-4056-2002-fecp.md",
+      "sha256_markdown": "b12242294f2aa172f7276531404abf4f6c44311a3581975ac8410afeb1284c79"
+    },
+    {
+      "fonte": "https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/LEI70002001.html",
+      "sha256_html": "119e046cdb8d181b0fd11cc2305ec859edf3f2c726bd1202112965d9398745ec",
+      "bytes_html": 4122746,
+      "caracteres_texto": 588914,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/es/leis/icms/lei-7000-2001.md",
+      "sha256_markdown": "95d1dd8041ab564260ef66b2bb2ea26f96c090f46739034d61e73879e4b9d846"
+    },
+    {
+      "fonte": "https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/LEI69992001.html",
+      "sha256_html": "6fe0bb1bec5fdddbc127b0dde3351b2baf124c3fa39836a1973b07bd80418ea5",
+      "bytes_html": 363206,
+      "caracteres_texto": 48523,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/es/leis/ipva/lei-6999-2001.md",
+      "sha256_markdown": "f2bed1c0baa513b0507ba5f886e88a54aba3cc3220a4bc52955431403ffa43f8"
+    },
+    {
+      "fonte": "https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/LEI100112013.html",
+      "sha256_html": "23eb55fb5b210c13b0c1f9212e24bcdaff0aa6d362ac8b1aeb6f133c3c6339b7",
+      "bytes_html": 208216,
+      "caracteres_texto": 25547,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/es/leis/itcmd/lei-10011-2013.md",
+      "sha256_markdown": "4d2e476b807aa4601adfb3159a5646fcf66df805317bc9f9a0c7f0f90a12c97d"
+    },
+    {
+      "fonte": "https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/LEI105682016.html",
+      "sha256_html": "20df665babef254970119f9665b8f073e708806145be4477673900d9054676ff",
+      "bytes_html": 469667,
+      "caracteres_texto": 113756,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/es/ricms/lei-10568-2016-compete-es-invest-es.md",
+      "sha256_markdown": "fd8b4f581cf1b12f321bdc9eac40203cb24054158cb9853c1a300378859c5071"
+    },
+    {
+      "fonte": "https://internet.sefaz.es.gov.br/legislacao/regulamentos/ricms.php",
+      "sha256_html": "b92747584d78c4cd12b713613d08722a3892914d1a2708bc98261dbe00606a0c",
+      "bytes_html": 43,
+      "caracteres_texto": 1170,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/es/ricms/decreto-1090-r-2002.md",
+      "sha256_markdown": "96fe23d267457db5b9214800a7ced90053ed36b43987dff4dab9b33abaa95c57"
+    },
+    {
+      "fonte": "https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/LEI70012001.html",
+      "sha256_html": "420445fd12797bf0877f650746e910d2f6143f32f81d90fa68f634c67f011280",
+      "bytes_html": 12992294,
+      "caracteres_texto": 7251,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/es/leis/pat/lei-7001-2001-taxas-cerf-es.md",
+      "sha256_markdown": "0cf803b92ef577f71a8a95c25be4fcb4b6e049af62f6b46b76aff6f2e13d1afb"
+    },
+    {
+      "fonte": "https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/LEI103702015.html",
+      "sha256_html": "af3ab5f1ddd0f187d7335057a7f442db54f4b89e0570e4934216a6c0586282ef",
+      "bytes_html": 258428,
+      "caracteres_texto": 29823,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/es/leis/pat/lei-10370-2015-cerf-es.md",
+      "sha256_markdown": "856ebc985c8d178e5ce46975a074dc3d93fa9989d5957b062cf1664256dbf137"
+    },
+    {
+      "fonte": "https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/LEI120202023.html",
+      "sha256_html": "b51bf81c74fe8bcc29d4e897889b1ea501172c30d19951ef296f04e12d4aec8c",
+      "bytes_html": 59994,
+      "caracteres_texto": 1020,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/es/leis/icms/lei-12020-2023-aliquota-modal.md",
+      "sha256_markdown": "b48667c236301a71cfdfbf0550263db92bdd6dc46359681386e8984f640feacc"
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 # Relatório de Auditoria Tributária Estadual: São Paulo (SP)
 
-**Unidade Federativa:** São Paulo (SP)  
-**Data da Auditoria:** 31 de outubro de 2026  
-**Responsável:** Agente Especialista na Tributação do Estado de São Paulo  
-**Status da Base Normativa Estadual:** Parcialmente Mapeada / Lacunas Críticas Identificadas  
+**Unidade Federativa:** São Paulo (SP)
+**Data da Auditoria:** 31 de outubro de 2026
+**Responsável:** Agente Especialista na Tributação do Estado de São Paulo
+**Status da Base Normativa Estadual:** Parcialmente Mapeada / Lacunas Críticas Identificadas
 **Documento de Destino:** `_auditoria/estados/auditoria_sp.md`
 
 ---
@@ -131,14 +131,14 @@ $$\text{ICMS Total SP} = \text{Base de Cálculo Destino (SP)} \times \text{Alíq
 
 $$\text{DIFAL a Recolher a SP} = \text{ICMS Total SP} - \text{ICMS Origem Destacado}$$
 
-> **Exemplo Prático Numérico de Base Dupla:**  
-> - Aquisição interestadual de bem para ativo imobilizado por R$ 100.000,00 vindo de Minas Gerais (alíquota interestadual de 12%).  
-> - ICMS Origem destacado: R$ 12.000,00.  
-> - Alíquota interna em SP: 18%.  
-> 1. Exclusão do ICMS de origem da operação: $100.000 - 12.000 = \text{R\$\ } 88.000,00$.  
-> 2. Formação da Base de Cálculo paulista ('por dentro'): $\frac{88.000}{1 - 0,18} = \frac{88.000}{0,82} = \text{R\$\ } 107.317,07$.  
-> 3. Débito total paulista: $107.317,07 \times 18\% = \text{R\$\ } 19.317,07$.  
-> 4. DIFAL devido a SP: $19.317,07 - 12.000,00 = \mathbf{\text{R\$\ } 7.317,07}$.  
+> **Exemplo Prático Numérico de Base Dupla:**
+> - Aquisição interestadual de bem para ativo imobilizado por R$ 100.000,00 vindo de Minas Gerais (alíquota interestadual de 12%).
+> - ICMS Origem destacado: R$ 12.000,00.
+> - Alíquota interna em SP: 18%.
+> 1. Exclusão do ICMS de origem da operação: $100.000 - 12.000 = \text{R\$\ } 88.000,00$.
+> 2. Formação da Base de Cálculo paulista ('por dentro'): $\frac{88.000}{1 - 0,18} = \frac{88.000}{0,82} = \text{R\$\ } 107.317,07$.
+> 3. Débito total paulista: $107.317,07 \times 18\% = \text{R\$\ } 19.317,07$.
+> 4. DIFAL devido a SP: $19.317,07 - 12.000,00 = \mathbf{\text{R\$\ } 7.317,07}$.
 > *(Pelo cálculo antigo de base simples seria $100.000 \times (18\% - 12\%) = \text{R\$\ } 6.000,00$. O acréscimo de arrecadação representa um ônus adicional de 21,95% sobre o imposto devido).*
 
 - **Empresas do Simples Nacional**: O art. 115, XV-A do RICMS/SP prevê a exigência da antecipação da diferença entre a alíquota interna e a interestadual nas entradas de mercadorias para industrialização ou revenda, cuja validade constitucional foi chancelada pelo STF no **Tema 517 da Repercussão Geral (RE 970.821)**.
@@ -156,7 +156,7 @@ sequenceDiagram
 
     Note over SP_Remetente, Destinatario: Transferência Interestadual de Mercadorias (Mesmo Titular)
     SP_Remetente->>Destinatario: Remessa Física sem Incidência de ICMS (ADC 49 e LC 204/2023)
-    
+
     alt Regime Padrão (Transferência de Crédito - Convênio ICMS 109/2024)
         SP_Remetente->>SP_Remetente: Apura Custo de Produção ou Custo de Entrada Mais Recente
         SP_Remetente->>Destinatario: Emite NF-e (CFOP 6.151/6.152) transferindo crédito até a alíquota interestadual (4%, 7% ou 12%)
@@ -279,13 +279,13 @@ flowchart TD
     CA --> CA3["Exportação Direta ou Indireta (Não Incidência Constitucional)"]
 
     CA1 & CA2 & CA3 --> AP["Geração e Apuração via e-CredAc (Portaria SRE 65/2023)"]
-    
+
     AP --> METODOS{"Regime de Custeio"}
     METODOS -->|Simplificado| M_SIMP["Portaria CAT 83/2009 (Margens Pré-Fixadas)"]
     METODOS -->|Custeio Real| M_CUST["Custo das Mercadorias Vendidas (CMV Ficha Técnica)"]
 
     M_SIMP & M_CUST --> PEDIDO["Protocolo de Apropriação na Delegacia Regional Tributária (DRT)"]
-    
+
     PEDIDO --> HOMOLOGACAO{"Via de Liberação"}
     HOMOLOGACAO -->|Ordinária| FISC["Auditoria Fiscal Prévia (Fila de 12 a 36 meses)"]
     HOMOLOGACAO -->|Acelerada (Garantia)| FIAN["Seguro Garantia / Fiança Bancária (Liberação Imediata)"]
@@ -460,7 +460,7 @@ flowchart TD
 
     R1 --> B1["Suspensão do ICMS na transferência interestadual para o CD paulista"]
     B1 --> B2["Tributação concentrada na saída final para o consumidor"]
-    
+
     R2 --> C1["Armazenagem e movimentação por terceiro sem alteração de titularidade"]
     C1 --> C2["Dispensa de inscrição estadual independente para cada depositante"]
 
@@ -486,7 +486,7 @@ sequenceDiagram
     participant Posto as SEFAZ-SP / Delegacia Tributária
 
     Note over Substituto, Posto: Movimentação com Mercadorias sob ICMS-ST
-    
+
     alt Hipóteses de Ressarcimento
         Note right of Substituto: 1. Saída para outra UF (fato gerador fora de SP)<br/>2. Saída Isenta / Não Tributada<br/>3. Perda, Furto, Roubo ou Perecimento<br/>4. Preço Efetivo de Venda Menor que a Base Presumida
         Substituto->>Sistema: Gera arquivo digital mensal com controle de estoque pelo CMPM
@@ -550,16 +550,16 @@ A liquidação dos estoques bilionários de créditos de ICMS acumulados pelas i
 ```mermaid
 flowchart TD
     SC["Saldos Credores Acumulados de ICMS em 31/12/2032"] --> PET["Protocolo de Pedido de Homologação na SEFAZ-SP"]
-    
+
     PET --> PRAZO{"Prazo Decisório SEFAZ-SP"}
     PRAZO -->|Até 24 Meses| HOMOLOG["Homologação Expressa (Total ou Parcial)"]
     PRAZO -->|Decurso > 24 Meses| TACITA["Homologação Tácita Compulsória (Art. 134 ADCT)"]
 
     HOMOLOG & TACITA --> CRED_IBS["Conversão em Crédito Financeiro Perante o IBS"]
-    
+
     CRED_IBS --> PARCELAS["Compensação em 240 Parcelas Mensais Sucessivas (20 Anos)"]
     PARCELAS --> IPCA["Atualização Monetária pelo IPCA (Sem Juros Reais de Selic)"]
-    
+
     PARCELAS --> FORMAS{"Formas de Liquidação"}
     FORMAS --> F1["Compensação Direta contra Débitos Próprios de IBS"]
     FORMAS --> F2["Transferência de Créditos a Outros Contribuintes de IBS"]

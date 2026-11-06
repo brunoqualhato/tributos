@@ -1,7 +1,7 @@
 # Relatório de Auditoria Tributária Estadual: Tocantins (TO)
-**Unidade Federativa:** Tocantins | **Sigla:** TO | **Região:** Norte  
-**Órgão Fazendário:** Secretaria da Fazenda do Estado do Tocantins (SEFAZ/TO)  
-**Data da Auditoria:** Outubro de 2026 | **Status:** Atualizado com a EC nº 132/2023 e LC nº 214/2025  
+**Unidade Federativa:** Tocantins | **Sigla:** TO | **Região:** Norte
+**Órgão Fazendário:** Secretaria da Fazenda do Estado do Tocantins (SEFAZ/TO)
+**Data da Auditoria:** Outubro de 2026 | **Status:** Atualizado com a EC nº 132/2023 e LC nº 214/2025
 
 ---
 

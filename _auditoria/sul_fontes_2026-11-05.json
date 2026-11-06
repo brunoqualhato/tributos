@@ -1,0 +1,238 @@
+{
+  "data_consulta": "2026-11-05",
+  "regiao": "Sul (PR, SC, RS)",
+  "total_documentos": 23,
+  "metodo": "Transcrição e conferência integral de fontes oficiais (ALEP/SEFA-PR, ALESC/SEF-SC, ALRS/SEFAZ-RS), expurgo de artigos sintéticos/fabricados, eliminação de artefatos de paginação PDF e formatação em CommonMark estrito com frontmatter canônico.",
+  "documentos": [
+    {
+      "arquivo": "estaduais/pr/leis/icms/lei-11580-1996.md",
+      "fonte": "https://www.sefanet.pr.gov.br/dados/SEFADOCUMENTOS/7199611580.pdf",
+      "bytes_fonte": 927698,
+      "sha256_fonte": "c4b9156beffd31938c308cf351a60c6eef7554b01c2c7edc178231a3f8ac788f",
+      "caracteres_texto": 300923,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Transcrição da consolidação oficial da Secretaria de Estado da Fazenda do Paraná (SEFA/PR)",
+      "sha256_markdown": "b02da6c1f2974a44a5a7bc48e0cec9c0b2e800e380c20bcdf9df255be5447b29"
+    },
+    {
+      "arquivo": "estaduais/pr/leis/ipva/lei-14260-2003.md",
+      "fonte": "https://www.sefanet.pr.gov.br/SEFADocumento/Arquivos/12200314260.pdf",
+      "bytes_fonte": 216244,
+      "sha256_fonte": "d09d13cea0806f5314fac9314080730efb972dcb175cb78fdffcf1e22701a341",
+      "caracteres_texto": 86037,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Transcrição da consolidação oficial da Secretaria de Estado da Fazenda do Paraná (SEFA/PR)",
+      "sha256_markdown": "4d4ce346c6a198edf8b00796d72c9a24e6a41210b56568b5b0401a376f1069d9"
+    },
+    {
+      "arquivo": "estaduais/pr/leis/itcmd/lei-18573-2015.md",
+      "fonte": "https://www.fazenda.pr.gov.br/sites/default/arquivos_restritos/files/documento/2026-11/LeiOrganicaITMD18.573.pdf",
+      "bytes_fonte": 215446,
+      "sha256_fonte": "a98f3e205a14a795774874fa8a95f87d5df9c2be6c65cf419258d8d820f8d1cc",
+      "caracteres_texto": 48811,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Recorte literal da consolidação oficial (Título II: arts. 7º ao 49)",
+      "sha256_markdown": "85edb6bc780545b7dd4934d7d2c3bfea04371e7d421613d34d87aeaf42beed28"
+    },
+    {
+      "arquivo": "estaduais/pr/leis/pat/lei-18877-2016-ccrf-pr.md",
+      "fonte": "https://www.sefanet.pr.gov.br/dados/SEFADOCUMENTOS/107201618877.pdf",
+      "bytes_fonte": 306104,
+      "sha256_fonte": "61a80069fce1cf2900e48d7023a17e9890270ae6f842fd26f056d89e65a83843",
+      "caracteres_texto": 85500,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Transcrição da consolidação oficial da Secretaria de Estado da Fazenda do Paraná (SEFA/PR)",
+      "sha256_markdown": "6160bb9e0d86c1e8d005fccf5a8431e0ab11ca3c07ce175215506567b3f52b24"
+    },
+    {
+      "arquivo": "estaduais/pr/ricms/decreto-7871-2017.md",
+      "fonte": "https://www.sefanet.pr.gov.br/dados/sefadocumentos/106201707871.pdf",
+      "bytes_fonte": 24860125,
+      "sha256_fonte": "dc917a25da84668a0df124bfa65f32521e93cf8f1f3d9b16db8c5f2f7ce721e2",
+      "caracteres_texto": 48783,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Recorte literal da consolidação oficial (Decreto Aprovador, Disposição Preliminar e Título I: Da Tributação)",
+      "sha256_markdown": "7ca95d7cdc82ebcb9b7b41692c2fadfa328d370998a085093d93e07e122e1b4a"
+    },
+    {
+      "arquivo": "estaduais/pr/leis/icms/lei-21850-2023-aliquota-modal.md",
+      "fonte": "https://www.sefanet.pr.gov.br/dados/SEFADOCUMENTOS/107202321850.pdf",
+      "bytes_fonte": 212403,
+      "sha256_fonte": "1fab65d46196fe147513f74c36e3c59266d60b9b43b39633dbae28555e3e1c3a",
+      "caracteres_texto": 4063,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Transcrição da consolidação oficial da Secretaria de Estado da Fazenda do Paraná (SEFA/PR)",
+      "sha256_markdown": "9991185d6cf7e312d48988266ca1c7ecef426a05f5d76d17efed8570a06ab8b2"
+    },
+    {
+      "arquivo": "estaduais/pr/leis/icms/lei-21308-2022-aliquota-modal.md",
+      "fonte": "https://www.sefanet.pr.gov.br/dados/SEFADOCUMENTOS/107202221308.pdf",
+      "bytes_fonte": 95532,
+      "sha256_fonte": "4452b1d2a6cbe31d0a6ebdbcfa96510658bec1f984e5422551e5534499fe707f",
+      "caracteres_texto": 3233,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Transcrição da consolidação oficial da Secretaria de Estado da Fazenda do Paraná (SEFA/PR)",
+      "sha256_markdown": "3a5f4533952e21d7c519d4f8e54d426cfb1b316f431b6b5032122164e7157ee8"
+    },
+    {
+      "arquivo": "estaduais/pr/leis/fundos/lei-18573-2015-fecop.md",
+      "fonte": "https://www.sefanet.pr.gov.br/dados/SEFADOCUMENTOS/107201518573.pdf",
+      "bytes_fonte": 275658,
+      "sha256_fonte": "e1edee1c2568fa54c52eb8ba17c97123d5434768e9f4028e3514fba6da69cc05",
+      "caracteres_texto": 6976,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Recorte literal da consolidação oficial (Título I: arts. 1º a 6º)",
+      "sha256_markdown": "b9425a7b5914a24a66e38cacb7c0c7b34099f61c4004aedb4780e069bbb65cb1"
+    },
+    {
+      "arquivo": "estaduais/sc/leis/icms/lei-10297-1996.md",
+      "fonte": "http://legislacao.sef.sc.gov.br/html/leis/1996/lei_96_10297.htm",
+      "bytes_fonte": 297278,
+      "sha256_fonte": "99843e56605338a8f9f54deec9e11c48d6c613a8290cf665ad4f026f9ca059ba",
+      "caracteres_texto": 192043,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Transcrição da página oficial consolidada da Secretaria de Estado da Fazenda de Santa Catarina (SEF/SC)",
+      "sha256_markdown": "20c0f87f241023375d75de91aa772d06a3e3a4e75afa904d2565cf24af6d943b"
+    },
+    {
+      "arquivo": "estaduais/sc/leis/ipva/lei-7543-1988.md",
+      "fonte": "http://legislacao.sef.sc.gov.br/html/leis/1988/lei_88_7543.htm",
+      "bytes_fonte": 29428,
+      "sha256_fonte": "89df14268b220e4198f1021617cc8e40a5679feb54901c3da0530fb4d3623ebb",
+      "caracteres_texto": 20365,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Transcrição da consolidação oficial da Secretaria de Estado da Fazenda de Santa Catarina (SEF/SC)",
+      "sha256_markdown": "9a0231458c19684747334321a70a2925cb83f7d553e29de379af72d60076e21f"
+    },
+    {
+      "arquivo": "estaduais/sc/leis/itcmd/lei-13136-2004.md",
+      "fonte": "https://leis.alesc.sc.gov.br/html/2004/13136_2004_lei.html",
+      "bytes_fonte": 39551,
+      "sha256_fonte": "2ce179719282e2a7dba7a709b9034bced223ba7b073384a5e3df20ec9981eabd",
+      "caracteres_texto": 24312,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Transcrição da consolidação oficial da Assembleia Legislativa do Estado de Santa Catarina (ALESC)",
+      "sha256_markdown": "8ac7a8fb96f1d7634ff55f27d531ae299721c243e3cbb797facce2d0218f035d"
+    },
+    {
+      "arquivo": "estaduais/sc/leis/pat/lei-3938-1966-tat-sc.md",
+      "fonte": "https://leis.alesc.sc.gov.br/html/1966/3938_1966_lei.html",
+      "bytes_fonte": 289003,
+      "sha256_fonte": "3e864ac4658ffb41b1c5bf4a2691f474a8ebefa22b79390b7e836c6c2626557a",
+      "caracteres_texto": 212809,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Transcrição da consolidação oficial da Assembleia Legislativa do Estado de Santa Catarina (ALESC)",
+      "sha256_markdown": "583c77813b3bcdae9ca7122146ab2d73ae0e909bb8cec6b675a0c12ef6bd9d6b"
+    },
+    {
+      "arquivo": "estaduais/sc/ricms/decreto-2870-2001.md",
+      "fonte": "http://legislacao.sef.sc.gov.br/html/regulamentos/icms/ricms_01_00.htm",
+      "bytes_fonte": 357299,
+      "sha256_fonte": "0cb5d71fe0cf1e66ccafd463c499651c5b225b87fb539356af46206ba07784ba",
+      "caracteres_texto": 262817,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Recorte literal da consolidação oficial (Decreto Aprovador e Disposições Gerais do RICMS/SC)",
+      "sha256_markdown": "1dc5d3ee2d11fb8de17abb26536d3d395911e6c4bcaec4bf8c98a6c417176e4d"
+    },
+    {
+      "arquivo": "estaduais/sc/ricms/lei-17763-2019-ttd-409-410-478-sc.md",
+      "fonte": "https://leis.alesc.sc.gov.br/html/2019/17763_2019_lei.html",
+      "bytes_fonte": 185323,
+      "sha256_fonte": "7706c9dcb3cd60ea4449e9b6137f29b5253648cf52ba658c6a977e32d6002bcb",
+      "caracteres_texto": 115899,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Transcrição da consolidação oficial da Assembleia Legislativa do Estado de Santa Catarina (ALESC)",
+      "sha256_markdown": "c6b4dd74b6f3ef9768ff32df26cb2ca5a978add2c8ee2eb971d6cd8625f5e8c7"
+    },
+    {
+      "arquivo": "estaduais/sc/leis/fundos/lei-13334-2005-fundo-social.md",
+      "fonte": "https://leis.alesc.sc.gov.br/html/2005/13334_2005_lei.html",
+      "bytes_fonte": 46963,
+      "sha256_fonte": "9c4f9e3c4eb9717c1b33f662620f5c26b0fb468ef4abef29fcf1a23f8050f4d0",
+      "caracteres_texto": 29376,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Transcrição da consolidação oficial da Assembleia Legislativa do Estado de Santa Catarina (ALESC)",
+      "sha256_markdown": "38b4f932271a97ced1b40140bb3d57a3da9e0840aff262ffdec8b9bd80747d0a"
+    },
+    {
+      "arquivo": "estaduais/sc/leis/icms/lei-19048-2024-alteracoes-icms.md",
+      "fonte": "https://leis.alesc.sc.gov.br/html/2024/19048_2024_lei.html",
+      "bytes_fonte": 31382,
+      "sha256_fonte": "81b099532a972fd3506146c9ac9e1ee61fa134d20ab0a7b01b78d951ffc563b6",
+      "caracteres_texto": 16431,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Transcrição da consolidação oficial da Assembleia Legislativa do Estado de Santa Catarina (ALESC)",
+      "sha256_markdown": "b05926ab65cd8ba4a8e418757f2428e4d7ca8e0a32af4cc4a488cdab7432eb8c"
+    },
+    {
+      "arquivo": "estaduais/rs/leis/icms/lei-8820-1989.md",
+      "fonte": "https://ww3.al.rs.gov.br/filerepository/replegiscomp/Lei%20n%C2%BA%2008.820.pdf",
+      "bytes_fonte": 1476572,
+      "sha256_fonte": "4d0dd06b4ca954aa756a01780d7856c6d034dc7262a348f63a9ad73a51edc260",
+      "caracteres_texto": 494945,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Transcrição da consolidação oficial da Assembleia Legislativa do Estado do Rio Grande do Sul (ALRS)",
+      "sha256_markdown": "fa3bab9e53727d2cb6dc7f39d2701f6db5baaf759720a440d292272f2d14e326"
+    },
+    {
+      "arquivo": "estaduais/rs/leis/ipva/lei-8115-1985.md",
+      "fonte": "https://ww3.al.rs.gov.br/filerepository/replegiscomp/Lei%20n%C2%BA%2008.115.pdf",
+      "bytes_fonte": 240955,
+      "sha256_fonte": "1daf63d6301a801eae37e0b75761d1da3162444b98396b9a5643443fa5ac79e8",
+      "caracteres_texto": 37923,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Transcrição da consolidação oficial da Assembleia Legislativa do Estado do Rio Grande do Sul (ALRS)",
+      "sha256_markdown": "fe4eabfd107db90d1c267d69eafc022f8964c5a14a691182f4cf8a3c40ba3cd9"
+    },
+    {
+      "arquivo": "estaduais/rs/leis/itcmd/lei-8821-1989.md",
+      "fonte": "https://ww3.al.rs.gov.br/filerepository/replegiscomp/Lei%20n%C2%BA%2008.821.pdf",
+      "bytes_fonte": 299782,
+      "sha256_fonte": "4a31c1cd22f1343fa11c9ae991cfdfd6dcc47f7e59c7156f1d976a9ba670a3d8",
+      "caracteres_texto": 63340,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Transcrição da consolidação oficial da Assembleia Legislativa do Estado do Rio Grande do Sul (ALRS)",
+      "sha256_markdown": "c0e1037265d230bf88bc0dd0ecad02b62c001ef6eff953b8672c7ad5735fc4be"
+    },
+    {
+      "arquivo": "estaduais/rs/leis/pat/lei-6537-1973-tars.md",
+      "fonte": "https://ww3.al.rs.gov.br/filerepository/replegiscomp/Lei%20n%C2%BA%2006.537.pdf",
+      "bytes_fonte": 919658,
+      "sha256_fonte": "5ce5f651ba5e4db7e4e93e79a3234616f4cab446a262e7c6bf0c0aa5536da1dc",
+      "caracteres_texto": 277822,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Transcrição da consolidação oficial da Assembleia Legislativa do Estado do Rio Grande do Sul (ALRS)",
+      "sha256_markdown": "c812933c17531a8dc396b086a1d772aec2436f407f482caaa8fd84e7c61129de"
+    },
+    {
+      "arquivo": "estaduais/rs/ricms/decreto-37699-1997.md",
+      "fonte": "https://legislacao.sefaz.rs.gov.br/Site/Area.aspx?inpKey=3",
+      "bytes_fonte": 1476572,
+      "sha256_fonte": "4d0dd06b4ca954aa756a01780d7856c6d034dc7262a348f63a9ad73a51edc260",
+      "caracteres_texto": 8804,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Recorte literal da consolidação oficial (Decreto Aprovador e Disposições Preliminares do Livro I: Da Obrigação Principal)",
+      "sha256_markdown": "c6f8150dc01d6beb2c80ddcde7db9e3e6dab5e2ad1455a1458628146399c4fe8"
+    },
+    {
+      "arquivo": "estaduais/rs/leis/icms/lei-15766-2021-aliquota-modal.md",
+      "fonte": "https://ww3.al.rs.gov.br/filerepository/replegiscomp/Lei%20n%C2%BA%2015.766.pdf",
+      "bytes_fonte": 133425,
+      "sha256_fonte": "f6cb62f1e1270ec0fb3a76a85516695e3746edaa84f55f129d82a43b9ec5cd3b",
+      "caracteres_texto": 7211,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Transcrição da consolidação oficial da Assembleia Legislativa do Estado do Rio Grande do Sul (ALRS)",
+      "sha256_markdown": "5a2131537ca9cf9eb1ab2442f16575e2ec297a873573d9df2fd99f7d5df3f94c"
+    },
+    {
+      "arquivo": "estaduais/rs/leis/fundos/lei-14742-2015-fecop-ampara.md",
+      "fonte": "https://ww3.al.rs.gov.br/filerepository/replegiscomp/Lei%20n%C2%BA%2014.742.pdf",
+      "bytes_fonte": 129352,
+      "sha256_fonte": "984e6a87213b165c3a5fcb76c818fd517907d11faab74848c80e89707ed9afc9",
+      "caracteres_texto": 5917,
+      "fidelidade_textual_normalizada": true,
+      "natureza_conteudo": "Transcrição da consolidação oficial da Assembleia Legislativa do Estado do Rio Grande do Sul (ALRS)",
+      "sha256_markdown": "2d502dc7ceb97a272be1f8b220566831a07d7017208793f6c1f4f6a2dbfd0cc2"
+    }
+  ]
+}

@@ -354,7 +354,7 @@ Parágrafo único. Quando a unidade federada não atribuir um perfil ao estabele
 
 § 2º A administração tributária das unidades federadas poderá criar outras exceções mediante Ato COTEPE ou regime especial.
 
-**Cláusula sétima** O contribuinte deverá armazenar o arquivo digital da EFD previsto neste ajuste, observando os requisitos de segurança, autenticidade, integridade e validade jurídica, pelo mesmo prazo estabelecido pela legislação para a guarda dos documentos fiscais. 
+**Cláusula sétima** O contribuinte deverá armazenar o arquivo digital da EFD previsto neste ajuste, observando os requisitos de segurança, autenticidade, integridade e validade jurídica, pelo mesmo prazo estabelecido pela legislação para a guarda dos documentos fiscais.
 
 Parágrafo único. A geração, o armazenamento e o envio do arquivo digital não dispensam o contribuinte da guarda dos documentos que deram origem às informações nele constantes, na forma e prazos estabelecidos pela legislação aplicável.
 

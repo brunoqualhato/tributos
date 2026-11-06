@@ -218,7 +218,7 @@ Nova redação dada ao caput da cláusula décima terceira pelo Ajuste SINIEF 46
 
 **Redação original, efeitos até 10.12.20.**
 
-Cláusula décima terceira A critério da unidade federada, o emitente pode alterar, eliminar ou acrescentar itens de NF3e emitidas em períodos de apuração anteriores, obrigatoriamente referenciando a chave de acesso da NF3e a ser modificada e a respectiva indicação do item objeto da alteração ou eliminação. 
+Cláusula décima terceira A critério da unidade federada, o emitente pode alterar, eliminar ou acrescentar itens de NF3e emitidas em períodos de apuração anteriores, obrigatoriamente referenciando a chave de acesso da NF3e a ser modificada e a respectiva indicação do item objeto da alteração ou eliminação.
 
 **Cláusula décima quarta** A ocorrência relacionada com uma NF3e denomina-se “Evento da NF3e”.
 

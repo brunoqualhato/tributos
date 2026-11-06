@@ -1,8 +1,8 @@
 # Progresso do Acervo Tributário e Contábil
 
-Gerado em: 05/11/2026 20:34:36. Escopo definido em `scripts/plano.py`.
+Gerado em: 05/11/2026 21:40:28. Escopo definido em `scripts/plano.py`.
 
-**Total de Documentos no Acervo:** 1241 / 1241 (100.0%)
+**Total de Documentos no Acervo:** 1303 / 1303 (100.0%)
 
 | Pilar / Subtema | Documentos | Meta | Cobertura | Pasta | Fonte Principal |
 | :--- | ---: | ---: | :---: | :--- | :--- |
@@ -12,7 +12,7 @@ Gerado em: 05/11/2026 20:34:36. Escopo definido em `scripts/plano.py`.
 | ✅ **Leis Complementares Gerais**: Sigilo Bancário (LC 105), Prescrição (LC 118), MEI (LC 128), Convalidação (LC 160) e Protesto (LC 208) | 5 | 5 | 100.0% | `federal/leis-complementares-gerais` | normas.leg.br |
 | ✅ **Decretos-Leis Estruturantes**: Delimitação ITR/IPTU (DL 57/66) e Zona Franca de Manaus (DL 288/67) | 2 | 2 | 100.0% | `federal/decretos-leis` | normas.leg.br |
 | ✅ **Processo Fiscal, Consulta e CIDE**: Processo Administrativo Fiscal (Dec. 70.235/72), Consulta (Dec. 7.574/11) e CIDE (Dec. 5.060/04) | 3 | 3 | 100.0% | `federal/regulamentos/paf_consulta_cide` | normas.leg.br |
-| ✅ **Processo Tributário Estadual (PAT/PAF)**: Tribunais Administrativos de Fazenda Estadual (TIT/SP, CCRJ, CCMG, CCRF/PR, TAT/SC, TARF/RS, CAT/GO, CONSEF/BA e alterações de GO) | 10 | 10 | 100.0% | `estaduais/*/leis/pat` | Secretarias de Fazenda Estaduais |
+| ✅ **Processo Tributário Estadual (PAT/PAF)**: Tribunais Administrativos de Fazenda Estadual e Leis do Processo Administrativo Tributário das 27 UFs (TIT/SP, CCRJ, CCMG, CCRF/PR, TAT/SC, TARF/RS, CAT/GO, CONSEF/BA, TARF/DF, CONAT/CE, TATE/PE, TATE/MA, TATE/PA, CRF/AC, etc.) | 31 | 31 | 100.0% | `estaduais/*/leis/pat` | Secretarias de Fazenda Estaduais |
 | **### 2. Dividendos & Renda do Capital** | | | | | |
 | ✅ **Dividendos e JCP**: Isenção de Dividendos e JCP (Lei 9.249/95 e Lei das S/A) | 5 | 5 | 100.0% | `federal/leis-ordinarias/dividendos-jcp` | normas.leg.br |
 | ✅ **Lucro Real e Presumido**: Norma Matriz do Lucro Real, IRPJ/CSLL (DL 1.598/77, Leis 7.689/88, 8.981/95, 12.973/14, 14.871/24 e 15.079/24) | 12 | 12 | 100.0% | `federal/leis-ordinarias/irpj-csll` | normas.leg.br |
@@ -36,8 +36,8 @@ Gerado em: 05/11/2026 20:34:36. Escopo definido em `scripts/plano.py`.
 | ✅ **Leis Federais Estruturantes**: PIS/COFINS Geral (Leis 10.637, 10.833, 9.718), Preços de Transferência (14.596) e Transação (13.988) | 14 | 14 | 100.0% | `federal/leis-ordinarias-estruturantes` | normas.leg.br |
 | ✅ **Comércio Exterior e Aduana**: Regulamento Aduaneiro consolidado (Decreto 6.759/2009) e Imposto de Importação | 3 | 3 | 100.0% | `federal/regulamentos/aduana` | normas.leg.br |
 | ✅ **RICMS Estaduais**: Regulamentos do ICMS das 27 Unidades Federativas (Todas as 27 UFs e decretos regulamentares) | 37 | 37 | 100.0% | `estaduais/*/ricms` | Secretarias de Fazenda Estaduais |
-| ✅ **Leis Orgânicas do ICMS das 27 UFs**: Leis Matrizes do ICMS de todas as 27 Unidades Federativas (26 Estados, DF e leis complementares/modificadoras de GO) | 29 | 29 | 100.0% | `estaduais/*/leis/icms` | Assembleias Legislativas Estaduais |
-| ✅ **Fundos Agropecuários e de Infraestrutura Estaduais**: Taxas do Agro constitucionalizadas pelo art. 136 do ADCT (FETHAB/MT, FUNDEINFRA/GO e normas de transição, FUNDERSUL/MS, FECOP/MA, FAIN/BA) | 7 | 7 | 100.0% | `estaduais/*/leis/fundos` | Secretarias de Fazenda Estaduais |
+| ✅ **Leis Orgânicas do ICMS das 27 UFs**: Leis Matrizes do ICMS e Leis de Alíquota Modal de todas as 27 Unidades Federativas (26 Estados, DF e leis modificadoras/complementares pós-LC 194/2022 e 192/2022) | 60 | 60 | 100.0% | `estaduais/*/leis/icms` | Assembleias Legislativas Estaduais |
+| ✅ **Fundos Agropecuários e de Infraestrutura Estaduais**: Fundos Estaduais de Infraestrutura, Agropecuários e de Combate à Pobreza das 27 UFs (FETHAB/MT, FUNDEINFRA/GO, FUNDERSUL/MS, FECOP/MA, FAIN/FUNCEP/BA, FECOEP/SP, FEM/MG, FEEF/FOT/FECP/RJ, FUNDOSOCIAL/SC, AMPARA/RS, FCP/RN, etc.) | 17 | 17 | 100.0% | `estaduais/*/leis/fundos` | Secretarias de Fazenda Estaduais |
 | ✅ **Créditos Presumidos Agropecuários e Cadeias Produtivas**: Regimes de PIS/COFINS da Carne Bovina (Lei 12.058/09), Aves/Suínos/Café (Lei 12.350/10) e Complexo Soja (Lei 12.865/13) | 3 | 3 | 100.0% | `federal/agro-pis-cofins` | normas.leg.br |
 | **### 5. Serviços & Retenções** | | | | | |
 | ✅ **ISSQN Geral**: Lei Complementar nº 116/2003, LC 157/2016 e LC 175/2020 | 5 | 5 | 100.0% | `federal/leis-complementares/iss` | normas.leg.br |

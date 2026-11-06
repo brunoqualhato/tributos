@@ -1,9 +1,9 @@
 # RELATÓRIO DE AUDITORIA TRIBUTÁRIA ESTADUAL: RIO GRANDE DO NORTE (RN)
 
-**Data de Elaboração:** Outubro de 2026  
-**Jurisdição:** Estado do Rio Grande do Norte (RN)  
-**Órgão Fazendário:** Secretaria de Estado da Fazenda do Rio Grande do Norte (SEFAZ/RN)  
-**Status da Auditoria:** Concluída com Mapeamento Completo de Lacunas Normativas, Regimes Especiais e Transição Constitucional  
+**Data de Elaboração:** Outubro de 2026
+**Jurisdição:** Estado do Rio Grande do Norte (RN)
+**Órgão Fazendário:** Secretaria de Estado da Fazenda do Rio Grande do Norte (SEFAZ/RN)
+**Status da Auditoria:** Concluída com Mapeamento Completo de Lacunas Normativas, Regimes Especiais e Transição Constitucional
 
 ---
 
@@ -75,11 +75,11 @@ O DIFAL no Rio Grande do Norte possui duas vertentes operacionais e jurídicas d
 * **Base Legal:** Art. 20 da Lei Estadual nº 6.968/1996, com alterações da Lei Estadual nº 11.044/2021, e art. 39 do Novo RICMS/RN (Decreto nº 31.825/2022).
 * **Metodologia de Cálculo:** Aplicação da **Base Dupla** (cálculo "por dentro"), recompondo a base com a alíquota interna do RN.
 * **Fórmula Matemática do DIFAL Base Dupla no RN:**
-  
+
   $$\text{Valor da Operação Sem ICMS Origem} = \text{Valor da Operação} \times (1 - \text{ALQ}_{\text{inter}})$$
-  
+
   $$\text{Base de Cálculo Recomposta (Base Dupla)} = \frac{\text{Valor da Operação Sem ICMS Origem}}{1 - \text{ALQ}_{\text{intra}}}$$
-  
+
   $$\text{DIFAL Devido} = (\text{Base Dupla} \times \text{ALQ}_{\text{intra}}) - (\text{Valor da Operação} \times \text{ALQ}_{\text{inter}})$$
 
 * *Exemplo Numérico (Entrada de Ativo Imobilizado oriundo de SP a 7%, com alíquota interna RN de 18%):*
@@ -104,7 +104,7 @@ O DIFAL no Rio Grande do Norte possui duas vertentes operacionais e jurídicas d
 ### 2.5. Substituição Tributária (ICMS-ST) e Antecipação com Encerramento de Fase
 * O RN é signatário dos principais Convênios e Protocolos do CONFAZ disciplinados sob as diretrizes do Convênio ICMS 142/2018 (bebidas, medicamentos, combustíveis, veículos, autopeças, cimento, cosméticos, tintas e materiais elétricos).
 * **Fórmula da MVA Ajustada (operações interestaduais com contribuinte sob regime normal):**
-  
+
   $$\text{MVA Ajustada} = \left[ \frac{(1 + \text{MVA-ST Original}) \times (1 - \text{ALQ}_{\text{inter}})}{(1 - \text{ALQ}_{\text{intra}})} \right] - 1$$
 
 * *Optantes pelo Simples Nacional Remetentes:* Conforme o Convênio ICMS 35/2011 e a cláusula décima primeira do Convênio 142/2018, **é vedada a aplicação da MVA ajustada** aos remetentes optantes pelo regime do Simples Nacional, aplicando-se estritamente a MVA original.
@@ -125,9 +125,9 @@ O DIFAL no Rio Grande do Norte possui duas vertentes operacionais e jurídicas d
 * **Mecânica Operacional:**
   * O crédito de ICMS destacado na nota de aquisição de bem destinado ao ativo permanente é fracionado em **48 (quarenta e oito) parcelas mensais consecutivas**.
   * A apropriação mensal de 1/48 é ajustada pelo fator $F$, que reflete a proporção de saídas tributadas e exportações em relação ao faturamento total:
-    
+
     $$F = \frac{\text{Saídas Tributadas} + \text{Exportações Imunes}}{\text{Total das Saídas e Prestações}}$$
-    
+
     $$\text{Crédito Mensal Apropriável} = \left( \frac{\text{ICMS Total do Bem}}{48} \right) \times F$$
 
   * Obrigatoriedade de escrituração eletrônica do **Bloco G da EFD-ICMS/IPI (SPED Fiscal)**. A alienação do bem antes do encerramento do quadragésimo oitavo mês cancela irremediavelmente as frações remanescentes.

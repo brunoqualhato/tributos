@@ -65,7 +65,7 @@ Para assegurar completude analítica e segurança jurídica, mapeou-se o quadro 
 
 ### 2.1 A Competência Cumulativa do Distrito Federal (Art. 147 da CF/88)
 
-O Distrito Federal não possui subdivisão municipal (CF/88, art. 32). Consequentemente, nos termos do art. 147 da Carta Magna, **são cumuladas no DF as competências tributárias estaduais e municipais**. 
+O Distrito Federal não possui subdivisão municipal (CF/88, art. 32). Consequentemente, nos termos do art. 147 da Carta Magna, **são cumuladas no DF as competências tributárias estaduais e municipais**.
 
 No plano da tributação sobre a circulação econômica:
 - A SEEC/DF fiscaliza e arrecada tanto o **ICMS** (operações mercantis, transporte interestadual/intermunicipal e comunicação) quanto o **ISSQN** (serviços constantes da LC 116/2003).
@@ -436,7 +436,7 @@ A promulgação da **Emenda Constitucional nº 132/2023** e a aprovação de sua
 ```
                   CRONOGRAMA DE EXTINÇÃO DO ICMS/ISS E ENTRADA DO IBS/CBS
                   ───────────────────────────────────────────────────────
-                  
+
   2026        2027         2028        2029        2030        2031        2032        2033
    │           │            │           │           │           │           │           │
    ├───────────┼────────────┼───────────┼───────────┼───────────┼───────────┼───────────┤

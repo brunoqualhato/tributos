@@ -2,8 +2,8 @@
 
 > Atualização de Goiás em 05/11/2026: as conclusões anteriores sobre FUNDEINFRA, DIFAL e PAT foram revistas. Consulte a [auditoria estadual](auditoria_goias_2026-11-05.md). Os demais estados não foram revalidados neste lote.
 
-**Data da Auditoria:** Outubro de 2026  
-**Abrangência:** Nacional (Federal, 26 Estados e Distrito Federal)  
+**Data da Auditoria:** Outubro de 2026
+**Abrangência:** Nacional (Federal, 26 Estados e Distrito Federal)
 **Relatórios Estaduais Vinculados:** [`_auditoria/estados/`](file:///Users/brunoqualhato/Documents/meus/tributos/_auditoria/estados/) (27 relatórios técnicos individuais totalizando 10.383 linhas)
 
 ---
@@ -177,7 +177,7 @@ Com base nos 27 relatórios analíticos de auditoria gerados pelos agentes espec
 └─────────────────────────────────┘       └─────────────────────────────────┘
 ```
 
-> **A Assimetria Singular do Espírito Santo (ES):**  
+> **A Assimetria Singular do Espírito Santo (ES):**
 > Embora pertença geograficamente à Região Sudeste, o Espírito Santo recebe tratamento favorecido pela Resolução SF nº 22/1989 (art. 155, § 2º, IV da CF/88): **recebe mercadorias de SP, RJ e MG a 7%**, mas **vende para qualquer Estado da Federação tributando a 12%**. Essa assimetria de 5 pontos percentuais constitui o motor econômico dos contratos de competitividade do COMPETE-ES.
 
 ---

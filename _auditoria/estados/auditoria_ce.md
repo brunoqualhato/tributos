@@ -1,7 +1,7 @@
 # Relatório Técnico de Auditoria Tributária: Estado do Ceará (CE)
 
-**Data da Auditoria:** 31 de outubro de 2026  
-**Auditor Especialista:** Agente Tributarista Estadual — Ceará (CE)  
+**Data da Auditoria:** 31 de outubro de 2026
+**Auditor Especialista:** Agente Tributarista Estadual — Ceará (CE)
 **Escopo:** Mapeamento normativo do repositório, gaps legislativos, tributação interestadual, regimes setoriais (Carga Líquida, FDI, CIPP/ZPE, Agro) e transição para o IBS/CBS da Reforma Tributária.
 
 ---
@@ -65,13 +65,13 @@ Por estar geograficamente integrado à **Região Nordeste**, o Estado do Ceará 
 ```mermaid
 flowchart LR
     CE["Estado do Ceará (CE)<br>Alíquota Modal Interna: 20%"]
-    
+
     CE -- "Saídas Interestaduais: 12%<br>(Res. SF 22/89)" --> BR["Todos os 26 Estados e DF"]
-    
+
     SulSudeste["Sul e Sudeste<br>(SP, RJ, MG, PR, SC, RS)<br>exceto ES"] -- "Entradas no CE: 7%<br>(Res. SF 22/89)" --> CE
-    
+
     N_NE_CO_ES["Norte, Nordeste, Centro-Oeste<br>e Espírito Santo (ES)"] -- "Entradas no CE: 12%<br>(Res. SF 22/89)" --> CE
-    
+
     Importados["Importados / Res. SF 13/2012<br>(Conteúdo Importação > 40%)"] <-- "Entradas e Saídas: 4%" --> CE
 ```
 
@@ -144,7 +144,7 @@ flowchart TD
         RO2 --> RO3["Saída Tributada<br>(Destaque de Débito de 20% ou seletivo)"]
         RO2 --> RO4["Exportações / Imunidades<br>(Manutenção expressa do crédito)"]
     end
-    
+
     subgraph CargaLiquida ["Regime de Carga Líquida por CNAE (Lei nº 14.237/2008)"]
         CL1["Entrada Interestadual ou Interna<br>(Retenção na Entrada / Posto Fiscal / DAE)"] --> CL2["Alíquota Líquida Reduzida (3% a 10%)<br>(Crédito da Origem Já Descontado na Tabela)"]
         CL2 --> CL3["Encerramento da Fase de Tributação<br>(Dispensa de Débito na Saída Interna - CFOP 5.405)"]
@@ -265,7 +265,7 @@ flowchart TD
         CSP["ArcelorMittal Pecém<br>(Siderúrgica Exportadora de Placas)"]
         Porto["Porto do Pecém<br>(Operações Offshore & Roterdã)"]
     end
-    
+
     ZPE --> Deson1["Isenção/Suspensão ICMS na Importação de Bens de Capital"]
     ZPE --> Deson2["Desoneração na Aquisição Interna/Interestadual de Insumos"]
     H2V --> Deson3["Diferimento de ICMS em Turbinas Eólicas, Painéis Solares e Eletrolisadores"]
@@ -320,7 +320,7 @@ sequenceDiagram
     participant SITRAM as SEFAZ/CE (Posto Fiscal / SITRAM)
     participant Contribuinte as Atacadista/Varejista Cearense
     actor Cliente as Consumidor / Varejista Interno
-    
+
     Remetente->>Contribuinte: Emite NF-e com ICMS Interestadual (4%, 7% ou 12%)
     Note over SITRAM: Mercadoria cruza posto de fronteira (ou DFe virtual)
     SITRAM->>Contribuinte: Lança ICMS Carga Líquida (Tabela Anexo III Lei 14.237/08)

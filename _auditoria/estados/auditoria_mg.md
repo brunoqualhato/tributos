@@ -1,10 +1,10 @@
 # RELATÓRIO DE AUDITORIA TRIBUTÁRIA ESTRUTURAL — ESTADO DE MINAS GERAIS (MG)
 
-**Unidade Federativa:** Minas Gerais (MG)  
-**Órgão Fazendário Competente:** Secretaria de Estado de Fazenda de Minas Gerais (SEF/MG)  
-**Tribunal Administrativo:** Conselho de Contribuintes do Estado de Minas Gerais (CC/MG)  
-**Data da Auditoria:** Outubro de 2026  
-**Auditor Responsável:** Especialista Tributário Sênior / Tributarista de Elite (Subagente Estadual MG)  
+**Unidade Federativa:** Minas Gerais (MG)
+**Órgão Fazendário Competente:** Secretaria de Estado de Fazenda de Minas Gerais (SEF/MG)
+**Tribunal Administrativo:** Conselho de Contribuintes do Estado de Minas Gerais (CC/MG)
+**Data da Auditoria:** Outubro de 2026
+**Auditor Responsável:** Especialista Tributário Sênior / Tributarista de Elite (Subagente Estadual MG)
 **Arquivo do Relatório:** `_auditoria/estados/auditoria_mg.md`
 
 ---
@@ -76,11 +76,11 @@ flowchart TD
     MG[Estado de Minas Gerais - Origem] -->|Alíquota 7% - Res. SF 22/89| BlocoN_NE_CO_ES[Norte, Nordeste, Centro-Oeste e Espírito Santo]
     MG -->|Alíquota 12% - Res. SF 22/89| BlocoS_SE[Sul e Sudeste: SP, RJ, PR, SC, RS]
     MG -->|Alíquota 4% - Res. SF 13/12| Importados[Bens Importados com Conteúdo Importação > 40%]
-    
+
     SubDestinatario{Destinatário Final?}
     BlocoS_SE --> SubDestinatario
     BlocoN_NE_CO_ES --> SubDestinatario
-    
+
     SubDestinatario -->|Contribuinte - Uso/Consumo/Ativo| DIFAL_Contr[DIFAL Contribuinte: Base Dupla em MG / Destino]
     SubDestinatario -->|Não Contribuinte - EC 87/15| DIFAL_NaoContr[DIFAL Não Contribuinte: LC 190/21 e Conv. 236/21]
     SubDestinatario -->|Mesma Titularidade - Filial| ADC49[Transferência Filial: LC 204/23 e Conv. 109/24]

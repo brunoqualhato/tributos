@@ -1,10 +1,10 @@
 # RELATÓRIO DE AUDITORIA TRIBUTÁRIA ESTADUAL: SANTA CATARINA (SC)
 
-**Jurisdição:** Estado de Santa Catarina (SC)  
-**Órgão Fazendário:** Secretaria de Estado da Fazenda de Santa Catarina (SEF/SC)  
-**Autor:** Agente Especialista no Ordenamento Tributário Catarinense  
-**Data de Execução da Auditoria:** 31 de outubro de 2026  
-**Documento de Destino:** `_auditoria/estados/auditoria_sc.md`  
+**Jurisdição:** Estado de Santa Catarina (SC)
+**Órgão Fazendário:** Secretaria de Estado da Fazenda de Santa Catarina (SEF/SC)
+**Autor:** Agente Especialista no Ordenamento Tributário Catarinense
+**Data de Execução da Auditoria:** 31 de outubro de 2026
+**Documento de Destino:** `_auditoria/estados/auditoria_sc.md`
 **Escopo:** Auditoria de integridade do repositório normativo `estaduais/sc/`, levantamento de lacunas legais, mapeamento das relações interestaduais, regimes de dedução e crédito, tributação das cadeias agropecuárias, portuárias, industriais e atacadistas, e impactos da transição para a Reforma Tributária (IBS/CBS - EC 132/2023 e LC 214/2025).
 
 ---

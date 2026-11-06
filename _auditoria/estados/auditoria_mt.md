@@ -1,8 +1,8 @@
 # Relatório Técnico de Auditoria Tributária: Estado de Mato Grosso (MT)
 
-**Data de Elaboração:** 31 de Outubro de 2026  
-**Auditor Especialista:** Tributarista Especialista no Ordenamento Jurídico-Tributário de Mato Grosso  
-**Unidade Federativa:** Mato Grosso (MT)  
+**Data de Elaboração:** 31 de Outubro de 2026
+**Auditor Especialista:** Tributarista Especialista no Ordenamento Jurídico-Tributário de Mato Grosso
+**Unidade Federativa:** Mato Grosso (MT)
 **Status do Repositório:** Análise de Cobertura Normativa, Diagnóstico de Lacunas, Práticas Interestaduais, Cadeia Agroindustrial e Transição para a Reforma Tributária (EC 132/2023 e LC 214/2025)
 
 ---
@@ -308,15 +308,15 @@ As grandes tradings, frigoríficos e indústrias de esmagamento de grãos em Mat
 
 Para suprir as deficiências diagnosticadas no repositório `estaduais/mt/`, recomenda-se a execução das seguintes ações prioritárias:
 
-1. **Criação da Norma Matriz do ICMS:**  
+1. **Criação da Norma Matriz do ICMS:**
    Inserir a íntegra consolidada e atualizada da **Lei Estadual nº 7.098/1998** em `estaduais/mt/leis/icms/lei-7098-1998.md`.
-2. **Desdobramento dos Anexos Regulamentares do RICMS/MT:**  
+2. **Desdobramento dos Anexos Regulamentares do RICMS/MT:**
    Enriquecer o arquivo `estaduais/mt/ricms/decreto-2214-2014.md` com a incorporação dos **Anexos IV (Isenções)**, **V (Reduções de BC)**, **VI (Créditos Presumidos)**, **VII (Diferimento Agropecuário)**, **X (Substituição Tributária)** e **XVII (Setor Atacadista)**.
-3. **Ingestão da Legislação de Incentivos Fiscais:**  
+3. **Ingestão da Legislação de Incentivos Fiscais:**
    Criar a pasta `estaduais/mt/leis/incentivos/` e arquivar a **Lei Complementar Estadual nº 631/2019** e a **Lei Ordinária nº 7.958/2003** com seus decretos regulamentadores (PRODEIC, PROALMAT e PRODER).
-4. **Ingestão da Legislação do FETHAB:**  
+4. **Ingestão da Legislação do FETHAB:**
    Criar a pasta `estaduais/mt/leis/fundos/` e arquivar a **Lei Estadual nº 7.263/2000**, o Decreto nº 1.261/2000 e as Leis nº 13.002/2025 e 13.357/2026.
-5. **Ingestão do Contencioso Administrativo (PAT/MT):**  
+5. **Ingestão do Contencioso Administrativo (PAT/MT):**
    Criar a pasta `estaduais/mt/leis/pat/` e arquivar a **Lei Ordinária nº 8.797/2008**.
 
 ---

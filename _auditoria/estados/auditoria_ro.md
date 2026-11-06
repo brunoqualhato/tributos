@@ -1,7 +1,7 @@
 # Relatório de Auditoria Tributária Estadual: Rondônia (RO)
-**Unidade Federativa:** Rondônia | **Sigla:** RO | **Região:** Norte  
-**Órgão Fazendário:** Secretaria de Estado de Finanças de Rondônia (SEFIN/RO)  
-**Data da Auditoria:** Outubro de 2026 | **Status:** Atualizado com a EC nº 132/2023 e LC nº 214/2025  
+**Unidade Federativa:** Rondônia | **Sigla:** RO | **Região:** Norte
+**Órgão Fazendário:** Secretaria de Estado de Finanças de Rondônia (SEFIN/RO)
+**Data da Auditoria:** Outubro de 2026 | **Status:** Atualizado com a EC nº 132/2023 e LC nº 214/2025
 
 ---
 

@@ -1,0 +1,212 @@
+{
+  "data_consulta": "2026-11-05",
+  "metodo": "Comparação integral de caracteres e conversão para CommonMark estrito a partir dos repositórios oficiais governamentais (SINJ-DF, SEFAZ-MT, SEFAZ-MS e Governo de MS), com saneamento de resumos e artigos editoriais fabricados.",
+  "documentos": [
+    {
+      "fonte": "https://www.sinj.df.gov.br/sinj/Norma/49208/Lei_1254_08_11_1996.html",
+      "sha256_html": "632944e1f9b52b64bd5275e46d283f0caa795dd0dcfbf3028e1a41a33ae8eb1e",
+      "bytes_html": 435148,
+      "caracteres_texto": 194660,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/df/leis/icms/lei-1254-1996.md",
+      "sha256_markdown": "e7352c8d507cb035b4ccbbb711e90c4fbac460b8b23a5bfe97355ead3dc9b06e"
+    },
+    {
+      "fonte": "https://www.sinj.df.gov.br/sinj/Norma/51724/Lei_3804_08_02_2006.html",
+      "sha256_html": "0e0ea0e707e0b873710819bbaabef31930cce7f2d14e2505fe4bf3f9c0113e33",
+      "bytes_html": 56257,
+      "caracteres_texto": 15097,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/df/leis/itcmd/lei-3804-2006.md",
+      "sha256_markdown": "c458919be81d8264808249a189105871fde1eb8a3526239993255031cfef1d4a"
+    },
+    {
+      "fonte": "https://www.sinj.df.gov.br/sinj/Norma/a915cb5059cf4561a3bbbbe4285317ed/Lei_federal_7431.html",
+      "sha256_html": "b5013ee067346b8fdb89e4b0a11b2bbd22c4f6d0cecf372c5f0656cc164a61cd",
+      "bytes_html": 112273,
+      "caracteres_texto": 42373,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/df/leis/ipva/lei-7431-1985.md",
+      "sha256_markdown": "f7b9a28bd41c02fb8af2f1e71c02eea5444a036b0be263a2056302fe74521267"
+    },
+    {
+      "fonte": "https://www.sinj.df.gov.br/sinj/Norma/33077/Decreto_18955_22_12_1997.html",
+      "sha256_html": "adec52bf3d4f5a4651815462f0b79e657b3a7e7f8cbb547714dd7920dee391cc",
+      "bytes_html": 2329718,
+      "caracteres_texto": 774105,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/df/ricms/decreto-18955-1997.md",
+      "sha256_markdown": "dd35c623f1d3b2d782f915f41b0dc988b70c73faff9bf642df7ab3c21bc8c054"
+    },
+    {
+      "fonte": "https://www.sinj.df.gov.br/sinj/Norma/68572/Lei_4567_09_05_2011.html",
+      "sha256_html": "a2aacacc296c0de5e6881947c18b4273ecfa43c2a29d91fe8106f591317971ba",
+      "bytes_html": 192370,
+      "caracteres_texto": 72416,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/df/leis/pat/lei-4567-2011-tarf.md",
+      "sha256_markdown": "463f0e49c5dd777e6d0e890679f97633cf72d1b9d638141721a1ab4b9f3287d8"
+    },
+    {
+      "fonte": "https://www.sinj.df.gov.br/sinj/Norma/f308fe684e544a29af7a1570ee07ce3f/Lei_7326_2023.html",
+      "sha256_html": "1f4332fa2c9c23e6359a30da37ed385234eedf7ebd4c86e53ac372af0eac3c16",
+      "bytes_html": 23389,
+      "caracteres_texto": 1248,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/df/leis/icms/lei-7326-2023-aliquota-modal.md",
+      "sha256_markdown": "f16a2e5c7962cd7456c0139e6879dd34f56e668e602a421f960ddb215c2f362f"
+    },
+    {
+      "fonte": "http://app1.sefaz.mt.gov.br/Sistema/legislacao/legislacaotribut.nsf/5edf9c5193c58088032567580038916b/cc9c3b9886404baa0325678b0043a842?OpenDocument",
+      "sha256_html": "3f659eb74a2d2c5d4e8c252daf071697693d83ca13e172d98f10be239b19febf",
+      "bytes_html": 837124,
+      "caracteres_texto": 422112,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/mt/leis/icms/lei-7098-1998.md",
+      "sha256_markdown": "68bf3fd400a98d518860a625de254160b1db83622f8968186c2f641dab9f37d0"
+    },
+    {
+      "fonte": "http://app1.sefaz.mt.gov.br/Sistema/legislacao/legislacaotribut.nsf/5edf9c5193c58088032567580038916b/3866792553b6de7b032568b30044c0d4?OpenDocument",
+      "sha256_html": "562aa6518f84a9b672fc6c70a65dd0c009be6bbc49020a8815a94e6b16e4a28c",
+      "bytes_html": 472990,
+      "caracteres_texto": 182238,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/mt/leis/fundos/lei-7263-2000-fethab.md",
+      "sha256_markdown": "08787e9c69df19e77f0bbe8c191f26699659ac1a0e3c44cc15eadc4c19c6c4f1"
+    },
+    {
+      "fonte": "http://app1.sefaz.mt.gov.br/Sistema/legislacao/legislacaotribut.nsf/5edf9c5193c58088032567580038916b/62ce5995729ddcea03256921006ed745?OpenDocument",
+      "sha256_html": "afc7030e2f9883b7eb636fea7d9765de5966c9c8e51d0529b790f894e312004b",
+      "bytes_html": 109897,
+      "caracteres_texto": 50368,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/mt/leis/ipva/lei-7301-2000.md",
+      "sha256_markdown": "5135954119b0a3412a03c777a259fa466254a2c2be533ea4e04431266ce3a40d"
+    },
+    {
+      "fonte": "http://app1.sefaz.mt.gov.br/Sistema/legislacao/legislacaotribut.nsf/5edf9c5193c58088032567580038916b/375b8c284530106704256c9500491df8?OpenDocument",
+      "sha256_html": "7a921bc3de2f3c7040804bd1169ff4cf803d57cb541c5529e7ca8582e0001854",
+      "bytes_html": 85599,
+      "caracteres_texto": 43239,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/mt/leis/itcmd/lei-7850-2002.md",
+      "sha256_markdown": "eba2cd30e060bc7b02fa14d63872fd5ac6dd6765292bb6347af9b13639fcb88c"
+    },
+    {
+      "fonte": "http://app1.sefaz.mt.gov.br/sistema/legislacao/legislacaotribut.nsf/07fa81bed2760c6b84256710004d3940/42abb08790833f6d84257ca200448229?OpenDocument",
+      "sha256_html": "584969a25ba29877a107a7d979d95519c4d46e3d5e13757753a337836e6985f9",
+      "bytes_html": 8956,
+      "caracteres_texto": 2712,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/mt/ricms/decreto-2214-2014.md",
+      "sha256_markdown": "8462d7366fba4d3fb911f34a61dd737c04d6863ffb1cc9140c3d7b392e9f2422"
+    },
+    {
+      "fonte": "http://app1.sefaz.mt.gov.br/Sistema/legislacao/legislacaotribut.nsf/5edf9c5193c58088032567580038916b/c2e26eacd1d0d99a042573cd0040ba91?OpenDocument",
+      "sha256_html": "92019a4e627a5920e159f6f72b02d2ff3edfd24ebd810d0e7bb7d267ea9507f3",
+      "bytes_html": 285690,
+      "caracteres_texto": 94418,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/mt/leis/pat/lei-8797-2008-pat.md",
+      "sha256_markdown": "22885ce50826d24c9378f87c86f9d705fe1e4585f8961b07ef31ad7c06be985f"
+    },
+    {
+      "fonte": "http://app1.sefaz.mt.gov.br/Sistema/legislacao/legislacaotribut.nsf/5edf9c5193c58088032567580038916b/2eecd655475bdd1604258a89006ec542?OpenDocument",
+      "sha256_html": "8a787b81d5417513aa13dfc9438209b53b779ac2864ce0137fa0073d67e0d1e4",
+      "bytes_html": 40417,
+      "caracteres_texto": 17670,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/mt/leis/icms/lei-12358-2023-aliquota-modal.md",
+      "sha256_markdown": "bb1b992870d1c44ba708664744d28f5b7d7fc2f4351f908ec19abf2f3033a93c"
+    },
+    {
+      "fonte": "https://aacpdappls.net.ms.gov.br/appls/legislacao/serc/legato.nsf/23b657614c182061042579c80053770d/9b9e5fd2565751de042579cf004d33a6?OpenDocument",
+      "sha256_html": "b2f7a458f35e0afd058d2eca2d140106ee1f69a18c7b1e0423ca80243398cce6",
+      "bytes_html": 1050436,
+      "caracteres_texto": 600541,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/ms/leis/icms/lei-1810-1997.md",
+      "sha256_markdown": "d22433cc17c6256b30870962e1274c48a030b326c00f03128e8d3344f0af3320"
+    },
+    {
+      "fonte": "https://aacpdappls.net.ms.gov.br/appls/legislacao/serc/legato.nsf/23b657614c182061042579c80053770d/9b9e5fd2565751de042579cf004d33a6?OpenDocument",
+      "sha256_html": "b2f7a458f35e0afd058d2eca2d140106ee1f69a18c7b1e0423ca80243398cce6",
+      "bytes_html": 1050436,
+      "caracteres_texto": 26056,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": [
+        121,
+        143
+      ],
+      "arquivo": "estaduais/ms/leis/itcmd/lei-1810-1997.md",
+      "sha256_markdown": "a23c308048b58868a38d924ee26edcc57c6602a1b1ddb84b2bbbd225d5706500"
+    },
+    {
+      "fonte": "https://aacpdappls.net.ms.gov.br/appls/legislacao/serc/legato.nsf/23b657614c182061042579c80053770d/9b9e5fd2565751de042579cf004d33a6?OpenDocument",
+      "sha256_html": "b2f7a458f35e0afd058d2eca2d140106ee1f69a18c7b1e0423ca80243398cce6",
+      "bytes_html": 1050436,
+      "caracteres_texto": 45828,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": [
+        144,
+        180
+      ],
+      "arquivo": "estaduais/ms/leis/ipva/lei-1810-1997.md",
+      "sha256_markdown": "b391239fd88a0d30e167758badd697a4037bd8a68d602c108545b05267825720"
+    },
+    {
+      "fonte": "https://aacpdappls.net.ms.gov.br/appls/legislacao/serc/legato.nsf/7a2675fdf26e910204256b1f005348a7/d3cc39d3a6aeeda803256cc20066f1fb?OpenDocument",
+      "sha256_html": "4e66f44d57a924bc54a3ef85a4bc8328c2c8942b6cdd30eb035456b4267e1660",
+      "bytes_html": 1093287,
+      "caracteres_texto": 613876,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/ms/ricms/decreto-9203-1998.md",
+      "sha256_markdown": "7d17e8f08e249ef2da71572737776d05202325cb416f470cbe996fe86976c461"
+    },
+    {
+      "fonte": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/1b758e65922af3e904256b220050342a/6958a5c3f16ec99704256c000056a3b7?OpenDocument",
+      "sha256_html": "5d3546650411a0ff8b3ad792e25df9330c08e197697cc56de883b031186fdcd1",
+      "bytes_html": 77298,
+      "caracteres_texto": 37760,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/ms/leis/fundos/lei-1963-1999-fundersul.md",
+      "sha256_markdown": "c395aa491759350d8a0b059fb304327c6c06c2892612018d5ea28958cc881aab"
+    },
+    {
+      "fonte": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/31ab641a2df9c94d042578c0004669d8?OpenDocument",
+      "sha256_html": "b64da11b47d01fb8d840b08ca8e0d684ba0896a5c74c8d59289414b35d379f91",
+      "bytes_html": 21697,
+      "caracteres_texto": 12485,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/ms/leis/fundos/lei-4049-2011-fundersul.md",
+      "sha256_markdown": "a96cbe1907e35e1ea8dc1218d6447418302c3fd109d322029e1dfd41ddb1e111"
+    },
+    {
+      "fonte": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/53cafa2247e7ea3304256bfa007e9477?OpenDocument",
+      "sha256_html": "8c1248fa3c60bc6aafeb59822a630046a00c4057c9a58d473e51a8d077a59961",
+      "bytes_html": 417152,
+      "caracteres_texto": 263405,
+      "fidelidade_textual_normalizada": true,
+      "recorte_paragrafos": null,
+      "arquivo": "estaduais/ms/leis/pat/lei-2315-2001-pat.md",
+      "sha256_markdown": "dcc33ae86e4f837c4e409c055a993576956483da92dee3fedcc53d95ada2dcd9"
+    }
+  ]
+}

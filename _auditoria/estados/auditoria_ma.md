@@ -1,9 +1,9 @@
 # Relatório Técnico de Auditoria Tributária Estadual: Maranhão (MA)
 
-**Data de Elaboração:** Outubro de 2026  
-**Competência Analítica:** Direito Tributário Estadual e Relações Federativas  
-**Unidade Federativa Auditada:** Estado do Maranhão (MA)  
-**Arquivo de Referência:** `_auditoria/estados/auditoria_ma.md`  
+**Data de Elaboração:** Outubro de 2026
+**Competência Analítica:** Direito Tributário Estadual e Relações Federativas
+**Unidade Federativa Auditada:** Estado do Maranhão (MA)
+**Arquivo de Referência:** `_auditoria/estados/auditoria_ma.md`
 
 ---
 

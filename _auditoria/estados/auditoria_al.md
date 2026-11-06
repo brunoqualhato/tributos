@@ -1,9 +1,9 @@
 # RELATÓRIO DE AUDITORIA TRIBUTÁRIA ESTADUAL: ALAGOAS (AL)
 
-**Data de Elaboração:** Outubro de 2026  
-**Jurisdição:** Estado de Alagoas (AL)  
-**Órgão Fazendário:** Secretaria de Estado da Fazenda de Alagoas (SEFAZ/AL)  
-**Status da Auditoria:** Concluída com Diagnóstico de Acervo, Relações Interestaduais, Regimes Especiais e Transição Tributária  
+**Data de Elaboração:** Outubro de 2026
+**Jurisdição:** Estado de Alagoas (AL)
+**Órgão Fazendário:** Secretaria de Estado da Fazenda de Alagoas (SEFAZ/AL)
+**Status da Auditoria:** Concluída com Diagnóstico de Acervo, Relações Interestaduais, Regimes Especiais e Transição Tributária
 
 ---
 
@@ -78,11 +78,11 @@ O DIFAL em Alagoas adota mecanismos técnicos segregados conforme a condição d
 * **Base Legal:** Art. 21 da Lei Estadual nº 5.900/1996, alterado pela Lei Estadual nº 8.567/2021, e art. 591 do RICMS/AL.
 * **Metodologia de Cálculo:** Aplicação da metodologia de **Base Dupla** com inclusão "por dentro" da alíquota interna alagoana (19% + 1% FECOEP = 20%).
 * **Formulação Matemática do Cálculo em Alagoas:**
-  
+
   $$\text{Valor da Operação Líquido de Origem} = \text{Valor da Operação} \times (1 - \text{ALQ}_{\text{inter}})$$
-  
+
   $$\text{Base Dupla Recomposta} = \frac{\text{Valor da Operação Líquido de Origem}}{1 - \text{ALQ}_{\text{intra, efetiva}}}$$
-  
+
   $$\text{DIFAL Total} = (\text{Base Dupla Recomposta} \times \text{ALQ}_{\text{intra, efetiva}}) - (\text{Valor da Operação} \times \text{ALQ}_{\text{inter}})$$
 
 * *Demonstração Numérica (Aquisição de equipamento industrial de SP a 7%, alíquota interna de AL de 20%):*
@@ -211,7 +211,7 @@ A economia primária e agroindustrial alagoana é marcada pela histórica monocu
 ```
 
 ### 7.1. Alagoas como Estado Receptor Líquido e o Princípio do Destino
-* **Ganho Arrecadatório Estrutural:** O perfil econômico de Alagoas é predominantemente de consumo de bens manufaturados produzidos em outros Estados (veículos, eletrodomésticos, tecidos, farmacêuticos). 
+* **Ganho Arrecadatório Estrutural:** O perfil econômico de Alagoas é predominantemente de consumo de bens manufaturados produzidos em outros Estados (veículos, eletrodomésticos, tecidos, farmacêuticos).
 * Sob o modelo tributário atual do ICMS, Alagoas perdia grande parcela do imposto retida na origem (7% ou 12%). Com a transição progressiva para o IBS e a aplicação integral do **Princípio do Destino**, Alagoas arrecadará 100% da alíquota sobre o consumo exercido por sua população, gerando expressivo ganho fiscal relativo no médio e longo prazo.
 * **Fim da Competitividade por Desoneração:** O Estado não poderá mais conceder desonerações tributárias para atrair CDs e atacadistas a partir de 2033.
 

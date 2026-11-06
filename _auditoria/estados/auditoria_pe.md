@@ -13,7 +13,7 @@
 * **Alíquota Interna Geral / Modal do ICMS em PE:** **20,5%** (elevada originariamente de 18% para 20,5% pela Lei Estadual nº 18.305/2023, com efeitos a contar de 01/01/2024, em consonância com a Lei Estadual nº 15.730/2016).
 * **Adicional do Fundo de Pobreza (FECEP/PE):** **2,0%** (Lei Estadual nº 12.523/2003, incidente sobre bens e serviços supérfluos, elevando a carga efetiva interna para até 22,5% em operações ordinárias e 27% a 29% em itens específicos).
 
-O Estado de Pernambuco ostenta a 7ª maior economia do país e se posiciona como o principal polo logístico e de comércio atacadista da Região Nordeste, alavancado pelo Complexo Industrial e Portuário de Suape, pelo Polo Automotivo da Stellantis na Zona da Mata Norte (Goiana), pelo Polo de Biotecnologia/Farmacêutico, pelo Polo de Confecções do Agreste (Caruaru, Toritama e Santa Cruz do Capibaribe), pelo Polo Frutícola Irrigado de exportação do Vale do São Francisco (Petrolina) e pelo Polo Gesseiro do Sertão do Araripe. 
+O Estado de Pernambuco ostenta a 7ª maior economia do país e se posiciona como o principal polo logístico e de comércio atacadista da Região Nordeste, alavancado pelo Complexo Industrial e Portuário de Suape, pelo Polo Automotivo da Stellantis na Zona da Mata Norte (Goiana), pelo Polo de Biotecnologia/Farmacêutico, pelo Polo de Confecções do Agreste (Caruaru, Toritama e Santa Cruz do Capibaribe), pelo Polo Frutícola Irrigado de exportação do Vale do São Francisco (Petrolina) e pelo Polo Gesseiro do Sertão do Araripe.
 
 Essa diversidade econômica resulta em um arranjo tributário sofisticado, intensivo em benefícios fiscais de créditos presumidos e diferimentos, estruturados substancialmente no âmbito do **PRODEPE** (Programa de Desenvolvimento do Estado de Pernambuco - Lei nº 11.675/1999) e convalidados perante o CONFAZ com fulcro na Lei Complementar Federal nº 160/2017 e Convênio ICMS nº 190/2017.
 
@@ -143,7 +143,7 @@ flowchart LR
     A["Remessa Interestadual entre Mesma Titularidade<br/>(Matriz - Filial)"] --> B{"Regime Jurídico<br/>Aplicável"}
     B -->|Regra Geral Legal| C["NÃO INCIDÊNCIA DE ICMS<br/>(ADC 49 / LC 204/23)<br/>Transferência Obrigatória do Crédito"]
     B -->|Opção Expressa RUDFTO| D["EQUIPARAÇÃO À OPERAÇÃO TRIBUTADA<br/>(Cláusula 6ª Conv. 109/24)<br/>Débito na Saída e Crédito na Entrada"]
-    
+
     C --> C1["Base de Crédito: Custo de Aquisição Mais Recente ou Custo de Produção"]
     D --> D1["Destaca ICMS pelas Alíquotas Interestaduais (4%, 7% ou 12%)<br/>Permite Fruição de Benefícios Fiscais Vinculados"]
 ```
@@ -164,9 +164,9 @@ Pernambuco é signatário das principais regras nacionais de Substituição Trib
 
 1. **MVA Ajustada nas Entradas de Outras UFs:**
    - Nas operações interestaduais sujeitas à ST promovidas por remetentes de outras UFs com destino a Pernambuco, aplica-se a fórmula padrão do Convênio 142/2018 para evitar o favorecimento fiscal da compra interestadual:
-   
+
    $$\text{MVA Ajustada} = \left[ \frac{(1 + \text{MVA-ST Original}) \times (1 - \text{ALQ Inter})}{(1 - \text{ALQ Intra})} \right] - 1$$
-   
+
    - Com a elevação da alíquota modal interna de Pernambuco para **20,5%** (Lei nº 18.305/2023), o denominador $(1 - \text{ALQ Intra})$ foi reduzido para **0,795**, o que provocou a imediata elevação automática da MVA Ajustada em todas as aquisições provenientes de outros Estados, majorando a base do ICMS-ST recolhido a Pernambuco.
    - **Optantes do Simples Nacional (Convênio ICMS nº 35/2011):** Quando o remetente for empresa enquadrada no Simples Nacional, veda-se a aplicação da MVA Ajustada, aplicando-se estritamente a MVA-ST Original fixada no RICMS/PE.
 

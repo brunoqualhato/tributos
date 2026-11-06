@@ -1,84 +1,975 @@
 ---
-titulo: "Lei Estadual nº 14.237, de 10 de novembro de 2008 e Lei nº 10.367/1979 (Regime de Substituição Tributária por Carga Líquida por CNAE e FDI no Ceará)"
+titulo: "Lei Estadual nº 14.237, de 10 de novembro de 2008 — Carga Líquida e Substituição Tributária por CNAE no Ceará"
 esfera: "Estadual"
-orgao: "Assembleia Legislativa do Estado do Ceará / SEFAZ-CE"
+orgao: "Assembleia Legislativa do Estado do Ceará / Secretaria da Fazenda"
 tipo: "Lei Estadual"
 numero: "14237"
 data: "2008-11-10"
 ano: "2008"
 tema_tributario: "Produtos e Mercadorias"
 tributos_afetados: ["ICMS", "ICMS-ST"]
-situacao: "Em vigor"
+situacao: "Em vigor; redações históricas preservadas"
 revogada: false
-fonte: "https://www.sefaz.ce.gov.br"
-ementa: "Dispõe sobre o Regime de Substituição Tributária por Carga Líquida do ICMS nas operações realizadas por contribuintes atacadistas e varejistas enquadrados por CNAE-Fiscal no Estado do Ceará e consolida os incentivos do Fundo de Desenvolvimento Industrial (FDI - PROVIN e PCDM)."
+fonte: "https://www2.al.ce.gov.br/legislativo/legislacao5/leis2008/14237.htm"
+ementa: "Dispõe sobre o regime de substituição tributária nas operações realizadas por contribuintes do ICMS enquadrados nas atividades econômicas que indica e dá outras providências."
+data_consulta: "2026-11-05"
+natureza_conteudo: "Texto integral oficial consolidado"
 ---
 
-# Lei Estadual nº 14.237, de 10 de novembro de 2008 e Lei nº 10.367/1979 (Regime de Substituição Tributária por Carga Líquida por CNAE e FDI no Ceará)
+# Lei Estadual nº 14.237/2008 — Carga Líquida e Substituição Tributária por CNAE no Ceará
 
-LEI Nº 14.237, DE 10 DE NOVEMBRO DE 2008
+## Nota editorial de conferência — 05/11/2026
 
-Dispõe sobre o Regime de Substituição Tributária nas operações realizadas por contribuintes do ICMS, enquadrados nas atividades econômicas que indica, e dá outras providências.
+Texto integral extraído da Assembleia Legislativa do Estado do Ceará (ALCE). Preserva as redações anteriores e notas de alteração oficiais sobre a sistemática cearense de substituição tributária e carga líquida por CNAE fiscal.
 
-O GOVERNADOR DO ESTADO DO CEARÁ: Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei:
+## Texto oficial
 
-## PARTE I — DO REGIME DE SUBSTITUIÇÃO TRIBUTÁRIA POR CARGA LÍQUIDA POR CNAE-FISCAL (LEI Nº 14.237/2008)
+**O texto desta Lei não substitui o publicado no Diário Oficial.**
 
-Art. 1º Os estabelecimentos enquadrados nas atividades econômicas (CNAE-Fiscal) indicadas nos Anexos I (Comércio Atacadista) e II (Comércio Varejista) desta Lei ficam responsáveis, na condição de sujeitos passivos por substituição tributária, pela retenção e recolhimento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS devido nas operações subsequentes, até o consumidor final, por ocasião da **entrada da mercadoria neste Estado ou no próprio estabelecimento**.
+LEI
+Nº 14.237, DE 10.11.08 (D.O. DE 13.11.08)
 
-§ 1º Diferentemente do modelo clássico de substituição tributária por produto (NCM/CEST com MVA individualizada), a sistemática da **Lei nº 14.237/2008** adota o **Regime de Substituição Tributária por Carga Líquida por CNAE**, abrangendo a totalidade das mercadorias comercializadas pelo contribuinte (exceto aquelas com regime específico excluídas no art. 5º), mediante a aplicação direta de um percentual de carga tributária líquida predeterminado.
+DISPÕE SOBRE O REGIME DE SUBSTITUIÇÃO
+TRIBUTÁRIA NAS OPERAÇÕES REALIZADAS POR CONTRIBUINTES DO IMPOSTO SOBRE
+OPERAÇÕES RELATIVAS À CIRCULAÇÃO DE MERCADORIAS E SOBRE PRESTAÇÕES DE SERVIÇOS
+DE TRANSPORTE INTERESTADUAL E INTERMUNICIPAL E DE COMUNICAÇÃO  ICMS,
+ENQUADRADOS NAS ATIVIDADES ECONÔMICAS QUE INDICA E DÁ OUTRAS PROVIDÊNCIAS.
 
-Art. 2º A base de cálculo do ICMS devido por substituição tributária nos termos desta Lei será o montante correspondente ao valor da operação de entrada da mercadoria, nele incluídos os valores do IPI, do seguro, do frete e de outros encargos cobrados ou transferíveis ao adquirente, acrescido do percentual de **Margem de Valor Agregado (MVA) fixa** estabelecido em regulamento setorial (Decretos nºs 29.560/2008, 30.519/2011, 31.066/2012, 31.270/2013 e correlatos).
+**O GOVERNADOR DO ESTADO DO CEARÁ Faço saber que a Assembléia Legislativa decretou e eu
+sanciono a seguinte Lei:~~Art. 1º~~**~~ Os
+estabelecimentos enquadrados nas atividades econômicas indicadas nos anexos I e
+II desta Lei ficam responsáveis, na condição de sujeito passivo por
+substituição tributária, pela retenção e recolhimento do Imposto sobre
+Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços
+de Transporte Interestadual e Intermunicipal e de Comunicação  ICMS, devido
+nas operações subseqüentes, até o consumidor final, quando da entrada da
+mercadoria. ~~
 
-Art. 3º O imposto a ser recolhido por substituição tributária na entrada será equivalente à carga tributária líquida resultante da aplicação dos percentuais constantes do Anexo III desta Lei sobre a base de cálculo definida no art. 2º, escalonados conforme:
+**~~Art. 1º~~**~~ Os
+estabelecimentos enquadrados nas atividades econômicas indicadas nos anexos I e
+II desta Lei ficam responsáveis, na condição de sujeito passivo por
+substituição tributária, pela retenção e recolhimento do Imposto sobre
+Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços
+de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, devido
+nas operações subsequentes, até o consumidor final,
+quando da entrada ou da saída da mercadoria, conforme dispuser o regulamento.~~
 
-I - a **classificação tributária do produto no Ceará** (cesta básica a 7%, produtos com redução para 12%, alíquota modal interna de **20%** a partir de 2024, ou supérfluos a 25%/28%); e
+**~~Parágrafo único~~**~~. A sistemática de
+tributação prevista neste artigo, pode ser aplicada a
+produtos, conforme se dispuser em regulamento. (Redação dada pela Lei N° 14.447, DE 01.02.09)
 
-II - a **origem geográfica da operação de entrada**:
-a) **Mercadoria adquirida em operação interna** dentro do Estado do Ceará;
-b) **Mercadoria oriunda das Regiões Norte, Nordeste, Centro-Oeste e do Estado do Espírito Santo** (alíquota interestadual de **12%**);
-c) **Mercadoria oriunda das Regiões Sul e Sudeste, exceto do Estado do Espírito Santo** (alíquota interestadual de **7%**);
-d) **Mercadoria importada do exterior ou sujeita à Resolução do Senado Federal nº 13/2012** (alíquota interestadual de **4%**).
+**~~Parágrafo único.~~**~~ A sistemática de
+tributação, prevista neste artigo, pode ser aplicada a outras atividades econômicas
+ou produtos, conforme se dispuser em regulamento. (Redação dada pela Lei nº 14.670. de 14.04.10).~~
 
-Art. 4º O recolhimento do ICMS-ST por Carga Líquida na forma do art. 3º **encerra a fase de tributação** nas saídas internas subsequentes promovidas pelo contribuinte atacadista ou varejista dentro do território cearense, não cabendo destaque adicional de ICMS nas vendas internas e tampouco aproveitamento de créditos fiscais das entradas (já considerados na fixação da alíquota líquida da tabela).
+**Art. 1º** Os
+estabelecimentos enquadrados nas atividades econômicas indicadas nos anexos I e
+II desta Lei ficam responsáveis, na condição de substituto tributário, pela
+retenção e recolhimento do Imposto sobre Operações Relativas à Circulação de
+Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e
+Intermunicipal e de Comunicação - ICMS, devido nas operações subsequentes, até o consumidor final, quando da entrada ou
+da saída da mercadoria ou da prestação de serviço de comunicação, conforme
+dispuser o regulamento.
 
-Art. 5º O regime de Substituição Tributária por Carga Líquida **não se aplica** às operações com:
+**Parágrafo único.** A sistemática de tributação,
+prevista neste artigo, pode ser aplicada a outras atividades econômicas,
+produtos ou prestação de serviços, conforme se dispuser em regulamento.(Nova redação dada pela Lei n.º 14.818, de 20.12.10)
 
-I - mercadorias destinadas ao ativo imobilizado ou ao uso ou consumo do estabelecimento (sujeitas ao DIFAL próprio);
+**Art. 2º **O imposto a ser
+retido e recolhido na forma do art. 1º será o equivalente à carga líquida
+resultante da aplicação dos percentuais constantes do anexo III desta Lei,
+sobre o valor do documento fiscal acobertador das
+entradas das mercadorias, incluídos os valores do IPI, frete e carreto, seguro
+e outros encargos transferidos ao destinatário.
 
-II - mercadorias isentas ou não tributadas;
+**§ 1º **O ICMS recolhido na
+forma deste artigo não dispensa a exigência do ICMS relativo:
 
-III - produtos submetidos a regimes nacionais específicos de substituição tributária ou monofasia (combustíveis e lubrificantes, energia elétrica, cigarros, veículos automotores novos, cimento, bebidas frias e tintas e vernizes do Convênio ICMS 118/2017);
+**I -** a operação de
+importação da mercadoria do exterior do País;
 
-IV - mercadorias destinadas a **outro Estado da Federação** (saídas interestaduais).
+**II - **ao adicional do
+ICMS destinado ao Fundo Estadual de Combate à Pobreza  FECOP, instituído pela
+Lei Complementar Estadual nº 37, de 26 de novembro de 2002.
 
-Art. 6º **Tratamento das Saídas Interestaduais por Atacadista Credenciado (Regime Especial de Tributação — RET):**
+**III - **5% (cinco por
+cento) quando das entradas de mercadorias oriundas de empresas de outros
+Estados relacionadas em ato normativo expedido pelo Secretário da Fazenda, a
+título de neutralização dos benefícios fiscais obtidos em desacordo com a Lei
+Complementar nº 24/75, ou ainda, quando por qualquer motivo o imposto não tenha
+sido recolhido ao Estado de origem, no todo ou em parte.(Redação dada pela lei n.º 14.818, de 20.12.10)
 
-§ 1º O contribuinte atacadista cearense que celebrar **Regime Especial de Tributação (RET)** com a SEFAZ/CE (exigindo faturamento mínimo e regularidade fiscal) poderá ter reduzida a base de cálculo ou a carga líquida de entrada proporcionalmente ao volume de suas **saídas interestaduais**, ou apropriar ressarcimento/exclusão da parcela correspondente às mercadorias que vierem a sair do Ceará para outras Unidades da Federação com destaque regular de **12%** (ou **4%**).
+~~§ 2º Nas entradas oriundas de estabelecimentos
+enquadrados no Simples Nacional, os percentuais constantes do anexo III, serão
+adicionados do percentual definido em regulamento nunca superior ao limite da
+alíquota correspondente à operação.~~
 
----
+§ 2º Nas entradas oriundas de
+estabelecimentos enquadrados no Simples Nacional, bem como nas entradas neste
+Estado de produtos de origem estrangeira procedentes de outras unidades da
+Federação, sujeitos à alíquota de 4% (quatro por cento) nos termos da Resolução
+nº 13, de 25 de abril de 2012, do Senado Federal, os percentuais constantes do
+anexo III serão adicionados do percentual definido em regulamento. (Nova redação dada pela Lei n.º
+15.383, de 25.07.13)
 
-## PARTE II — DO FUNDO DE DESENVOLVIMENTO INDUSTRIAL DO CEARÁ — FDI (LEI Nº 10.367, DE 7 DE DEZEMBRO DE 1979 E DECRETO Nº 32.438/2017)
-
-Art. 1º (Lei nº 10.367/1979) O Fundo de Desenvolvimento Industrial do Ceará (**FDI**), administrado pelo Conselho Estadual de Desenvolvimento Econômico (CEDE), compreende os seguintes programas de incentivos fiscais e econômico-financeiros convalidados nos termos da Lei Complementar nº 160/2017 e do Convênio ICMS nº 190/2017:
-
-### 1. PROVIN (Programa de Incentivo ao Funcionamento de Empresas Industriais)
-- **Mecânica do Incentivo:** Concede diferimento/financiamento ou crédito presumido equivalente a **75% (setenta e cinco por cento) a 99% (noventa e nove por cento)** sobre o ICMS mensal gerado pelas operações de saída de fabricação própria do estabelecimento industrial instalado no Ceará;
-- **Taxa de Retorno no Vencimento:** Por ocasião da liquidação de cada parcela (com carência de 36 meses), a indústria desembolsa apenas o **percentual de retorno de `1%` (um por cento) a `25%` (vinte e cinco por cento)** do valor principal incentivado (acrescido de TJLP proporcional), graduado segundo a pontuação de localização geográfica (interiorização fora da RMF), geração de empregos diretos e adensamento produtivo;
-- **Diferimento na Importação e no Ativo:** Diferimento total do ICMS na importação de matérias-primas, insumos e bens do ativo imobilizado e dispensa do DIFAL na aquisição interestadual de máquinas industriais sem similar produzido no Estado.
-
-### 2. PCDM (Programa de Incentivo às Centrais de Distribuição de Mercadorias e Importação Portuária — Pecém e Mucuripe)
-- **Incentivo nas Saídas Interestaduais:** Redução em até **75% (setenta e cinco por cento)** do ICMS mensal apurado nas operações interestaduais de saída promovidas por Centrais de Distribuição (CD) instaladas no Ceará;
-- **Diferimento Aduaneiro:** Diferimento do ICMS incidente no desembaraço aduaneiro de mercadorias importadas pelos portos (Complexo Industrial e Portuário do Pecém — CIPP e Porto do Mucuripe) e aeroportos cearenses para o momento da saída subsequente.
+§ 3º O Poder Executivo poderá estabelecer os valores mínimos de
+referência que serão admitidos para efeito de cálculo do imposto de que trata
+esta Lei, levando em consideração os preços praticados no mercado interno.
 
 
----
 
-## Quadro Síntese dos Decretos Setoriais de Carga Líquida e do FDI no Ceará
+**§ 4º** Fica o Chefe do
+Poder Executivo autorizado a: (Redação dada pela Lei N° 14.447, DE 01.02.09)
 
-| Norma / Programa | Segmento Econômico Abrangido | Alíquota Efetiva / Mecânica de Cálculo |
-| :--- | :--- | :--- |
-| **Decreto nº 29.560/2008** | Atacadista e Varejista de Alimentos, Bebidas Lácteas, Higiene Pessoal e Limpeza | Carga líquida na entrada graduada por origem (Interna, N/NE/CO/ES a 12%, Sul/Sudeste a 7%, Importados a 4%) com dispensa nas saídas internas |
-| **Decreto nº 30.519/2011 e nº 31.066/2012** | Tecidos, Confecções, Calçados, Material de Construção, Ferragens e Elétricos | Substituição tributária por CNAE na entrada com encerramento de fase nas operações internas e ressarcimento proporcional via RET nas saídas interestaduais |
-| **FDI — PROVIN (Lei nº 10.367/1979)** | Indústria de Transformação no Ceará | Incentivo de **75% a 99%** sobre o saldo devedor mensal de ICMS, com retorno de **1% a 25%** após carência de 36 meses |
-| **FDI — PCDM (Lei nº 10.367/1979)** | Centrais de Distribuição e Importadores (Pecém / Mucuripe) | Redução de até **75%** do ICMS nas saídas interestaduais + diferimento no desembaraço aduaneiro |
+**~~I~~**~~  incluir na base de
+cálculo prevista no caputdeste artigo margem de valor agregado
+em função da atividade econômica desenvolvida pelo segmento;~~
+
+**I **
+incluir na base de cálculo prevista no *caput*
+deste artigo margem de valor agregado em função da atividade econômica desenvolvida
+pelo segmento, podendo, inclusive, ajustar os percentuais da carga tributária líquida constantes do anexo III desta Lei; (Nova redação dada pela Lei n.º 16.258, de 09.06.17)
+
+**II ** ajustar a carga
+líquida estabelecida para o comércio varejista até o limite estabelecido para o
+comércio atacadista, ambas constantes do anexo III desta Lei.
+
+**~~III~~**~~ - ajustar a carga
+líquida estabelecida no anexo III desta Lei em função do produto ou da atividade
+econômica desenvolvida pelo segmento econômico. (Acrescido pela
+Lei nº 14.670. de 14.04.10).~~
+
+**III** - ajustar a carga
+líquida estabelecida no anexo III desta Lei em função do produto, do serviço de
+comunicação, da localização geográfica do contribuinte ou da atividade
+econômica desenvolvida pelo segmento econômico. (Redação dada pela Lei n.º
+14.818, de 20.12.10)
+
+**§ 4ºA.** O disposto no inciso
+II do § 4.º deste artigo poderá ser aplicado às empresas do comércio varejista
+que possuam faturamento médio anual, por estabelecimento sediado neste Estado,
+superior a 18.000.000 (dezoito milhões) de UFIRCEs. (Redação dada pela Lei n.º 16.177, de 27.12.16)
+
+**§ 5º** Nos recebimentos
+em transferência, a carga líquida constante do anexo III será aplicada sobre a
+base de cálculo definida no caput* *deste artigo,
+acrescida do percentual de 30% (trinta por cento) a 120% (cento e vinte por
+cento), conforme disposto em regulamento. (Redação dada pela Lei N° 14.447, DE 01.02.09)
+
+**Art. 3º A base de cálculo do ICMS Substituição Tributária, nas operações
+praticadas por contribuintes afastados da aplicação desta Lei, será composta
+pelo preço praticado pelo remetente das mercadorias, adicionado do frete, do
+carreto, do imposto de importação se for o caso, do IPI, das demais despesas
+debitadas ao estabelecimento destinatário, e da aplicação sobre este montante
+do percentual de agregação a ser definido pelo Poder Executivo.Parágrafo único.** A base de cálculo
+praticada pelo estabelecimento que receber em transferência mercadorias
+sujeitas a presente sistemática será a definida no
+caput deste artigo acrescida do percentual de 30% (trinta por cento) (Acrescido
+pela Lei n° 14.277, de 23.12.08)
+
+**~~Art. 4º ~~**~~O contribuinte que
+exerça a atividade constante do anexo I, mediante a celebração de Termo de
+Acordo na forma dos arts. 67 a 69 da Lei nº 12.670, de 27 de dezembro de 1996~~.~~, poderá ter a carga líquida prevista no
+anexo III ajustada proporcionalmente até o limite da carga tributária efetiva constante
+do art. 1º da Lei nº 13.025, de 20 de junho de 2000.~~
+
+**~~Art. 4º~~**~~ O contribuinte que
+exerça a atividade constante do anexo I, mediante a celebração de regime
+especial na forma dos arts. 67 a 69 da Lei nº 12.670, de 27 de dezembro de 1996 , poderá ter a carga líquida prevista no
+anexo III e o imposto previsto no inciso I do § 1º do art. 2º ajustados
+proporcionalmente até o limite da carga tributária efetiva constante do art. 1º
+da Lei nº 13.025, de 20 de junho de 2000.
+(Redação dada pela Lei n° 14.277, de 23.12.08)
+§ 1º~~**~~ Para os efeitos
+desta Lei considera-se carga tributária efetiva, o somatório do ICMS recolhido,
+na forma do art. 2º, com o valor do crédito fiscal correspondente à operação de
+entrada da mercadoria.~~
+
+**~~§ 1º ~~**~~Para os efeitos
+desta Lei, considera-se carga tributária efetiva o somatório do ICMS recolhido,
+na forma do art. 2º, com o valor do crédito fiscal correspondente à operação de
+entrada da mercadoria, ainda que tenha sido deferido, bem como os demais
+créditos relativos aos serviços de transportes e aos insumos empregados na
+produção, quando o for o caso. (Redação dada
+pela Lei nº 14.670. de 14.04.10).~~
+
+**~~§ 2º~~**~~ Na
+hipótese do inciso VIII do art. 6º, havendo retenção do ICMS na origem, em
+valor superior ao devido na forma deste artigo, o ressarcimento correspondente
+será definido em regulamento.~~
+
+**~~Art. 4º ~~**~~O contribuinte que
+exercer a atividade constante do anexo I desta Lei, bem como a incluída nos
+termos do parágrafo único do art. 1º, mediante regime especial de tributação,
+nos termos previstos nos arts. 67 a
+69 da Lei nº 12.670, de 27 de dezembro de 1996, poderá aplicar, como
+carga líquida, aquela prevista no anexo III desta Lei, e o imposto de que trata
+o inciso I do § 1º do art. 2º poderá ser ajustado, proporcionalmente, até o
+limite da carga tributária efetiva constante do art. 1º da Lei nº 13.025, de 20
+de junho de 2000.~~
+
+**Art. 4º** O contribuinte que exercer a atividade constante do anexo I desta Lei,
+bem como a incluída nos termos do parágrafo único do art. 1º, mediante Regime
+Especial de Tributação, na forma dos arts. 67 a 69 da Lei nº 12.670, de 27 de
+dezembro de 1996, poderá aplicar, como carga líquida, aquela prevista no anexo
+III desta Lei, que será ajustada proporcionalmente, juntamente com o imposto de
+que trata o inciso I do § 1º do art. 2º, até o limite da carga tributária
+efetiva constante do art. 1º da Lei nº 13.025, de 20 de junho de 2000. (Nova redação dada pela Lei n.º 15.383,de
+25.07.13)
+
+**§
+1º **Para
+os efeitos desta Lei, considera-se carga tributária efetiva o somatório do ICMS
+recolhido, na forma do art. 2º, com o valor do crédito fiscal correspondente à
+operação de entrada da mercadoria, ainda que o pagamento do imposto tenha sido
+diferido, bem como os demais créditos relativos aos serviços de transportes e
+de comunicação e aos insumos empregados na produção, quando for o caso.
+
+**§ 2º **Nas hipóteses das exceções
+previstas nos incisos III e VIII do art. 6º, havendo retenção do ICMS na
+origem, em valor superior ao devido na forma deste artigo, o valor do
+ressarcimento ao qual faz jus o contribuinte será aquele definido em
+regulamento. (Nova redação dada pela Lei n.º
+14.818, de 20.12.10)
+
+**§ 3º** O
+valor das vendas direta ao consumidor final que
+exceder a 10% (dez por cento) do faturamento mensal terá a carga tributária
+complementada para o nível de tributação estabelecida no anexo III.
+
+**~~§ 4º~~**~~ O
+disposto neste artigo somente se aplica ao contribuinte com faturamento, no ano
+calendário, superior ao valor máximo fixado para o enquadramento no Simples
+Nacional neste Estado.~~
+
+**§ 4º** O disposto neste artigo aplica-se ao
+contribuinte com faturamento, no ano calendário, superior ao valor máximo
+fixado para o enquadramento no Simples Nacional neste Estado, podendo o
+Secretário da Fazenda, excepcionalmente, autorizar a celebração de Regime
+Especial de Tributação mediante justificativa do contribuinte. (Nova redação dada pela Lei n.º 15.383, de 25.07.13)
+
+**~~§ 5º ~~**~~Fica o
+Poder Executivo autorizado a estabelecer critérios e condições para a
+celebração do termo de acordo a que se refere o caput*.*~~
+
+**§ 5º** Fica o Poder
+Executivo autorizado a estabelecer critérios e condições para a celebração de
+regime especial a que se refere o caput*,* inclusive em relação à cobrança
+do ICMS, total ou parcial por ocasião das operações de entrada, de saída, ou
+misto, de acordo com a sistemática estabelecida nesta Lei. (Nova Redação dada pela Lei N° 14.447, DE 01.02.09)
+
+**§ 6º** O disposto no
+caput*,* se aplica ainda, às operações sujeitas ao regime de substituição tributária
+conforme dispuser o regulamento. (Acrescido pela Lei n°
+14.277, de 23.12.08)
+
+**§ 7º **Na hipótese do
+inciso I do § 1º do art. 2º:
+
+**I -** nos termos
+definidos em regulamento, em relação às mercadorias abaixo especificadas, sem similar
+produzida neste Estado nos termos definidos em regulamento, quando importadas
+do exterior do País e destinadas para fins de comercialização em outra unidade
+da Federação, poderá ser aplicada a alíquota do ICMS equivalente a 12% (doze
+por cento):
+
+**a)** bebidas quentes,
+exceto aguardente;
+
+**b) **vinhos e sidras;
+
+**c)** pneus para: motos,
+motonetas, motocicletas, triciclos, quadriciclos,
+ciclomotores e bicicletas;
+
+**d)** peças e acessórios
+para veículos;
+
+**e)** tecidos, malhas e
+plásticos;
+
+**f)** equipamentos
+médico-hospitalares;
+
+**g)** rochas ornamentais
+em estado bruto ou laminadas;
+
+**h)** equipamentos
+elétricos de uso pessoal e doméstico;
+
+**i) **máquinas, aparelhos
+e equipamentos para uso odonto-médico-hospitalar, suas partes e peças;
+
+**j) **material para
+construção;
+
+**k)** material elétrico e
+eletrônico;
+
+**l)** móveis e
+eletrodomésticos;
+
+**II** - em relação aos
+insumos destinados às indústrias de móveis e de beneficiamento de rochas
+ornamentais em estado bruto ou laminadas, especificados em ato normativo do Chefe
+do Poder Executivo, poderá ser aplicada a alíquota de 12% (doze por cento), e
+quando das saídas dos produtos deles resultante em operações internas ou
+interestaduais a carga líquida estabelecida em regulamento.
+
+**§ 8º** Na hipótese do
+inciso I do § 7º deste artigo, quando das operações destinadas a outra unidade da Federação, não será exigida qualquer
+complementação do imposto, ainda que destinadas a consumidor final.
+
+**§ 9º** Salvo o disposto
+na legislação, caso as mercadorias especificadas no inciso I do § 7º deste
+artigo venham a ser internadas no território deste
+Estado, o contribuinte deverá:
+
+**I** - complementar a
+carga tributária relativa à diferença entre a alíquota de 12% (doze por cento)
+e a alíquota interna especifica;
+
+**II** - recolher a
+parcela do ICMS por substituição tributária, conforme definido no anexo III. (Nova Redação dada pela Lei n.º 14.818, de 20.12.10)
+
+**§ 10.** Sem prejuízo do disposto no art. 1º da Lei nº 13.025, de 20 de junho de
+2000, nas operações a seguir indicadas, o imposto de que trata o inciso I do §
+1º do art. 2º, na forma que dispuser o regulamento, poderá ser calculado sobre
+os seguintes percentuais de carga líquida:
+
+**I -** produtos de informática, 4% (quatro por cento);
+
+**II -** equipamentos odonto-médico-hospitalares, 6,50%
+(seis vírgula cinquenta por
+cento).
+
+**§ 11.** O imposto de que trata o § 10, na forma que dispuser o regulamento,
+poderá ser diferido para o momento em que ocorrer a saída da mercadoria do
+estabelecimento importador. (Redação dada pela
+Lei n.º 15.228, de 08.11.12)
+
+**§ 12.** A adoção do Regime Especial de Tributação,
+concedido na forma deste artigo, poderá ser estendida às demais atividades econômicas
+do contribuinte, desde que estejam, também, estas contempladas no anexo I desta
+Lei.
+
+**§ 13.** A sistemática, de que
+trata o § 12 deste artigo, poderá ser adotada mediante requerimento do
+contribuinte e somente será aplicada a partir da data da sua inclusão no Regime
+Especial de Tributação. (Redação acrescida pela
+Lei n.º 15.383, de 25.07.13)
+
+**§ 14.**
+O contribuinte que celebrar Regime Especial de Tributação, conforme previsto no
+*caput* deste artigo, e desde que se
+enquadre nas CNAEs nºs 46320001, 4637107, 4639701, 4639702, 4646002, 4647801,
+4649408, 4635499, 4637199, 4632003 e 4691500, poderá ter a redução da base de
+cálculo do ICMS de que trata o *caput*
+do art. 1º da Lei nº 13.025, de 2000, aumentada em até 25% (vinte e cinco por
+cento), exceto para a alíquota de 28% (vinte e oito por cento). (Redação dada pela Lei n.º 16.258, de 09.06.17)
+
+**Art. 5º** Os estabelecimentos
+de que trata esta Lei ficam obrigados, conforme dispuser o regulamento, a:
+
+**I -** entregar a Declaração de Informações Econômico Fiscais  DIEF,
+preenchida com detalhamento de item por produto;
+
+**II -** gerar
+nota fiscal eletrônica para acobertar as saídas de mercadorias;
+
+**III -**
+escriturar os livros fiscais pelo sistema de Escrituração Fiscal Digital  EFD.
+
+**~~Art. 6º~~**~~ O regime
+tributário de que trata esta Lei não se aplica às operações:~~
+
+**Art. 6º **Salvo disposição em
+contrário, na forma que dispuser o regulamento, o regime tributário de que
+trata esta Lei não se aplica às operações: (Redação
+dada pela Lei n.º 14.818, de 20.12.10)
+
+**I
+-**
+com mercadoria ou bem destinados ao ativo imobilizado ou consumo do
+estabelecimento, as quais estão sujeitas apenas ao recolhimento do ICMS
+relativo ao diferencial de alíquotas;
+
+**II
+- **com
+mercadoria isenta ou não tributada;
+
+**~~III
+- ~~**~~sujeita
+ao regime de substituição tributária específica, às quais se aplica a legislação pertinente, observado o disposto no inciso
+VIII;~~
+
+**III** - sujeita ao
+regime de substituição tributária específica, às quais se aplica a legislação
+pertinente, exceto em relação às disposições do inciso VIII do caput deste
+artigo, e aos seguintes produtos:
+
+**~~a)~~**~~ pneus para motos,
+motonetas, motocicletas, triciclos, quadriciclos,
+ciclomotores e bicicletas;~~
+
+**a)** pneus e câmaras de ar para motos, motonetas, motocicletas,
+triciclos, quadriciclos, ciclomotores e bicicletas; (Nova redação dada pela Lei n.º 15.383, de 25.07.13)
+
+**b)** peças e acessórios
+para veículos; (Redação dada pela Lei n.º
+14.818, de 20.12.10)
+
+**~~IV
+-~~**~~
+com equipamentos e materiais elétricos, hidráulicos, sanitário, eletrônicos,
+eletro-eletrônicos, de telefonia, eletrodomésticos, móveis; produtos de
+informática, ferragens e ferramentas;~~ (Revogado
+pela Lei nº 15.383, de 25.07.13)
+
+**V
+-**
+com artigos de vestuário e produtos de cama, mesa e banho;
+
+**VI
+-**
+com jóias, relógios e bijuterias;
+
+**VII
+-**
+com mercadoria já contemplada com redução da base de cálculo do ICMS ou com
+crédito presumido, ou que, por qualquer outro mecanismo ou incentivo, tenha a
+sua carga tributária reduzida, exceto os produtos da cesta-básica;
+
+**~~VIII
+- ~~**~~com
+produtos sujeitos à alíquota de 25% (vinte e cinco por cento), exceto vinhos,
+sidras e bebidas quentes, destas excluída a aguardente.~~
+
+**VIII -** com
+produtos sujeitos à alíquota de 25% (vinte e cinco por cento), exceto vinhos,
+sidras e bebidas quentes. (Nova redação dada
+pela Lei n.º 15.383, de 25.07.13)
+
+**Art. 6º A**. Em substituição à sistemática de tributação de que
+trata o inciso I do art. 6º, os contribuintes enquadrados nesta Lei que efetuarem
+a importação do Exterior de bens, arrolados em regulamento, destinados ao ativo
+fixo ou imobilizado de seus estabelecimentos poderão recolher o ICMS devido
+mediante à aplicação de uma carga líquida
+correspondente a 7% (sete por cento) do valor da operação de importação, desde
+que não se apropriem de qualquer parcela desse imposto a título de crédito
+fiscal.
+
+**Parágrafo
+único**.
+Na hipótese de destinação diversa ou, ainda, quando da desincorporação do bem
+destinado ao ativo imobilizado de que trata o caput deste artigo, ocorrida
+antes de completar 5 (cinco) anos, contados da data do desembaraço aduaneiro, o
+contribuinte deverá complementar a carga tributária do imposto, nos termos
+definidos em regulamento. (Redação dada pela
+Lei n.º 14.818, de 20.12.10)
+
+**Art.
+7º **É
+vedado o destaque do ICMS no documento fiscal relativo à saída subseqüente da
+mercadoria cujo imposto tenha sido recolhido na forma desta Lei, exceto em
+operações interestaduais, exclusivamente para efeito de crédito do
+destinatário.
+
+**Parágrafo
+único.**
+Nas operações internas, quando o adquirente dos produtos tributados na forma
+desta Lei não se enquadrar nas atividades dos anexos I e II, poderá fazer o creditamento do ICMS correspondente ao valor do imposto da
+respectiva operação, retornando à cadeia normal de tributação.
+
+**Art.
+8º **Salvo
+o disposto em regulamento, os estabelecimentos enquadrados nos anexos I e II,
+relativo às operações de que trata esta Lei, não terão direito, a:
+
+**I
+-**
+ressarcimento do ICMS relativamente às operações destinadas a outras unidades
+da Federação;
+
+**II
+-**
+ressarcimento nas devoluções de mercadorias, exceto nos casos de mercadorias
+perecíveis;
+
+**III
+-**
+crédito do ICMS, exceto o decorrente das entradas para o Ativo Imobilizado, o
+autorizado na forma do § 2º do art. 4º e o decorrente de mercadorias não
+contempladas nesta Lei.
+
+**Art.
+9º**
+Os estabelecimentos sujeitos ao regime de substituição tributária estabelecido
+nesta Lei, deverão efetuar o levantamento do estoque das mercadorias sujeitas à presente sistemática, existente na data prevista em
+regulamento, aplicar o percentual de carga líquida constantes do anexo III,
+estabelecido para as operações internas, podendo recolher o ICMS resultante em
+até 13 (treze) parcelas mensais e sucessivas.
+
+**§
+1º**
+O disposto no caput não dispensa o pagamento do ICMS antecipado relativo às
+mercadorias entradas até a data do levantamento dos estoques.
+
+**§
+2º **Os
+créditos existentes relativamente ao estoque, não serão aproveitados para
+abatimento do imposto de que trata o caput, devendo ser estornados nessa mesma
+data.
+
+**§ 3º **Excepcionalmente,
+considerando a atividade econômica, o Chefe do Poder Executivo poderá autorizar
+o uso de crédito existente na conta gráfica do contribuinte para pagamento do
+ICMS sobre os estoques, sobre o incremento decorrente da nova sistemática de
+tributação, ou, na impossibilidade de aproveitamento, restituí-lo, conforme
+disposto em regulamento. (Redação dada pela
+Lei N° 14.447, DE 01.02.09)
+
+**Art.
+10.** Ficam convalidados os procedimentos praticados pelos
+contribuintes enquadrados na Lei nº 13.025, de 14 de junho de 2000, no período
+de 28 de setembro de 2007 a 31 de dezembro de 2007, em relação ao disposto no
+art. 3º da Lei nº 13.975, de 14 de setembro de 2007,
+desde que não tenha resultado em falta de recolhimento do imposto, na forma do
+regime de recolhimento a que estava sujeito.
+
+**Parágrafo
+único. **O disposto no caput não confere ao sujeito passivo qualquer
+direito à restituição ou compensação de importâncias já pagas.
+
+**Art. 10** - A. Ficam
+convalidados os procedimentos praticados pelos contribuintes do ramo do
+comércio atacadista especificados no anexo I desta Lei, relativamente às
+operações com os produtos relacionados nos itens IV a XIV do anexo único do
+Decreto nº 27.490, de 30 de junho de 2004, no período de 1º de dezembro de 2008
+a 30 de setembro de 2009, desde que não tenha resultado em recolhimento do ICMS
+em valor inferior ao estabelecido no respectivo regime especial de tributação a
+que estava sujeito o contribuinte;
+
+**Parágrafo único**. O disposto neste
+artigo não confere ao sujeito passivo qualquer direito à restituição ou
+compensação de importâncias já pagas. (Redação dada
+pela Lei n.º 14.818, de 20.12.10)
+
+**~~Art. 11. ~~**~~Nas entradas de
+mercadorias ou bens de outras unidades da Federação destinadas a pessoa física
+ou jurídica não inscrita no Cadastro Geral da Fazenda deste Estado, em quantidade,
+valor ou habitualidade que caracterize ato comercial, será exigida o
+recolhimento do ICMS correspondente a uma carga tributária líquida, entre 3%
+(três por cento) e 10% (dez por cento) por cento, aplicada sobre o valor da
+operação constante do respectivo documento fiscal, conforme disposto em
+regulamento.~~ (**Ação
+Direta de Inconstitucionalidade N.º 4.596, por decisão coletiva do Supremo
+Tribunal Federal**)
+
+**Art. 12. **O Chefe do Poder
+Executivo expedirá os atos regulamentares necessários ao disciplinamento desta
+Lei.
+
+**~~Art. 12-A~~**~~. Fica o Poder Executivo autorizado
+alterar a lista dos anexos I e II desta Lei. (Acrescido
+pela Lei n° 14.277, de 23.12.08)~~
+
+**Art. 12-A.** Fica o Poder
+Executivo autorizado: (Redação dada pela
+Lei n° 14.447, DE 01.02.09)
+
+**I**  alterar a lista
+dos anexos I e II desta Lei;
+
+**II ** adotar a
+sistemática, de que trata esta Lei, aos produtos previstos no seu art. 6º;
+
+**III**  eleger outro
+contribuinte como responsável pela retenção e recolhimento do ICMS, nos
+critérios e condições previstas nesta Lei.
+
+**Art. 13. **Esta Lei entra em
+vigor na data de sua publicação, produzindo efeitos nos termos e nas datas
+previstas em regulamento**. Parágrafo único.** Fica o Poder
+Executivo autorizado a estabelecer datas diferenciadas para a implementação desta sistemática por grupos de contribuintes.
+
+**Art. 14. **Revogam-se as
+disposições em contrário.
+
+**PALÁCIO IRACEMA, DO
+GOVERNO DO ESTADO DO CEARÁ,** em Fortaleza, 10 de novembro de 2008.
+
+Cid Ferreira Gomes
+
+GOVERNADOR DO
+ESTADO DO CEARÁ
+
+Iniciativa:
+Poder Executivo
+
+
+
+~~ANEXO I, A QUE SE REFERE O ART. 1º DA LEI
+Nº
+, DE
+DE DE 2008.
+
+
+
+
+
+
+
+| ITEM | CÓDIGO
+ CNAE | DESCRIÇÃO
+ CNAE | |
+| --- | --- | --- | --- |
+| | | | |
+| I | 4623108 | Comércio
+ atacadista de matérias-primas agrícolas com atividade de fracionamento e
+ acondicionamento associada | |
+| | | | |
+| II | 4623199 | Comércio
+ atacadista de matérias-primas agrícolas não especificadas anteriormente | |
+| | | | |
+| III | 4632001 | Comércio atacadista de cereais e
+ leguminosas beneficiados | |
+| | | | |
+| IV | 4637107 | Comércio
+ atacadista de chocolates, confeitos, balas, bombons e semelhantes | |
+| | | | |
+| V | 4639701 | Comércio
+ atacadista de produtos alimentícios em geral | |
+| | | | |
+| VI | 4639702 | Comércio
+ atacadista de produtos alimentícios em geral, com atividade de fracionamento
+ e acondicionamento associada | |
+| | | | |
+| VII | 4646002 | Comércio
+ atacadista de produtos de higiene pessoal | |
+| | | | |
+| VIII | 4647801 | Comércio
+ atacadista de artigos de escritório e de papelaria | |
+| | | | |
+| IX | 4647802 | Comércio
+ atacadista de livros, jornais e outras publicações | |
+| | | | |
+| X | 4649408 | Comércio
+ atacadista de produtos de higiene, limpeza e conservação domiciliar | |
+
+
+
+
+
+~~ANEXO
+I DA LEI Nº 15.066, DE 20 DE DEZEMBRO DE 2011 (Redação
+dada pela Lei n.º 15.066, de 27.12.11)~~
+
+**~~CNAE-FISCAL DESCRIÇÃO DA CNAE-FISCAL~~**
+
+~~4530-7/01
+Comércio por atacado de peças e acessórios novos para veículos
+automotores 4649-4/03 Comércio atacadista de bicicletas,
+triciclos e outros veículos recreativos   ANEXO II, A QUE SE REFERE O ART. 1º DA LEI
+Nº ,
+DE
+DE DE 2008.
+
+
+
+
+
+| ITEM | CÓDIGO
+ CNAE | DESCRIÇÃO
+ CNAE | |
+| --- | --- | --- | --- |
+| | | | |
+| I | 4711301 | Comércio
+ varejista de mercadorias em geral, com predominância de produtos alimentícios
+  hipermercados | |
+| | | | |
+| II | 4711302 | Comércio
+ varejista de mercadorias em geral, com predominância de produtos alimentícios
+  supermercados | |
+| | | | |
+| III | 4712100 | Comércio
+ varejista de mercadorias em geral, com predominância de produtos alimentícios
+ - minimercados, mercearias e armazéns | |
+| | | | |
+| IV | 4721103 | Comércio
+ varejista de laticínios e frios | |
+| | | | |
+| V | 4721104 | Comércio
+ varejista de doces, balas, bombons e semelhantes | |
+| | | | |
+| VI | 4729699 | Comércio
+ varejista de produtos alimentícios em geral ou especializado em produtos alimentícios
+ não especificados anteriormente | |
+| | | | |
+| VII | 4761003 | Comércio
+ varejista de artigos de papelaria | |
+| | | | |
+| VIII | 4772500 | Comércio
+ varejista de cosméticos, produtos de perfumaria e de higiene pessoal | |
+| | | | |
+| IX | 4789005 | Comércio
+ varejista de produtos saneantes domissanitários | |
+
+
+
+
+
+~~ANEXO
+II DA LEI Nº 15.066, DE 20 DE DEZEMBRO DE 2011 (Redação
+dada pela Lei n.º 15.066, de 27.12.11)~~
+
+**~~CNAE-FISCAL DESCRIÇÃO DA CNAE-FISCAL~~**
+
+~~4530-7/03 Comércio a varejo de peças e
+acessórios novos para veículos automotores 4763-6/03 Comércio varejista de bicicletas e
+triciclos; peças e acessórios      ANEXO III, A QUE SE REFERE O ART. 2º DA LEI
+Nº ,
+DE
+DE DE 2008.
+
+
+
+
+
+
+
+| CONTRIBUINTE
+ DESTINATÁRIO | MERCADORIA
+ (Alíquota interna
+ efetiva) | CARGA
+ LÍQUIDA DA ST CONFORME ORIGEM DA MERCADORIA | | | |
+| --- | --- | --- | --- | --- | --- |
+| O
+ Próprio Estado ou Exterior do País | Regiões
+ Norte, Nordeste, Centro Oeste e Estado do Espírito Santo | Regiões
+ Sul e Sudeste, exceto o Estado do Espírito Santo | | | |
+| | | | | | |
+| ATACADISTA
+ (Anexo I) | 7%
+ - Cesta Básica | 2,70% | 4,70% | 6,80% | |
+| 12%
+ - Cesta Básica | 4,60% | 8,10% | 11,60% | | |
+| 17% | 6,50% | 11,50% | 16,50% | | |
+| 25%
+ - (vinhos, sidras e bebidas quentes, exceto aguardentes) | 7,26% | 25,85% | 33,00% | | |
+| | | | | | |
+| VAREJISTA
+ (Anexo II) | 7%
+ - Cesta Básica | 1,05% | 3,46% | 5,52% | |
+| 12%
+ - Cesta Básica | 1,80% | 5,93% | 9,46% | | |
+| 17% | 2,60% | 8,40% | 13,40% | | |
+| 25%
+ - (vinhos, sidras e bebidas quentes, exceto aguardentes) | 7,26% | 25,85% | 33,00% | | |
+
+ I - o anexo
+I: (Nova redação dada pela Lei n.º 15.155, de
+09.05.12)
+
+| CNAE-FISCAL | DESCRIÇÃO
+ DA CNAE-FISCAL |
+| --- | --- |
+| 2621-3/00 | Fabricação
+ de equipamentos de informática |
+| 2622-1/00 | Fabricação
+ de periféricos para equipamentos de informática |
+| 2824-1/02 | Fabricação
+ de aparelhos e equipamentos de ar condicionado para uso não-industrial |
+| 2824-1/02 | Fabricação
+ de split system (aparelhos de ar condicionado para
+ uso doméstico) |
+| 4649-4/01 | Comércio
+ atacadista de ar condicionado para residências |
+| 4669-9/99 | Comércio
+ atacadista de ar condicionado, condicionadores de ar para uso comercial |
+| 4651-6/01 | Comércio
+ atacadista de equipamentos de informática |
+| 4651-6/02 | Comércio
+ atacadista de suprimentos de informática |
+| 1111901 | Fabricação
+ de aguardente de cana-de-açúcar (redação dada pela Lei n.º 15.383, de
+ 25.07.13) |
+| 1111902 | Fabricação de
+ outras aguardentes e bebidas destiladas (Redação
+ dada pela Lei n.º 15.383, de 25.07.13) |
+
+II 
+o anexo II: (Nova redação dada pela Lei n.º
+15.155, de 09.05.12)
+
+| CNAE-FISCAL | DESCRIÇÃO
+ DA CNAE-FISCAL |
+| --- | --- |
+| 4322-3/02 | Instalação e
+ manutenção de sistemas centrais de ar condicionado, de ventilação e de
+ refrigeração |
+| 4751-2/01 | Comércio
+ varejista especializado de equipamentos e suprimentos de informática |
+| 4753-9/00 | Comércio
+ varejista de aparelho de ar condicionado doméstico |
+| 4757-1/00 | Comércio
+ varejista especializado de peças e acessórios para aparelhos
+ eletroeletrônicos para uso doméstico, exceto informática e comunicação |
+| 9521-5/00 | Reparação e manutenção
+ de equipamentos eletro eletrônicos de uso pessoal e doméstico |
+
+CNAE 4541-2/06  Comércio a varejo de peças e acessórios novos
+para motocicletas e motonetas. (Acrescido pela Lei n° 16.904, DE 03.06.2019)
+
+ANEXO II A QUE SE REFERE O ART.
+6.º DA LEI Nº 16.904
+, DE 03 DE JUNHO DE 2019
+
+| ITEM | CÓDIGO
+ CNAE | DESCRIÇÃO
+ CNAE |
+| --- | --- | --- |
+| I | 4711301 | Comércio
+ varejista de mercadorias em geral, com predominância de produtos alimentícios
+  hipermercados. |
+| II | 4711302 | Comércio
+ varejista de mercadorias em geral, com predominância de produtos alimentícios
+  supermercados. |
+| III | 4712100 | Comércio
+ varejista de mercadorias em geral, com predominância de produtos alimentícios
+ - minimercados, mercearias e armazéns. |
+| IV | 4721103 | Comércio varejista de laticínios e frios. |
+| V | 4721104 | Comércio varejista de doces, balas, bombons e semelhantes. |
+| VI | 4729699 | Comércio
+ varejista de produtos alimentícios em geral ou especializado em produtos
+ alimentícios não especificados anteriormente. |
+| VII | 4761003 | Comércio varejista de artigos de papelaria. |
+| VIII | 4789005 | Comércio varejista de produtos saneantes domissanitários. |
+| IX | 4771701 | Comércio varejista de produtos farmacêuticos sem manipulação de
+ fórmula. |
+| X | 4771702 | Comércio
+ varejista de produtos farmacêuticos com manipulação de fórmulas. |
+| XI | 4771703 | Comércio varejista de produtos farmacêuticos homeopáticos. |
+| XII | 4755502 | Comércio varejista de artigos de armarinhos. |
+| XIII | 4755503 | Comércio varejista de artigos de cama, mesa e banho. |
+| XIV | 4781400 | Comércio varejista de artigos do vestuário e acessórios. |
+| XV | 4541-2/03 | Comércio a varejo de motocicletas e motonetas novas. |
+| XVI | 4541-2/04 | Comércio a varejo de motocicletas e motonetas usadas. |
+| XVII | 4541-2/06 | Comércio a varejo de peças e acessórios novos para motocicletas
+ e motonetas. |
+| XVIII | 4742-3/00 | Comércio varejista de material elétrico. |
+| XIX | 4744-0/03 | Comércio varejista de materiais hidráulicos. |
+| XX | 4744-0/05 | Comércio
+ varejista de materiais de construção não especificados Anteriormente. |
+| XXI | 4744-0/99 | Comércio varejista de materiais de construção em geral |
+| XXII | 4753-9/00 | Comércio
+ varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo. |
+| XXIII | 4754-7/01 | Comércio varejista de móveis. |
+| XXIV | 4772-5/00 | Comércio
+ varejista de cosméticos, produtos de perfumaria e de higiene pessoal. |
+| XXV | 4530-7/03 | Comércio a varejo de peças e acessórios novos para veículos
+ automotores. |
+| XXVI | 4763-6/03 | Comércio varejista de bicicletas e triciclos; peças e
+ acessórios. |
+| XXVII | 4322-3/02 | Instalação e manutenção de sistemas centrais de ar condicionado
+ para uso doméstico. |
+| XXVIII | 4751-2/01 | Comércio varejista especializado de equipamentos e suprimentos
+ de informática. |
+| XXIX | 4753-9/00 | Comércio varejista de aparelho de ar condicionado doméstico. |
+| XXX | 4757-1/00 | Comércio
+ varejista especializado de peças e acessórios para aparelhos
+ eletroeletrônicos para uso doméstico, exceto informática
+ e comunicação. |
+| XXXI | 9521-5/00 | Reparação
+ e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico. |
+| XXXII | 4759-8/99 | (comércio varejista de utensílios domésticos). |
+
+**ANEXO III, A QUE SE
+REFERE O ART. 2.º DA LEI N.º 14.237/2008**
+
+CARGA
+LÍQUIDA DA ST CONFORME A ORIGEM DA MERCADORIA
+
+(COM
+PREVISÃO DA ALÍQUOTA DE 28%, APROVADA PELA LEI N.º 15.892, DE 27 DE NOVEMBRO DE
+2015) (Redação dada pela Lei n.º 16.100, de
+27.07.16)
+
+| CONTRIBUINTEDESTINATÁRIO/REMETENTE | MERCADORIA
+ (Alíquota interna efetiva) | Próprio Estado ou
+ Exterior do País | Regiões Norte,
+ Nordeste, Centro-Oeste e Estado do Espírito Santo | Regiões Sul e Sudeste,
+ exceto o Estado do Espírito Santo |
+| --- | --- | --- | --- | --- |
+| ATACADISTA
+ (Anexo I) | 7% - Cesta básica | 2,70% | 4,70% | 6,80% |
+| 12% - Cesta
+ básica | 4,60% | 8,10% | 11,60% | |
+| 17% | 6,50% | 11,50% | 16,50% | |
+| 25% | 7,26% | 25,85% | 33,00% | |
+| 28% (exceto prestação
+ de serviços de televisão por assinatura) | 8,13% | 30,39% | 37,80% | |
+| 28% (Prestação de
+ serviços de televisão por assinatura) | 22,4% | - | - | |
+| VAREJISTA (Anexo
+ II) | 7% - Cesta básica | 1,05% | 3,46% | 5,52% |
+| 12% - Cesta
+ básica | 1,80% | 5,93% | 9,46% | |
+| 17% | 2,60% | 8,40% | 13,40% | |
+| 25% | 7,26% | 25,85% | 33,00% | |
+| 28% (exceto prestação
+ de serviços de televisão por assinatura) | 8,13% | 30,39% | 37,80% | |
+
+
+
+| CONTRIBUINTEDESTINATÁRIO/REMETENTE | MERCADORIA (Carga
+ tributária interna) | Próprio Estado ou
+ Exterior do País | Regiões Norte,
+ Nordeste, Centro-Oeste e Estado do Espírito Santo | Regiões Sul e
+ Sudeste, exceto o Estado do Espírito Santo |
+| --- | --- | --- | --- | --- |
+| ATACADISTA (Anexo
+ I) | 7% - Cesta básica | 2,70% | 5,03% | 6,97% |
+| 12% - Cesta
+ básica | 4,60% | 8,62% | 11,95% | |
+| 18% | 6,93% | 12,93% | 17,93% | |
+| 25% | 7,26% | 25,85% | 33,00% | |
+| 28% (exceto
+ prestação de serviços de televisão por assinatura) | 8,13% | 30,39% | 37,80% | |
+| 28% (Prestação de
+ serviços de televisão por assinatura) | 22,40% | - | - | |
+| VAREJISTA (Anexo
+ II) | 7% - Cesta básica | 1,40% | 3,73% | 5,68% |
+| 12% - Cesta
+ básica | 2,40% | 6,40% | 9,73% | |
+| 18% | 3,60% | 9,60% | 14,60% | |
+| 25% | 7,26% | 25,85% | 33,00% | |
+| 28% (exceto prestação
+ de serviços de televisão por assinatura) | 8,13% | 30,39% | 37,80% | |
+
+~~(Nova redação dada pela Lei n.º 16.177,
+de 27.12.16)  ~~
+
+
+
+| CONTRIBUINTE DESTINATÁRIO/REME-TENTE | MERCADORIA (Carga tributária interna) | Próprio Estado ou Exterior do País | Regiões Norte, Nordeste, Centro-Oeste e Estado
+ do Espírito Santo | Regiões Sul e Sudeste, exceto o Estado do
+ Espírito Santo |
+| --- | --- | --- | --- | --- |
+| ATACADISTA
+ (Anexo I) | 7% - Cesta básica | 2,96% | 5,50% | 7,25% |
+| 12% - Cesta básica | 5,08% | 9,42% | 12,42% | |
+| 20% | 7,70% | 15,70% | 20,70% | |
+| 25% | 7,26% | 25,85% | 33,00% | |
+| 28% (exceto prestação de serviço de comunicação) | 8,13% | 30,39% | 37,80% | |
+| 28% (Prestação de serviço de comunicação) | 22,40% | - | - | |
+| VAREJISTA
+ (Anexo II) | 7% - Cesta básica | 1,54% | 4,20% | 5,95% |
+| 12% - Cesta básica | 2,64% | 7,20% | 10,20% | |
+| 20% | 4,00% | 12,00% | 17,00% | |
+| 25% | 7,26% | 25,85% | 33,00% | |
+| 28% (exceto prestação de serviço de comunicação) | 8,13% | 30,39% | 37,80% | |
+| | | | | |
+
+(nova redação dada
+pela lei n.° 18.305, de 15.02.23)

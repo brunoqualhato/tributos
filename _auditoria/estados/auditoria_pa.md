@@ -1,7 +1,7 @@
 # Relatório de Auditoria Tributária Estadual: Pará (PA)
-**Unidade Federativa:** Pará | **Sigla:** PA | **Região:** Norte  
-**Órgão Fazendário:** Secretaria de Estado da Fazenda do Pará (SEFA/PA)  
-**Data da Auditoria:** Outubro de 2026 | **Status:** Atualizado com a EC nº 132/2023 e LC nº 214/2025  
+**Unidade Federativa:** Pará | **Sigla:** PA | **Região:** Norte
+**Órgão Fazendário:** Secretaria de Estado da Fazenda do Pará (SEFA/PA)
+**Data da Auditoria:** Outubro de 2026 | **Status:** Atualizado com a EC nº 132/2023 e LC nº 214/2025
 
 ---
 
@@ -91,7 +91,7 @@ Nos termos do Art. 12 da Lei Estadual nº 5.530/1989 (com redação aperfeiçoad
 ### 3.1. Princípio da Não-Cumulatividade e Dinâmica Creditória
 
 - Compensação integral do imposto devido com o montante anteriormente cobrado nas operações com insumos, matérias-primas e embalagens destinadas à comercialização ou processo de transformação industrial (art. 155, § 2º, I da CF c/c Lei Complementar nº 87/1996 e Lei nº 5.530/1989).
-- **Manutenção de Créditos na Exportação (Art. 155, § 2º, X, "a" da CF - Lei Kandir):** 
+- **Manutenção de Créditos na Exportação (Art. 155, § 2º, X, "a" da CF - Lei Kandir):**
   - As exportações diretas e remessas com fim específico de exportação de produtos minerais (minério de ferro, cobre, bauxita) e agropecuários (soja, carne bovina) são completamente desoneradas do ICMS.
   - Assegura-se expressamente a **manutenção e o acúmulo de créditos fiscais** de ICMS suportados na compra de máquinas, combustíveis, reagentes químicos fabris e energia elétrica utilizada na extração e processamento.
   - **O Desafio do Saldo Credor Acumulado:** O Pará abriga o maior estoque per capita de créditos acumulados de ICMS decorrentes da Lei Kandir no País, exigindo ritos de transferência para terceiros e compensações na SEFA/PA (Decreto nº 4.676/2001, arts. 54 a 60).

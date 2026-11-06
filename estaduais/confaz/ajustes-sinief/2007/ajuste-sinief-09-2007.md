@@ -1380,7 +1380,7 @@ Redação anterior dada ao § 1º da cláusula décima sexta pelo Ajuste SINIEF 
 
 § 4° Havendo mais de uma CC-e para o mesmo CT-e, o emitente deverá consolidar na última todas as informações anteriormente retificadas.
 
-§ 5º A administração tributária que recebeu a CC-e deverá transmiti-las às administrações tributárias e entidades previstas na cláusula nona. 
+§ 5º A administração tributária que recebeu a CC-e deverá transmiti-las às administrações tributárias e entidades previstas na cláusula nona.
 
 § 6º O protocolo de que trata o § 3º não implica validação das informações contidas na CC-e.
 

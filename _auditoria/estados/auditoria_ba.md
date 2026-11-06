@@ -1,8 +1,8 @@
 # Relatório de Auditoria Tributária: Estado da Bahia (BA)
 
-**Data da Auditoria:** 31 de outubro de 2026  
-**Auditor:** Agente Especialista no Ordenamento Tributário do Estado da Bahia  
-**Arquivo de Referência:** `_auditoria/estados/auditoria_ba.md`  
+**Data da Auditoria:** 31 de outubro de 2026
+**Auditor:** Agente Especialista no Ordenamento Tributário do Estado da Bahia
+**Arquivo de Referência:** `_auditoria/estados/auditoria_ba.md`
 **Escopo:** Auditoria do repositório normativo estadual (`estaduais/ba/`), mapeamento das relações tributárias federativas, análise detalhada dos mecanismos de dedução e tomada de crédito, regimes setoriais (agronegócio, polo petroquímico, polo automotivo, celulose e atacado/distribuição) e impactos da Reforma Tributária (IBS/CBS - EC nº 132/2023 e LC nº 214/2025).
 
 ---
@@ -88,7 +88,7 @@ flowchart LR
     subgraph Origem_Sul_Sudeste["Sul e Sudeste (exceto ES)"]
         SP_RJ_MG["SP, RJ, MG, PR, SC, RS"]
     end
-    
+
     subgraph Origem_Demais["N, NE, CO e ES"]
         N_NE_CO["Demais 20 Estados + DF"]
     end
@@ -126,7 +126,7 @@ Com esteio nas Resoluções do Senado Federal nº 22/1989, nº 13/2012 e nº 95/
 A Lei Estadual nº 14.629, de 08 de novembro de 2023, promoveu uma expressiva reformulação no art. 15 da Lei Estadual nº 7.014/1996:
 
 * **Alíquota Geral Modal:** Fixada em **20,5%** (vigência a partir de **07/02/2024**).
-* **Histórico Temporal:** 
+* **Histórico Temporal:**
   - Até 2022: 18%;
   - Em 2023: 19% (Lei nº 14.415/2021);
   - A partir de 07/02/2024: 20,5% (Lei nº 14.629/2023).

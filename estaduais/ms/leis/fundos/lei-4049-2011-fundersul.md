@@ -1,146 +1,160 @@
 ---
-titulo: "Lei Estadual nº 4.049, de 14 de julho de 2011 (FUNDERSUL - MS)"
+titulo: "Lei Estadual nº 4.049, de 30 de junho de 2011 (MS Forte-Indústria)"
 esfera: "Estadual"
-orgao: "Assembleia Legislativa de Mato Grosso do Sul"
+orgao: "Assembleia Legislativa do Estado de Mato Grosso do Sul"
 tipo: "Lei Ordinária"
 numero: "4049"
+data: "2011-06-30"
 ano: "2011"
-data: "2011-07-14"
-tema_tributario: "Agronegócio e Fundos"
-tributos_afetados: ["FUNDERSUL", "ICMS"]
+tema_tributario: "Incentivos Fiscais e Desenvolvimento"
+tributos_afetados: ["ICMS"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://www.sefaz.ms.gov.br/legislacao"
-ementa: "Altera e consolida dispositivos da Lei nº 1.963, de 11 de junho de 1999, que cria o Fundo de Desenvolvimento do Sistema Rodoviário do Estado de Mato Grosso do Sul - FUNDERSUL, disciplina a contribuição financeira incidente sobre a produção agropecuária (pecuária de corte, soja e milho) e combustíveis, sua indexação em UFERMS, vinculação ao diferimento do ICMS, repasses municipais e recepção pelo art. 136 do ADCT."
+fonte: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/31ab641a2df9c94d042578c0004669d8?OpenDocument"
+ementa: "Dispõe sobre o Programa Estadual de Desenvolvimento Industrial MS Forte-Indústria."
+data_consulta: "2026-11-05"
+natureza_conteudo: "Texto oficial"
 ---
 
-# Lei Estadual nº 4.049, de 14 de julho de 2011 (FUNDERSUL - MS)
+# Lei Estadual nº 4.049, de 30 de junho de 2011 (MS Forte-Indústria)
 
-LEI Nº 4.049, DE 14 DE JULHO DE 2011
+## Nota editorial de conferência — 05/11/2026
 
-Dá nova redação e consolida normas da Lei nº 1.963, de 11 de junho de 1999, que institui o Fundo de Desenvolvimento do Sistema Rodoviário do Estado de Mato Grosso do Sul - FUNDERSUL, regulamentando a contribuição financeira incidente sobre a saída de produtos agropecuários (bovinos, bufalinos, soja, milho e grãos em geral) e derivados de petróleo, a indexação de bases de cálculo em UFERMS, o condicionamento para manutenção do diferimento do ICMS, a repartição constitucional com os Municípios e sua recepção pelo art. 136 do ADCT da Constituição Federal.
+O documento anterior atribuía à Lei nº 4.049/2011 a disciplina originária do FUNDERSUL. O texto foi corrigido e substituído pelo teor autêntico da Lei nº 4.049/2011, que institui o Programa Estadual de Desenvolvimento Industrial MS Forte-Indústria, enquanto a criação do FUNDERSUL foi devidamente alocada na Lei nº 1.963/1999.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL:
+---
+
+LEI Nº 4.049, DE 30 DE JUNHO DE 2011.**
+
+*Dispõe sobre o Programa Estadual de Desenvolvimento Industrial MS Forte-Indústria.*
+
+**
+
+**Publicada no Diário Oficial nº 7.980, de 1º de julho de 2011.**
+**
+
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
 Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
----
+CAPÍTULO I
 
-## CAPÍTULO I — DO MARCO LEGAL, NATUREZA E FINALIDADES DO FUNDERSUL
+DISPOSIÇÕES PRELIMINARES E GERAIS
 
-**Art. 1º** A presente Lei consolida, atualiza e disciplina as bases normativas do **Fundo de Desenvolvimento do Sistema Rodoviário do Estado de Mato Grosso do Sul - FUNDERSUL**, instituído originariamente pela Lei Estadual nº 1.963, de 11 de junho de 1999, com personalidade contábil e orçamentária especial vinculada à Agência Estadual de Gestão de Empreendimentos - AGESUL e à Secretaria de Estado de Infraestrutura e Logística - SEILOG/MS.
+Art. 1º Fica instituído o *Programa Estadual de Desenvolvimento Industrial MS Forte-Indústria*, regido pelas disposições desta Lei, mantidos os programas de incentivos vigentes.
 
-**Art. 2º** O FUNDERSUL tem por objetivo exclusivo captar e prover recursos financeiros para:
-I - planejamento, construção, pavimentação, duplicação, implantação de contornos rodoviários, recuperação, restauração e conservação de rodovias estaduais integrantes do Sistema Rodoviário de Mato Grosso do Sul;
-II - substituição de pontes de madeira por estruturas definitivas de concreto armado e galerias tubulares metálicas nos eixos estratégicos de escoamento rural;
-III - melhoramento da malha de estradas vicinais e acessos aos assentamentos rurais, propriedades agrícolas e pólos industriais agropecuários;
-IV - manutenção, modernização e balizamento da infraestrutura hidroviária e aeroviária estadual;
-V - suporte à modernização tecnológica e fiscalização do trânsito de bens agropecuários e monitoramento por satélite de eixos de transporte.
+Art. 2º Os benefícios e incentivos fiscais a serem concedidos no Programa Estadual de que trata o art. 1º, constituem instrumentos de política fiscal ou de fomento à industrialização do Estado e à circulação de bens econômicos em seu território, visando a alcançar os seguintes objetivos governamentais:
 
-**Art. 3º** Constituem receitas do FUNDERSUL:
-I - o produto da arrecadação da contribuição financeira de que tratam os arts. 4º a 8º desta Lei;
-II - dotações consignadas no orçamento estadual e créditos adicionais especiais;
-III - rendimentos auferidos de aplicações financeiras dos saldos transitórios;
-IV - transferências financeiras decorrentes de convênios com a União e autarquias federais (DNIT).
+~~I - a instalação de novas empresas, a ampliação, a modernização, a reativação ou a relocação das existentes, objetivando a interiorização dos empreendimentos econômicos produtivos e o aproveitamento das potencialidades econômicas regionais;~~
 
----
+*I - a instalação de novas empresas, a ampliação, a modernização, a reativação ou a relocação das existentes, objetivando a interiorização dos empreendimentos econômicos e o aproveitamento das potencialidades econômicas regionais;* (redação dada pela Lei nº 6.005, de 19 de dezembro de 2022)
 
-## CAPÍTULO II — DA HIPÓTESE DE INCIDÊNCIA, FATO GERADOR E QUANTIFICAÇÃO EM UFERMS
+II - a transformação de produtos primários em produtos industrializados, visando a favorecer a integração e a verticalização das cadeias produtivas e a agregação de valores a esses bens;
 
-### Seção I — Da Pecuária Bovina e Bubalina
+III - a diversificação das bases produtiva e circulatória de bens e serviços, com vista a dinamizar a economia e a propiciar a manutenção e a geração de novos empregos estáveis, bem como a melhor distribuição dos bens econômicos, com o consequente aumento generalizado da arrecadação de tributos;
 
-**Art. 4º** A contribuição ao FUNDERSUL incide sobre a saída de gado bovino ou bubalino promovida por produtor rural estabelecido no Estado de Mato Grosso do Sul, destinada:
-I - ao abate em estabelecimentos frigoríficos ou abatedouros sediados em território sul-mato-grossense;
-II - a qualquer título, a outra Unidade da Federação, inclusive nas remessas para cria, recria, engorda, exposições ou comercialização;
-III - ao exterior, nas exportações de gado em pé.
+IV - o fornecimento dos meios ao seu alcance para que as empresas locais possam ser mais competitivas no mercado.
 
-§ 1º O valor da contribuição é quantificado mediante a aplicação de coeficientes percentuais sobre a **Unidade Fiscal Estadual de Referência de Mato Grosso do Sul - UFERMS** vigente no mês da ocorrência do fato gerador:
-I - nas saídas de machos bovinos ou bubalinos para abate: valor correspondente a **12,00% (doze por cento)** da UFERMS por cabeça;
-II - nas saídas de fêmeas bovinas ou bubalinas para abate: valor correspondente a **10,00% (dez por cento)** da UFERMS por cabeça;
-III - nas saídas interestaduais de gado em pé: valor correspondente a **15,00% (quinze por cento)** da UFERMS por cabeça de animal transportado.
+CAPÍTULO II
 
-§ 2º A exigibilidade da contribuição vincula-se à expedição da respectiva Guia de Trânsito Animal - GTA e emissão da Nota Fiscal de Produtor Eletrônica (NFP-e).
+DOS BENEFÍCIOS OU INCENTIVOS FISCAIS
 
-### Seção II — Da Produção Agrícola (Soja, Milho e Grãos)
+~~Art. 3º Aos empreendimentos produtivos, de relevante interesse prioritário ou adicional, social ou fiscal do Estado podem ser concedidos benefícios ou incentivos fiscais, sob determinadas condições expressas:~~
 
-**Art. 5º** Nas operações com produtos agrícolas colhidos no Estado de Mato Grosso do Sul, a contribuição ao FUNDERSUL é devida por tonelada métrica ou fração, calculada com base na UFERMS:
-I - **Soja em Grãos:**
-    a) nas saídas internas beneficiadas com diferimento do ICMS: valor equivalente a **10,00% (dez por cento)** da UFERMS por tonelada métrica;
-    b) nas saídas interestaduais: valor correspondente a **12,50% (doze inteiros e cinquenta centésimos por cento)** da UFERMS por tonelada métrica;
-    c) nas remessas com o fim específico de exportação: valor correspondente a **12,50% (doze inteiros e cinquenta centésimos por cento)** da UFERMS por tonelada métrica.
+*Art. 3º Aos empreendimentos econômicos, de relevante interesse prioritário ou adicional, social ou fiscal do Estado, podem ser concedidos benefícios ou incentivos fiscais, sob determinadas condições expressas:* (redação dada pela Lei nº 6.005, de 19 de dezembro de 2022)
 
-II - **Milho em Grãos:**
-    a) nas saídas internas sujeitas a diferimento fiscal: valor equivalente a **2,50% (dois inteiros e cinquenta centésimos por cento)** da UFERMS por tonelada métrica;
-    b) nas saídas interestaduais e de exportação: valor equivalente a **3,50% (três inteiros e cinquenta centésimos por cento)** da UFERMS por tonelada métrica.
+~~I - por ato do Governador do Estado;~~ (revogado pela Lei nº 6.048, de 26 de abril de 2023)
 
-III - **Algodão em Pluma e em Caroço:**
-    a) algodão em pluma: valor correspondente a **15,00% (quinze por cento)** da UFERMS por tonelada métrica;
-    b) caroço de algodão: valor correspondente a **4,00% (quatro por cento)** da UFERMS por tonelada métrica.
+~~II - propostos pelo Fórum Deliberativo do MS Forte-Indústria (MS-FORTE) e aprovados pelo Governador do Estado;~~
 
-§ 1º A tonelada líquida é apurada pelo peso apurado na balança de entrada da empresa adquirente, deduzidos os percentuais de tolerância de umidade e impurezas previstos em normas do Ministério da Agricultura e Pecuária (MAPA).
+*II - por decisão conjunta dos Secretários de Estado de Fazenda e de Meio Ambiente, Desenvolvimento, Ciência, Tecnologia e Inovação, mediante proposta do Fórum Deliberativo do MS Forte-Indústria (MS-FORTE);* (redação dada pela Lei nº 6.048, de 26 de abril de 2023)
 
-§ 2º É dispensada a contribuição nas remessas internas entre estabelecimentos do mesmo produtor rural exclusivamente para fins de secagem, limpeza e depósito em armazém geral antes da destinação comercial.
+~~III - pela Secretaria de Estado de Fazenda, por delegação do Governador do Estado.~~
 
-### Seção III — Dos Combustíveis Derivados de Petróleo
+*III - pela Secretaria de Estado de Fazenda. *(redação dada pela Lei nº 6.048, de 26 de abril de 2023)
 
-**Art. 6º** A contribuição ao FUNDERSUL incide cumulativamente sobre as operações com combustíveis líquidos derivados de petróleo (gasolina e óleo diesel) realizadas por distribuidoras e refinarias estabelecidas no Estado, na proporção de percentuais fixados sobre a UFERMS por metro cúbico comercializado, conforme especificado no regulamento da Secretaria de Estado de Fazenda - SEFAZ/MS.
+Parágrafo único. Para os efeitos deste artigo considera-se:
 
----
+~~I - ~~*~~empreendimento econômico produtivo de interesse prioritário:~~*~~ aquele direcionado para a atividade econômica de industrialização de produtos:~~
 
-## CAPÍTULO III — DO CONDICIONAMENTO DO DIFERIMENTO DO ICMS E DA SUBSTITUIÇÃO TRIBUTÁRIA
+*I - empreendimento econômico de interesse prioritário: aquele direcionado à atividade econômica relevante para o desenvolvimento econômico e social do Estado:* (redação dada pela Lei nº 6.005, de 19 de dezembro de 2022)
 
-**Art. 7º** O diferimento do lançamento e do recolhimento do ICMS previsto no Regulamento do ICMS de Mato Grosso do Sul (RICMS/MS - Decreto nº 9.203/1998) para as operações com produtos agropecuários fica estritamente condicionado ao pagamento prévio e tempestivo da contribuição ao FUNDERSUL:
+a) pioneiro ou inovador na economia local, capaz de gerar novas oportunidades mercadológicas e de desencadear o surgimento de outras unidades produtivas, localizado preferencialmente no interior do Estado e que fabrique ou venha a fabricar produto sem similar no mercado local ou neste existente em quantidade insuficiente;
 
-§ 1º O recolhimento tempestivo da contribuição constitui **pressuposto de eficácia do diferimento**. Caso não ocorra a quitação na forma e prazo estabelecidos:
-I - o diferimento do ICMS é considerado descaracterizado desde a origem da operação;
-II - o ICMS diferido torna-se imediatamente exigível pelo valor integral da pauta fiscal ou da operação praticada, acrescido da penalidade de multa moratória ou de ofício de 100% sobre o imposto desonerado e correção pela taxa SELIC;
-III - o produtor rural ou a empresa infratora terá sua inscrição estadual suspensa cautelarmente para a prática de regimes especiais de tributação.
+b) que promova o processamento ou o aproveitamento integral ou acentuado, da matéria-prima preferentemente local, inclusive dos subprodutos resultantes da industrialização, bem como, em sendo o caso, o reaproveitamento dos resíduos industriais;
 
-§ 2º São designados como **substitutos tributários**, responsáveis pela retenção da contribuição na fonte e pelo recolhimento do respectivo Documento de Arrecadação Estadual de MS (DAEMS):
-I - os frigoríficos e estabelecimentos abatedores credenciados pela IAGRO/MS, quanto ao gado recebido para abate;
-II - as tradings, indústrias de moagem e farelo, cooperativas agrícolas e empresas cerealistas adquirentes dos grãos (soja e milho).
+~~II - ~~*~~empreendimento econômico produtivo de interesse adicional:~~*~~ aquele que, mediante recursos financeiros privados, a cargo do empreendedor, esteja voltado para a realização de investimentos de relevante interesse do Estado, assim definido por ato do Governador;~~
 
-§ 3º O substituto tributário que deixar de reter a contribuição devida pelo produtor ou que retiver e não repassar ao FUNDERSUL no prazo legal responde pessoal e integralmente pela exação, sujeitando-se às cominações de apropriação indébita tributária.
+*~~II - empreendimento econômico de interesse adicional: aquele que esteja voltado à realização de investimentos de relevante interesse do Estado;~~*~~ (redação dada pela Lei nº 6.005, de 19 de dezembro de 2022)~~
 
----
+*II - empreendimento econômico produtivo de interesse adicional: aquele que, mediante recursos financeiros privados, a cargo do empreendedor, esteja voltado à realização de investimentos de relevante interesse do Estado, assim definidos pelo Secretário de Estado de Fazenda e, para efeito de incentivos ou de benefícios fiscais cuja proposta compete ao Fórum Deliberativo do MS-Indústria (MS-INDÚSTRIA), pelos Secretários de Estado de Fazenda e de Meio Ambiente, Desenvolvimento, Ciência, Tecnologia e Inovação;* (redação dada pela Lei nº 6.048, de 26 de abril de 2023)
 
-## CAPÍTULO IV — DA REPARTIÇÃO DE RECEITAS COM OS MUNICÍPIOS DE MATO GROSSO DO SUL
+III - *industrialização:* a operação ou o processo modificativo da natureza, do funcionamento, do acabamento, da apresentação ou da finalidade de um determinado produto ou de seu aperfeiçoamento para o consumo, segundo as regras do art. 88, III, *a* a *e*, da Lei n~~º~~ 1.810, de 22 de dezembro de 1997, que dispõe sobre os tributos de competência do Estado.
 
-**Art. 8º** Dos recursos financeiros arrecadados pelo FUNDERSUL provenientes do setor agropecuário e de combustíveis, o Estado de Mato Grosso do Sul repassará aos seus **79 (setenta e nove) Municípios** o montante equivalente a **25% (vinte e cinco por cento)** do total líquido arrecadado.
+Art. 4º No caso de industrialização de produtos, o benefício ou o incentivo pode ter como base de cálculo o saldo devedor do ICMS, apurado em determinado período, mediante dedução do valor do benefício ou do incentivo do saldo devedor.
 
-§ 1º A distribuição da cota-parte municipal obedecerá aos seguintes coeficientes ponderados:
-I - **50% (cinquenta por cento)** em proporção direta à extensão da malha viária municipal de estradas não pavimentadas levantada e georreferenciada pela AGESUL;
-II - **25% (vinte e cinco por cento)** na proporção do valor adicionado fiscal da agropecuária de cada município na apuração do ICMS;
-III - **15% (quinze por cento)** na proporção da área territorial de cada município;
-IV - **10% (dez por cento)** distribuídos em partes estritamente iguais a todos os municípios habilitados.
+§ 1º Para os efeitos do *caput*:
 
-§ 2º Os valores transferidos aos municípios serão depositados em contas bancárias específicas e destinam-se unicamente à execução de obras de engenharia civil em rodovias municipais, aquisição de maquinário rodoviário pesado e reparos de pontes vicinais, sendo expressamente vedada sua destinação a despesas de pessoal e custeio corrente da administração municipal.
+I - saldo devedor do ICMS é o valor resultante da escrituração regular dos débitos e dos créditos de natureza fiscal, na forma da lei e do regulamento, relativamente às operações com os produtos exclusivamente industrializados pela empresa, na etapa ou no processo industrial que tenha sido objeto de aprovação pelo Estado, observado o disposto no inciso II;
 
----
+~~II - no cálculo do benefício ou do incentivo é vedada a inclusão ou a consideração dos valores correspondentes às operações antecedentes daquelas ou subsequentes àquelas realizadas pela empresa com os produtos resultantes da industrialização beneficiada ou incentivada, ficando consequentemente excluídos da apuração do imposto os valores correspondentes.~~
 
-## CAPÍTULO V — DO CONSELHO DE ADMINISTRAÇÃO DO FUNDERSUL
+*II - no cálculo do benefício ou do incentivo é vedada a inclusão ou a consideração dos valores correspondentes às operações subsequentes àquelas realizadas pela empresa incentivada, ficando consequentemente excluídos da base de cálculo do benefício ou do incentivo fiscal os valores correspondentes a essas operações.* (redação dada pela Lei nº 6.005, de 19 de dezembro de 2022)
 
-**Art. 9º** O FUNDERSUL é gerido administrativamente por um Conselho de Administração integrado paritariamente por autoridades do Governo Estadual e representantes de entidades patronais e da sociedade:
-I - Secretário de Estado de Infraestrutura e Logística - SEILOG (Presidente do Conselho);
-II - Secretário de Estado de Fazenda - SEFAZ;
-III - Secretário de Estado de Meio Ambiente, Desenvolvimento, Ciência, Tecnologia e Inovação - SEMADESC;
-IV - Diretor-Presidente da AGESUL;
-V - 2 (dois) representantes da Federação da Agricultura e Pecuária de Mato Grosso do Sul - FAMASUL;
-VI - 1 (um) representante da Organização das Cooperativas Brasileiras no MS - OCB/MS;
-VII - 1 (um) representante da Associação dos Produtores de Soja de MS - APROSOJA/MS;
-VIII - 1 (um) representante da Federação das Indústrias do Estado de Mato Grosso do Sul - FIEMS.
+~~§ 2º As restrições dispostas no inciso II do § 1º deste artigo, relativas à substituição tributária, podem deixar de ser aplicadas, mediante autorização governamental solicitada pela Secretaria de Estado de Fazenda, hipótese em que o valor do ICMS incidente sobre as operações antecedentes, com as matérias-primas ~~*~~in natura~~*~~ empregadas nos respectivos processos industriais, pode ser considerado ou desconsiderado, parcial ou totalmente, no cálculo do valor do benefício ou do incentivo da empresa.~~
 
-Parágrafo único. Compete ao Conselho aprovar anualmente a matriz orçamentária do Plano de Aplicação Rodoviária e homologar os relatórios de auditoria e medição de obras.
+*§ 2º A aplicação do diferimento do lançamento e do pagamento do imposto nas operações de que decorra a entrada de matérias-primas, insumos ou mercadorias, não prejudica nem interfere na apuração do benefício ou do incentivo fiscal aplicável às operações relativas à saída dos respectivos produtos ou dos produtos resultantes de sua industrialização. *(redação dada pela Lei nº 6.005, de 19 de dezembro de 2022)
 
----
+*§ 3º O empreendimento econômico incentivado pode ser dispensado do pagamento do ICMS antes diferido nos casos em que a saída subsequente seja incentivada com base nesta lei ou em outras situações previstas em regulamento, ressalvado o disposto no § 2º deste artigo.* (acrescentado pela Lei nº 6.005, de 19 de dezembro de 2022)
 
-## CAPÍTULO VI — DA CONSTITUCIONALIZAÇÃO E MANUTENÇÃO ATÉ 2043 (ART. 136 DO ADCT DA EC 132/2023)
+Art. 5º Nos casos de que trata o art. 4º, a concessão do benefício ou do incentivo deve observar os percentuais e os prazos propostos pelo MS-FORTE, limitados:
 
-**Art. 10.** A exigência da contribuição do FUNDERSUL encontra-se expressamente amparada, legitimada e protegida pelo **artigo 136 do Ato das Disposições Constitucionais Transitórias - ADCT da Constituição Federal**, introduzido pela Emenda Constitucional nº 132/2023 (Reforma Tributária):
-I - **Data de Corte Constitucional Respeitada:** O FUNDERSUL constituía fundo de infraestrutura atrelado a condições e contrapartidas de benefícios de ICMS vigente em 30 de abril de 2023, cumprindo integralmente o requisito temporal do art. 136 do ADCT;
-II - **Sobrevida Constitucional até 2043:** A contribuição vigorará até **31 de dezembro de 2043**, assegurando receitas vitais para a preservação e logística da malha rodoviária sul-mato-grossense durante todo o ciclo de transição do novo modelo tributário sobre o consumo;
-III - **Regra de Redução Proporcional Concomitante ao ICMS:** Entre 2029 e 2032, a carga financeira da contribuição sobre grãos e gado sofrerá redução na exata proporção das alíquotas do ICMS reduzidas na forma do art. 129 do ADCT da CF/88;
-IV - **Preservação das Finalidades de Transporte:** É vedada a mutação do objeto ou a afetação das receitas arrecadadas pelo FUNDERSUL para finalidades estranhas a infraestrutura rodoviária e transportes até o termo final de sua vigência transitória.
+I - ao percentual de 67% (sessenta e sete por cento) do ICMS devido e apurado nos termos daquele artigo;
 
-**Art. 11.** Esta Lei entra em vigor na data de sua publicação, revogadas as disposições contrárias.
+~~II - ao prazo de quinze anos, desde que observados os deveres jurídicos e solvidas as obrigações tributárias, tanto de natureza principal quanto acessórias, bem como mantidas as condições do empreendimento aprovado.~~
 
-Campo Grande - MS, 14 de julho de 2011.
+*II - ao prazo limite estabelecido por lei complementar federal ou por convênio celebrado no âmbito do Conselho Nacional de Política Fazendária (CONFAZ), desde que observados os deveres jurídicos e solvidas as obrigações tributárias, tanto principal quanto acessórias, e mantidas as condições e as obrigações socioeconômicas do empreendimento aprovado.* (redação dada pela Lei nº 6.005, de 19 de dezembro de 2022)
+
+*Art. 5º-A. Observados os termos dos atos concessivos vigentes e convalidados pelo CONFAZ, e as disposições da Lei Complementar Federal n**~~º~~** 160, de 7 de agosto de 2017, e do Convênio ICMS 190, de 2017, podem ser concedidos os benefícios ou os incentivos fiscais de que trata este artigo em percentual superior ao limite previsto no inciso I do caput do art. 5º desta Lei, mediante a utilização de percentuais adicionais.* (acrescentado pela Lei nº 6.005, de 19 de dezembro de 2022)
+
+Art. 6º Observadas as regras do art. 5º e sem prejuízo de outros fatores de avaliação dos empreendimentos econômico-produtivos, na fixação do quantitativo do benefício ou do incentivo e do prazo de sua duração deve-se observar a preferência pela instalação e operatividade de unidades produtivas em:
+
+I - municípios do interior com escassa ou nenhuma industrialização de produtos ou de oferta de empregos, considerando, necessariamente, os fatores relativos à cadeia produtiva regional;
+
+II - zonas periféricas das maiores cidades do Estado, nos casos de micro, pequenos e médios empreendimentos produtivos que não possam ser instalados nos municípios referidos no inciso I;
+
+III - núcleos industriais específicos nos demais casos, exceto na hipótese em que a instalação em outro local seja efetivamente mais adequada ou vantajosa, sem interferência negativa no meio ambiente ou no bem-estar da população circunvizinha da unidade industrial.
+
+Parágrafo único. Os fatores de avaliação podem ser objeto de pontuação positiva e negativa, incluindo ou não tratamento diferenciado ou favorecido para determinados empreendimentos econômico-produtivos de natureza industrial.
+
+CAPÍTULO III
+
+DISPOSIÇÕES FINAIS
+
+Art. 7º O Poder Executivo pode regulamentar e disciplinar complementar ou suplementarmente as disposições desta Lei, para concretizar o atingimento dos objetivos governamentais nela previstos.
+
+*Art. 7º-A. Fica convalidada a utilização do benefício ou do incentivo fiscal previsto nesta Lei, ocorrida até 31 de dezembro de 2018, quanto aos acréscimos a que se refere o art. 11 do **Decreto n**~~º~~** 13.606, de 25 de abril de 2013**, por empresas que, não obstante beneficiárias de benefícios ou de incentivos fiscais previstos nesta Lei, não dispunham de concessão específica para a fruição dos referidos acréscimos. *(acrescentado pela Lei nº 5.530, de 10 de junho de 2020)
+
+*Parágrafo único. A convalidação de que trata este artigo é condicionada a que as empresas comprovem que, no respectivo período, estavam enquadradas na classificação de selo verde ambiental, certificado pelo Serviço Nacional da Indústria (SENAI).* (acrescentado pela Lei nº 5.530, de 10 de junho de 2020)
+
+Art. 8º Os benefícios ou incentivos atribuídos pelo Estado, nos termos desta Lei, podem ser suspensos ou cancelados a qualquer tempo, nas hipóteses de descumprimento das condições estabelecidas para a respectiva fruição, bem como das obrigações tributárias.
+
+Art. 9º Esta Lei entra em vigor na data de sua publicação.
+
+Campo Grande, 30 de junho de 2011.
+
+ANDRÉ PUCCINELLI
+
+Governador de Estado
+
+MÁRIO SÉRGIO MACIEL LORENZETTO
+
+Secretário de Estado de Fazenda
+
+TEREZA CRISTINA CORRÊA DA COSTA DIAS
+
+Secretária de Estado de Desenvolvimento Agrário, da
+
+Produção, da Indústria, do Comércio e do Turismo
+
+LEI 4.049 MS-FORTE INDÚSTRIA.doc

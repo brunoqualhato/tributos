@@ -1,8 +1,8 @@
 # ⚖️ Legislação Tributária e Normas Contábeis Brasileiras em Markdown
 
 [![Auditoria de Rede](https://img.shields.io/badge/Auditoria%20de%20Integridade-100%25%20Aprovada-brightgreen.svg)](#auditoria-e-integridade)
-[![Normas Catalogadas](https://img.shields.io/badge/Normas%20Catalogadas-1.241-blue.svg)](ACERVO.md)
-[![Cobertura do Plano](https://img.shields.io/badge/Cobertura%20do%20Plano-100%25%20(1.241%2F1.241)-brightgreen.svg)](PROGRESSO.md)
+[![Normas Catalogadas](https://img.shields.io/badge/Normas%20Catalogadas-1.303-blue.svg)](ACERVO.md)
+[![Cobertura do Plano](https://img.shields.io/badge/Cobertura%20do%20Plano-100%25%20(1.303%2F1.303)-brightgreen.svg)](PROGRESSO.md)
 [![Wiki Oficial](https://img.shields.io/badge/Documentação-Wiki%20dos%20Pilares-orange.svg)](wiki/Home.md)
 [![Licença](https://img.shields.io/badge/Licença-Dados%20Abertos%20Oficiais-lightgrey.svg)](#licença)
 
@@ -31,7 +31,7 @@ A base de conhecimento está organizada rigorosamente em torno dos 10 pilares es
 
 ## 📑 Governança e Catálogo Geral
 
-* 📖 **[ACERVO.md](ACERVO.md):** Catálogo geral detalhado de todos os **1.241 documentos catalogados e auditados**, agrupados por tema com metadados e links oficiais diretos.
+* 📖 **[ACERVO.md](ACERVO.md):** Catálogo geral detalhado de todos os **1.303 documentos catalogados e auditados**, agrupados por tema com metadados e links oficiais diretos.
 * 🤖 **[AGENT.md](AGENT.md):** Diretrizes mestras para agentes autônomos, taxonomia, padrões de CommonMark e protocolo de Pull Requests.
 * 📊 **[PROGRESSO.md](PROGRESSO.md):** Quadro comparativo item a item das metas definidas em `scripts/plano.py` (**100,0% de cobertura nos 10 pilares**).
 * 📝 **[WORKLOG.md](WORKLOG.md):** Registro cronológico auditável de coletas, saneamentos de links e execuções de auditoria.
@@ -44,7 +44,7 @@ A base de conhecimento está organizada rigorosamente em torno dos 10 pilares es
 ```
 tributos/
 ├── Home.md                          # 🧭 Dashboard central e MOCs de navegação
-├── ACERVO.md                        # 📖 Catálogo geral dos 1.241 documentos
+├── ACERVO.md                        # 📖 Catálogo geral dos 1.303 documentos
 ├── PROGRESSO.md                     # 📊 Relatório de metas e cobertura do plano
 ├── AGENT.md                         # 🤖 Protocolo e governança de agentes
 ├── WORKLOG.md                       # 📝 Histórico cronológico auditável

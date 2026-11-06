@@ -1,9 +1,9 @@
 # Relatório Técnico de Auditoria Tributária Estadual: Piauí (PI)
 
-**Data de Elaboração:** Outubro de 2026  
-**Competência Analítica:** Direito Tributário Estadual e Relações Federativas  
-**Unidade Federativa Auditada:** Estado do Piauí (PI)  
-**Arquivo de Referência:** `_auditoria/estados/auditoria_pi.md`  
+**Data de Elaboração:** Outubro de 2026
+**Competência Analítica:** Direito Tributário Estadual e Relações Federativas
+**Unidade Federativa Auditada:** Estado do Piauí (PI)
+**Arquivo de Referência:** `_auditoria/estados/auditoria_pi.md`
 
 ---
 
