@@ -1,8 +1,8 @@
 # Catálogo Geral do Acervo Tributário e Contábil (ACERVO.md)
 
-Documento gerado automaticamente em **27/11/2026 às 16:30:38**.
+Documento gerado automaticamente em **27/11/2026 às 19:25:09**.
 
-**Total de Documentos Catalogados e Auditados:** `1422`
+**Total de Documentos Catalogados e Auditados:** `1433`
 
 ---
 
@@ -11,8 +11,8 @@ Documento gerado automaticamente em **27/11/2026 às 16:30:38**.
 - **Agronegócio e Fundos:** `7` documentos
 - **Benefícios Fiscais e Fundos Estaduais:** `1` documentos
 - **Benefícios Fiscais e Regimes Especiais:** `1` documentos
-- **Benefícios e Incentivos Fiscais:** `22` documentos
-- **Combustíveis e Energia:** `16` documentos
+- **Benefícios e Incentivos Fiscais:** `23` documentos
+- **Combustíveis e Energia:** `19` documentos
 - **Contabilidade:** `77` documentos
 - **Contabilidade e Precedentes:** `4` documentos
 - **Contencioso e Processo Fiscal:** `14` documentos
@@ -32,7 +32,7 @@ Documento gerado automaticamente em **27/11/2026 às 16:30:38**.
 - **Processo Administrativo Tributário e Contencioso:** `3` documentos
 - **Processo Tributário e Fiscal:** `24` documentos
 - **Processo e Procedimento Fiscal:** `2` documentos
-- **Produtos e Mercadorias:** `236` documentos
+- **Produtos e Mercadorias:** `243` documentos
 - **Reforma Tributária e Transição:** `68` documentos
 - **Serviços e ISS:** `15` documentos
 - **Serviços e Retenções:** `61` documentos
@@ -65,7 +65,7 @@ Documento gerado automaticamente em **27/11/2026 às 16:30:38**.
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
 | **Decreto Estadual nº 7.799, de 9 de maio de 2000 (Regime Especial Atacadista da Bahia)** | 2000 | Governo do Estado da Bahia / Secretaria da Fazenda | ICMS | Em vigor | [Visualizar na Fonte Oficial](http://mbusca.sefaz.ba.gov.br/DITRI/decretos/decretos_estaduais/decest_2000_7799.pdf) | [`estaduais/ba/ricms/decreto-7799-2000-atacadista-desenvolve-ba.md`](estaduais/ba/ricms/decreto-7799-2000-atacadista-desenvolve-ba.md) |
 
-## Benefícios e Incentivos Fiscais (22 documentos)
+## Benefícios e Incentivos Fiscais (23 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
@@ -76,6 +76,7 @@ Documento gerado automaticamente em **27/11/2026 às 16:30:38**.
 | **Lei Complementar nº 216, de 28 de julho de 2025 (Programa Acredita Exportação; altera a LC 123/2006)** | 2025 | Congresso Nacional / Presidência da República | Simples Nacional, Imposto de Importação, PIS/Pasep, Cofins | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2025-07-28;216) | [`federal/leis-complementares/simples/lei-complementar-216-2025-programa-acredita-exportacao.md`](federal/leis-complementares/simples/lei-complementar-216-2025-programa-acredita-exportacao.md) |
 | **Lei Complementar nº 224, de 26 de dezembro de 2025 (Redução de Incentivos e Benefícios Tributários da União)** | 2025 | Congresso Nacional / Presidência da República | IRPJ, CSLL, PIS/Pasep, Cofins, IPI, Imposto de Importação | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2025-12-26;224) | [`federal/beneficios-tributarios/lei-complementar-224-2025-reducao-beneficios-tributarios.md`](federal/beneficios-tributarios/lei-complementar-224-2025-reducao-beneficios-tributarios.md) |
 | **Instrução Normativa RFB nº 2297, de 11 de dezembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | IRPJ, CSLL, PIS/Pasep, Cofins, IPI, Imposto de Importação | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148320) | [`reguladores/rfb/instrucoes-normativas/2025/ato-148320-2297-2025.md`](reguladores/rfb/instrucoes-normativas/2025/ato-148320-2297-2025.md) |
+| **Lei nº 15.504, de 15 de setembro de 2026 (Redata (regime especial de tributação para datacenter); altera a Lei 11.196/2005)** | 2026 | Congresso Nacional / Presidência da República | PIS/Pasep, Cofins, IPI, Imposto de Importação | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-09-15;15504) | [`federal/beneficios-tributarios/lei-15504-2026-redata-datacenter.md`](federal/beneficios-tributarios/lei-15504-2026-redata-datacenter.md) |
 | **Portaria MF nº 1766, de 17 de junho de 2026** | 2026 | Ministério da Fazenda | Tributos sobre apostas de quota fixa | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/151860) | [`reguladores/rfb/outros-atos/2026/ato-151860-1766-2026.md`](reguladores/rfb/outros-atos/2026/ato-151860-1766-2026.md) |
 | **Resolução CGSN nº 198, de 16 de novembro de 2026** | 2026 | Comitê Gestor do Simples Nacional (CGSN) | Simples Nacional, MEI | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154765) | [`reguladores/rfb/outros-atos/2026/ato-154765-198-2026.md`](reguladores/rfb/outros-atos/2026/ato-154765-198-2026.md) |
 | **Nota Cosit nº 207, de 14 de julho de 2026** | 2026 | Coordenação-Geral de Tributação (Cosit) / Secretaria Especial da Receita Federal do Brasil | IRPJ, CSLL, PIS/Pasep, Cofins, IPI, Imposto de Importação | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/152704) | [`reguladores/rfb/outros-atos/2026/ato-152704-207-2026.md`](reguladores/rfb/outros-atos/2026/ato-152704-207-2026.md) |
@@ -92,7 +93,7 @@ Documento gerado automaticamente em **27/11/2026 às 16:30:38**.
 | **Portaria Conjunta RFB / PGFN nº 740, de 22 de outubro de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil / Procuradoria-Geral da Fazenda Nacional | Simples Nacional, MEI, INSS | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154339) | [`reguladores/rfb/outros-atos/2026/ato-154339-740-2026.md`](reguladores/rfb/outros-atos/2026/ato-154339-740-2026.md) |
 | **Portaria RFB nº 745, de 28 de outubro de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | IRPJ, CSLL, PIS/Pasep, Cofins, IPI, Imposto de Importação | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154610) | [`reguladores/rfb/outros-atos/2026/ato-154610-745-2026.md`](reguladores/rfb/outros-atos/2026/ato-154610-745-2026.md) |
 
-## Combustíveis e Energia (16 documentos)
+## Combustíveis e Energia (19 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
@@ -112,6 +113,9 @@ Documento gerado automaticamente em **27/11/2026 às 16:30:38**.
 | **Convênio ICMS nº 15, de 31 de março de 2023 (ICMS Monofásico - Gasolina e Etanol Anidro)** | 2023 | Conselho Nacional de Política Fazendária - CONFAZ | CIDE-Combustíveis, ICMS Monofásico, PIS/Pasep Combustíveis, Cofins Combustíveis | Em vigor | [Visualizar na Fonte Oficial](https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV015_23) | [`estaduais/confaz/convenios-icms/2023/convenio-icms-15-2023.md`](estaduais/confaz/convenios-icms/2023/convenio-icms-15-2023.md) |
 | **Resolução ANP nº 948, de 5 de outubro de 2023 (Controle de Qualidade e Conformidade Fiscal de Combustíveis Líquidos)** | 2023 | Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP | ICMS, PIS, Cofins, CIDE-Combustíveis | Em vigor | [Visualizar na Fonte Oficial](https://atosoficiais.com.br/anp/resolucao-n-948-2023) | [`reguladores/anp/resolucoes/resolucao-anp-948-2023-especificacao-combustiveis.md`](reguladores/anp/resolucoes/resolucao-anp-948-2023-especificacao-combustiveis.md) |
 | **Lei nº 14.993, de 8 de outubro de 2024 (Combustíveis do Futuro)** | 2024 | Congresso Nacional / Presidência da República | CIDE-Combustíveis, PIS/Pasep Combustíveis, Cofins Combustíveis, ICMS Combustíveis, IRPJ, CSLL | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2024-10-08;14993) | [`federal/leis-ordinarias/combustiveis/lei-14993-2024.md`](federal/leis-ordinarias/combustiveis/lei-14993-2024.md) |
+| **Decreto nº 13.116, de 9 de setembro de 2026 (Reduz PIS/Cofins sobre gasolina e etanol hidratado (10/09 a 09/10/2026))** | 2026 | Presidência da República | PIS/Pasep Combustíveis, Cofins Combustíveis | Em vigor (alterado pelo Decreto nº 13.134/2026) | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-09-09;13116) | [`federal/leis-ordinarias/combustiveis/decreto-13116-2026-reduz-pis-cofins-gasolina-etanol.md`](federal/leis-ordinarias/combustiveis/decreto-13116-2026-reduz-pis-cofins-gasolina-etanol.md) |
+| **Decreto nº 13.134, de 9 de outubro de 2026 (Reduz PIS/Cofins sobre gasolina e etanol hidratado e a Cide-Combustíveis (LC 235/2026))** | 2026 | Presidência da República | PIS/Pasep Combustíveis, Cofins Combustíveis, CIDE-Combustíveis | Em vigor (alterado pelo Decreto nº 13.159/2026) | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-10-09;13134) | [`federal/leis-ordinarias/combustiveis/decreto-13134-2026-reduz-pis-cofins-cide-gasolina-etanol.md`](federal/leis-ordinarias/combustiveis/decreto-13134-2026-reduz-pis-cofins-cide-gasolina-etanol.md) |
+| **Decreto nº 13.159, de 9 de novembro de 2026 (Prorroga até 09/12/2026 as reduções de PIS/Cofins e Cide sobre gasolina e etanol hidratado)** | 2026 | Presidência da República | PIS/Pasep Combustíveis, Cofins Combustíveis, CIDE-Combustíveis | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-11-09;13159) | [`federal/leis-ordinarias/combustiveis/decreto-13159-2026-prorroga-reducoes-gasolina-etanol.md`](federal/leis-ordinarias/combustiveis/decreto-13159-2026-prorroga-reducoes-gasolina-etanol.md) |
 
 ## Contabilidade (77 documentos)
 
@@ -1155,7 +1159,7 @@ Documento gerado automaticamente em **27/11/2026 às 16:30:38**.
 | **Lei Estadual nº 6.771, de 16 de novembro de 2006 (Processo Administrativo Tributário de Alagoas - PAT/AL)** | 2006 | Estado de Alagoas / Assembleia Legislativa do Estado de Alagoas - ALEAL / SEFAZ-AL | ICMS, IPVA, ITCD, Taxas Estaduais | Em vigor; consolidação com Leis nº 7.743/2015, 8.076/2018 e 8.939/2023 | [Visualizar na Fonte Oficial](https://sapl.al.al.leg.br/norma/747) | [`estaduais/al/leis/pat/lei-6771-2006.md`](estaduais/al/leis/pat/lei-6771-2006.md) |
 | **Lei Estadual nº 10.094, de 27 de setembro de 2013 (Processo Administrativo Tributário da Paraíba - PAT/PB)** | 2013 | Estado da Paraíba / Secretaria de Estado da Fazenda (SEFAZ-PB) | ICMS, IPVA, ITCD, Taxas Estaduais | Em vigor; redações históricas preservadas | [Visualizar na Fonte Oficial](https://www.sefaz.pb.gov.br/legislacao/69-leis/pat/2231-lei-n-10-094-de-27-de-setembro-de-2013-pat) | [`estaduais/pb/leis/pat/lei-10094-2013.md`](estaduais/pb/leis/pat/lei-10094-2013.md) |
 
-## Produtos e Mercadorias (236 documentos)
+## Produtos e Mercadorias (243 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
@@ -1374,6 +1378,8 @@ Documento gerado automaticamente em **27/11/2026 às 16:30:38**.
 | **Instrução Normativa RFB nº 2171, de 2 de janeiro de 2024** | 2024 | Secretaria Especial da Receita Federal do Brasil | - | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/135610) | [`reguladores/rfb/instrucoes-normativas/2024/ato-135610-2171-2024.md`](reguladores/rfb/instrucoes-normativas/2024/ato-135610-2171-2024.md) |
 | **Convênio ICMS nº 11, de 27 de fevereiro de 2025** | 2025 | Conselho Nacional de Política Fazendária - CONFAZ | ICMS | Em vigor | [Visualizar na Fonte Oficial](https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV011_25) | [`estaduais/confaz/convenios-icms/2025/convenio-icms-11-2025.md`](estaduais/confaz/convenios-icms/2025/convenio-icms-11-2025.md) |
 | **Convênio ICMS nº 12, de 27 de fevereiro de 2025** | 2025 | Conselho Nacional de Política Fazendária - CONFAZ | ICMS | Em vigor | [Visualizar na Fonte Oficial](https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV012_25) | [`estaduais/confaz/convenios-icms/2025/convenio-icms-12-2025.md`](estaduais/confaz/convenios-icms/2025/convenio-icms-12-2025.md) |
+| **Decreto nº 12.549, de 10 de julho de 2025 (Altera a TIPI)** | 2025 | Presidência da República | IPI | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2025-07-10;12549) | [`federal/regulamentos/ripi/decreto-12549-2025-altera-tipi.md`](federal/regulamentos/ripi/decreto-12549-2025-altera-tipi.md) |
+| **Decreto nº 12.665, de 10 de outubro de 2025 (Altera a TIPI)** | 2025 | Presidência da República | IPI | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2025-10-10;12665) | [`federal/regulamentos/ripi/decreto-12665-2025-altera-tipi.md`](federal/regulamentos/ripi/decreto-12665-2025-altera-tipi.md) |
 | **Convênio ICMS nº 13, de 27 de fevereiro de 2025** | 2025 | Conselho Nacional de Política Fazendária - CONFAZ | ICMS | Em vigor | [Visualizar na Fonte Oficial](https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV013_25) | [`estaduais/confaz/convenios-icms/2025/convenio-icms-13-2025.md`](estaduais/confaz/convenios-icms/2025/convenio-icms-13-2025.md) |
 | **Convênio ICMS nº 16, de 11 de abril de 2025** | 2025 | Conselho Nacional de Política Fazendária - CONFAZ | ICMS | Em vigor | [Visualizar na Fonte Oficial](https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV016_25) | [`estaduais/confaz/convenios-icms/2025/convenio-icms-16-2025.md`](estaduais/confaz/convenios-icms/2025/convenio-icms-16-2025.md) |
 | **Convênio ICMS nº 20, de 11 de abril de 2025** | 2025 | Conselho Nacional de Política Fazendária - CONFAZ | ICMS | Em vigor | [Visualizar na Fonte Oficial](https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV020_25) | [`estaduais/confaz/convenios-icms/2025/convenio-icms-20-2025.md`](estaduais/confaz/convenios-icms/2025/convenio-icms-20-2025.md) |
@@ -1392,6 +1398,11 @@ Documento gerado automaticamente em **27/11/2026 às 16:30:38**.
 | **Convênio ICMS nº 38, de 11 de abril de 2025** | 2025 | Conselho Nacional de Política Fazendária - CONFAZ | ICMS | Em vigor | [Visualizar na Fonte Oficial](https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV038_25) | [`estaduais/confaz/convenios-icms/2025/convenio-icms-38-2025.md`](estaduais/confaz/convenios-icms/2025/convenio-icms-38-2025.md) |
 | **Convênio ICMS nº 39, de 11 de abril de 2025** | 2025 | Conselho Nacional de Política Fazendária - CONFAZ | ICMS | Em vigor | [Visualizar na Fonte Oficial](https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV039_25) | [`estaduais/confaz/convenios-icms/2025/convenio-icms-39-2025.md`](estaduais/confaz/convenios-icms/2025/convenio-icms-39-2025.md) |
 | **Convênio ICMS nº 40, de 11 de abril de 2025** | 2025 | Conselho Nacional de Política Fazendária - CONFAZ | ICMS | Em vigor | [Visualizar na Fonte Oficial](https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV040_25) | [`estaduais/confaz/convenios-icms/2025/convenio-icms-40-2025.md`](estaduais/confaz/convenios-icms/2025/convenio-icms-40-2025.md) |
+| **Decreto nº 12.922, de 7 de abril de 2026 (Altera o RIPI (tabagismo) e o Decreto 12.226/2025 (jurisdições de tributação favorecida))** | 2026 | Presidência da República | IPI, IRPJ, IRRF | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-07;12922) | [`federal/regulamentos/ripi/decreto-12922-2026-altera-ripi-tabagismo.md`](federal/regulamentos/ripi/decreto-12922-2026-altera-ripi-tabagismo.md) |
+| **Lei nº 15.394, de 22 de abril de 2026 (Créditos de PIS/Pasep e Cofins; altera a Lei 11.196/2005)** | 2026 | Congresso Nacional / Presidência da República | PIS/Pasep, Cofins | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-04-22;15394) | [`federal/leis-ordinarias/lei-15394-2026-creditos-pis-cofins.md`](federal/leis-ordinarias/lei-15394-2026-creditos-pis-cofins.md) |
+| **Lei nº 15.502, de 10 de setembro de 2026 (Remessas postais internacionais; altera o Decreto-Lei 1.804/1980)** | 2026 | Congresso Nacional / Presidência da República | Imposto de Importação | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-09-10;15502) | [`federal/regulamentos/aduana/lei-15502-2026-remessas-postais-internacionais.md`](federal/regulamentos/aduana/lei-15502-2026-remessas-postais-internacionais.md) |
+| **Lei Complementar nº 228, de 19 de março de 2026 (Redução de PIS/Pasep e Cofins na indústria química e petroquímica)** | 2026 | Congresso Nacional / Presidência da República | PIS/Pasep, Cofins | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2026-03-19;228) | [`federal/leis-complementares/lei-complementar-228-2026-pis-cofins-industria-quimica.md`](federal/leis-complementares/lei-complementar-228-2026-pis-cofins-industria-quimica.md) |
+| **Instrução Normativa RFB nº 2324, de 24 de abril de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | IPI | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/150886) | [`reguladores/rfb/instrucoes-normativas/2026/ato-150886-2324-2026.md`](reguladores/rfb/instrucoes-normativas/2026/ato-150886-2324-2026.md) |
 | **Lei Estadual nº 24.441, de 10 de julho de 2026 (alteração do PROGOIÁS)** | 2026 | Estado de Goiás / Secretaria de Estado da Economia | ICMS | Em vigor; redações históricas preservadas | [Visualizar na Fonte Oficial](https://appasp.economia.go.gov.br/legislacao/arquivos/leis/L_24441.htm) | [`estaduais/go/leis/icms/lei-24441-2026-progoias.md`](estaduais/go/leis/icms/lei-24441-2026-progoias.md) |
 | **Matriz Consolidada de Regras Tributárias Estaduais e Interestaduais das 27 Unidades da Federação (ICMS, DIFAL, FCP, ICMS-ST, ZFM/ALC, ITCMD e IPVA)** | 2026 | Conselho Nacional de Política Fazendária - CONFAZ / Secretarias de Fazenda das 27 UFs | ICMS, ICMS-ST, ITCMD, IPVA | Em vigor | [Visualizar na Fonte Oficial](https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV236_21) | [`estaduais/confaz/matriz-regras-interestaduais-27-ufs.md`](estaduais/confaz/matriz-regras-interestaduais-27-ufs.md) |
 | **Mapa Nacional de Adesão e Desoneração (Exclusão) da Substituição Tributária (ICMS-ST) por Segmento e por Estado** | 2026 | Conselho Nacional de Política Fazendária - CONFAZ / Secretarias de Fazenda Estaduais | ICMS, ICMS-ST | Em vigor | [Visualizar na Fonte Oficial](https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV142_18) | [`estaduais/confaz/protocolos-icms/mapa-protocolos-st-por-segmento-e-uf.md`](estaduais/confaz/protocolos-icms/mapa-protocolos-st-por-segmento-e-uf.md) |

@@ -6,9 +6,9 @@ Este pilar compreende os tributos que incidem sobre a circulação de mercadoria
 ## 2. Mapa Normativo de Produtos
 - **ICMS Estadual (27 UFs):** Lei Complementar nº 87/1996 (Lei Kandir), Leis Orgânicas do ICMS de todas as 27 UFs e seus respectivos Regulamentos do ICMS (RICMS).
 - **Fundos do Agronegócio (Art. 136 do ADCT):** Taxas e fundos estaduais de infraestrutura incidentes sobre a produção agropecuária e mineral (FETHAB/MT, FUNDEINFRA/GO, FUNDERSUL/MS, FECOP/MA e FAIN/BA).
-- **IPI Federal:** Regulamento do IPI (Decreto nº 7.212/2010) e Tabela TIPI (Decreto nº 11.158/2022).
+- **IPI Federal:** Regulamento do IPI (Decreto nº 7.212/2010) e Tabela TIPI (Decreto nº 11.158/2022). Alterações recentes: [Decreto nº 12.549/2025](../federal/regulamentos/ripi/decreto-12549-2025-altera-tipi.md) e [Decreto nº 12.665/2025](../federal/regulamentos/ripi/decreto-12665-2025-altera-tipi.md) (TIPI) e [Decreto nº 12.922/2026](../federal/regulamentos/ripi/decreto-12922-2026-altera-ripi-tabagismo.md) (RIPI, tabagismo); suspensão do IPI disciplinada pela [IN RFB nº 2.324/2026](../reguladores/rfb/instrucoes-normativas/2026/ato-150886-2324-2026.md).
 - **PIS/COFINS Não-Cumulativo e Monofásico:** Leis nº 10.637/2002, 10.833/2003, 9.718/1998 e consolidação pela IN RFB nº 2.121/2022.
-- **Aduana e Importação:** Decreto-Lei nº 37/1966 e Regulamento Aduaneiro consolidado (Decreto nº 6.759/2009).
+- **Aduana e Importação:** Decreto-Lei nº 37/1966 e Regulamento Aduaneiro consolidado (Decreto nº 6.759/2009). Remessas postais internacionais: [Lei nº 15.502/2026](../federal/regulamentos/aduana/lei-15502-2026-remessas-postais-internacionais.md), que altera o Decreto-Lei nº 1.804/1980.
 
 ## 3. Substituição Tributária (ICMS-ST) e MVA
 O [Convênio ICMS 142/2018](../estaduais/confaz/convenios-icms/2018/convenio-icms-142-2018.md) disciplina o regime nacional de substituição tributária para frente:
@@ -47,3 +47,5 @@ A Reforma Tributária salvaguardou expressamente os fundos estaduais incidentes 
 - **Crédito Presumido Cadeia Aves, Suínos e Café:** [Lei nº 12.350/2010](../federal/leis-ordinarias/pis-cofins/lei-12350-2010-credito-presumido-aves-suinos-cafe.md).
 - **Crédito Presumido e Suspensão na Soja:** [Lei nº 12.865/2013](../federal/leis-ordinarias/pis-cofins/lei-12865-2013-credito-presumido-soja.md).
 - **Consolidação Geral:** [IN RFB nº 2.121/2022](../reguladores/rfb/instrucoes-normativas/2022/ato-127905-2121-2022.md).
+- **Indústria Química e Petroquímica (REIQ):** a [Lei Complementar nº 228/2026](../federal/leis-complementares/lei-complementar-228-2026-pis-cofins-industria-quimica.md) reduz as alíquotas de PIS/Pasep e Cofins (0,62% e 2,83% de março a dezembro de 2026), altera as Leis nº 11.196/2005 e nº 10.865/2004 e limita a renúncia de 2026.
+- **Créditos sobre Desperdícios, Resíduos e Aparas:** a [Lei nº 15.394/2026](../federal/leis-ordinarias/lei-15394-2026-creditos-pis-cofins.md) altera os arts. 47 e 48 da [Lei nº 11.196/2005](../federal/leis-ordinarias/lei-11196-2005.md) para autorizar o crédito de PIS/Pasep e Cofins nas aquisições e isentar a venda dessas contribuições.
