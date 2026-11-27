@@ -9,6 +9,7 @@ Todos os geradores montam o documento com o frontmatter canônico de `comum.gera
 e preservam a norma sem reescrita, acrescentando apenas uma nota editorial rastreável.
 """
 from pathlib import Path
+import base64
 import datetime as dt
 import re
 import sys
@@ -49,10 +50,25 @@ def sijut_para_md(id_ato: int) -> tuple[str, dict]:
     dados = api().baixar_corpo_ato_rfb(id_ato)
     segmentos = [s for s in dados.get("outrosSegmentos", []) if s.get("compilado")]
     segmentos.sort(key=lambda s: s.get("ordemSegmentoAto", 0))
-    html = "\n\n".join(s.get("textoIntegra") or "" for s in segmentos)
+    html = "\n\n".join(_html_segmento(s) for s in segmentos)
     if not html.strip():
         raise RuntimeError(f"Sijut não retornou texto compilado para o ato {id_ato}")
     return limpar_corpo(converter_html_para_md(html)), dados
+
+
+def _html_segmento(segmento: dict) -> str:
+    """HTML do segmento; anexos em HTML guardados como arquivo binário (base64) são incorporados."""
+    html = segmento.get("textoIntegra") or ""
+    anexo = segmento.get("arquivoBinario") or {}
+    conteudo = anexo.get("arquivoBinario")
+    if conteudo:
+        bruto = base64.b64decode(conteudo).decode("utf-8", errors="replace")
+        if re.match(r"\s*<(!doctype|html)", bruto, re.I):
+            m = re.search(r"<body[^>]*>(.*)</body>", bruto, re.S | re.I)
+            html += "\n\n" + (m.group(1) if m else bruto)
+        else:
+            raise RuntimeError(f"Anexo binário não-HTML no segmento {segmento.get('idSegmento')}: conversão não suportada")
+    return html
 
 
 def baixar_pdf(url: str, nome: str) -> Path:
@@ -88,10 +104,7 @@ def montar_documento(meta: dict, corpo: str, notas: list[str] = None, extras: di
         cabecalho = "\n".join(linhas)
     partes = [cabecalho, "", f"# {meta['titulo']}", ""]
     if notas:
-        for nota in notas:
-            partes.append(f"> **Nota editorial.** {nota}")
-            partes.append(">")
-        partes.pop()
+        partes.append("> **Nota editorial.** " + " ".join(n.strip() for n in notas))
         partes.append("")
     partes.append(corpo.strip())
     return "\n".join(partes) + "\n"
