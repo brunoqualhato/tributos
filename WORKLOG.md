@@ -582,3 +582,13 @@ Ingestão Concorrente Massiva: Fechamento das 27 UFs (ICMS Matrizes e Fundos Agr
 - Validação: 1.336 documentos aprovados no esquema, 0 rejeitados; auditoria de rede dos dez documentos novos aprovada.
 - Metas em `scripts/plano.py`: Reforma Tributária de 16 para 21; Atos Executivos e Soluções de Consulta de 624 para 629.
 - Branch temática: `reforma-tributaria/simples-ibs-cbs-e-cgibs-2026`, encadeada sobre `federal/legislacao-2025-2026-beneficios-cdc-ctn-ir`.
+## 27/11/2026 — Conformidade tributária (LC 225), regulamentação das LC 224/235 e LC 239
+- Varredura das Instruções Normativas e Portarias Conjuntas de 2025-2026 no Sijut contra o acervo, para localizar as normas que regulamentam as leis complementares incorporadas nas PRs anteriores.
+- Programas de conformidade da LC nº 225/2026: IN RFB nº 2295/2025 (Confia) e suas alterações nº 2317 e nº 2328/2026, IN RFB nº 2316/2026 (Sintonia) e sua alteração nº 2339/2026, IN RFB nº 2318/2026 (Programa OEA) e Portaria Conjunta RFB/PGFN nº 6/2026 (devedor contumaz).
+- Redução de benefícios (LC nº 224/2025 e nº 235/2026): INs RFB nº 2306 e nº 2307/2026 (esta substitui o Anexo Único da IN nº 2305/2025 e traz a lista dos gastos tributários não alcançados pela redução linear) e IN RFB nº 2344/2026 (saldos credores de PIS/Pasep e Cofins). A LC nº 239/2026, que altera as LC nº 224 e nº 235, entra em `federal/beneficios-tributarios/`.
+- Anexos: os anexos em PDF (Confia) e em tabela HTML (Sintonia e IN nº 2307) foram recuperados do Sijut e preservados no corpo dos documentos. O documento da IN nº 2305/2025, já existente, traz só o título do Anexo Único sem o conteúdo; não foi alterado nesta PR.
+- Notas das LC nº 224/2025 e nº 235/2026 agora apontam para o documento da LC nº 239/2026.
+- Fora do lote por escolha: demais INs de 2025-2026 sobre outros temas (parcelamentos, cadastros, aduana, DITR, retenções e alterações pontuais da IN nº 1.700), que o acervo cobre por seleção e não por completude.
+- Validação: 1.347 documentos aprovados no esquema, 0 rejeitados; auditoria de rede dos onze documentos novos aprovada.
+- Metas em `scripts/plano.py`: Benefícios e Incentivos Fiscais de 5 para 6; Instruções Normativas Gerais da RFB de 94 para 103; Atos Executivos e Soluções de Consulta de 629 para 630.
+- Branch temática: `reforma-tributaria/conformidade-lc225-e-regulamentacao-lc224-lc235`, encadeada sobre `reforma-tributaria/simples-ibs-cbs-e-cgibs-2026`.
