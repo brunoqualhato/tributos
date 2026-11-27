@@ -306,6 +306,21 @@ def documento_sijut(id_ato: int, titulo: str | None, tipo: str, numero: str, dat
     return montar_documento(meta, corpo, notas, extras), dados
 
 
+def documento_lexml(urn: str, tipo: str, numero: str, data: str, titulo: str, orgao: str, tema: str,
+                    tributos: list[str], situacao: str = "Em vigor", notas: list[str] = None) -> str:
+    """Documento de norma federal com texto original de normas.leg.br (ementa dos metadados da norma)."""
+    r = api().baixar_norma_lexml(urn)
+    publicacao = r["metadados"].get("datePublished") or data
+    dia = f"{publicacao[8:10]}/{publicacao[5:7]}/{publicacao[:4]}"
+    meta = {
+        "titulo": titulo, "esfera": "Federal", "orgao": orgao, "tipo": tipo, "numero": numero,
+        "data": data, "ano": data[:4], "tema_tributario": tema, "tributos_afetados": tributos,
+        "situacao": situacao, "revogada": False, "fonte": url_normas_leg(urn),
+        "ementa": (r["metadados"].get("abstract") or "").strip(),
+    }
+    notas_doc = [f"Texto original publicado em {dia} (DOU), obtido em normas.leg.br em {DATA_CONSULTA_BR}."] + (notas or [])
+    extras = {"data_consulta": DATA_CONSULTA, "versao_texto": f"Original (DOU de {dia})"}
+    return montar_documento(meta, lexml_para_md(urn), notas_doc, extras)
 def url_normas_leg(urn: str) -> str:
     return f"https://normas.leg.br/?urn={urn}"
 
