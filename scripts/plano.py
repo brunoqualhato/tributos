@@ -224,7 +224,7 @@ PLANO = [
               "reguladores/rfb/instrucoes-normativas-gerais", 94, 2, "normas.receita.fazenda.gov.br"),
     ItemPlano("10. Contabilidade e Precedentes", "Atos Executivos e Soluções de Consulta",
               "Soluções de Consulta COSIT/DISIT, Portarias e Atos Declaratórios da RFB",
-              "reguladores/rfb/outros-atos", 614, 2, "normas.receita.fazenda.gov.br"),
+              "reguladores/rfb/outros-atos", 624, 2, "normas.receita.fazenda.gov.br"),
 ]
 
 def resolver_arquivos(caminho_relativo: str) -> set[Path]:

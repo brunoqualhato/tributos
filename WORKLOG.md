@@ -555,3 +555,11 @@ Ingestão Concorrente Massiva: Fechamento das 27 UFs (ICMS Matrizes e Fundos Agr
 - Validação: 1.308 documentos aprovados no esquema, 0 rejeitados; auditoria de rede dos cinco novos documentos aprovada.
 - Metas em `scripts/plano.py`: Reforma Tributária de 12 para 16; Atos Executivos e Soluções de Consulta de 613 para 614.
 - Branch temática: `reforma-tributaria/regulamentos-cbs-ibs-2026`.
+## 27/11/2026 — Atos Conjuntos RFB/CGIBS e atos da RFB/MF sobre a CBS
+- Complementa os regulamentos da CBS e do IBS com os atos que os operacionalizam, obtidos do Sijut/RFB (visão compilada) e gravados no caminho canônico `reguladores/rfb/outros-atos/AAAA/`, o mesmo da rotina periódica, para evitar duplicidade em coletas futuras.
+- Incorporadas dez normas: Atos Conjuntos RFB/CGIBS nº 1/2025 e nº 2 a 8/2026, Portaria MF nº 3.074/2026 (alíquotas específicas da CBS sobre combustíveis, com a tabela do anexo recuperada do arquivo HTML anexado ao ato) e Portaria RFB nº 763/2026 (Piloto RTC-CBS).
+- O Ato Conjunto nº 4/2026 está no texto compilado, que já incorpora o Ato Conjunto nº 7/2026; o nº 1/2025 já incorpora a retificação do DOU de 24/12/2025 (conferida contra o ato retificador).
+- Fora do lote por escolha: Portaria RFB nº 549/2025 (piloto inicial, não vigente no Sijut), Atos Técnicos Conjuntos nº 1 a 12/2026 (aprovações de versões de documentação técnica) e Resoluções administrativas do CGIBS (orçamento, pessoal, licitações).
+- Validação: 1.318 documentos aprovados no esquema, 0 rejeitados; auditoria de rede dos dez documentos novos aprovada.
+- Metas em `scripts/plano.py`: Atos Executivos e Soluções de Consulta de 614 para 624.
+- Branch temática: `reforma-tributaria/atos-conjuntos-rfb-cgibs-2026`, encadeada sobre `reforma-tributaria/regulamentos-cbs-ibs-2026`.
