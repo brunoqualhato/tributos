@@ -10,7 +10,7 @@ tema_tributario: "Tributação Financeira e IOF"
 tributos_afetados: ["Imposto de Importação", "ICMS"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/132277"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/131703"
 ementa: "Altera a Portaria MF nº 156, de 24 de junho de 1999, que estabelece requisitos e condições para a aplicação do Regime de Tributação Simplificada (RTS) instituído pelo Decreto-Lei nº 1.804/1980, integrando a cobrança do Imposto de Importação e do ICMS Estadual de 17%."
 ---
 
