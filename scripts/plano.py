@@ -188,8 +188,8 @@ PLANO = [
     # PILAR 8: TRIBUTAÇÃO FINANCEIRA E IOF
     # =========================================================================
     ItemPlano("8. Financeiro e IOF", "Regulamento do IOF (RIOF)",
-              "Regulamento do IOF - RIOF integral (Decreto 6.306/2007)",
-              "federal/regulamentos/iof", 1, 1, "normas.leg.br"),
+              "Regulamento do IOF - RIOF integral (Decreto 6.306/2007) e Decreto 12.499/2025 (altera o RIOF)",
+              "federal/regulamentos/iof", 2, 1, "normas.leg.br"),
     ItemPlano("8. Financeiro e IOF", "Leis Matrizes do IOF",
               "Leis do IOF sobre Crédito, Câmbio e Títulos (Leis 5.143/66 e 8.894/94)",
               "federal/leis-ordinarias/iof", 2, 1, "normas.leg.br"),
@@ -223,8 +223,8 @@ PLANO = [
               "Súmulas e Enunciados Vinculantes do Conselho Administrativo de Recursos Fiscais",
               "reguladores/carf/sumulas", 11, 2, "carf.fazenda.gov.br"),
     ItemPlano("10. Contabilidade e Precedentes", "Instruções Normativas da RFB (Gerais)",
-              "Instruções Normativas vigentes estruturantes da Receita Federal (exceto financeiro), incluindo as INs RFB 2.297/2025, 2.332 e 2.341/2026 sobre benefícios fiscais e as INs RFB 2.272, 2.288, 2.290, 2.314, 2.325 e 2.346 sobre processo fiscal, restituição, beneficiários finais e autorregularização e as INs RFB 2.281, 2.296, 2.315 e 2.343 (IN 1.700/2017) e 2.259, 2.319, 2.329, 2.342 e 2.351 (GloBE) sobre IRPJ e CSLL e as INs RFB 2.253, 2.257, 2.265 e 2.301/2025 e 2.331/2026 sobre IRPF, retenções na fonte e Rearp e as INs RFB 2.289/2025 e 2.321/2026 (IN 2.110/2022) sobre tributação previdenciária e a IN RFB 2.324/2026 sobre suspensão do IPI",
-              "reguladores/rfb/instrucoes-normativas-gerais", 129, 2, "normas.receita.fazenda.gov.br"),
+              "Instruções Normativas vigentes estruturantes da Receita Federal (exceto financeiro), incluindo as INs RFB 2.297/2025, 2.332 e 2.341/2026 sobre benefícios fiscais e as INs RFB 2.272, 2.288, 2.290, 2.314, 2.325 e 2.346 sobre processo fiscal, restituição, beneficiários finais e autorregularização e as INs RFB 2.281, 2.296, 2.315 e 2.343 (IN 1.700/2017) e 2.259, 2.319, 2.329, 2.342 e 2.351 (GloBE) sobre IRPJ e CSLL e as INs RFB 2.253, 2.257, 2.265 e 2.301/2025 e 2.331/2026 sobre IRPF, retenções na fonte e Rearp e as INs RFB 2.289/2025 e 2.321/2026 (IN 2.110/2022) sobre tributação previdenciária e a IN RFB 2.324/2026 sobre suspensão do IPI e a IN RFB 2.278/2025 sobre a e-Financeira de instituições de pagamento",
+              "reguladores/rfb/instrucoes-normativas-gerais", 130, 2, "normas.receita.fazenda.gov.br"),
     ItemPlano("10. Contabilidade e Precedentes", "Atos Executivos e Soluções de Consulta",
               "Soluções de Consulta COSIT/DISIT, Portarias, Atos Declaratórios, Atos Técnicos Conjuntos RFB/CGIBS e atos do Simples Nacional e MEI (Resoluções CGSN 182, 183, 191, 195 e 198 e Portaria Conjunta RFB/PGFN 740/2026) e da regulamentação e do acompanhamento da LC 224/2025 (Portaria MF 1.766, Nota Cosit 207 e Portaria RFB 745/2026) e do processo fiscal e da consensualidade (ADI RFB 2/2026, Portaria RFB 715/2026 e Portaria MF 1.785/2026) e de IRPJ e CSLL (ADI RFB 1, 3 e 5/2026)",
               "reguladores/rfb/outros-atos", 657, 2, "normas.receita.fazenda.gov.br"),

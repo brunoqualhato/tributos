@@ -1,8 +1,8 @@
 # Catálogo Geral do Acervo Tributário e Contábil (ACERVO.md)
 
-Documento gerado automaticamente em **27/11/2026 às 19:25:09**.
+Documento gerado automaticamente em **27/11/2026 às 19:25:19**.
 
-**Total de Documentos Catalogados e Auditados:** `1433`
+**Total de Documentos Catalogados e Auditados:** `1435`
 
 ---
 
@@ -36,7 +36,7 @@ Documento gerado automaticamente em **27/11/2026 às 19:25:09**.
 - **Reforma Tributária e Transição:** `68` documentos
 - **Serviços e ISS:** `15` documentos
 - **Serviços e Retenções:** `61` documentos
-- **Tributação Financeira e IOF:** `12` documentos
+- **Tributação Financeira e IOF:** `14` documentos
 - **Tributário e Contábil Geral:** `36` documentos
 
 ---
@@ -1566,7 +1566,7 @@ Documento gerado automaticamente em **27/11/2026 às 19:25:09**.
 | **Solução de Consulta Cosit nº 190, de 25 de setembro de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | CSRF (Retenção 4, 65%), IRRF Serviços, CSLL, PIS/Pasep, Cofins | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/153839) | [`reguladores/rfb/outros-atos/2026/ato-153839-190-2026.md`](reguladores/rfb/outros-atos/2026/ato-153839-190-2026.md) |
 | **Instrução Normativa RFB nº 2331, de 23 de junho de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | IRRF, IRPF, IRPJ | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/152155) | [`reguladores/rfb/instrucoes-normativas/2026/ato-152155-2331-2026.md`](reguladores/rfb/instrucoes-normativas/2026/ato-152155-2331-2026.md) |
 
-## Tributação Financeira e IOF (12 documentos)
+## Tributação Financeira e IOF (14 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
@@ -1582,6 +1582,8 @@ Documento gerado automaticamente em **27/11/2026 às 19:25:09**.
 | **Lei nº 14.754, de 12 de dezembro de 2023 — Capítulos II e III (Tributação de Fundos de Investimento Fechados, FII, FIAGRO, FIP e FIA)** | 2023 | Congresso Nacional / Presidência da República | IRRF, IRPF, IRPJ | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2023-12-12;14754) | [`reguladores/rfb/instrucoes-normativas/financeiro/lei-14754-2023-fundos-fechados-fiagro-fii.md`](reguladores/rfb/instrucoes-normativas/financeiro/lei-14754-2023-fundos-fechados-fiagro-fii.md) |
 | **Instrução Normativa RFB nº 2.141, de 19 de maio de 2023** | 2023 | Secretaria Especial da Receita Federal do Brasil | IRPF, IRPJ, IRRF, Tributação Internacional | Em vigor | [Visualizar na Fonte Oficial](https://www.gov.br/receitafederal/pt-br) | [`reguladores/rfb/instrucoes-normativas/financeiro/ato-in-2141-2023.md`](reguladores/rfb/instrucoes-normativas/financeiro/ato-in-2141-2023.md) |
 | **Portaria MF nº 612, de 29 de junho de 2023 (Regime de Tributação Simplificada e Programa Remessa Conforme)** | 2023 | Ministério da Fazenda | Imposto de Importação, ICMS | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/131703) | [`federal/portarias/mf/portaria-mf-612-2023-remessa-conforme.md`](federal/portarias/mf/portaria-mf-612-2023-remessa-conforme.md) |
+| **Decreto nº 12.499, de 11 de junho de 2025 (Altera o RIOF)** | 2025 | Presidência da República | IOF | Em vigor (com ressalva: DLG 176/2025 e decisão do STF de 16/07/2025, exceto risco sacado) | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2025-06-11;12499) | [`federal/regulamentos/iof/decreto-12499-2025-altera-riof.md`](federal/regulamentos/iof/decreto-12499-2025-altera-riof.md) |
+| **Instrução Normativa RFB nº 2278, de 28 de agosto de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | Fiscalização Tributária, Sigilo Bancário, e-Financeira | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/145940) | [`reguladores/rfb/instrucoes-normativas/2025/ato-145940-2278-2025.md`](reguladores/rfb/instrucoes-normativas/2025/ato-145940-2278-2025.md) |
 
 ## Tributário e Contábil Geral (36 documentos)
 
