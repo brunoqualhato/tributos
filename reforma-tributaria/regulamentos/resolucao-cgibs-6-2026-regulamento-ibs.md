@@ -18,9 +18,7 @@ versao_texto: "Original (portal do CGIBS, 30/04/2026)"
 
 # Resolução CGIBS nº 6, de 30 de abril de 2026 (Regulamento do Imposto sobre Bens e Serviços - IBS)
 
-> **Nota editorial.** Texto extraído da camada de texto do PDF oficial divulgado no portal do CGIBS em 30/04/2026 (252 páginas), consultado em 27/11/2026. Foram removidos o sumário e a numeração de página; a sequência dos 617 artigos foi conferida. Sinais gráficos como travessões podem diferir do original; em caso de dúvida, prevalece o PDF.
->
-> **Nota editorial.** O art. 617 foi alterado pela Resolução CGIBS nº 13, de 22 de julho de 2026 (`resolucao-cgibs-13-2026-altera-regulamento-ibs.md`). Os Anexos I a V são tabelas e foram preservados em blocos de texto que mantêm as colunas do PDF.
+> **Nota editorial.** Texto extraído da camada de texto do PDF oficial divulgado no portal do CGIBS em 30/04/2026 (252 páginas), consultado em 27/11/2026. Foram removidos o sumário e a numeração de página; a sequência dos 617 artigos foi conferida. Sinais gráficos como travessões podem diferir do original; em caso de dúvida, prevalece o PDF. O art. 617 foi alterado pela Resolução CGIBS nº 13, de 22 de julho de 2026 (`resolucao-cgibs-13-2026-altera-regulamento-ibs.md`). Os Anexos I a V são tabelas e foram preservados em blocos de texto que mantêm as colunas do PDF.
 
 RESOLUÇÃO CGIBS Nº 6, DE 30 DE ABRIL DE 2026
 Regulamenta o Imposto sobre Bens e Serviços (IBS) e dá outras providências.

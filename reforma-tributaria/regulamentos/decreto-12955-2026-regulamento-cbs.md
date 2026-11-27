@@ -18,9 +18,7 @@ versao_texto: "Original (DOU de 30/04/2026)"
 
 # Decreto nº 12.955, de 29 de abril de 2026 (Regulamento da Contribuição sobre Bens e Serviços - CBS)
 
-> **Nota editorial.** Texto original publicado no Diário Oficial da União de 30/04/2026, obtido em normas.leg.br em 27/11/2026. Os arts. 105, 115 e 619 foram alterados pelo Decreto nº 13.075, de 21 de julho de 2026, incorporado ao acervo em documento próprio (`decreto-13075-2026-altera-regulamento-cbs.md`).
->
-> **Nota editorial.** Os anexos do próprio Decreto (por exemplo, o Anexo I de taxas de depreciação e as tabelas do Anexo IV, citados nos arts. 47 e seguintes) não constam do texto estruturado disponibilizado em normas.leg.br e não foram incorporados. Para esses anexos, consultar a publicação no DOU. Os anexos do Regulamento do IBS constam do documento da Resolução CGIBS nº 6/2026.
+> **Nota editorial.** Texto original publicado no Diário Oficial da União de 30/04/2026, obtido em normas.leg.br em 27/11/2026. Os arts. 105, 115 e 619 foram alterados pelo Decreto nº 13.075, de 21 de julho de 2026, incorporado ao acervo em documento próprio (`decreto-13075-2026-altera-regulamento-cbs.md`). Os anexos do próprio Decreto (por exemplo, o Anexo I de taxas de depreciação e as tabelas do Anexo IV, citados nos arts. 47 e seguintes) não constam do texto estruturado disponibilizado em normas.leg.br e não foram incorporados. Para esses anexos, consultar a publicação no DOU. Os anexos do Regulamento do IBS constam do documento da Resolução CGIBS nº 6/2026.
 
 DECRETO Nº 12.955, DE 29 DE ABRIL DE 2026
 
