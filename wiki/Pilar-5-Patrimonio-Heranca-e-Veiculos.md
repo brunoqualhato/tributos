@@ -25,3 +25,6 @@ O [Decreto-Lei nº 57/1966](../federal/decretos-leis/decreto-lei-57-1966.md) foi
 1. **Progressividade Obrigatória:** Os Estados que ainda adotavam alíquota fixa passam a ser obrigados a instituir alíquotas progressivas conforme o valor da herança/doação.
 2. **Competência Territorial Uniforme:** A herança de bens móveis, títulos e créditos passa a ser tributada no Estado do **domicílio do falecido** (fim da corrida a estados de menor alíquota).
 3. **Bens e Doadores no Exterior:** Superada a ausência de lei complementar (Tema 851/STF) através da nova redação constitucional e regras uniformizadas nacionalmente.
+## 6. Imunidade de IPVA para veículos antigos (EC 137/2025)
+- [Emenda Constitucional nº 137/2025](../federal/leis-complementares/emenda-constitucional-137-2025-imunidade-ipva.md): acrescenta a alínea "e" ao inciso III do § 6º do art. 155 da Constituição Federal e concede imunidade de IPVA aos veículos terrestres de passageiros, caminhonetes e mistos com 20 anos ou mais de fabricação, excetuados os micro-ônibus, ônibus, reboques e semirreboques.
+- As leis estaduais do IPVA do acervo ficam na subpasta `leis/ipva` de cada UF em `estaduais/` e não foram alteradas por esta inclusão. Confira a legislação do Estado antes de aplicar a imunidade.

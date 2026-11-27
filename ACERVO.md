@@ -1,8 +1,8 @@
 # Catálogo Geral do Acervo Tributário e Contábil (ACERVO.md)
 
-Documento gerado automaticamente em **27/11/2026 às 19:25:19**.
+Documento gerado automaticamente em **27/11/2026 às 19:25:20**.
 
-**Total de Documentos Catalogados e Auditados:** `1435`
+**Total de Documentos Catalogados e Auditados:** `1438`
 
 ---
 
@@ -11,7 +11,7 @@ Documento gerado automaticamente em **27/11/2026 às 19:25:19**.
 - **Agronegócio e Fundos:** `7` documentos
 - **Benefícios Fiscais e Fundos Estaduais:** `1` documentos
 - **Benefícios Fiscais e Regimes Especiais:** `1` documentos
-- **Benefícios e Incentivos Fiscais:** `23` documentos
+- **Benefícios e Incentivos Fiscais:** `24` documentos
 - **Combustíveis e Energia:** `19` documentos
 - **Contabilidade:** `77` documentos
 - **Contabilidade e Precedentes:** `4` documentos
@@ -25,7 +25,7 @@ Documento gerado automaticamente em **27/11/2026 às 19:25:19**.
 - **Fundos de Desenvolvimento e Extra-Orçamentários:** `3` documentos
 - **Incentivos Fiscais e Desenvolvimento:** `1` documentos
 - **Patrimônio, Herança e Doação:** `3` documentos
-- **Patrimônio, Herança e Veículos:** `65` documentos
+- **Patrimônio, Herança e Veículos:** `66` documentos
 - **Patrimônio, Veículos:** `3` documentos
 - **Processo Administrativo Fiscal:** `1` documentos
 - **Processo Administrativo Tributário:** `5` documentos
@@ -35,7 +35,7 @@ Documento gerado automaticamente em **27/11/2026 às 19:25:19**.
 - **Produtos e Mercadorias:** `243` documentos
 - **Reforma Tributária e Transição:** `68` documentos
 - **Serviços e ISS:** `15` documentos
-- **Serviços e Retenções:** `61` documentos
+- **Serviços e Retenções:** `62` documentos
 - **Tributação Financeira e IOF:** `14` documentos
 - **Tributário e Contábil Geral:** `36` documentos
 
@@ -65,7 +65,7 @@ Documento gerado automaticamente em **27/11/2026 às 19:25:19**.
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
 | **Decreto Estadual nº 7.799, de 9 de maio de 2000 (Regime Especial Atacadista da Bahia)** | 2000 | Governo do Estado da Bahia / Secretaria da Fazenda | ICMS | Em vigor | [Visualizar na Fonte Oficial](http://mbusca.sefaz.ba.gov.br/DITRI/decretos/decretos_estaduais/decest_2000_7799.pdf) | [`estaduais/ba/ricms/decreto-7799-2000-atacadista-desenvolve-ba.md`](estaduais/ba/ricms/decreto-7799-2000-atacadista-desenvolve-ba.md) |
 
-## Benefícios e Incentivos Fiscais (23 documentos)
+## Benefícios e Incentivos Fiscais (24 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
@@ -74,6 +74,7 @@ Documento gerado automaticamente em **27/11/2026 às 19:25:19**.
 | **Decreto nº 12.808, de 29 de dezembro de 2025 (Redução de Benefícios Tributários - LC 224/2025)** | 2025 | Presidência da República | IRPJ, CSLL, PIS/Pasep, Cofins, IPI, Imposto de Importação | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2025-12-29;12808) | [`federal/beneficios-tributarios/decreto-12808-2025-reducao-beneficios-tributarios.md`](federal/beneficios-tributarios/decreto-12808-2025-reducao-beneficios-tributarios.md) |
 | **Resolução CGSN nº 182, de 26 de setembro de 2025** | 2025 | Comitê Gestor do Simples Nacional (CGSN) | Simples Nacional, MEI | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/146769) | [`reguladores/rfb/outros-atos/2025/ato-146769-182-2025.md`](reguladores/rfb/outros-atos/2025/ato-146769-182-2025.md) |
 | **Lei Complementar nº 216, de 28 de julho de 2025 (Programa Acredita Exportação; altera a LC 123/2006)** | 2025 | Congresso Nacional / Presidência da República | Simples Nacional, Imposto de Importação, PIS/Pasep, Cofins | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2025-07-28;216) | [`federal/leis-complementares/simples/lei-complementar-216-2025-programa-acredita-exportacao.md`](federal/leis-complementares/simples/lei-complementar-216-2025-programa-acredita-exportacao.md) |
+| **Lei Complementar nº 222, de 26 de novembro de 2025 (Condições e limites para incentivos fiscais ao esporte (União, Estados e Municípios))** | 2025 | Congresso Nacional / Presidência da República | IRPJ, IRPF, ICMS, ISSQN | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2025-11-26;222) | [`federal/beneficios-tributarios/lei-complementar-222-2025-incentivos-fiscais-esporte.md`](federal/beneficios-tributarios/lei-complementar-222-2025-incentivos-fiscais-esporte.md) |
 | **Lei Complementar nº 224, de 26 de dezembro de 2025 (Redução de Incentivos e Benefícios Tributários da União)** | 2025 | Congresso Nacional / Presidência da República | IRPJ, CSLL, PIS/Pasep, Cofins, IPI, Imposto de Importação | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2025-12-26;224) | [`federal/beneficios-tributarios/lei-complementar-224-2025-reducao-beneficios-tributarios.md`](federal/beneficios-tributarios/lei-complementar-224-2025-reducao-beneficios-tributarios.md) |
 | **Instrução Normativa RFB nº 2297, de 11 de dezembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | IRPJ, CSLL, PIS/Pasep, Cofins, IPI, Imposto de Importação | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148320) | [`reguladores/rfb/instrucoes-normativas/2025/ato-148320-2297-2025.md`](reguladores/rfb/instrucoes-normativas/2025/ato-148320-2297-2025.md) |
 | **Lei nº 15.504, de 15 de setembro de 2026 (Redata (regime especial de tributação para datacenter); altera a Lei 11.196/2005)** | 2026 | Congresso Nacional / Presidência da República | PIS/Pasep, Cofins, IPI, Imposto de Importação | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-09-15;15504) | [`federal/beneficios-tributarios/lei-15504-2026-redata-datacenter.md`](federal/beneficios-tributarios/lei-15504-2026-redata-datacenter.md) |
@@ -1021,7 +1022,7 @@ Documento gerado automaticamente em **27/11/2026 às 19:25:19**.
 | **Lei Estadual nº 7.850, de 18 de dezembro de 2002 (ITCD/MT)** | 2002 | Assembleia Legislativa do Estado de Mato Grosso | ITCD | Em vigor | [Visualizar na Fonte Oficial](http://app1.sefaz.mt.gov.br/Sistema/legislacao/legislacaotribut.nsf/5edf9c5193c58088032567580038916b/375b8c284530106704256c9500491df8?OpenDocument) | [`estaduais/mt/leis/itcmd/lei-7850-2002.md`](estaduais/mt/leis/itcmd/lei-7850-2002.md) |
 | **Lei Distrital nº 3.804, de 8 de fevereiro de 2006** | 2006 | Governo do Distrito Federal / Câmara Legislativa do Distrito Federal | ITCD | Em vigor | [Visualizar na Fonte Oficial](https://www.sinj.df.gov.br/sinj/Norma/51724/Lei_3804_08_02_2006.html) | [`estaduais/df/leis/itcmd/lei-3804-2006.md`](estaduais/df/leis/itcmd/lei-3804-2006.md) |
 
-## Patrimônio, Herança e Veículos (65 documentos)
+## Patrimônio, Herança e Veículos (66 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
@@ -1090,6 +1091,7 @@ Documento gerado automaticamente em **27/11/2026 às 19:25:19**.
 | **Tema 708 do STF — RE 1.016.605 (Estado Competente para Cobrança do IPVA e Frotas de Locadoras)** | 2020 | Supremo Tribunal Federal - STF | IPVA | Em vigor | [Visualizar na Fonte Oficial](https://portal.stf.jus.br/jurisprudencia/repercussaogeral/tema.asp?num=708) | [`jurisprudencia/precedentes-vinculantes/stf/tema-708-ipva-estado-domicilio-efetivo.md`](jurisprudencia/precedentes-vinculantes/stf/tema-708-ipva-estado-domicilio-efetivo.md) |
 | **Tema nº 796 da Repercussão Geral do STF — RE 796.376/SC (Alcance da Imunidade de ITBI na Integralização de Capital Social com Bens Imóveis)** | 2020 | Supremo Tribunal Federal - STF | ITBI | Em vigor | [Visualizar na Fonte Oficial](https://portal.stf.jus.br/jurisprudencia/repercussaogeral/tema.asp?num=796) | [`jurisprudencia/precedentes-vinculantes/stf/tema-796-imunidade-itbi-integralizacao-capital-social.md`](jurisprudencia/precedentes-vinculantes/stf/tema-796-imunidade-itbi-integralizacao-capital-social.md) |
 | **Tema nº 825 de Repercussão Geral do STF — RE 851.108/SP (ITCMD sobre Doações e Heranças do Exterior e Transição da EC 132/2023 + LC 227/2026)** | 2021 | Supremo Tribunal Federal (STF) | ITCMD | Em vigor | [Visualizar na Fonte Oficial](https://portal.stf.jus.br/jurisprudencia/repercussaogeral/tema.asp?num=825) | [`jurisprudencia/precedentes-vinculantes/tema-825-stf-itcmd-doacao-heranca-exterior.md`](jurisprudencia/precedentes-vinculantes/tema-825-stf-itcmd-doacao-heranca-exterior.md) |
+| **Emenda Constitucional nº 137, de 9 de dezembro de 2025 (Imunidade de IPVA para veículos que especifica; altera o art. 155 da Constituição)** | 2025 | Congresso Nacional (Mesas da Câmara dos Deputados e do Senado Federal) | IPVA | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2025-12-09;137) | [`federal/leis-complementares/emenda-constitucional-137-2025-imunidade-ipva.md`](federal/leis-complementares/emenda-constitucional-137-2025-imunidade-ipva.md) |
 
 ## Patrimônio, Veículos (3 documentos)
 
@@ -1500,7 +1502,7 @@ Documento gerado automaticamente em **27/11/2026 às 19:25:19**.
 | **Lei Complementar nº 878, de 22 de dezembro de 2021 (Código Tributário e de Rendas do Município de Porto Velho/RO)** | 2021 | Prefeitura Municipal de Porto Velho / Secretaria Municipal de Fazenda (SEMFAZ Porto Velho) | ISSQN, IPTU, ITBI, Taxas Municipais, COSIP | Em vigor | [Visualizar na Fonte Oficial](https://leismunicipais.com.br/codigo-tributario-porto-velho-ro) | [`municipais/ro/servicos-iss/lei-complementar-878-2021-ctm-porto-velho.md`](municipais/ro/servicos-iss/lei-complementar-878-2021-ctm-porto-velho.md) |
 | **Lei Complementar nº 156, de 27 de dezembro de 2023 (Código Tributário do Município de Macapá/AP)** | 2023 | Prefeitura Municipal de Macapá / Secretaria Municipal de Finanças (SEMFIN Macapá) | ISSQN, IPTU, ITBI, Taxas Municipais, COSIP | Em vigor | [Visualizar na Fonte Oficial](https://leismunicipais.com.br/codigo-tributario-macapa-ap) | [`municipais/ap/servicos-iss/lei-complementar-156-2023-ctm-macapa.md`](municipais/ap/servicos-iss/lei-complementar-156-2023-ctm-macapa.md) |
 
-## Serviços e Retenções (61 documentos)
+## Serviços e Retenções (62 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
@@ -1561,6 +1563,7 @@ Documento gerado automaticamente em **27/11/2026 às 19:25:19**.
 | **Solução de Consulta Disit/SRRF01 nº 1005, de 22 de abril de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | Retenção INSS 11%, CPRB (Desoneração da Folha) | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148647) | [`reguladores/rfb/outros-atos/2025/ato-148647-1005-2025.md`](reguladores/rfb/outros-atos/2025/ato-148647-1005-2025.md) |
 | **Solução de Consulta Disit/SRRF01 nº 1010, de 26 de junho de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | IRRF Serviços | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148651) | [`reguladores/rfb/outros-atos/2025/ato-148651-1010-2025.md`](reguladores/rfb/outros-atos/2025/ato-148651-1010-2025.md) |
 | **Portaria Conjunta RFB / SPA nº 13, de 18 de julho de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | - | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/145188) | [`reguladores/rfb/outros-atos/2025/ato-145188-13-2025.md`](reguladores/rfb/outros-atos/2025/ato-145188-13-2025.md) |
+| **Lei Complementar nº 218, de 24 de setembro de 2025 (Altera a LC 116/2003: ISS de guincho e içamento, local da obra)** | 2025 | Congresso Nacional / Presidência da República | ISSQN | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2025-09-24;218) | [`federal/leis-complementares/iss/lei-complementar-218-2025-iss-guincho-obra.md`](federal/leis-complementares/iss/lei-complementar-218-2025-iss-guincho-obra.md) |
 | **Instrução Normativa RFB nº 2257, de 18 de março de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | IRRF, IRPF, IRPJ | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143374) | [`reguladores/rfb/instrucoes-normativas/2025/ato-143374-2257-2025.md`](reguladores/rfb/instrucoes-normativas/2025/ato-143374-2257-2025.md) |
 | **Solução de Consulta Disit/SRRF10 nº 10012, de 30 de setembro de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | IRRF Serviços | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/153931) | [`reguladores/rfb/outros-atos/2026/ato-153931-10012-2026.md`](reguladores/rfb/outros-atos/2026/ato-153931-10012-2026.md) |
 | **Solução de Consulta Cosit nº 190, de 25 de setembro de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | CSRF (Retenção 4, 65%), IRRF Serviços, CSLL, PIS/Pasep, Cofins | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/153839) | [`reguladores/rfb/outros-atos/2026/ato-153839-190-2026.md`](reguladores/rfb/outros-atos/2026/ato-153839-190-2026.md) |

@@ -11,6 +11,7 @@ Este pilar estrutura a tributação sobre a prestação de serviços de qualquer
 - **Competência Espacial (Local do Recolhimento):**
   - Regra Geral: O imposto é devido no local do estabelecimento prestador (ou domicílio do prestador).
   - Exceções (Art. 3º): Serviços de construção civil, limpeza, segurança, vigilância, locação de mão de obra e eventos são devidos no **local da prestação**.
+  - [Lei Complementar nº 218/2025](../federal/leis-complementares/iss/lei-complementar-218-2025-iss-guincho-obra.md): altera o art. 3º da LC 116/2003 para fixar que o ISS dos serviços dos subitens 7.02, 7.19 e 14.14 da lista anexa (inclusive guincho intramunicipal, guindaste e içamento) é devido no **local da execução da obra**.
 
 ## 3. Cobertura das 26 Capitais Estaduais e DF (CTMs e Leis do ISS)
 O acervo documenta as leis instituidoras e códigos tributários de todas as capitais do país:

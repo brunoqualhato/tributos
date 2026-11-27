@@ -1,16 +1,16 @@
 # Progresso do Acervo Tributário e Contábil
 
-Gerado em: 27/11/2026 19:25:19. Escopo definido em `scripts/plano.py`.
+Gerado em: 27/11/2026 19:25:20. Escopo definido em `scripts/plano.py`.
 
-**Total de Documentos no Acervo:** 1435 / 1435 (100.0%)
+**Total de Documentos no Acervo:** 1438 / 1438 (100.0%)
 
 | Pilar / Subtema | Documentos | Meta | Cobertura | Pasta | Fonte Principal |
 | :--- | ---: | ---: | :---: | :--- | :--- |
 | **### 1. Legislação Estruturante & Códigos** | | | | | |
 | ✅ **Código Tributário Nacional**: CTN integral (Lei 5.172/1966) e LC 104/2001 | 2 | 2 | 100.0% | `federal/leis-complementares/ctn` | normas.leg.br |
 | ✅ **Simples Nacional e MEI**: Estatuto da Microempresa (LC 123/2006), Resolução CGSN 140/2018, LC 216/2025 (Programa Acredita Exportação) e LC 238/2026 (limite do MEI e remissão de créditos) | 4 | 4 | 100.0% | `federal/leis-complementares/simples` | normas.leg.br |
-| ✅ **Leis Complementares Gerais**: Sigilo Bancário (LC 105), Prescrição (LC 118), MEI (LC 128), Convalidação (LC 160), Protesto (LC 208), Código de Defesa do Contribuinte (LC 225/2026) e Solução de Controvérsias no CTN (LC 236/2026) e PIS/Pasep e Cofins na indústria química e petroquímica (LC 228/2026) | 8 | 8 | 100.0% | `federal/leis-complementares-gerais` | normas.leg.br |
-| ✅ **Benefícios e Incentivos Fiscais**: Redução linear de benefícios tributários da União (LC 224/2025 e Decreto 12.808/2025) e regras de exceção de 2026 (LC 229, LC 235, LC 237 e LC 239) e Redata (Lei 15.504/2026) | 7 | 7 | 100.0% | `federal/beneficios-tributarios` | normas.leg.br |
+| ✅ **Leis Complementares Gerais**: Sigilo Bancário (LC 105), Prescrição (LC 118), MEI (LC 128), Convalidação (LC 160), Protesto (LC 208), Código de Defesa do Contribuinte (LC 225/2026) e Solução de Controvérsias no CTN (LC 236/2026) e PIS/Pasep e Cofins na indústria química e petroquímica (LC 228/2026) e Emenda Constitucional 137/2025 (imunidade de IPVA) | 9 | 9 | 100.0% | `federal/leis-complementares-gerais` | normas.leg.br |
+| ✅ **Benefícios e Incentivos Fiscais**: Redução linear de benefícios tributários da União (LC 224/2025 e Decreto 12.808/2025) e regras de exceção de 2026 (LC 229, LC 235, LC 237 e LC 239) Redata (Lei 15.504/2026) e incentivos fiscais ao esporte (LC 222/2025) | 8 | 8 | 100.0% | `federal/beneficios-tributarios` | normas.leg.br |
 | ✅ **Decretos-Leis Estruturantes**: Delimitação ITR/IPTU (DL 57/66) e Zona Franca de Manaus (DL 288/67) | 2 | 2 | 100.0% | `federal/decretos-leis` | normas.leg.br |
 | ✅ **Processo Fiscal, Consulta e CIDE**: Processo Administrativo Fiscal (Dec. 70.235/72), Consulta (Dec. 7.574/11) e CIDE (Dec. 5.060/04) | 3 | 3 | 100.0% | `federal/regulamentos/paf_consulta_cide` | normas.leg.br |
 | ✅ **Processo Tributário Estadual (PAT/PAF)**: Tribunais Administrativos de Fazenda Estadual e Leis do Processo Administrativo Tributário das 27 UFs (TIT/SP, CCRJ, CCMG, CCRF/PR, TAT/SC, TARF/RS, CAT/GO, CONSEF/BA, TARF/DF, CONAT/CE, TATE/PE, TATE/MA, TATE/PA, CRF/AC, etc.) | 31 | 31 | 100.0% | `estaduais/*/leis/pat` | Secretarias de Fazenda Estaduais |
@@ -41,7 +41,7 @@ Gerado em: 27/11/2026 19:25:19. Escopo definido em `scripts/plano.py`.
 | ✅ **Fundos Agropecuários e de Infraestrutura Estaduais**: Fundos Estaduais de Infraestrutura, Agropecuários e de Combate à Pobreza das 27 UFs (FETHAB/MT, FUNDEINFRA/GO, FUNDERSUL/MS, FECOP/MA, FAIN/FUNCEP/BA, FECOEP/SP, FEM/MG, FEEF/FOT/FECP/RJ, FUNDOSOCIAL/SC, AMPARA/RS, FCP/RN, etc.) | 17 | 17 | 100.0% | `estaduais/*/leis/fundos` | Secretarias de Fazenda Estaduais |
 | ✅ **Créditos Presumidos Agropecuários e Cadeias Produtivas**: Regimes de PIS/COFINS da Carne Bovina (Lei 12.058/09), Aves/Suínos/Café (Lei 12.350/10) e Complexo Soja (Lei 12.865/13) | 3 | 3 | 100.0% | `federal/agro-pis-cofins` | normas.leg.br |
 | **### 5. Serviços & Retenções** | | | | | |
-| ✅ **ISSQN Geral**: Lei Complementar nº 116/2003, LC 157/2016 e LC 175/2020 | 5 | 5 | 100.0% | `federal/leis-complementares/iss` | normas.leg.br |
+| ✅ **ISSQN Geral**: Lei Complementar nº 116/2003, LC 157/2016, LC 175/2020 e LC 218/2025 (local do ISS de guincho, guindaste e içamento) | 6 | 6 | 100.0% | `federal/leis-complementares/iss` | normas.leg.br |
 | ✅ **Retenções Federais na Fonte**: Retenção de Serviços e CSRF (Lei 10.833/03) | 5 | 5 | 100.0% | `federal/leis-ordinarias/irrf-servicos` | normas.leg.br |
 | ✅ **CTM e RISS das Capitais**: Códigos Tributários Municipais e Regulamentos do ISS de todas as 26 Capitais Estaduais e DF | 30 | 30 | 100.0% | `municipais/*/servicos-iss` | Câmaras e Prefeituras Municipais |
 | **### 6. Patrimônio & Herança** | | | | | |
