@@ -33,6 +33,10 @@ RAIZ = co.RAIZ
 MARCA_NOTA = "> **Nota editorial.** Anexos recuperados do Sijut/RFB"
 TAGS_HTML = re.compile(r"<(?:script|style|div|span|p|br|table|tr|td)[\s/>]", re.I)
 RELATORIO = f"_auditoria/auditoria_anexos_sijut_{co.DATA_CONSULTA}.md"
+# Frase extra da nota editorial por idAto. IN RFB 2.305/2025: o arquivo compilado do Anexo Único é a redação dada pela IN 2.307/2026.
+NOTAS_EXTRA = {
+    148694: "O Anexo Único está na redação dada pela IN RFB nº 2307/2026 (`ato-149398-2307-2026.md`), que o substituiu.",
+}
 
 # (caminho, idAto, numerais dos anexos vazios segundo o plano). Ordem: vigentes por idAto, depois os revogados.
 DOCUMENTOS = [
@@ -317,6 +321,8 @@ def nota_editorial(plano: dict) -> str:
     if plano["so_sijut"]:
         frases.append(f"O Sijut traz ainda {rotulo_anexos(plano['so_sijut'], ref)}, sem título correspondente no corpo; "
                       "não foram incorporados.")
+    if plano["id_ato"] in NOTAS_EXTRA:
+        frases.append(NOTAS_EXTRA[plano["id_ato"]])
     frases.append("O restante do documento não foi alterado; cada anexo foi acrescentado logo abaixo do respectivo título.")
     return MARCA_NOTA[:len("> **Nota editorial.** ")] + " ".join(frases)
 
