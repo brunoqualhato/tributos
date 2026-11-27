@@ -48,7 +48,22 @@ Os atos infralegais que operacionalizam os regulamentos ficam no caminho canôni
 | **Ato Conjunto RFB/CGIBS nº 8/2026** | Dispensa temporária de CNPJ para produtor rural e transportador autônomo de carga pessoas físicas | [ato-154689-8-2026.md](../reguladores/rfb/outros-atos/2026/ato-154689-8-2026.md) |
 | **Portaria MF nº 3.074/2026** | Alíquotas específicas da CBS sobre combustíveis (Anexo em tabela) | [ato-154060-3074-2026.md](../reguladores/rfb/outros-atos/2026/ato-154060-3074-2026.md) |
 | **Portaria RFB nº 763/2026** | Piloto da Reforma Tributária do Consumo para a CBS (Piloto RTC-CBS) | [ato-154673-763-2026.md](../reguladores/rfb/outros-atos/2026/ato-154673-763-2026.md) |
-## 7. Publicações Institucionais e Orientações Técnicas (2026)
+## 7. Simples Nacional na Reforma Tributária (Resoluções CGSN 2026)
+| Ato | Conteúdo | Arquivo |
+| :--- | :--- | :--- |
+| **Resolução CGSN nº 186/2026** | Prazos e condições da opção pelo Simples Nacional e, para os optantes, pelo regime regular do IBS e da CBS em 2027 | [ato-150653-186-2026.md](../reguladores/rfb/outros-atos/2026/ato-150653-186-2026.md) |
+| **Resolução CGSN nº 190/2026** | Altera a Resolução CGSN 140/2018; o anexo único traz os valores fixos do MEI com ICMS, ISS, CBS e IBS | [ato-152832-190-2026.md](../reguladores/rfb/outros-atos/2026/ato-152832-190-2026.md) |
+| **Resolução CGSN nº 192/2026** | Altera a Resolução CGSN 11/2007 sobre a arrecadação do regime unificado, com referências ao IBS | [ato-152805-192-2026.md](../reguladores/rfb/outros-atos/2026/ato-152805-192-2026.md) |
+| **Resolução CGSN nº 194/2026** | Altera a Resolução CGSN 186/2026 | [ato-153801-194-2026.md](../reguladores/rfb/outros-atos/2026/ato-153801-194-2026.md) |
+| **Resolução CGSN nº 196/2026** | Altera as Resoluções CGSN 140/2018 e 190/2026; traz os Anexos I a V com alíquotas e partilha do Simples Nacional | [ato-154694-196-2026.md](../reguladores/rfb/outros-atos/2026/ato-154694-196-2026.md) |
+## 8. Governança do Comitê Gestor do IBS (Resoluções CGIBS)
+| Ato | Conteúdo | Arquivo |
+| :--- | :--- | :--- |
+| **Resolução CGIBS nº 4/2026** | Regimento Interno Procedimental | [resolucao-cgibs-4-2026-regimento-interno-procedimental.md](../reforma-tributaria/cgibs/resolucao-cgibs-4-2026-regimento-interno-procedimental.md) |
+| **Resoluções CGIBS nº 5 e nº 9/2026** | Alteram o Regimento Interno Procedimental | [5](../reforma-tributaria/cgibs/resolucao-cgibs-5-2026-altera-regimento-interno.md) e [9](../reforma-tributaria/cgibs/resolucao-cgibs-9-2026-altera-regimento-procedimental.md) |
+| **Resolução CGIBS nº 14/2026** | Proposta do percentual do IBS destinado ao financiamento do CGIBS em 2027 e estimativa de arrecadação do IBS | [resolucao-cgibs-14-2026-percentual-ibs-financiamento-cgibs-2027.md](../reforma-tributaria/cgibs/resolucao-cgibs-14-2026-percentual-ibs-financiamento-cgibs-2027.md) |
+| **Resolução CGIBS nº 20/2026** | Tipologia, competência e publicidade dos atos e instrumentos formais do CGIBS | [resolucao-cgibs-20-2026-tipologia-dos-atos.md](../reforma-tributaria/cgibs/resolucao-cgibs-20-2026-tipologia-dos-atos.md) |
+## 9. Publicações Institucionais e Orientações Técnicas (2026)
 - **Cálculo da Alíquota de Referência pelo TCU ([Relatório TCU 2026](../reforma-tributaria/publicacoes/2026/tcu-calculo-referencia-cbs-2027.md)):** Estudo técnico do Tribunal de Contas da União estimando a alíquota de referência federal da CBS para 2027 em **11,3%**.
 - **Cronograma de Documentos Fiscais Eletrônicos da RFB ([Orientação RFB 2026](../reforma-tributaria/publicacoes/2026/rfb-cronograma-documentos-fiscais.md)):** Cronograma de adequação das NF-e, NFC-e e CT-e aos campos e regras do IBS, CBS e Split Payment.
 - **Adequação Tarifária do Saneamento pela ANA ([Resolução ANA 2026](../reforma-tributaria/publicacoes/2026/ana-adequacao-tarifas-saneamento-cbs.md)):** Diretrizes da Agência Nacional de Águas e Saneamento Básico para o reequilíbrio econômico-financeiro dos contratos de concessão perante a entrada em vigor da CBS.
