@@ -63,30 +63,34 @@ CABECALHOS_ORGAO = (
 )
 
 
+INICIO_PREAMBULO = re.compile(
+    r"^(Publicada\b|O (COMITÊ|CONSELHO|Conselho|Comitê|MINISTRO|PRESIDENTE|SECRETÁRIO)\b|CONSIDERANDO\b|RESOLVE\b|RESOLVEM\b)"
+)
+
+
 def _preambulo(linhas: list[str], rx_titulo: re.Pattern) -> list[str]:
-    """Epígrafe, ementa, preâmbulo e fórmula de promulgação como blocos próprios."""
-    texto = " ".join(l.strip() for l in linhas if l.strip() and not NUMERO_PAGINA.fullmatch(l.strip()))
-    for cab in CABECALHOS_ORGAO:
-        texto = texto.replace(cab, " ")
-    texto = re.sub(r"\s+", " ", texto).strip()
-    m = rx_titulo.search(texto)
-    if not m:
-        return [texto]
-    titulo = m.group(0).strip()
-    resto = texto[m.end():].strip()
-    m_ato = re.search(r"\bO COMITÊ GESTOR\b|\bO MINISTRO\b|\bO PRESIDENTE\b|\bO SECRETÁRIO\b", resto)
-    ementa = resto[:m_ato.start()].strip() if m_ato else resto
-    fundamentacao = resto[m_ato.start():].strip() if m_ato else ""
-    blocos = [titulo]
+    """Epígrafe, ementa, fundamentação e fórmula de promulgação como blocos próprios."""
+    limpas = [l.strip() for l in linhas if l.strip() and not NUMERO_PAGINA.fullmatch(l.strip())]
+    idx = next((i for i, l in enumerate(limpas) if rx_titulo.search(l)), None)
+    if idx is None:
+        return [" ".join(limpas)]
+    antes = " ".join(limpas[:idx])
+    for cab in CABECALHOS_ORGAO + ("COMITÊ GESTOR DO IMPOSTO SOBRE BENS E SERVIÇOS - CGIBS",):
+        antes = antes.replace(cab, " ")
+    if antes.strip():
+        raise RuntimeError(f"Texto anterior à epígrafe não reconhecido: {antes.strip()!r}")
+    resto = limpas[idx + 1:]
+    ementa = []
+    while resto and not INICIO_PREAMBULO.match(resto[0]):
+        ementa.append(resto.pop(0))
+    blocos = [limpas[idx]]
     if ementa:
-        blocos.append(ementa)
-    if fundamentacao:
-        m_res = re.search(r"\bRESOLVE:?\s*$", fundamentacao)
-        if m_res:
-            blocos.append(fundamentacao[:m_res.start()].strip())
-            blocos.append("RESOLVE:")
+        blocos.append(" ".join(ementa))
+    for linha in resto:
+        if INICIO_PREAMBULO.match(linha) or INICIO_BLOCO.match(linha) or not blocos:
+            blocos.append(linha)
         else:
-            blocos.append(fundamentacao)
+            blocos[-1] = f"{blocos[-1]} {linha}"
     return blocos
 
 
