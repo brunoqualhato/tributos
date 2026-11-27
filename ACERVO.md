@@ -1,8 +1,8 @@
 # Catálogo Geral do Acervo Tributário e Contábil (ACERVO.md)
 
-Documento gerado automaticamente em **27/11/2026 às 15:19:03**.
+Documento gerado automaticamente em **27/11/2026 às 15:42:56**.
 
-**Total de Documentos Catalogados e Auditados:** `1371`
+**Total de Documentos Catalogados e Auditados:** `1375`
 
 ---
 
@@ -33,7 +33,7 @@ Documento gerado automaticamente em **27/11/2026 às 15:19:03**.
 - **Processo Tributário e Fiscal:** `15` documentos
 - **Processo e Procedimento Fiscal:** `2` documentos
 - **Produtos e Mercadorias:** `236` documentos
-- **Reforma Tributária e Transição:** `61` documentos
+- **Reforma Tributária e Transição:** `65` documentos
 - **Serviços e ISS:** `15` documentos
 - **Serviços e Retenções:** `59` documentos
 - **Tributação Financeira e IOF:** `12` documentos
@@ -1354,7 +1354,7 @@ Documento gerado automaticamente em **27/11/2026 às 15:19:03**.
 | **Matriz Consolidada de Regras Tributárias Estaduais e Interestaduais das 27 Unidades da Federação (ICMS, DIFAL, FCP, ICMS-ST, ZFM/ALC, ITCMD e IPVA)** | 2026 | Conselho Nacional de Política Fazendária - CONFAZ / Secretarias de Fazenda das 27 UFs | ICMS, ICMS-ST, ITCMD, IPVA | Em vigor | [Visualizar na Fonte Oficial](https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV236_21) | [`estaduais/confaz/matriz-regras-interestaduais-27-ufs.md`](estaduais/confaz/matriz-regras-interestaduais-27-ufs.md) |
 | **Mapa Nacional de Adesão e Desoneração (Exclusão) da Substituição Tributária (ICMS-ST) por Segmento e por Estado** | 2026 | Conselho Nacional de Política Fazendária - CONFAZ / Secretarias de Fazenda Estaduais | ICMS, ICMS-ST | Em vigor | [Visualizar na Fonte Oficial](https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV142_18) | [`estaduais/confaz/protocolos-icms/mapa-protocolos-st-por-segmento-e-uf.md`](estaduais/confaz/protocolos-icms/mapa-protocolos-st-por-segmento-e-uf.md) |
 
-## Reforma Tributária e Transição (61 documentos)
+## Reforma Tributária e Transição (65 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
@@ -1377,7 +1377,11 @@ Documento gerado automaticamente em **27/11/2026 às 15:19:03**.
 | **Decreto nº 12.955, de 29 de abril de 2026 (Regulamento da Contribuição sobre Bens e Serviços - CBS)** | 2026 | Presidência da República | CBS, IBS, PIS/Pasep, Cofins | Em vigor (alterado pelo Decreto nº 13.075/2026) | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-29;12955) | [`reforma-tributaria/regulamentos/decreto-12955-2026-regulamento-cbs.md`](reforma-tributaria/regulamentos/decreto-12955-2026-regulamento-cbs.md) |
 | **Resolução CGIBS nº 13, de 22 de julho de 2026 (Altera o Regulamento do IBS)** | 2026 | Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) | IBS | Em vigor | [Visualizar na Fonte Oficial](https://www.cgibs.gov.br/upload/arquivos/202607/22121010-resolucao-cgibs-n-13-de-22-de-julho-de-2026.pdf) | [`reforma-tributaria/regulamentos/resolucao-cgibs-13-2026-altera-regulamento-ibs.md`](reforma-tributaria/regulamentos/resolucao-cgibs-13-2026-altera-regulamento-ibs.md) |
 | **Decreto nº 13.075, de 21 de julho de 2026 (Altera o Regulamento da CBS)** | 2026 | Presidência da República | CBS, IBS | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-07-21;13075) | [`reforma-tributaria/regulamentos/decreto-13075-2026-altera-regulamento-cbs.md`](reforma-tributaria/regulamentos/decreto-13075-2026-altera-regulamento-cbs.md) |
+| **Decreto nº 13.133, de 9 de outubro de 2026 (Delega ao Ministro da Fazenda a divulgação das alíquotas da CBS sobre combustíveis)** | 2026 | Presidência da República | CBS | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-10-09;13133) | [`reforma-tributaria/regulamentos/decreto-13133-2026-delega-aliquotas-cbs-combustiveis.md`](reforma-tributaria/regulamentos/decreto-13133-2026-delega-aliquotas-cbs-combustiveis.md) |
+| **Medida Provisória nº 1.399, de 4 de novembro de 2026 (Alíquotas e normas do Imposto Seletivo para 2027)** | 2026 | Presidência da República | Imposto Seletivo, CBS, IPI | Em vigor (medida provisória; conversão em lei pendente) | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2026-11-04;1399) | [`reforma-tributaria/medida-provisoria-1399-2026-aliquotas-imposto-seletivo-2027.md`](reforma-tributaria/medida-provisoria-1399-2026-aliquotas-imposto-seletivo-2027.md) |
 | **Resolução CGIBS nº 14, de 29 de julho de 2026 (Percentual do IBS para o Financiamento do CGIBS e Estimativa de Arrecadação em 2027)** | 2026 | Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) | IBS | Em vigor | [Visualizar na Fonte Oficial](https://www.cgibs.gov.br/upload/arquivos/202607/31144942-resoluc-ao-cgibs-n-14-de-29-de-julho-de-2026-proposta-percentual-ibs-cgibs-2027.pdf) | [`reforma-tributaria/cgibs/resolucao-cgibs-14-2026-percentual-ibs-financiamento-cgibs-2027.md`](reforma-tributaria/cgibs/resolucao-cgibs-14-2026-percentual-ibs-financiamento-cgibs-2027.md) |
+| **Resolução CGIBS nº 16, de 29 de julho de 2026 (Competência do Presidente do Conselho Superior para o ato conjunto de obrigatoriedade dos DF-e)** | 2026 | Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) | IBS | Em vigor | [Visualizar na Fonte Oficial](https://www.cgibs.gov.br/upload/arquivos/202607/29175824-doc-20260729-wa0035-260729-175811.pdf) | [`reforma-tributaria/cgibs/resolucao-cgibs-16-2026-competencia-presidente-obrigatoriedade-dfe.md`](reforma-tributaria/cgibs/resolucao-cgibs-16-2026-competencia-presidente-obrigatoriedade-dfe.md) |
+| **Resolução CGIBS nº 17, de 30 de julho de 2026 (Competência da Diretoria Executiva para atos técnicos)** | 2026 | Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) | IBS | Em vigor (efeitos até a entrada em vigor do regimento interno estrutural) | [Visualizar na Fonte Oficial](https://www.cgibs.gov.br/upload/arquivos/202607/30184100-doc-20260730-wa0034-260730-183903.pdf) | [`reforma-tributaria/cgibs/resolucao-cgibs-17-2026-competencia-direx-atos-tecnicos.md`](reforma-tributaria/cgibs/resolucao-cgibs-17-2026-competencia-direx-atos-tecnicos.md) |
 | **Resolução CGSN nº 186, de 9 de abril de 2026** | 2026 | Comitê Gestor do Simples Nacional (CGSN) | Simples Nacional, IBS, CBS | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/150653) | [`reguladores/rfb/outros-atos/2026/ato-150653-186-2026.md`](reguladores/rfb/outros-atos/2026/ato-150653-186-2026.md) |
 | **Resolução CGSN nº 190, de 4 de agosto de 2026** | 2026 | Comitê Gestor do Simples Nacional (CGSN) | Simples Nacional, IBS, CBS | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/152832) | [`reguladores/rfb/outros-atos/2026/ato-152832-190-2026.md`](reguladores/rfb/outros-atos/2026/ato-152832-190-2026.md) |
 | **Resolução CGSN nº 192, de 4 de agosto de 2026** | 2026 | Comitê Gestor do Simples Nacional (CGSN) | Simples Nacional, IBS | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/152805) | [`reguladores/rfb/outros-atos/2026/ato-152805-192-2026.md`](reguladores/rfb/outros-atos/2026/ato-152805-192-2026.md) |
