@@ -18,7 +18,7 @@ versao_texto: "Original (DOU de 26/12/2025)"
 
 # Lei Complementar nº 224, de 26 de dezembro de 2025 (Redução de Incentivos e Benefícios Tributários da União)
 
-> **Nota editorial.** Texto original publicado em 26/12/2025 (DOU), obtido em normas.leg.br em 27/11/2026. Regulamentada pelo Decreto nº 12.808/2025 (`decreto-12808-2025-reducao-beneficios-tributarios.md`) e pela IN RFB nº 2.305/2025 (`ato-148694-2305-2025.md`, em `reguladores/rfb/instrucoes-normativas/2025/`). Segundo a ementa, a LC nº 239/2026 a alterou; essa alteração não foi incorporada ao texto abaixo.
+> **Nota editorial.** Texto original publicado em 26/12/2025 (DOU), obtido em normas.leg.br em 27/11/2026. Regulamentada pelo Decreto nº 12.808/2025 (`decreto-12808-2025-reducao-beneficios-tributarios.md`) e pela IN RFB nº 2.305/2025 (`ato-148694-2305-2025.md`, em `reguladores/rfb/instrucoes-normativas/2025/`). A LC nº 239/2026 (`lei-complementar-239-2026-instrumentos-gestao-fiscal.md`) altera o art. 4º; essa alteração não foi incorporada ao texto abaixo.
 
 LEI COMPLEMENTAR Nº 224, DE 26 DE DEZEMBRO DE 2025
 
