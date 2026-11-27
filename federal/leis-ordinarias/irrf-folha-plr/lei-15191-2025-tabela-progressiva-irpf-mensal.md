@@ -1,0 +1,65 @@
+---
+titulo: "Lei nº 15.191, de 11 de agosto de 2025 (Tabela progressiva mensal do IRPF; altera a Lei 11.482/2007)"
+esfera: "Federal"
+orgao: "Congresso Nacional / Presidência da República"
+tipo: "Lei Ordinária"
+numero: "15191"
+data: "2025-08-11"
+ano: "2025"
+tema_tributario: "Folha de Pagamento e Encargos"
+tributos_afetados: ["IRPF", "IRRF"]
+situacao: "Em vigor"
+revogada: false
+fonte: "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2025-08-11;15191"
+ementa: "Altera a Lei nº 11.482, de 31 de maio de 2007, a fim de modificar os valores da tabela progressiva mensal do Imposto sobre a Renda da Pessoa Física (IRPF); e revoga a Medida Provisória nº 1.294, de 11 de abril de 2025."
+data_consulta: "2026-11-27"
+versao_texto: "Original (DOU de 11/08/2025)"
+---
+
+# Lei nº 15.191, de 11 de agosto de 2025 (Tabela progressiva mensal do IRPF; altera a Lei 11.482/2007)
+
+> **Nota editorial.** Texto original publicado em 11/08/2025 (DOU), obtido em normas.leg.br em 27/11/2026. Altera a Lei nº 11.482/2007 (`federal/leis-ordinarias/irrf-folha-plr/lei-11482-2007-tabela-progressiva-irpf.md`) e revoga a Medida Provisória nº 1.294/2025. As tabelas foram convertidas para Markdown conforme o texto original.
+
+LEI Nº 15.191, DE 11 DE AGOSTO DE 2025
+
+Altera a Lei nº 11.482, de 31 de maio de 2007, a fim de modificar os valores da tabela progressiva mensal do Imposto sobre a Renda da Pessoa Física (IRPF); e revoga a Medida Provisória nº 1.294, de 11 de abril de 2025.
+
+O PRESIDENTE DA REPÚBLICA
+
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Esta Lei altera o art. 1º da Lei nº 11.482, de 31 de maio de 2007, a fim de modificar os valores da tabela progressiva mensal do Imposto sobre a Renda da Pessoa Física (IRPF), para ampliar, a partir de maio de 2025, o limite da primeira faixa da referida tabela, e revoga a Medida Provisória nº 1.294, de 11 de abril de 2025.
+
+Art. 2º O art. 1º da Lei nº 11.482, de 31 de maio de 2007, passa a vigorar com as seguintes alterações:
+
+“Art. 1º...........................................................................................................
+
+........................................................................................................................
+
+XI - a partir do mês de fevereiro do ano-calendário de 2024 até o mês de abril do ano-calendário de 2025:
+
+.......................................................................................................................
+
+XII - a partir do mês de maio do ano-calendário de 2025:
+
+Tabela Progressiva Mensal
+
+| Base de Cálculo (R$) | Alíquota (%) | Parcela a Deduzir do IR (R$) |
+| --- | --- | --- |
+| Até 2.428,80 | 0 | 0 |
+| De 2.428,81 até 2.826,65 | 7,5 | 182,16 |
+| De 2.826,66 até 3.751,05 | 15 | 394,16 |
+| De 3.751,06 até 4.664,68 | 22,5 | 675,49 |
+| Acima de 4.664,68 | 27,5 | 908,73 |
+
+...............................................................................................................” (NR)
+
+Art. 3º Fica revogada a Medida Provisória nº 1.294, de 11 de abril de 2025.
+
+Art. 4º Esta Lei entra em vigor na data de sua publicação.
+
+Brasília, 11 de agosto de 2025; 204º da Independência e 137º da República.
+
+LUIZ INÁCIO LULA DA SILVA
+
+Fernando Haddad
