@@ -2,7 +2,7 @@
 Especialistas: tributos_dividendos, tributos_produtos e tributos_servicos
 
 Documentos (texto original em normas.leg.br):
-- Redução de benefícios tributários: LC 224/2025, Decreto 12.808/2025, LC 229/2026, LC 235/2026 e LC 237/2026;
+- Redução de benefícios tributários: LC 224/2025, Decreto 12.808/2025, LC 229/2026, LC 235/2026, LC 237/2026 e LC 239/2026;
 - Processo e direitos do contribuinte: LC 225/2026 (Código de Defesa do Contribuinte) e LC 236/2026 (CTN);
 - Renda: Lei 15.270/2025 (redução do IR de baixa renda, tributação mínima e IRRF sobre dividendos).
 
@@ -28,7 +28,7 @@ NORMAS = [
      "Dispõe sobre a redução e os critérios de concessão de incentivos e benefícios de natureza tributária, financeira ou creditícia concedidos exclusivamente no âmbito da União; estabelece a responsabilidade solidária de terceiros pelo recolhimento de tributos incidentes sobre a exploração de apostas de quota fixa; e altera as Leis Complementares nºs 101/2000, 105/2001 e 215/2025 e as Leis nºs 7.689/1988, 9.249/1995, 13.756/2018 e 8.137/1990.",
      ["Regulamentada pelo Decreto nº 12.808/2025 (`decreto-12808-2025-reducao-beneficios-tributarios.md`) e pela IN RFB nº 2.305/2025 "
       "(`ato-148694-2305-2025.md`, em `reguladores/rfb/instrucoes-normativas/2025/`). "
-      "Segundo a ementa, a LC nº 239/2026 a alterou; essa alteração não foi incorporada ao texto abaixo."]),
+      "A LC nº 239/2026 (`lei-complementar-239-2026-instrumentos-gestao-fiscal.md`) altera o art. 4º; essa alteração não foi incorporada ao texto abaixo."]),
     ("urn:lex:br:federal:decreto:2025-12-29;12808",
      "federal/beneficios-tributarios/decreto-12808-2025-reducao-beneficios-tributarios.md",
      "Decreto", "12808", "2025-12-29",
@@ -51,7 +51,8 @@ NORMAS = [
      CONGRESSO, "Benefícios e Incentivos Fiscais", ["PIS/Pasep", "Cofins"],
      "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio e excepcionaliza os benefícios tributários destinados à Política Nacional de Minerais Críticos e Estratégicos, ao Programa de Desenvolvimento da Indústria de Fertilizantes e à realização da Copa do Mundo Feminina, e dá outras providências.",
      ["O art. 5º permite às produtoras de etanol utilizar saldos credores de PIS/Pasep e Cofins, regulamentado pela IN RFB nº 2.344/2026 "
-      "(fora deste lote). Segundo a ementa, a LC nº 239/2026 a alterou; essa alteração não foi incorporada ao texto abaixo."]),
+      "(`reguladores/rfb/instrucoes-normativas/2026/ato-153636-2344-2026.md`). A LC nº 239/2026 (`lei-complementar-239-2026-instrumentos-gestao-fiscal.md`) altera o art. 14; "
+      "essa alteração não foi incorporada ao texto abaixo."]),
     ("urn:lex:br:federal:lei.complementar:2026-09-15;237",
      "federal/beneficios-tributarios/lei-complementar-237-2026-altera-lc-229.md",
      "Lei Complementar", "237", "2026-09-15",
@@ -59,6 +60,15 @@ NORMAS = [
      CONGRESSO, "Benefícios e Incentivos Fiscais", ["IRPJ", "CSLL"],
      "Altera a Lei Complementar nº 229, de 30 de março de 2026, para incluir o regime especial de tributação para serviços de datacenter, os programas federais de financiamento de ações de apoio às pessoas com câncer e às pessoas com deficiência e a desoneração do IRPJ e da CSLL das sociedades resseguradoras locais entre as exceções às regras de concessão de benefícios tributários; e altera a Lei Complementar nº 101/2000 (LRF).",
      ["Altera a Lei Complementar nº 229/2026 (`lei-complementar-229-2026-beneficios-tributarios-2026.md`)."]),
+    ("urn:lex:br:federal:lei.complementar:2026-11-24;239",
+     "federal/beneficios-tributarios/lei-complementar-239-2026-instrumentos-gestao-fiscal.md",
+     "Lei Complementar", "239", "2026-11-24",
+     "Lei Complementar nº 239, de 24 de novembro de 2026 (Instrumentos de Gestão Fiscal; Altera as LC 224/2025 e 235/2026)",
+     CONGRESSO, "Benefícios e Incentivos Fiscais", ["PIS/Pasep", "Cofins", "CBS"],
+     "Altera as Leis Complementares nº 200/2023, nº 176/2020, nº 235/2026 e nº 224/2025 e as Leis nº 11.540/2007 e nº 9.796/1999 para conferir ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+     ["Altera o art. 14 da LC nº 235/2026 (`lei-complementar-235-2026-renuncias-choque-energia.md`) e o art. 4º da LC nº 224/2025 "
+      "(`lei-complementar-224-2025-reducao-beneficios-tributarios.md`). O art. 9º limita o regime especial fiscal do art. 106 da LC nº 214/2025 "
+      "ao valor do demonstrativo de gastos tributários da LOA 2026, corrigido pelo IPCA."]),
     ("urn:lex:br:federal:lei.complementar:2026-01-08;225",
      "federal/leis-complementares/lei-complementar-225-2026-codigo-defesa-contribuinte.md",
      "Lei Complementar", "225", "2026-01-08",

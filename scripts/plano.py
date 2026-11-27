@@ -43,8 +43,8 @@ PLANO = [
               "Sigilo Bancário (LC 105), Prescrição (LC 118), MEI (LC 128), Convalidação (LC 160), Protesto (LC 208), Código de Defesa do Contribuinte (LC 225/2026) e Solução de Controvérsias no CTN (LC 236/2026)",
               "federal/leis-complementares-gerais", 7, 1, "normas.leg.br"),
     ItemPlano("1. Legislação Estruturante & Códigos", "Benefícios e Incentivos Fiscais",
-              "Redução linear de benefícios tributários da União (LC 224/2025 e Decreto 12.808/2025) e regras de exceção de 2026 (LC 229, LC 235 e LC 237)",
-              "federal/beneficios-tributarios", 5, 1, "normas.leg.br"),
+              "Redução linear de benefícios tributários da União (LC 224/2025 e Decreto 12.808/2025) e regras de exceção de 2026 (LC 229, LC 235, LC 237 e LC 239)",
+              "federal/beneficios-tributarios", 6, 1, "normas.leg.br"),
     ItemPlano("1. Legislação Estruturante & Códigos", "Decretos-Leis Estruturantes",
               "Delimitação ITR/IPTU (DL 57/66) e Zona Franca de Manaus (DL 288/67)",
               "federal/decretos-leis", 2, 1, "normas.leg.br"),
@@ -224,10 +224,10 @@ PLANO = [
               "reguladores/carf/sumulas", 11, 2, "carf.fazenda.gov.br"),
     ItemPlano("10. Contabilidade e Precedentes", "Instruções Normativas da RFB (Gerais)",
               "Instruções Normativas vigentes estruturantes da Receita Federal (exceto financeiro)",
-              "reguladores/rfb/instrucoes-normativas-gerais", 94, 2, "normas.receita.fazenda.gov.br"),
+              "reguladores/rfb/instrucoes-normativas-gerais", 103, 2, "normas.receita.fazenda.gov.br"),
     ItemPlano("10. Contabilidade e Precedentes", "Atos Executivos e Soluções de Consulta",
               "Soluções de Consulta COSIT/DISIT, Portarias e Atos Declaratórios da RFB",
-              "reguladores/rfb/outros-atos", 629, 2, "normas.receita.fazenda.gov.br"),
+              "reguladores/rfb/outros-atos", 630, 2, "normas.receita.fazenda.gov.br"),
 ]
 
 def resolver_arquivos(caminho_relativo: str) -> set[Path]:

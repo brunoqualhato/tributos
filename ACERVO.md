@@ -1,8 +1,8 @@
 # Catálogo Geral do Acervo Tributário e Contábil (ACERVO.md)
 
-Documento gerado automaticamente em **27/11/2026 às 08:48:33**.
+Documento gerado automaticamente em **27/11/2026 às 08:52:32**.
 
-**Total de Documentos Catalogados e Auditados:** `1336`
+**Total de Documentos Catalogados e Auditados:** `1347`
 
 ---
 
@@ -11,7 +11,7 @@ Documento gerado automaticamente em **27/11/2026 às 08:48:33**.
 - **Agronegócio e Fundos:** `7` documentos
 - **Benefícios Fiscais e Fundos Estaduais:** `1` documentos
 - **Benefícios Fiscais e Regimes Especiais:** `1` documentos
-- **Benefícios e Incentivos Fiscais:** `7` documentos
+- **Benefícios e Incentivos Fiscais:** `11` documentos
 - **Combustíveis e Energia:** `16` documentos
 - **Contabilidade:** `77` documentos
 - **Contabilidade e Precedentes:** `4` documentos
@@ -30,7 +30,7 @@ Documento gerado automaticamente em **27/11/2026 às 08:48:33**.
 - **Processo Administrativo Fiscal:** `1` documentos
 - **Processo Administrativo Tributário:** `5` documentos
 - **Processo Administrativo Tributário e Contencioso:** `3` documentos
-- **Processo Tributário e Fiscal:** `8` documentos
+- **Processo Tributário e Fiscal:** `15` documentos
 - **Processo e Procedimento Fiscal:** `2` documentos
 - **Produtos e Mercadorias:** `236` documentos
 - **Reforma Tributária e Transição:** `37` documentos
@@ -65,7 +65,7 @@ Documento gerado automaticamente em **27/11/2026 às 08:48:33**.
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
 | **Decreto Estadual nº 7.799, de 9 de maio de 2000 (Regime Especial Atacadista da Bahia)** | 2000 | Governo do Estado da Bahia / Secretaria da Fazenda | ICMS | Em vigor | [Visualizar na Fonte Oficial](http://mbusca.sefaz.ba.gov.br/DITRI/decretos/decretos_estaduais/decest_2000_7799.pdf) | [`estaduais/ba/ricms/decreto-7799-2000-atacadista-desenvolve-ba.md`](estaduais/ba/ricms/decreto-7799-2000-atacadista-desenvolve-ba.md) |
 
-## Benefícios e Incentivos Fiscais (7 documentos)
+## Benefícios e Incentivos Fiscais (11 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
@@ -74,8 +74,12 @@ Documento gerado automaticamente em **27/11/2026 às 08:48:33**.
 | **Decreto nº 12.808, de 29 de dezembro de 2025 (Redução de Benefícios Tributários - LC 224/2025)** | 2025 | Presidência da República | IRPJ, CSLL, PIS/Pasep, Cofins, IPI, Imposto de Importação | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2025-12-29;12808) | [`federal/beneficios-tributarios/decreto-12808-2025-reducao-beneficios-tributarios.md`](federal/beneficios-tributarios/decreto-12808-2025-reducao-beneficios-tributarios.md) |
 | **Lei Complementar nº 224, de 26 de dezembro de 2025 (Redução de Incentivos e Benefícios Tributários da União)** | 2025 | Congresso Nacional / Presidência da República | IRPJ, CSLL, PIS/Pasep, Cofins, IPI, Imposto de Importação | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2025-12-26;224) | [`federal/beneficios-tributarios/lei-complementar-224-2025-reducao-beneficios-tributarios.md`](federal/beneficios-tributarios/lei-complementar-224-2025-reducao-beneficios-tributarios.md) |
 | **Lei Complementar nº 229, de 30 de março de 2026 (Benefícios Tributários e Despesas Obrigatórias em 2026)** | 2026 | Congresso Nacional / Presidência da República | PIS/Pasep, Cofins | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2026-03-30;229) | [`federal/beneficios-tributarios/lei-complementar-229-2026-beneficios-tributarios-2026.md`](federal/beneficios-tributarios/lei-complementar-229-2026-beneficios-tributarios-2026.md) |
+| **Instrução Normativa RFB nº 2306, de 22 de janeiro de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | IRPJ, CSLL, PIS/Pasep, Cofins, IPI, Imposto de Importação | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148959) | [`reguladores/rfb/instrucoes-normativas/2026/ato-148959-2306-2026.md`](reguladores/rfb/instrucoes-normativas/2026/ato-148959-2306-2026.md) |
+| **Instrução Normativa RFB nº 2307, de 20 de fevereiro de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | IRPJ, CSLL, PIS/Pasep, Cofins, IPI, Imposto de Importação | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/149398) | [`reguladores/rfb/instrucoes-normativas/2026/ato-149398-2307-2026.md`](reguladores/rfb/instrucoes-normativas/2026/ato-149398-2307-2026.md) |
+| **Instrução Normativa RFB nº 2344, de 18 de setembro de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | PIS/Pasep, Cofins | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/153636) | [`reguladores/rfb/instrucoes-normativas/2026/ato-153636-2344-2026.md`](reguladores/rfb/instrucoes-normativas/2026/ato-153636-2344-2026.md) |
 | **Lei Complementar nº 235, de 27 de agosto de 2026 (Renúncias de Receita e Choque no Mercado de Energia)** | 2026 | Congresso Nacional / Presidência da República | PIS/Pasep, Cofins | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2026-08-27;235) | [`federal/beneficios-tributarios/lei-complementar-235-2026-renuncias-choque-energia.md`](federal/beneficios-tributarios/lei-complementar-235-2026-renuncias-choque-energia.md) |
 | **Lei Complementar nº 237, de 15 de setembro de 2026 (Altera a LC 229/2026: Datacenter, Resseguradoras e Programas Federais)** | 2026 | Congresso Nacional / Presidência da República | IRPJ, CSLL | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2026-09-15;237) | [`federal/beneficios-tributarios/lei-complementar-237-2026-altera-lc-229.md`](federal/beneficios-tributarios/lei-complementar-237-2026-altera-lc-229.md) |
+| **Lei Complementar nº 239, de 24 de novembro de 2026 (Instrumentos de Gestão Fiscal; Altera as LC 224/2025 e 235/2026)** | 2026 | Congresso Nacional / Presidência da República | PIS/Pasep, Cofins, CBS | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2026-11-24;239) | [`federal/beneficios-tributarios/lei-complementar-239-2026-instrumentos-gestao-fiscal.md`](federal/beneficios-tributarios/lei-complementar-239-2026-instrumentos-gestao-fiscal.md) |
 
 ## Combustíveis e Energia (16 documentos)
 
@@ -1082,7 +1086,7 @@ Documento gerado automaticamente em **27/11/2026 às 08:48:33**.
 | **Lei Estadual nº 6.949, de 11 de janeiro de 2017 (Processo Administrativo Tributário - PAT/PI)** | 2017 | Assembleia Legislativa do Estado do Piauí | ICMS, IPVA, ITCMD, Taxas | Em vigor | [Visualizar na Fonte Oficial](http://sapl.al.pi.leg.br/media/sapl/public/normajuridica/2017/4094/4094_texto_integral.pdf) | [`estaduais/pi/leis/pat/lei-5025-1998.md`](estaduais/pi/leis/pat/lei-5025-1998.md) |
 | **Lei Estadual nº 6.949, de 11 de janeiro de 2017 (Processo Administrativo Tributário - PAT/PI)** | 2017 | Assembleia Legislativa do Estado do Piauí | ICMS, IPVA, ITCMD, Taxas | Em vigor | [Visualizar na Fonte Oficial](http://sapl.al.pi.leg.br/media/sapl/public/normajuridica/2017/4094/4094_texto_integral.pdf) | [`estaduais/pi/leis/pat/lei-6949-2017.md`](estaduais/pi/leis/pat/lei-6949-2017.md) |
 
-## Processo Tributário e Fiscal (8 documentos)
+## Processo Tributário e Fiscal (15 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
@@ -1092,8 +1096,15 @@ Documento gerado automaticamente em **27/11/2026 às 08:48:33**.
 | **Lei Estadual nº 6.182, de 30 de dezembro de 1998 (PAT / TATE-PA)** | 1998 | Assembleia Legislativa do Estado do Pará / SEFA-PA | ICMS, ITCMD, IPVA, PAT | Em vigor; consolidação oficial atualizada | [Visualizar na Fonte Oficial](https://bancodeleis.alepa.pa.gov.br/arquivos/lei6182_1998_64533.pdf) | [`estaduais/pa/leis/pat/lei-6182-1998-tate-pa.md`](estaduais/pa/leis/pat/lei-6182-1998-tate-pa.md) |
 | **Lei Estadual nº 1.288, de 28 de dezembro de 2001 (PAT / CAT-TO)** | 2001 | Assembleia Legislativa do Estado do Tocantins / SEFAZ-TO | ICMS, ITCMD, IPVA, PAT | Em vigor; consolidação oficial atualizada | [Visualizar na Fonte Oficial](https://www.al.to.leg.br/arquivo/60825) | [`estaduais/to/leis/pat/lei-1288-2001-cat-to.md`](estaduais/to/leis/pat/lei-1288-2001-cat-to.md) |
 | **Lei Estadual nº 3.616, de 16 de março de 2020 (PAT / Processo Tributário AC)** | 2020 | Assembleia Legislativa do Estado do Acre / SEFAZ-AC | ICMS, ITCMD, IPVA, PAT | Em vigor; consolidação oficial atualizada | [Visualizar na Fonte Oficial](https://www.al.ac.leg.br/leis) | [`estaduais/ac/leis/pat/lei-3616-2020-pat-ac.md`](estaduais/ac/leis/pat/lei-3616-2020-pat-ac.md) |
+| **Instrução Normativa RFB nº 2295, de 3 de dezembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | Programas de Conformidade, Direitos do Contribuinte, Confia | Em vigor (alterada pelas INs RFB nº 2317 e nº 2328/2026) | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148173) | [`reguladores/rfb/instrucoes-normativas/2025/ato-148173-2295-2025.md`](reguladores/rfb/instrucoes-normativas/2025/ato-148173-2295-2025.md) |
 | **Lei Complementar nº 225, de 8 de janeiro de 2026 (Código de Defesa do Contribuinte)** | 2026 | Congresso Nacional / Presidência da República | Direitos do Contribuinte, Devedor Contumaz, Programas de Conformidade | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2026-01-08;225) | [`federal/leis-complementares/lei-complementar-225-2026-codigo-defesa-contribuinte.md`](federal/leis-complementares/lei-complementar-225-2026-codigo-defesa-contribuinte.md) |
+| **Instrução Normativa RFB nº 2316, de 25 de março de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | Programas de Conformidade, Direitos do Contribuinte, Sintonia | Em vigor (alterada pela IN RFB nº 2339/2026) | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/150221) | [`reguladores/rfb/instrucoes-normativas/2026/ato-150221-2316-2026.md`](reguladores/rfb/instrucoes-normativas/2026/ato-150221-2316-2026.md) |
+| **Instrução Normativa RFB nº 2317, de 25 de março de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | Programas de Conformidade, Direitos do Contribuinte, Confia | Em vigor (alterada pela IN RFB nº 2328/2026) | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/150220) | [`reguladores/rfb/instrucoes-normativas/2026/ato-150220-2317-2026.md`](reguladores/rfb/instrucoes-normativas/2026/ato-150220-2317-2026.md) |
+| **Instrução Normativa RFB nº 2318, de 26 de março de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | Programas de Conformidade, Direitos do Contribuinte, Operador Econômico Autorizado | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/150228) | [`reguladores/rfb/instrucoes-normativas/2026/ato-150228-2318-2026.md`](reguladores/rfb/instrucoes-normativas/2026/ato-150228-2318-2026.md) |
+| **Instrução Normativa RFB nº 2328, de 17 de junho de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | Programas de Conformidade, Direitos do Contribuinte, Confia | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/151846) | [`reguladores/rfb/instrucoes-normativas/2026/ato-151846-2328-2026.md`](reguladores/rfb/instrucoes-normativas/2026/ato-151846-2328-2026.md) |
+| **Instrução Normativa RFB nº 2339, de 21 de agosto de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | Programas de Conformidade, Direitos do Contribuinte, Sintonia | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/153174) | [`reguladores/rfb/instrucoes-normativas/2026/ato-153174-2339-2026.md`](reguladores/rfb/instrucoes-normativas/2026/ato-153174-2339-2026.md) |
 | **Lei Complementar nº 236, de 4 de setembro de 2026 (Solução de Controvérsias, Consensualidade e Processo Administrativo Tributário - CTN)** | 2026 | Congresso Nacional / Presidência da República | CTN, Processo Administrativo Tributário, Consensualidade | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2026-09-04;236) | [`federal/leis-complementares/lei-complementar-236-2026-solucao-controversias-ctn.md`](federal/leis-complementares/lei-complementar-236-2026-solucao-controversias-ctn.md) |
+| **Portaria Conjunta RFB / PGFN nº 6, de 26 de março de 2026** | 2026 | Procuradoria-Geral da Fazenda Nacional / Secretaria Especial da Receita Federal do Brasil | Devedor Contumaz, Direitos do Contribuinte | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/150207) | [`reguladores/rfb/outros-atos/2026/ato-150207-6-2026.md`](reguladores/rfb/outros-atos/2026/ato-150207-6-2026.md) |
 
 ## Processo e Procedimento Fiscal (2 documentos)
 

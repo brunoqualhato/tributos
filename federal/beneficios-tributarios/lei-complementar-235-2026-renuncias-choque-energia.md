@@ -18,7 +18,7 @@ versao_texto: "Original (DOU de 28/08/2026)"
 
 # Lei Complementar nº 235, de 27 de agosto de 2026 (Renúncias de Receita e Choque no Mercado de Energia)
 
-> **Nota editorial.** Texto original publicado em 28/08/2026 (DOU), obtido em normas.leg.br em 27/11/2026. O art. 5º permite às produtoras de etanol utilizar saldos credores de PIS/Pasep e Cofins, regulamentado pela IN RFB nº 2.344/2026 (fora deste lote). Segundo a ementa, a LC nº 239/2026 a alterou; essa alteração não foi incorporada ao texto abaixo.
+> **Nota editorial.** Texto original publicado em 28/08/2026 (DOU), obtido em normas.leg.br em 27/11/2026. O art. 5º permite às produtoras de etanol utilizar saldos credores de PIS/Pasep e Cofins, regulamentado pela IN RFB nº 2.344/2026 (`reguladores/rfb/instrucoes-normativas/2026/ato-153636-2344-2026.md`). A LC nº 239/2026 (`lei-complementar-239-2026-instrumentos-gestao-fiscal.md`) altera o art. 14; essa alteração não foi incorporada ao texto abaixo.
 
 LEI COMPLEMENTAR Nº 235, DE 27 DE AGOSTO DE 2026
 
