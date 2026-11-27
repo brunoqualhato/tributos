@@ -21,7 +21,7 @@ Bem-vindo à Wiki oficial do repositório **Tributos** — a base aberta, hipere
 
 ## ⚙️ Arquitetura, Governança e Automação
 - [Arquitetura dos Agentes, Auditoria e Rotina Periódica Local](Arquitetura-dos-Agentes-e-Automacao.md)
-- [Catálogo Completo das 1.418 Normas Catalogadas (`ACERVO.md`)](../ACERVO.md)
+- [Catálogo Completo das 1.422 Normas Catalogadas (`ACERVO.md`)](../ACERVO.md)
 - [Quadro de Metas e Cobertura dos 10 Pilares (`PROGRESSO.md`)](../PROGRESSO.md)
 - [Manual de Governança dos Agentes (`AGENT.md`)](../AGENT.md)
 
