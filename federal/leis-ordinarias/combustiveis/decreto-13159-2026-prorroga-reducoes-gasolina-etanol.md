@@ -1,0 +1,67 @@
+---
+titulo: "Decreto nº 13.159, de 9 de novembro de 2026 (Prorroga até 09/12/2026 as reduções de PIS/Cofins e Cide sobre gasolina e etanol hidratado)"
+esfera: "Federal"
+orgao: "Presidência da República"
+tipo: "Decreto"
+numero: "13159"
+data: "2026-11-09"
+ano: "2026"
+tema_tributario: "Combustíveis e Energia"
+tributos_afetados: ["PIS/Pasep Combustíveis", "Cofins Combustíveis", "CIDE-Combustíveis"]
+situacao: "Em vigor"
+revogada: false
+fonte: "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-11-09;13159"
+ementa: "Prorroga os prazos de redução das alíquotas da Contribuição para o Programa de Integração Social e para o Programa de Formação do Patrimônio do Servidor Público - PIS/Pasep, da Contribuição para o Financiamento da Seguridade Social - Cofins e da Contribuição de Intervenção no Domínio Econômico incidente sobre a importação e a comercialização de gasolina e suas correntes - Cide-Combustíveis incidentes sobre a gasolina e as suas correntes, exceto a gasolina de aviação, e da Contribuição para o PIS/Pasep e da Cofins incidentes sobre o etanol hidratado combustível."
+data_consulta: "2026-11-27"
+versao_texto: "Original (DOU de 09/11/2026)"
+---
+
+# Decreto nº 13.159, de 9 de novembro de 2026 (Prorroga até 09/12/2026 as reduções de PIS/Cofins e Cide sobre gasolina e etanol hidratado)
+
+> **Nota editorial.** Texto original publicado em 09/11/2026 (DOU), obtido em normas.leg.br em 27/11/2026. Prorroga até 9 de dezembro de 2026 as reduções de PIS/Pasep, Cofins e Cide-Combustíveis sobre a gasolina e de PIS/Pasep e Cofins sobre o etanol hidratado. Altera os Decretos nº 5.059/2004 (fora do acervo), nº 5.060/2004 (`federal/leis-ordinarias/combustiveis/decreto-5060-2004-aliquotas-cide.md`), nº 13.119/2026 (fora do acervo) e nº 13.134/2026, com fundamento no art. 2º da Lei Complementar nº 235/2026 (`federal/beneficios-tributarios/lei-complementar-235-2026-renuncias-choque-energia.md`). Vigente até 9 de dezembro de 2026 na data de consulta.
+
+DECRETO Nº 13.159, DE 9 DE NOVEMBRO DE 2026
+
+Prorroga os prazos de redução das alíquotas da Contribuição para o Programa de Integração Social e para o Programa de Formação do Patrimônio do Servidor Público - PIS/Pasep, da Contribuição para o Financiamento da Seguridade Social - Cofins e da Contribuição de Intervenção no Domínio Econômico incidente sobre a importação e a comercialização de gasolina e suas correntes - Cide-Combustíveis incidentes sobre a gasolina e as suas correntes, exceto a gasolina de aviação, e da Contribuição para o PIS/Pasep e da Cofins incidentes sobre o etanol hidratado combustível.
+
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, caput, inciso IV, da Constituição, e tendo em vista o disposto no art. 5º, § 4º e § 8º, da Lei nº 9.718, de 27 de novembro de 1998, no art. 9º, § 1º, da Lei nº 10.336, de 19 de dezembro de 2001, no art. 23, caput e § 5º, da Lei nº 10.865, de 30 de abril de 2004, e no art. 2º, § 5º e § 6º, da Lei Complementar nº 235, de 27 de agosto de 2026,
+
+DECRETA:
+
+Art. 1º O Decreto nº 5.059, de 30 de abril de 2004, passa a vigorar com as seguintes alterações:
+
+“Art. 1º.....................................................
+
+..........................................................
+
+§ 3º........................................................
+
+..........................................................
+
+II – 10 de outubro de 2026 até 9 de dezembro de 2026, o coeficiente de redução de que trata o inciso I do caput fica fixado em um inteiro para as gasolinas e as suas correntes, exceto a gasolina de aviação.” (NR)
+
+Art. 2º O Decreto nº 5.060, de 30 de abril de 2004, passa a vigorar com as seguintes alterações:
+
+“Art. 1º-A. A partir de 10 de outubro de 2026 até 9 de dezembro de 2026, fica reduzida a zero a alíquota específica da Cide para as gasolinas e suas correntes.” (NR)
+
+Art. 3º O Decreto nº 13.119, de 16 de setembro de 2026, passa a vigorar com as seguintes alterações:
+
+“Art. 2º-A....................................................
+
+§ 1º A subvenção econômica a que se refere o caput terá validade no período de 10 de outubro de 2026 até 9 de dezembro de 2026 e poderá ser prorrogada por ato do Ministro de Estado da Fazenda com vistas a assegurar manutenção da diferenciação competitiva, apurada na forma prevista no art. 2º, § 6º, da Lei Complementar nº 235, de 27 de agosto de 2026.
+
+......................................................” (NR)
+
+Art. 4º O Decreto nº 13.134, de 9 de outubro de 2026, passa a vigorar com as seguintes alterações:
+
+“Art. 2º A partir de 10 de outubro de 2026 até 9 de dezembro de 2026, na hipótese de operações com etanol hidratado combustível, o coeficiente de redução das alíquotas da Contribuição para o Programa de Integração Social e para o Programa de Formação do Patrimônio do Servidor Público - PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social - Cofins, de que trata o art. 5º, § 8º, da Lei nº 9.718, de 27 de novembro de 1998, aplicável às alíquotas a que se refere o art. 5º, § 4º, da referida Lei, fica fixado em um inteiro.
+
+......................................................” (NR)
+
+Art. 5º Este Decreto entra em vigor na data de sua publicação.
+
+Brasília, 9 de novembro de 2026; 205º da Independência e 138º da República.
+
+GERALDO JOSÉ RODRIGUES ALCKMIN FILHO
+
+Dario Carnevalli Durigan
