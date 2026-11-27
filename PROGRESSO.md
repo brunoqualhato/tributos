@@ -1,14 +1,14 @@
 # Progresso do Acervo Tributário e Contábil
 
-Gerado em: 27/11/2026 15:42:56. Escopo definido em `scripts/plano.py`.
+Gerado em: 27/11/2026 15:50:56. Escopo definido em `scripts/plano.py`.
 
-**Total de Documentos no Acervo:** 1375 / 1375 (100.0%)
+**Total de Documentos no Acervo:** 1383 / 1383 (100.0%)
 
 | Pilar / Subtema | Documentos | Meta | Cobertura | Pasta | Fonte Principal |
 | :--- | ---: | ---: | :---: | :--- | :--- |
 | **### 1. Legislação Estruturante & Códigos** | | | | | |
 | ✅ **Código Tributário Nacional**: CTN integral (Lei 5.172/1966) e LC 104/2001 | 2 | 2 | 100.0% | `federal/leis-complementares/ctn` | normas.leg.br |
-| ✅ **Simples Nacional e MEI**: Estatuto da Microempresa (LC 123/2006) e Resolução CGSN 140/2018 | 2 | 2 | 100.0% | `federal/leis-complementares/simples` | normas.leg.br |
+| ✅ **Simples Nacional e MEI**: Estatuto da Microempresa (LC 123/2006), Resolução CGSN 140/2018, LC 216/2025 (Programa Acredita Exportação) e LC 238/2026 (limite do MEI e remissão de créditos) | 4 | 4 | 100.0% | `federal/leis-complementares/simples` | normas.leg.br |
 | ✅ **Leis Complementares Gerais**: Sigilo Bancário (LC 105), Prescrição (LC 118), MEI (LC 128), Convalidação (LC 160), Protesto (LC 208), Código de Defesa do Contribuinte (LC 225/2026) e Solução de Controvérsias no CTN (LC 236/2026) | 7 | 7 | 100.0% | `federal/leis-complementares-gerais` | normas.leg.br |
 | ✅ **Benefícios e Incentivos Fiscais**: Redução linear de benefícios tributários da União (LC 224/2025 e Decreto 12.808/2025) e regras de exceção de 2026 (LC 229, LC 235, LC 237 e LC 239) | 6 | 6 | 100.0% | `federal/beneficios-tributarios` | normas.leg.br |
 | ✅ **Decretos-Leis Estruturantes**: Delimitação ITR/IPTU (DL 57/66) e Zona Franca de Manaus (DL 288/67) | 2 | 2 | 100.0% | `federal/decretos-leis` | normas.leg.br |
@@ -68,4 +68,4 @@ Gerado em: 27/11/2026 15:42:56. Escopo definido em `scripts/plano.py`.
 | ✅ **Precedentes Vinculantes STF / STJ**: Súmulas Vinculantes, Temas de Repercussão Geral e Recursos Repetitivos (SV 8, 29, 31, 48, 50, 57, Temas STF/STJ) | 23 | 23 | 100.0% | `jurisprudencia/precedentes-vinculantes` | STF / STJ |
 | ✅ **Súmulas do CARF**: Súmulas e Enunciados Vinculantes do Conselho Administrativo de Recursos Fiscais | 11 | 11 | 100.0% | `reguladores/carf/sumulas` | carf.fazenda.gov.br |
 | ✅ **Instruções Normativas da RFB (Gerais)**: Instruções Normativas vigentes estruturantes da Receita Federal (exceto financeiro) | 103 | 103 | 100.0% | `reguladores/rfb/instrucoes-normativas-gerais` | normas.receita.fazenda.gov.br |
-| ✅ **Atos Executivos e Soluções de Consulta**: Soluções de Consulta COSIT/DISIT, Portarias, Atos Declaratórios e Atos Técnicos Conjuntos RFB/CGIBS | 642 | 642 | 100.0% | `reguladores/rfb/outros-atos` | normas.receita.fazenda.gov.br |
+| ✅ **Atos Executivos e Soluções de Consulta**: Soluções de Consulta COSIT/DISIT, Portarias, Atos Declaratórios, Atos Técnicos Conjuntos RFB/CGIBS e atos do Simples Nacional e MEI (Resoluções CGSN 182, 183, 191, 195 e 198 e Portaria Conjunta RFB/PGFN 740/2026) | 648 | 648 | 100.0% | `reguladores/rfb/outros-atos` | normas.receita.fazenda.gov.br |

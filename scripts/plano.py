@@ -37,8 +37,8 @@ PLANO = [
               "CTN integral (Lei 5.172/1966) e LC 104/2001",
               "federal/leis-complementares/ctn", 2, 1, "normas.leg.br"),
     ItemPlano("1. Legislação Estruturante & Códigos", "Simples Nacional e MEI",
-              "Estatuto da Microempresa (LC 123/2006) e Resolução CGSN 140/2018",
-              "federal/leis-complementares/simples", 2, 1, "normas.leg.br"),
+              "Estatuto da Microempresa (LC 123/2006), Resolução CGSN 140/2018, LC 216/2025 (Programa Acredita Exportação) e LC 238/2026 (limite do MEI e remissão de créditos)",
+              "federal/leis-complementares/simples", 4, 1, "normas.leg.br"),
     ItemPlano("1. Legislação Estruturante & Códigos", "Leis Complementares Gerais",
               "Sigilo Bancário (LC 105), Prescrição (LC 118), MEI (LC 128), Convalidação (LC 160), Protesto (LC 208), Código de Defesa do Contribuinte (LC 225/2026) e Solução de Controvérsias no CTN (LC 236/2026)",
               "federal/leis-complementares-gerais", 7, 1, "normas.leg.br"),
@@ -226,8 +226,8 @@ PLANO = [
               "Instruções Normativas vigentes estruturantes da Receita Federal (exceto financeiro)",
               "reguladores/rfb/instrucoes-normativas-gerais", 103, 2, "normas.receita.fazenda.gov.br"),
     ItemPlano("10. Contabilidade e Precedentes", "Atos Executivos e Soluções de Consulta",
-              "Soluções de Consulta COSIT/DISIT, Portarias, Atos Declaratórios e Atos Técnicos Conjuntos RFB/CGIBS",
-              "reguladores/rfb/outros-atos", 642, 2, "normas.receita.fazenda.gov.br"),
+              "Soluções de Consulta COSIT/DISIT, Portarias, Atos Declaratórios, Atos Técnicos Conjuntos RFB/CGIBS e atos do Simples Nacional e MEI (Resoluções CGSN 182, 183, 191, 195 e 198 e Portaria Conjunta RFB/PGFN 740/2026)",
+              "reguladores/rfb/outros-atos", 648, 2, "normas.receita.fazenda.gov.br"),
 ]
 
 def resolver_arquivos(caminho_relativo: str) -> set[Path]:
