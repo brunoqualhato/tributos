@@ -563,3 +563,13 @@ Ingestão Concorrente Massiva: Fechamento das 27 UFs (ICMS Matrizes e Fundos Agr
 - Validação: 1.318 documentos aprovados no esquema, 0 rejeitados; auditoria de rede dos dez documentos novos aprovada.
 - Metas em `scripts/plano.py`: Atos Executivos e Soluções de Consulta de 614 para 624.
 - Branch temática: `reforma-tributaria/atos-conjuntos-rfb-cgibs-2026`, encadeada sobre `reforma-tributaria/regulamentos-cbs-ibs-2026`.
+## 27/11/2026 — Legislação federal de 2025-2026 ausente do acervo (benefícios, CDC, CTN e IRPF)
+- Verificação das leis complementares e ordinárias posteriores à EC 132/2023 contra normas.leg.br: oito normas relevantes não estavam no acervo como documentos próprios (apenas citadas em atos da RFB).
+- Redução de benefícios tributários (nova pasta `federal/beneficios-tributarios/`): LC nº 224/2025, Decreto nº 12.808/2025, LC nº 229/2026, LC nº 235/2026 e LC nº 237/2026.
+- Processo e direitos do contribuinte: LC nº 225/2026 (Código de Defesa do Contribuinte) e LC nº 236/2026 (normas gerais de solução de controvérsias e consensualidade, que alteram o CTN).
+- Renda: Lei nº 15.270/2025 (redução do IRPF, tributação mínima de altas rendas e IRRF sobre lucros e dividendos), em `federal/leis-ordinarias/dividendos-jcp/`.
+- Textos originais sem reescrita, com marcações "(VETADO)" preservadas. Alterações posteriores não foram incorporadas, e as fichas as indicam quando a ementa de outra norma as revela (a LC nº 239/2026 altera as LC nº 224/2025 e nº 235/2026).
+- Fora do lote por escolha: LC nº 239/2026 (instrumentos de gestão fiscal), IN RFB nº 2.344/2026 (saldos credores de PIS/Cofins), Resoluções CGSN nº 186, 190 e 196/2026 (Simples Nacional) e as instruções normativas de conformidade tributária de março de 2026.
+- Validação: 1.326 documentos aprovados no esquema, 0 rejeitados; auditoria de rede dos oito documentos novos aprovada.
+- Metas em `scripts/plano.py`: novo item Benefícios e Incentivos Fiscais (5); Leis Complementares Gerais de 5 para 7; Dividendos e JCP de 5 para 6.
+- Branch temática: `federal/legislacao-2025-2026-beneficios-cdc-ctn-ir`, encadeada sobre `reforma-tributaria/atos-conjuntos-rfb-cgibs-2026`.
