@@ -201,8 +201,8 @@ PLANO = [
     # PILAR 9: REFORMA TRIBUTÁRIA E TRANSIÇÃO
     # =========================================================================
     ItemPlano("9. Reforma Tributária", "Marco Constitucional e Leis Complementares",
-              "Emenda Constitucional nº 132/2023, LC 214/2025, LC 227/2026, PLP 68, PLP 108, Split Payment, NT NFS-e Nacional e publicações institucionais",
-              "reforma-tributaria", 12, 5, "Congresso Nacional / LexML"),
+              "Emenda Constitucional nº 132/2023, LC 214/2025, LC 227/2026, PLP 68, PLP 108, Split Payment, NT NFS-e Nacional, publicações institucionais e Regulamentos da CBS (Decreto 12.955/2026) e do IBS (Res. CGIBS 6/2026) com suas alterações",
+              "reforma-tributaria", 16, 5, "Congresso Nacional / LexML / CGIBS"),
 
     # =========================================================================
     # PILAR 10: NORMAS CONTÁBEIS (CPC E CFC) E ATOS REGULATÓRIOS DA RFB
@@ -224,7 +224,7 @@ PLANO = [
               "reguladores/rfb/instrucoes-normativas-gerais", 94, 2, "normas.receita.fazenda.gov.br"),
     ItemPlano("10. Contabilidade e Precedentes", "Atos Executivos e Soluções de Consulta",
               "Soluções de Consulta COSIT/DISIT, Portarias e Atos Declaratórios da RFB",
-              "reguladores/rfb/outros-atos", 613, 2, "normas.receita.fazenda.gov.br"),
+              "reguladores/rfb/outros-atos", 614, 2, "normas.receita.fazenda.gov.br"),
 ]
 
 def resolver_arquivos(caminho_relativo: str) -> set[Path]:

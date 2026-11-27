@@ -25,7 +25,16 @@ A [Lei Complementar nº 227/2026](../reforma-tributaria/lei-complementar-227-202
 - Arrecadar o IBS e distribuir as receitas aos entes federados conforme o princípio do destino.
 - Uniformizar a interpretação da legislação e julgar o contencioso administrativo tributário do imposto de forma colegiada e harmônica em todo o país.
 
-## 5. Publicações Institucionais e Orientações Técnicas (2026)
+## 5. Regulamentos da CBS e do IBS (2026)
+Os regulamentos infralegais da LC 214/2025 foram publicados em 30/04/2026 e já estão no acervo:
+| Ato | Conteúdo | Arquivo |
+| :--- | :--- | :--- |
+| **Decreto nº 12.955/2026** | Regulamento da CBS (620 artigos, Livros I a III), com as normas comuns ao IBS e à CBS no Livro I | [decreto-12955-2026-regulamento-cbs.md](../reforma-tributaria/regulamentos/decreto-12955-2026-regulamento-cbs.md) |
+| **Decreto nº 13.075/2026** | Altera os arts. 105, 115 e 619: pessoas físicas e produtores rurais passam a se inscrever no CNPJ e a emitir documentos fiscais a partir de 1º/01/2027 | [decreto-13075-2026-altera-regulamento-cbs.md](../reforma-tributaria/regulamentos/decreto-13075-2026-altera-regulamento-cbs.md) |
+| **Resolução CGIBS nº 6/2026** | Regulamento do IBS (617 artigos e Anexos I a V) | [resolucao-cgibs-6-2026-regulamento-ibs.md](../reforma-tributaria/regulamentos/resolucao-cgibs-6-2026-regulamento-ibs.md) |
+| **Resolução CGIBS nº 13/2026** | Altera o art. 617 do Regulamento do IBS, espelhando o Decreto 13.075/2026 | [resolucao-cgibs-13-2026-altera-regulamento-ibs.md](../reforma-tributaria/regulamentos/resolucao-cgibs-13-2026-altera-regulamento-ibs.md) |
+| **Portaria Conjunta MF/CGIBS nº 7/2026** | Reconhece o Livro I dos dois regulamentos como disposições comuns ao IBS e à CBS | [ato-150871-7-2026.md](../reguladores/rfb/outros-atos/2026/ato-150871-7-2026.md) |
+## 6. Publicações Institucionais e Orientações Técnicas (2026)
 - **Cálculo da Alíquota de Referência pelo TCU ([Relatório TCU 2026](../reforma-tributaria/publicacoes/2026/tcu-calculo-referencia-cbs-2027.md)):** Estudo técnico do Tribunal de Contas da União estimando a alíquota de referência federal da CBS para 2027 em **11,3%**.
 - **Cronograma de Documentos Fiscais Eletrônicos da RFB ([Orientação RFB 2026](../reforma-tributaria/publicacoes/2026/rfb-cronograma-documentos-fiscais.md)):** Cronograma de adequação das NF-e, NFC-e e CT-e aos campos e regras do IBS, CBS e Split Payment.
 - **Adequação Tarifária do Saneamento pela ANA ([Resolução ANA 2026](../reforma-tributaria/publicacoes/2026/ana-adequacao-tarifas-saneamento-cbs.md)):** Diretrizes da Agência Nacional de Águas e Saneamento Básico para o reequilíbrio econômico-financeiro dos contratos de concessão perante a entrada em vigor da CBS.

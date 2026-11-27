@@ -1,8 +1,8 @@
 # Catálogo Geral do Acervo Tributário e Contábil (ACERVO.md)
 
-Documento gerado automaticamente em **05/11/2026 às 21:40:28**.
+Documento gerado automaticamente em **27/11/2026 às 08:22:09**.
 
-**Total de Documentos Catalogados e Auditados:** `1303`
+**Total de Documentos Catalogados e Auditados:** `1308`
 
 ---
 
@@ -33,7 +33,7 @@ Documento gerado automaticamente em **05/11/2026 às 21:40:28**.
 - **Processo Tributário e Fiscal:** `6` documentos
 - **Processo e Procedimento Fiscal:** `2` documentos
 - **Produtos e Mercadorias:** `236` documentos
-- **Reforma Tributária e Transição:** `12` documentos
+- **Reforma Tributária e Transição:** `17` documentos
 - **Serviços e ISS:** `15` documentos
 - **Serviços e Retenções:** `59` documentos
 - **Tributação Financeira e IOF:** `12` documentos
@@ -1335,7 +1335,7 @@ Documento gerado automaticamente em **05/11/2026 às 21:40:28**.
 | **Matriz Consolidada de Regras Tributárias Estaduais e Interestaduais das 27 Unidades da Federação (ICMS, DIFAL, FCP, ICMS-ST, ZFM/ALC, ITCMD e IPVA)** | 2026 | Conselho Nacional de Política Fazendária - CONFAZ / Secretarias de Fazenda das 27 UFs | ICMS, ICMS-ST, ITCMD, IPVA | Em vigor | [Visualizar na Fonte Oficial](https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV236_21) | [`estaduais/confaz/matriz-regras-interestaduais-27-ufs.md`](estaduais/confaz/matriz-regras-interestaduais-27-ufs.md) |
 | **Mapa Nacional de Adesão e Desoneração (Exclusão) da Substituição Tributária (ICMS-ST) por Segmento e por Estado** | 2026 | Conselho Nacional de Política Fazendária - CONFAZ / Secretarias de Fazenda Estaduais | ICMS, ICMS-ST | Em vigor | [Visualizar na Fonte Oficial](https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV142_18) | [`estaduais/confaz/protocolos-icms/mapa-protocolos-st-por-segmento-e-uf.md`](estaduais/confaz/protocolos-icms/mapa-protocolos-st-por-segmento-e-uf.md) |
 
-## Reforma Tributária e Transição (12 documentos)
+## Reforma Tributária e Transição (17 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
@@ -1347,7 +1347,12 @@ Documento gerado automaticamente em **05/11/2026 às 21:40:28**.
 | **Lei Complementar nº 214, de 16 de janeiro de 2025 (Lei Geral do IBS, CBS e Imposto Seletivo)** | 2025 | Congresso Nacional / Presidência da República | IBS, CBS, Imposto Seletivo, Split Payment | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2025-01-16;214) | [`reforma-tributaria/lei-complementar-214-2025.md`](reforma-tributaria/lei-complementar-214-2025.md) |
 | **Modelo Operacional e Arquitetura Técnica do Split Payment Inteligente (IBS e CBS)** | 2025 | Ministério da Fazenda / Comitê Gestor do IBS / Receita Federal do Brasil / Banco Central | IBS, CBS, Imposto Seletivo, Split Payment | Em vigor / Regulamentação | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2025-01-16;214) | [`reforma-tributaria/split-payment/split-payment-modelo-operacional.md`](reforma-tributaria/split-payment/split-payment-modelo-operacional.md) |
 | **Nota Técnica Nacional da NFS-e (Padrão ADN): Leiaute do IBS e da CBS sobre Serviços, Grupos IBSCBS, cTribNac, cClassTrib e Integração com Split Payment (LC nº 214/2025)** | 2025 | Secretaria Especial da Receita Federal do Brasil (RFB) / Comitê Gestor da NFS-e de Padrão Nacional (CGNFS-e) | IBS, CBS, ISSQN, PIS/Pasep, Cofins | Em vigor | [Visualizar na Fonte Oficial](https://www.gov.br/nfse/pt-br) | [`reforma-tributaria/cbs-receita-federal/nota-tecnica-nfse-nacional-ibs-cbs.md`](reforma-tributaria/cbs-receita-federal/nota-tecnica-nfse-nacional-ibs-cbs.md) |
+| **Decreto nº 12.955, de 29 de abril de 2026 (Regulamento da Contribuição sobre Bens e Serviços - CBS)** | 2026 | Presidência da República | CBS, IBS, PIS/Pasep, Cofins | Em vigor (alterado pelo Decreto nº 13.075/2026) | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-04-29;12955) | [`reforma-tributaria/regulamentos/decreto-12955-2026-regulamento-cbs.md`](reforma-tributaria/regulamentos/decreto-12955-2026-regulamento-cbs.md) |
+| **Resolução CGIBS nº 13, de 22 de julho de 2026 (Altera o Regulamento do IBS)** | 2026 | Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) | IBS | Em vigor | [Visualizar na Fonte Oficial](https://www.cgibs.gov.br/upload/arquivos/202607/22121010-resolucao-cgibs-n-13-de-22-de-julho-de-2026.pdf) | [`reforma-tributaria/regulamentos/resolucao-cgibs-13-2026-altera-regulamento-ibs.md`](reforma-tributaria/regulamentos/resolucao-cgibs-13-2026-altera-regulamento-ibs.md) |
+| **Decreto nº 13.075, de 21 de julho de 2026 (Altera o Regulamento da CBS)** | 2026 | Presidência da República | CBS, IBS | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-07-21;13075) | [`reforma-tributaria/regulamentos/decreto-13075-2026-altera-regulamento-cbs.md`](reforma-tributaria/regulamentos/decreto-13075-2026-altera-regulamento-cbs.md) |
 | **Lei Complementar nº 227, de 13 de janeiro de 2026 (Comitê Gestor do IBS, PAT e Distribuição da Arrecadação)** | 2026 | Congresso Nacional / Presidência da República | IBS, CBS, Imposto Seletivo, Split Payment | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2026-01-13;227) | [`reforma-tributaria/lei-complementar-227-2026.md`](reforma-tributaria/lei-complementar-227-2026.md) |
+| **Resolução CGIBS nº 6, de 30 de abril de 2026 (Regulamento do Imposto sobre Bens e Serviços - IBS)** | 2026 | Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) | IBS, CBS, Split Payment | Em vigor (art. 617 alterado pela Resolução CGIBS nº 13/2026) | [Visualizar na Fonte Oficial](https://www.cgibs.gov.br/upload/arquivos/202604/30084927-res-cgibs-n-6-30-abr-2026-regulamenta-o-ibs.pdf) | [`reforma-tributaria/regulamentos/resolucao-cgibs-6-2026-regulamento-ibs.md`](reforma-tributaria/regulamentos/resolucao-cgibs-6-2026-regulamento-ibs.md) |
+| **Portaria Conjunta MF / CGIBS nº 7, de 30 de abril de 2026** | 2026 | Ministério da Fazenda / Comitê Gestor do Imposto sobre Bens e Serviços | CBS, IBS | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/150871) | [`reguladores/rfb/outros-atos/2026/ato-150871-7-2026.md`](reguladores/rfb/outros-atos/2026/ato-150871-7-2026.md) |
 | **ANA orienta adequação das tarifas de saneamento à CBS** | 2026 | Agência Nacional de Águas e Saneamento Básico | CBS, IBS, PIS, Cofins | Informativo — sem força normativa | [Visualizar na Fonte Oficial](https://www.gov.br/ana/pt-br/assuntos/noticias-e-eventos/noticias/ana-publica-resolucao-com-orientacoes-aos-reguladores-infranacionais-de-saneamento-sobre-adequacao-das-tarifas-a-reforma-tributaria) | [`reforma-tributaria/publicacoes/2026/ana-adequacao-tarifas-saneamento-cbs.md`](reforma-tributaria/publicacoes/2026/ana-adequacao-tarifas-saneamento-cbs.md) |
 | **Cronograma dos documentos fiscais eletrônicos da reforma tributária** | 2026 | Secretaria Especial da Receita Federal do Brasil | CBS, IBS | Informativo — sem força normativa | [Visualizar na Fonte Oficial](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo/orientacoes-da-reforma-tributaria/cronograma) | [`reforma-tributaria/publicacoes/2026/rfb-cronograma-documentos-fiscais.md`](reforma-tributaria/publicacoes/2026/rfb-cronograma-documentos-fiscais.md) |
 | **TCU calcula alíquota de referência de 11,3% para a CBS** | 2026 | Tribunal de Contas da União | CBS | Informativo — sem força normativa | [Visualizar na Fonte Oficial](https://portal.tcu.gov.br/imprensa/noticias/tcu-calcula-aliquota-de-referencia-de-113-para-novo-tributo-sobre-consumo) | [`reforma-tributaria/publicacoes/2026/tcu-calculo-referencia-cbs-2027.md`](reforma-tributaria/publicacoes/2026/tcu-calculo-referencia-cbs-2027.md) |

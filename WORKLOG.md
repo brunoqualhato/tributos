@@ -546,3 +546,12 @@ Ingestão Concorrente Massiva: Fechamento das 27 UFs (ICMS Matrizes e Fundos Agr
   - Fundos Estaduais (art. 136 ADCT e sociais): de 7 para 17 metas.
 - **Auditoria Plena:** 1.303 documentos auditados pelo validador canônico independente (`scripts/auditar.py`), com 1.303 aprovados e 0 rejeitados (100% de conformidade de schema, frontmatter canônico e links diretos oficiais).
 - **Catálogo e Progresso:** Regenerados `ACERVO.md` e `PROGRESSO.md` com 1.303 / 1.303 normas mapeadas (100,0% rigoroso).
+## 27/11/2026 — Regulamentos da CBS e do IBS (Reforma Tributária do Consumo)
+- Análise de lacunas do pilar de Reforma Tributária contra as fontes oficiais (normas.leg.br, Sijut/RFB e portal do CGIBS): o acervo não tinha os regulamentos publicados em 30/04/2026 nem suas alterações.
+- Incorporadas cinco normas: Decreto nº 12.955/2026 (Regulamento da CBS, 620 artigos), Decreto nº 13.075/2026, Resolução CGIBS nº 6/2026 (Regulamento do IBS, 617 artigos e Anexos I a V), Resolução CGIBS nº 13/2026 e Portaria Conjunta MF/CGIBS nº 7/2026.
+- Fidelidade: textos originais sem reescrita; sequência integral dos artigos conferida por script (1 a 620 e 1 a 617). Notas editoriais registram versão, data de consulta e limites.
+- Limites registrados nas fichas: os anexos do Decreto nº 12.955/2026 não constam do texto estruturado de normas.leg.br e não foram incorporados; a Resolução CGIBS nº 6/2026 vem da camada de texto do PDF oficial (travessões podem diferir) e seus anexos tabulares foram preservados em blocos de texto com as colunas originais.
+- Novos utilitários: `scripts/coleta_oficial.py`, `scripts/pdf_regulamento.py`, `scripts/gerar_reforma_regulamentos_2026.py` e `scripts/auditar_lote_rede.py` (auditoria de rede restrita a um lote).
+- Validação: 1.308 documentos aprovados no esquema, 0 rejeitados; auditoria de rede dos cinco novos documentos aprovada.
+- Metas em `scripts/plano.py`: Reforma Tributária de 12 para 16; Atos Executivos e Soluções de Consulta de 613 para 614.
+- Branch temática: `reforma-tributaria/regulamentos-cbs-ibs-2026`.
