@@ -223,11 +223,11 @@ PLANO = [
               "Súmulas e Enunciados Vinculantes do Conselho Administrativo de Recursos Fiscais",
               "reguladores/carf/sumulas", 11, 2, "carf.fazenda.gov.br"),
     ItemPlano("10. Contabilidade e Precedentes", "Instruções Normativas da RFB (Gerais)",
-              "Instruções Normativas vigentes estruturantes da Receita Federal (exceto financeiro)",
-              "reguladores/rfb/instrucoes-normativas-gerais", 103, 2, "normas.receita.fazenda.gov.br"),
+              "Instruções Normativas vigentes estruturantes da Receita Federal (exceto financeiro), incluindo as INs RFB 2.297/2025, 2.332 e 2.341/2026 sobre benefícios fiscais",
+              "reguladores/rfb/instrucoes-normativas-gerais", 106, 2, "normas.receita.fazenda.gov.br"),
     ItemPlano("10. Contabilidade e Precedentes", "Atos Executivos e Soluções de Consulta",
-              "Soluções de Consulta COSIT/DISIT, Portarias, Atos Declaratórios, Atos Técnicos Conjuntos RFB/CGIBS e atos do Simples Nacional e MEI (Resoluções CGSN 182, 183, 191, 195 e 198 e Portaria Conjunta RFB/PGFN 740/2026)",
-              "reguladores/rfb/outros-atos", 648, 2, "normas.receita.fazenda.gov.br"),
+              "Soluções de Consulta COSIT/DISIT, Portarias, Atos Declaratórios, Atos Técnicos Conjuntos RFB/CGIBS e atos do Simples Nacional e MEI (Resoluções CGSN 182, 183, 191, 195 e 198 e Portaria Conjunta RFB/PGFN 740/2026) e da regulamentação e do acompanhamento da LC 224/2025 (Portaria MF 1.766, Nota Cosit 207 e Portaria RFB 745/2026)",
+              "reguladores/rfb/outros-atos", 651, 2, "normas.receita.fazenda.gov.br"),
 ]
 
 def resolver_arquivos(caminho_relativo: str) -> set[Path]:
