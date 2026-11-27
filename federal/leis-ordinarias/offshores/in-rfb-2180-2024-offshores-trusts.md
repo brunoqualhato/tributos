@@ -10,7 +10,7 @@ tema_tributario: "Dividendos e Renda do Capital"
 tributos_afetados: ["IRPF", "IRRF"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/136675"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/136603"
 ementa: "Dispõe sobre a tributação da renda auferida por pessoas físicas residentes no País em aplicações financeiras, entidades controladas (offshores) e trusts no exterior, nos termos dos arts. 1º a 15 da Lei nº 14.754, de 12 de dezembro de 2023."
 ---
 
