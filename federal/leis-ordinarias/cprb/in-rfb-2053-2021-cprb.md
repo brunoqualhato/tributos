@@ -10,7 +10,7 @@ tema_tributario: "Folha de Pagamento e Encargos"
 tributos_afetados: ["INSS Patronal", "CPRB"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/122063"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/122005"
 ementa: "Dispõe sobre a Contribuição Previdenciária sobre a Receita Bruta (CPRB), destinada ao Regime Geral de Previdência Social, devida pelas empresas referidas nos arts. 7º e 8º da Lei nº 12.546, de 14 de dezembro de 2011."
 ---
 
