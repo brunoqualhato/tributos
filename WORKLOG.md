@@ -573,3 +573,12 @@ Ingestão Concorrente Massiva: Fechamento das 27 UFs (ICMS Matrizes e Fundos Agr
 - Validação: 1.326 documentos aprovados no esquema, 0 rejeitados; auditoria de rede dos oito documentos novos aprovada.
 - Metas em `scripts/plano.py`: novo item Benefícios e Incentivos Fiscais (5); Leis Complementares Gerais de 5 para 7; Dividendos e JCP de 5 para 6.
 - Branch temática: `federal/legislacao-2025-2026-beneficios-cdc-ctn-ir`, encadeada sobre `reforma-tributaria/atos-conjuntos-rfb-cgibs-2026`.
+## 27/11/2026 — Simples Nacional na Reforma e governança do CGIBS
+- Segunda varredura de lacunas do pilar de Reforma Tributária, agora pelo Sijut/RFB (todas as Resoluções do CGSN de 2025-2026) e pelo portal do CGIBS (todas as Resoluções publicadas).
+- Resoluções do CGSN com efeitos sobre IBS e CBS no Simples Nacional: nº 186, 190, 192, 194 e 196/2026, no caminho canônico `reguladores/rfb/outros-atos/2026/`. O Anexo Único da nº 190 (valores fixos do MEI com CBS e IBS) e os Anexos I a V da nº 196 (alíquotas e partilha) vinham como arquivos anexados no Sijut e foram preservados em blocos de texto com as colunas originais.
+- Resoluções do CGIBS (nova pasta `reforma-tributaria/cgibs/`): nº 4 (Regimento Interno Procedimental) e suas alterações nº 5 e nº 9, nº 14 (percentual do IBS para financiar o CGIBS em 2027 e estimativa de arrecadação, com anexo técnico) e nº 20 (tipologia dos atos).
+- Novidade técnica: `scripts/coleta_oficial.py` passou a baixar anexos em PDF do Sijut pelo endpoint `/ato/<id>/anexo/<idArquivo>`, e `scripts/pdf_regulamento.py` passou a tratar preâmbulos com considerandos e capítulos antes do art. 1º. Os documentos das PRs anteriores foram regenerados sem diferença.
+- Fora do lote por escolha: Resoluções CGSN de 2025-2026 sem menção a IBS ou CBS no texto (179 a 185, 187 a 189, 191, 193, 195, 197 e 198, conferidas por contagem de termos), e as Resoluções administrativas do CGIBS (comissões, eleição, orçamento, pessoal, licitações e SEI).
+- Validação: 1.336 documentos aprovados no esquema, 0 rejeitados; auditoria de rede dos dez documentos novos aprovada.
+- Metas em `scripts/plano.py`: Reforma Tributária de 16 para 21; Atos Executivos e Soluções de Consulta de 624 para 629.
+- Branch temática: `reforma-tributaria/simples-ibs-cbs-e-cgibs-2026`, encadeada sobre `federal/legislacao-2025-2026-beneficios-cdc-ctn-ir`.

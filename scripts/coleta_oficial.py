@@ -21,6 +21,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent / "agentes"))
 from agente_api import AgenteAPI  # noqa: E402
 from comum import Rede, gerar_frontmatter, salvar_atomico, yaml_str  # noqa: E402
 from html2md import converter_html_para_md  # noqa: E402
+import pdf_regulamento as pdfr  # noqa: E402
 
 DATA_CONSULTA = dt.date.today().isoformat()
 DATA_CONSULTA_BR = dt.date.today().strftime("%d/%m/%Y")
@@ -46,28 +47,52 @@ def lexml_para_md(urn: str) -> str:
 
 
 def sijut_para_md(id_ato: int) -> tuple[str, dict]:
-    """Corpo compilado (texto vigente) de um ato do Sijut convertido para Markdown."""
+    """Corpo compilado (texto vigente) de um ato do Sijut convertido para Markdown.
+
+    Anexos em HTML (base64) entram como texto/tabela; anexos em PDF são baixados do endpoint
+    `/ato/<id>/anexo/<idArquivo>` e preservados em blocos de código com as colunas originais.
+    """
     dados = api().baixar_corpo_ato_rfb(id_ato)
     segmentos = [s for s in dados.get("outrosSegmentos", []) if s.get("compilado")]
     segmentos.sort(key=lambda s: s.get("ordemSegmentoAto", 0))
-    html = "\n\n".join(_html_segmento(s) for s in segmentos)
+    anexos_pdf: dict[str, str] = {}
+    omitidos: list[str] = []
+    html = "\n\n".join(_html_segmento(s, id_ato, anexos_pdf, omitidos) for s in segmentos)
     if not html.strip():
         raise RuntimeError(f"Sijut não retornou texto compilado para o ato {id_ato}")
-    return limpar_corpo(converter_html_para_md(html)), dados
+    md = limpar_corpo(converter_html_para_md(html))
+    for marcador, bloco in anexos_pdf.items():
+        md = md.replace(marcador, bloco)
+    dados["_anexos_pdf"] = len(anexos_pdf)
+    dados["_anexos_omitidos"] = omitidos
+    return md, dados
 
 
-def _html_segmento(segmento: dict) -> str:
-    """HTML do segmento; anexos em HTML guardados como arquivo binário (base64) são incorporados."""
+def _html_segmento(segmento: dict, id_ato: int, anexos_pdf: dict, omitidos: list) -> str:
+    """HTML do segmento, incorporando anexos HTML (base64) e registrando anexos PDF para inclusão."""
     html = segmento.get("textoIntegra") or ""
     anexo = segmento.get("arquivoBinario") or {}
+    if not anexo:
+        return html
+    nome = anexo.get("nomeArquivoBinario") or f"arquivo {anexo.get('idArquivoBinario')}"
     conteudo = anexo.get("arquivoBinario")
     if conteudo:
         bruto = base64.b64decode(conteudo).decode("utf-8", errors="replace")
         if re.match(r"\s*<(!doctype|html)", bruto, re.I):
             m = re.search(r"<body[^>]*>(.*)</body>", bruto, re.S | re.I)
-            html += "\n\n" + (m.group(1) if m else bruto)
-        else:
-            raise RuntimeError(f"Anexo binário não-HTML no segmento {segmento.get('idSegmento')}: conversão não suportada")
+            return html + "\n\n" + (m.group(1) if m else bruto)
+        omitidos.append(nome)
+        return html
+    if nome.lower().endswith(".pdf"):
+        url = f"https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/{id_ato}/anexo/{anexo['idArquivoBinario']}"
+        pdf = baixar_pdf(url, f"sijut-{id_ato}-{anexo['idArquivoBinario']}.pdf")
+        texto = pdfr.pdftotext(pdf, layout=True).replace("\f", "\n")
+        linhas = [l.rstrip() for l in texto.split("\n") if not re.fullmatch(r"\s*\d{1,3}\s*", l)]
+        corpo = re.sub(r"\n{3,}", "\n\n", "\n".join(linhas)).strip("\n")
+        marcador = f"@@ANEXOPDF{len(anexos_pdf)}@@"
+        anexos_pdf[marcador] = f"```text\n{corpo}\n```"
+        return html + f"\n\n<p>{marcador}</p>"
+    omitidos.append(nome)
     return html
 
 
@@ -136,6 +161,10 @@ def documento_sijut(id_ato: int, titulo: str, tipo: str, numero: str, data: str,
     notas = [f"Texto compilado obtido do Sijut/RFB em {DATA_CONSULTA_BR}. {dados.get('dadosPublicacao', '').strip()}."]
     if historico:
         notas.append("Histórico registrado no Sijut: " + "; ".join(historico) + ". O texto abaixo já incorpora essas alterações.")
+    if dados.get("_anexos_pdf"):
+        notas.append(f"{dados['_anexos_pdf']} anexo(s) em PDF foram extraídos do Sijut e preservados em blocos de texto que mantêm as colunas do PDF; formulários e gráficos podem perder a formatação visual.")
+    if dados.get("_anexos_omitidos"):
+        notas.append("Anexos não convertidos (formato sem texto estruturado): " + ", ".join(dados["_anexos_omitidos"]) + ".")
     notas += notas_extra or []
     extras = {"data_consulta": DATA_CONSULTA, "versao_texto": "Compilado (Sijut/RFB)"}
     return montar_documento(meta, corpo, notas, extras), dados

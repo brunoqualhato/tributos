@@ -1,8 +1,8 @@
 # Progresso do Acervo Tributário e Contábil
 
-Gerado em: 27/11/2026 08:29:03. Escopo definido em `scripts/plano.py`.
+Gerado em: 27/11/2026 08:48:33. Escopo definido em `scripts/plano.py`.
 
-**Total de Documentos no Acervo:** 1326 / 1326 (100.0%)
+**Total de Documentos no Acervo:** 1336 / 1336 (100.0%)
 
 | Pilar / Subtema | Documentos | Meta | Cobertura | Pasta | Fonte Principal |
 | :--- | ---: | ---: | :---: | :--- | :--- |
@@ -61,11 +61,11 @@ Gerado em: 27/11/2026 08:29:03. Escopo definido em `scripts/plano.py`.
 | ✅ **IOF-Câmbio e OCDE**: Portaria MF nº 204/2022 (Cronograma de redução das alíquotas do IOF-Câmbio) | 3 | 3 | 100.0% | `federal/portarias/mf` | normas.leg.br |
 | ✅ **Mercados Financeiro e de Capitais**: Tributação de Renda Fixa, Renda Variável, Derivativos e Criptoativos | 5 | 5 | 100.0% | `reguladores/rfb/instrucoes-normativas/financeiro` | normas.receita.fazenda.gov.br |
 | **### 9. Reforma Tributária** | | | | | |
-| ✅ **Marco Constitucional e Leis Complementares**: Emenda Constitucional nº 132/2023, LC 214/2025, LC 227/2026, PLP 68, PLP 108, Split Payment, NT NFS-e Nacional, publicações institucionais e Regulamentos da CBS (Decreto 12.955/2026) e do IBS (Res. CGIBS 6/2026) com suas alterações | 16 | 16 | 100.0% | `reforma-tributaria` | Congresso Nacional / LexML / CGIBS |
+| ✅ **Marco Constitucional e Leis Complementares**: Emenda Constitucional nº 132/2023, LC 214/2025, LC 227/2026, PLP 68, PLP 108, Split Payment, NT NFS-e Nacional, publicações institucionais, Regulamentos da CBS (Decreto 12.955/2026) e do IBS (Res. CGIBS 6/2026) com suas alterações e Resoluções de governança do CGIBS (Regimento Procedimental, financiamento 2027 e tipologia dos atos) | 21 | 21 | 100.0% | `reforma-tributaria` | Congresso Nacional / LexML / CGIBS |
 | **### 10. Contabilidade e Precedentes** | | | | | |
 | ✅ **Normas Brasileiras de Contabilidade (CFC)**: Resoluções e Normas Técnicas Gerais do CFC (NBC TG 01 a 48, 1000, CTG 07, ITG 10, ITG 19, ITG 22 e Estrutura Conceitual) | 51 | 51 | 100.0% | `contabil/cfc` | cfc.org.br |
 | ✅ **Pronunciamentos Técnicos CPC**: Pronunciamentos Técnicos (CPC 00 a 48), Interpretações (ICPC 10, 19, 22) e Orientações (OCPC 07) do CPC | 52 | 52 | 100.0% | `contabil/cpc` | cpc.org.br |
 | ✅ **Precedentes Vinculantes STF / STJ**: Súmulas Vinculantes, Temas de Repercussão Geral e Recursos Repetitivos (SV 8, 29, 31, 48, 50, 57, Temas STF/STJ) | 23 | 23 | 100.0% | `jurisprudencia/precedentes-vinculantes` | STF / STJ |
 | ✅ **Súmulas do CARF**: Súmulas e Enunciados Vinculantes do Conselho Administrativo de Recursos Fiscais | 11 | 11 | 100.0% | `reguladores/carf/sumulas` | carf.fazenda.gov.br |
 | ✅ **Instruções Normativas da RFB (Gerais)**: Instruções Normativas vigentes estruturantes da Receita Federal (exceto financeiro) | 94 | 94 | 100.0% | `reguladores/rfb/instrucoes-normativas-gerais` | normas.receita.fazenda.gov.br |
-| ✅ **Atos Executivos e Soluções de Consulta**: Soluções de Consulta COSIT/DISIT, Portarias e Atos Declaratórios da RFB | 624 | 624 | 100.0% | `reguladores/rfb/outros-atos` | normas.receita.fazenda.gov.br |
+| ✅ **Atos Executivos e Soluções de Consulta**: Soluções de Consulta COSIT/DISIT, Portarias e Atos Declaratórios da RFB | 629 | 629 | 100.0% | `reguladores/rfb/outros-atos` | normas.receita.fazenda.gov.br |
