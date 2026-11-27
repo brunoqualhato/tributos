@@ -1,8 +1,8 @@
 # Catálogo Geral do Acervo Tributário e Contábil (ACERVO.md)
 
-Documento gerado automaticamente em **27/11/2026 às 08:25:41**.
+Documento gerado automaticamente em **27/11/2026 às 08:29:03**.
 
-**Total de Documentos Catalogados e Auditados:** `1318`
+**Total de Documentos Catalogados e Auditados:** `1326`
 
 ---
 
@@ -11,12 +11,12 @@ Documento gerado automaticamente em **27/11/2026 às 08:25:41**.
 - **Agronegócio e Fundos:** `7` documentos
 - **Benefícios Fiscais e Fundos Estaduais:** `1` documentos
 - **Benefícios Fiscais e Regimes Especiais:** `1` documentos
-- **Benefícios e Incentivos Fiscais:** `2` documentos
+- **Benefícios e Incentivos Fiscais:** `7` documentos
 - **Combustíveis e Energia:** `16` documentos
 - **Contabilidade:** `77` documentos
 - **Contabilidade e Precedentes:** `4` documentos
 - **Contencioso e Processo Fiscal:** `14` documentos
-- **Dividendos e Renda do Capital:** `291` documentos
+- **Dividendos e Renda do Capital:** `292` documentos
 - **Financeiro e Capitais:** `1` documentos
 - **Folha de Pagamento e Encargos:** `417` documentos
 - **Folha e Previdência:** `3` documentos
@@ -30,7 +30,7 @@ Documento gerado automaticamente em **27/11/2026 às 08:25:41**.
 - **Processo Administrativo Fiscal:** `1` documentos
 - **Processo Administrativo Tributário:** `5` documentos
 - **Processo Administrativo Tributário e Contencioso:** `3` documentos
-- **Processo Tributário e Fiscal:** `6` documentos
+- **Processo Tributário e Fiscal:** `8` documentos
 - **Processo e Procedimento Fiscal:** `2` documentos
 - **Produtos e Mercadorias:** `236` documentos
 - **Reforma Tributária e Transição:** `27` documentos
@@ -65,12 +65,17 @@ Documento gerado automaticamente em **27/11/2026 às 08:25:41**.
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
 | **Decreto Estadual nº 7.799, de 9 de maio de 2000 (Regime Especial Atacadista da Bahia)** | 2000 | Governo do Estado da Bahia / Secretaria da Fazenda | ICMS | Em vigor | [Visualizar na Fonte Oficial](http://mbusca.sefaz.ba.gov.br/DITRI/decretos/decretos_estaduais/decest_2000_7799.pdf) | [`estaduais/ba/ricms/decreto-7799-2000-atacadista-desenvolve-ba.md`](estaduais/ba/ricms/decreto-7799-2000-atacadista-desenvolve-ba.md) |
 
-## Benefícios e Incentivos Fiscais (2 documentos)
+## Benefícios e Incentivos Fiscais (7 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
 | **Lei nº 10.568, de 26 de julho de 2016** | 2016 | Assembleia Legislativa do Estado do Espírito Santo | ICMS, COMPETE-ES, INVEST-ES | Em vigor | [Visualizar na Fonte Oficial](https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/LEI105682016.html) | [`estaduais/es/ricms/lei-10568-2016-compete-es-invest-es.md`](estaduais/es/ricms/lei-10568-2016-compete-es-invest-es.md) |
 | **Decreto nº 48.589, de 22 de março de 2023 (TTS, Corredor de Importação e E-commerce)** | 2023 | Governo do Estado de Minas Gerais | ICMS | Em vigor | [Visualizar na Fonte Oficial](https://www.almg.gov.br/legislacao-mineira/DEC/48589/2023/) | [`estaduais/mg/ricms/decreto-48589-2023-tts-corredor-importacao-ecommerce-mg.md`](estaduais/mg/ricms/decreto-48589-2023-tts-corredor-importacao-ecommerce-mg.md) |
+| **Decreto nº 12.808, de 29 de dezembro de 2025 (Redução de Benefícios Tributários - LC 224/2025)** | 2025 | Presidência da República | IRPJ, CSLL, PIS/Pasep, Cofins, IPI, Imposto de Importação | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2025-12-29;12808) | [`federal/beneficios-tributarios/decreto-12808-2025-reducao-beneficios-tributarios.md`](federal/beneficios-tributarios/decreto-12808-2025-reducao-beneficios-tributarios.md) |
+| **Lei Complementar nº 224, de 26 de dezembro de 2025 (Redução de Incentivos e Benefícios Tributários da União)** | 2025 | Congresso Nacional / Presidência da República | IRPJ, CSLL, PIS/Pasep, Cofins, IPI, Imposto de Importação | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2025-12-26;224) | [`federal/beneficios-tributarios/lei-complementar-224-2025-reducao-beneficios-tributarios.md`](federal/beneficios-tributarios/lei-complementar-224-2025-reducao-beneficios-tributarios.md) |
+| **Lei Complementar nº 229, de 30 de março de 2026 (Benefícios Tributários e Despesas Obrigatórias em 2026)** | 2026 | Congresso Nacional / Presidência da República | PIS/Pasep, Cofins | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2026-03-30;229) | [`federal/beneficios-tributarios/lei-complementar-229-2026-beneficios-tributarios-2026.md`](federal/beneficios-tributarios/lei-complementar-229-2026-beneficios-tributarios-2026.md) |
+| **Lei Complementar nº 235, de 27 de agosto de 2026 (Renúncias de Receita e Choque no Mercado de Energia)** | 2026 | Congresso Nacional / Presidência da República | PIS/Pasep, Cofins | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2026-08-27;235) | [`federal/beneficios-tributarios/lei-complementar-235-2026-renuncias-choque-energia.md`](federal/beneficios-tributarios/lei-complementar-235-2026-renuncias-choque-energia.md) |
+| **Lei Complementar nº 237, de 15 de setembro de 2026 (Altera a LC 229/2026: Datacenter, Resseguradoras e Programas Federais)** | 2026 | Congresso Nacional / Presidência da República | IRPJ, CSLL | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2026-09-15;237) | [`federal/beneficios-tributarios/lei-complementar-237-2026-altera-lc-229.md`](federal/beneficios-tributarios/lei-complementar-237-2026-altera-lc-229.md) |
 
 ## Combustíveis e Energia (16 documentos)
 
@@ -203,7 +208,7 @@ Documento gerado automaticamente em **27/11/2026 às 08:25:41**.
 | **Lei Estadual nº 23.130, de 6 de dezembro de 2024 (alterações do PAT)** | 2024 | Estado de Goiás / Secretaria de Estado da Economia | ICMS, ITCD, IPVA | Em vigor; redações históricas preservadas | [Visualizar na Fonte Oficial](https://appasp.economia.go.gov.br/legislacao/arquivos/leis/L_23130.htm) | [`estaduais/go/leis/pat/lei-23130-2024-alteracoes-pat.md`](estaduais/go/leis/pat/lei-23130-2024-alteracoes-pat.md) |
 | **Lei Estadual nº 24.391, de 29 de junho de 2026 (alterações do CTE e do PAT)** | 2026 | Estado de Goiás / Secretaria de Estado da Economia | ICMS, ITCD, IPVA | Em vigor; redações históricas preservadas | [Visualizar na Fonte Oficial](https://appasp.economia.go.gov.br/legislacao/arquivos/leis/L_24391.htm) | [`estaduais/go/leis/pat/lei-24391-2026-cte-pat.md`](estaduais/go/leis/pat/lei-24391-2026-cte-pat.md) |
 
-## Dividendos e Renda do Capital (291 documentos)
+## Dividendos e Renda do Capital (292 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
@@ -453,6 +458,7 @@ Documento gerado automaticamente em **27/11/2026 às 08:25:41**.
 | **Solução de Consulta Disit/SRRF01 nº 1017, de 15 de setembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | CSLL, Cofins, INSS Patronal/Segurados, IRPF, IRPJ, IRRF, ISSQN, PIS/Pasep | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148656) | [`reguladores/rfb/outros-atos/2025/ato-148656-1017-2025.md`](reguladores/rfb/outros-atos/2025/ato-148656-1017-2025.md) |
 | **Solução de Consulta Disit/SRRF01 nº 1026, de 10 de dezembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | CSLL, IRPF, IRPJ, IRRF, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148664) | [`reguladores/rfb/outros-atos/2025/ato-148664-1026-2025.md`](reguladores/rfb/outros-atos/2025/ato-148664-1026-2025.md) |
 | **Portaria Conjunta PGFN / RFB nº 11, de 23 de junho de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | CSLL, IRPF, IRPJ, IRRF, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/144779) | [`reguladores/rfb/outros-atos/2025/ato-144779-11-2025.md`](reguladores/rfb/outros-atos/2025/ato-144779-11-2025.md) |
+| **Lei nº 15.270, de 26 de novembro de 2025 (Redução do IRPF, Tributação Mínima de Altas Rendas e IRRF sobre Dividendos)** | 2025 | Congresso Nacional / Presidência da República | IRPF, IRRF | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2025-11-26;15270) | [`federal/leis-ordinarias/dividendos-jcp/lei-15270-2025-irpf-altas-rendas-dividendos.md`](federal/leis-ordinarias/dividendos-jcp/lei-15270-2025-irpf-altas-rendas-dividendos.md) |
 | **Portaria Conjunta PGFN / RFB nº 19, de 29 de setembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | CSLL, IRPF, IRPJ, IRRF, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/146749) | [`reguladores/rfb/outros-atos/2025/ato-146749-19-2025.md`](reguladores/rfb/outros-atos/2025/ato-146749-19-2025.md) |
 | **Solução de Consulta Cosit nº 222, de 15 de outubro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | CSLL, IRPF, IRPJ, IRRF | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/147130) | [`reguladores/rfb/outros-atos/2025/ato-147130-222-2025.md`](reguladores/rfb/outros-atos/2025/ato-147130-222-2025.md) |
 | **Instrução Normativa RFB nº 2255, de 11 de março de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | CSLL, IRPF, IRPJ, IRRF, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143233) | [`reguladores/rfb/instrucoes-normativas/2025/ato-143233-2255-2025.md`](reguladores/rfb/instrucoes-normativas/2025/ato-143233-2255-2025.md) |
@@ -1076,7 +1082,7 @@ Documento gerado automaticamente em **27/11/2026 às 08:25:41**.
 | **Lei Estadual nº 6.949, de 11 de janeiro de 2017 (Processo Administrativo Tributário - PAT/PI)** | 2017 | Assembleia Legislativa do Estado do Piauí | ICMS, IPVA, ITCMD, Taxas | Em vigor | [Visualizar na Fonte Oficial](http://sapl.al.pi.leg.br/media/sapl/public/normajuridica/2017/4094/4094_texto_integral.pdf) | [`estaduais/pi/leis/pat/lei-5025-1998.md`](estaduais/pi/leis/pat/lei-5025-1998.md) |
 | **Lei Estadual nº 6.949, de 11 de janeiro de 2017 (Processo Administrativo Tributário - PAT/PI)** | 2017 | Assembleia Legislativa do Estado do Piauí | ICMS, IPVA, ITCMD, Taxas | Em vigor | [Visualizar na Fonte Oficial](http://sapl.al.pi.leg.br/media/sapl/public/normajuridica/2017/4094/4094_texto_integral.pdf) | [`estaduais/pi/leis/pat/lei-6949-2017.md`](estaduais/pi/leis/pat/lei-6949-2017.md) |
 
-## Processo Tributário e Fiscal (6 documentos)
+## Processo Tributário e Fiscal (8 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
@@ -1086,6 +1092,8 @@ Documento gerado automaticamente em **27/11/2026 às 08:25:41**.
 | **Lei Estadual nº 6.182, de 30 de dezembro de 1998 (PAT / TATE-PA)** | 1998 | Assembleia Legislativa do Estado do Pará / SEFA-PA | ICMS, ITCMD, IPVA, PAT | Em vigor; consolidação oficial atualizada | [Visualizar na Fonte Oficial](https://bancodeleis.alepa.pa.gov.br/arquivos/lei6182_1998_64533.pdf) | [`estaduais/pa/leis/pat/lei-6182-1998-tate-pa.md`](estaduais/pa/leis/pat/lei-6182-1998-tate-pa.md) |
 | **Lei Estadual nº 1.288, de 28 de dezembro de 2001 (PAT / CAT-TO)** | 2001 | Assembleia Legislativa do Estado do Tocantins / SEFAZ-TO | ICMS, ITCMD, IPVA, PAT | Em vigor; consolidação oficial atualizada | [Visualizar na Fonte Oficial](https://www.al.to.leg.br/arquivo/60825) | [`estaduais/to/leis/pat/lei-1288-2001-cat-to.md`](estaduais/to/leis/pat/lei-1288-2001-cat-to.md) |
 | **Lei Estadual nº 3.616, de 16 de março de 2020 (PAT / Processo Tributário AC)** | 2020 | Assembleia Legislativa do Estado do Acre / SEFAZ-AC | ICMS, ITCMD, IPVA, PAT | Em vigor; consolidação oficial atualizada | [Visualizar na Fonte Oficial](https://www.al.ac.leg.br/leis) | [`estaduais/ac/leis/pat/lei-3616-2020-pat-ac.md`](estaduais/ac/leis/pat/lei-3616-2020-pat-ac.md) |
+| **Lei Complementar nº 225, de 8 de janeiro de 2026 (Código de Defesa do Contribuinte)** | 2026 | Congresso Nacional / Presidência da República | Direitos do Contribuinte, Devedor Contumaz, Programas de Conformidade | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2026-01-08;225) | [`federal/leis-complementares/lei-complementar-225-2026-codigo-defesa-contribuinte.md`](federal/leis-complementares/lei-complementar-225-2026-codigo-defesa-contribuinte.md) |
+| **Lei Complementar nº 236, de 4 de setembro de 2026 (Solução de Controvérsias, Consensualidade e Processo Administrativo Tributário - CTN)** | 2026 | Congresso Nacional / Presidência da República | CTN, Processo Administrativo Tributário, Consensualidade | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2026-09-04;236) | [`federal/leis-complementares/lei-complementar-236-2026-solucao-controversias-ctn.md`](federal/leis-complementares/lei-complementar-236-2026-solucao-controversias-ctn.md) |
 
 ## Processo e Procedimento Fiscal (2 documentos)
 

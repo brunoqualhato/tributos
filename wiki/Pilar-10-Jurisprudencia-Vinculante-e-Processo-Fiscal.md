@@ -39,3 +39,7 @@ O acervo documenta a legislação dos principais Tribunais Administrativos de Fa
 - **Rio Grande do Sul:** Tribunal Administrativo de Recursos Fiscais (TARF/RS - [Lei Estadual nº 6.537/1973](../estaduais/rs/leis/pat/lei-6537-1973-tars.md)).
 - **Goiás:** Conselho Administrativo Tributário (CAT/GO - [Lei Estadual nº 16.469/2009](../estaduais/go/leis/pat/lei-16469-2009-cat-go.md), alterada pelas Leis nº [23.130/2024](../estaduais/go/leis/pat/lei-23130-2024-alteracoes-pat.md) e [24.391/2026](../estaduais/go/leis/pat/lei-24391-2026-cte-pat.md)).
 - **Bahia:** Conselho de Fazenda Estadual (CONSEF/BA - [Decreto Estadual nº 7.629/1999](../estaduais/ba/leis/pat/decreto-7629-1999-consef-ba.md)).
+
+## 5. Normas Gerais de Processo e Direitos do Contribuinte (2026)
+- [Lei Complementar nº 225/2026](../federal/leis-complementares/lei-complementar-225-2026-codigo-defesa-contribuinte.md): Código de Defesa do Contribuinte, com direitos, garantias, deveres e procedimentos da relação com a administração tributária e regras sobre devedor contumaz e programas de conformidade.
+- [Lei Complementar nº 236/2026](../federal/leis-complementares/lei-complementar-236-2026-solucao-controversias-ctn.md): altera o CTN para dispor sobre solução de controvérsias, consensualidade e processo administrativo em matéria tributária e aduaneira.
