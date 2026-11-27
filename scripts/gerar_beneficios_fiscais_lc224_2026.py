@@ -15,10 +15,11 @@ MF = "Ministério da Fazenda"
 COSIT = "Coordenação-Geral de Tributação (Cosit) / Secretaria Especial da Receita Federal do Brasil"
 TEMA_BEN = "Benefícios e Incentivos Fiscais"
 BENEF = ["IRPJ", "CSLL", "PIS/Pasep", "Cofins", "IPI", "Imposto de Importação"]
+APOSTAS = ["Tributos sobre apostas de quota fixa"]
 LC224 = "federal/beneficios-tributarios/lei-complementar-224-2025-reducao-beneficios-tributarios.md"
 # (idAto, tipo, numero, data, orgao, tema, tributos, situacao, notas)
 ATOS = [
-    (151860, "Portaria", "1766", "2026-06-17", MF, TEMA_BEN, BENEF, "Em vigor",
+    (151860, "Portaria", "1766", "2026-06-17", MF, TEMA_BEN, APOSTAS, "Em vigor",
      [f"Regulamenta o art. 6º da Lei Complementar nº 224/2025 (`{LC224}`), que trata da responsabilidade tributária "
       "de terceiros na exploração de apostas de quota fixa."]),
     (152704, "Nota Cosit", "207", "2026-07-14", COSIT, TEMA_BEN, BENEF, "Em vigor",
@@ -30,8 +31,9 @@ ATOS = [
     (153242, "Instrução Normativa", "2341", "2026-08-31", RFB, TEMA_BEN, BENEF, "Em vigor",
      ["Altera a IN RFB nº 2332/2026 (`ato-152158-2332-2026.md`)."]),
     (154610, "Portaria", "745", "2026-10-28", RFB, TEMA_BEN, BENEF, "Em vigor",
-     ["Transparência ativa de benefícios fiscais. Sucede a Portaria RFB nº 319/2023 (`ato-130676-319-2023.md`), "
-      "que a Portaria RFB nº 744/2026 revogou em 28/10/2026."]),
+     ["Transparência ativa de benefícios fiscais. Sucede a Portaria RFB nº 319/2023 "
+      "(`reguladores/rfb/outros-atos/2023/ato-130676-319-2023.md`), revogada pela Portaria RFB nº 744/2026, "
+      "de 28/10/2026, com efeitos desde 13/11/2026."]),
     (148320, "Instrução Normativa", "2297", "2025-12-11", RFB, TEMA_BEN, BENEF, "Em vigor",
      ["Altera a IN RFB nº 1.307/2012, que dispõe sobre a Declaração de Benefícios Fiscais (DBF) "
       "(`reguladores/rfb/instrucoes-normativas/2012/ato-39240-1307-2012.md`)."]),
