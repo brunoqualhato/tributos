@@ -78,7 +78,7 @@ def _html_segmento(segmento: dict, id_ato: int, anexos_pdf: dict, omitidos: list
     conteudo = anexo.get("arquivoBinario")
     if conteudo:
         bruto = base64.b64decode(conteudo).decode("utf-8", errors="replace")
-        if re.match(r"\s*<(!doctype|html)", bruto, re.I):
+        if re.match(r"\s*<(!doctype|html|table|div|p\b)", bruto, re.I):
             m = re.search(r"<body[^>]*>(.*)</body>", bruto, re.S | re.I)
             return html + "\n\n" + (m.group(1) if m else bruto)
         omitidos.append(nome)
@@ -146,11 +146,12 @@ def _texto_simples(html: str) -> str:
     return re.sub(r"\s+", " ", html_module.unescape(re.sub(r"<[^>]+>", " ", html or ""))).strip()
 
 
-def documento_sijut(id_ato: int, titulo: str, tipo: str, numero: str, data: str, orgao: str,
+def documento_sijut(id_ato: int, titulo: str | None, tipo: str, numero: str, data: str, orgao: str,
                     tributos: list[str], tema: str = "Reforma Tributária e Transição",
                     notas_extra: list[str] = None, situacao: str = "Em vigor") -> tuple[str, dict]:
     """Monta o documento de um ato do Sijut/RFB (texto compilado) com metadados verificados."""
     corpo, dados = sijut_para_md(id_ato)
+    titulo = titulo or dados["epigrafeCompleta"]
     ementa = _texto_simples(" ".join(e.get("textoIntegra") or "" for e in dados.get("ementas", [])))
     meta = {
         "titulo": titulo, "esfera": "Federal", "orgao": orgao, "tipo": tipo, "numero": numero,
