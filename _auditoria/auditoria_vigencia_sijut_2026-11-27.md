@@ -6,6 +6,7 @@ Consulta ao Sijut em 27/11/2026, por `python3 scripts/reconciliar_vigencia_sijut
 
 - Arquivos do acervo com fonte no Sijut: 742; idAtos distintos: 741 pelo `fonte` atual e 736 depois de corrigir as fontes e tirar o documento sem fonte localizada (documentos que passam a compartilhar o idAto de outro arquivo).
 - Vigentes no Sijut: 674; com `vigente` falso: 62.
+- Conferência com a varredura anterior às correções de fonte (741 idAtos, 678 vigentes, 63 com `vigente` falso): os 4 vigentes a menos são idAtos de `fonte` errada (todos vigentes) que, depois da troca, passaram a coincidir com o idAto de outro arquivo do acervo e deixaram de contar duas vezes; o 1 com `vigente` falso a menos é o idAto 112340 (NTEP), excluído por não ter o ato localizado no Sijut. Os 60 revogados inequívocos não mudam.
 - Revogações inequívocas (idAtos): 60; documentos alterados por revogação: 62.
 - Ambíguas (só relatório): 2.
 - Sentido inverso (documento Revogada e Sijut vigente): 0.
