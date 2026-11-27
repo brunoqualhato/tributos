@@ -1,8 +1,8 @@
 # ⚖️ Legislação Tributária e Normas Contábeis Brasileiras em Markdown
 
 [![Auditoria de Rede](https://img.shields.io/badge/Auditoria%20de%20Integridade-100%25%20Aprovada-brightgreen.svg)](#auditoria-e-integridade)
-[![Normas Catalogadas](https://img.shields.io/badge/Normas%20Catalogadas-1.308-blue.svg)](ACERVO.md)
-[![Cobertura do Plano](https://img.shields.io/badge/Cobertura%20do%20Plano-100%25%20(1.308%2F1.308)-brightgreen.svg)](PROGRESSO.md)
+[![Normas Catalogadas](https://img.shields.io/badge/Normas%20Catalogadas-1.347-blue.svg)](ACERVO.md)
+[![Cobertura do Plano](https://img.shields.io/badge/Cobertura%20do%20Plano-100%25%20(1.347%2F1.347)-brightgreen.svg)](PROGRESSO.md)
 [![Wiki Oficial](https://img.shields.io/badge/Documentação-Wiki%20dos%20Pilares-orange.svg)](wiki/Home.md)
 [![Licença](https://img.shields.io/badge/Licença-Dados%20Abertos%20Oficiais-lightgrey.svg)](#licença)
 
@@ -24,14 +24,14 @@ A base de conhecimento está organizada rigorosamente em torno dos 10 pilares es
 6. 🏰 **[Patrimônio, Herança e Veículos](wiki/Pilar-5-Patrimonio-Heranca-e-Veiculos.md)** — Leis Estaduais do ITCMD de todas as 27 UFs (Res. Senado 9/92), Leis Estaduais do IPVA de todas as 27 UFs, ITR Federal (Lei 9.393/96 e Dec. 4.382/02), ITBI e IPTU municipais.
 7. ⛽ **[Combustíveis e Energia](wiki/Pilar-6-Combustiveis-e-Energia.md)** — CIDE-Combustíveis (Lei 10.336/01 e Dec. 5.060/04), Lei do Petróleo (Lei 9.478/97), Regime Monofásico *ad rem* de ICMS (LC 192/22, Convênios 199/22 e 15/23), RenovaBio, Combustíveis do Futuro (Lei 14.993/24) e Mercado de Carbono (Lei 15.042/24).
 8. 📈 **[Tributação Financeira e IOF](wiki/Pilar-7-Tributacao-Financeira-e-IOF.md)** — Regulamento do IOF (RIOF Dec. 6.306/07), Leis Matrizes 5.143/66 e 8.894/94, Cronograma de redução do IOF-Câmbio (Portaria MF 204/22), Renda Fixa, Renda Variável, Derivativos e Criptoativos (IN RFB 1.888/19).
-9. 🚀 **[Reforma Tributária e Transição](wiki/Pilar-8-Reforma-Tributaria-e-Split-Payment.md)** — Emenda Constitucional nº 132/2023, LC 214/2025 (Lei Geral do IBS, CBS e Imposto Seletivo), LC 227/2026 (Comitê Gestor do IBS e Contencioso), Regulamento da CBS (Decreto 12.955/2026), Regulamento do IBS (Resolução CGIBS 6/2026), Split Payment Operacional, Nota Técnica NFS-e Nacional IBS/CBS e Publicações Oficiais (TCU, RFB e ANA).
+9. 🚀 **[Reforma Tributária e Transição](wiki/Pilar-8-Reforma-Tributaria-e-Split-Payment.md)** — Emenda Constitucional nº 132/2023, LC 214/2025 (Lei Geral do IBS, CBS e Imposto Seletivo), LC 227/2026 (Comitê Gestor do IBS e Contencioso), Regulamento da CBS (Decreto 12.955/2026), Regulamento do IBS (Resolução CGIBS 6/2026), Atos Conjuntos RFB/CGIBS, Resoluções do CGSN sobre IBS/CBS no Simples Nacional, Split Payment Operacional, Nota Técnica NFS-e Nacional IBS/CBS e Publicações Oficiais (TCU, RFB e ANA).
 10. 📊 **[Normas Contábeis, CARF e Jurisprudência](wiki/Pilar-9-Normas-Contabeis-CPC-e-CFC.md)** — Pronunciamentos Técnicos CPC (CPC 00 a 48, ICPC e OCPC), Normas Brasileiras de Contabilidade do CFC (NBC TG 01 a 48, 1000, CTG, ITG), Precedentes Vinculantes do STF e STJ (Súmulas Vinculantes, Temas de Repercussão Geral e Recursos Repetitivos) e Súmulas Vinculantes do CARF.
 
 ---
 
 ## 📑 Governança e Catálogo Geral
 
-* 📖 **[ACERVO.md](ACERVO.md):** Catálogo geral detalhado de todos os **1.308 documentos catalogados e auditados**, agrupados por tema com metadados e links oficiais diretos.
+* 📖 **[ACERVO.md](ACERVO.md):** Catálogo geral detalhado de todos os **1.347 documentos catalogados e auditados**, agrupados por tema com metadados e links oficiais diretos.
 * 🤖 **[AGENT.md](AGENT.md):** Diretrizes mestras para agentes autônomos, taxonomia, padrões de CommonMark e protocolo de Pull Requests.
 * 📊 **[PROGRESSO.md](PROGRESSO.md):** Quadro comparativo item a item das metas definidas em `scripts/plano.py` (**100,0% de cobertura nos 10 pilares**).
 * 📝 **[WORKLOG.md](WORKLOG.md):** Registro cronológico auditável de coletas, saneamentos de links e execuções de auditoria.
@@ -44,7 +44,7 @@ A base de conhecimento está organizada rigorosamente em torno dos 10 pilares es
 ```
 tributos/
 ├── Home.md                          # 🧭 Dashboard central e MOCs de navegação
-├── ACERVO.md                        # 📖 Catálogo geral dos 1.308 documentos
+├── ACERVO.md                        # 📖 Catálogo geral dos 1.347 documentos
 ├── PROGRESSO.md                     # 📊 Relatório de metas e cobertura do plano
 ├── AGENT.md                         # 🤖 Protocolo e governança de agentes
 ├── WORKLOG.md                       # 📝 Histórico cronológico auditável
@@ -60,6 +60,7 @@ tributos/
 │   ├── split-payment/               # Modelo Operacional e Nota Técnica do Split Payment
 │   ├── cbs-receita-federal/         # Portarias e Nota Técnica NFS-e Nacional IBS/CBS
 │   ├── regulamentos/                # Regulamento da CBS (Decreto 12.955/2026), Regulamento do IBS (Res. CGIBS 6/2026) e alterações
+│   ├── cgibs/                       # Resoluções de governança do CGIBS (Regimento Procedimental, financiamento 2027, tipologia dos atos)
 │   ├── publicacoes/                 # Publicações institucionais (TCU, RFB, ANA)
 │   ├── emenda-constitucional-132-2023.md
 │   ├── lei-complementar-214-2025.md # Lei Geral do IBS, CBS e Imposto Seletivo

@@ -1,20 +1,21 @@
 # Progresso do Acervo Tributário e Contábil
 
-Gerado em: 27/11/2026 08:22:10. Escopo definido em `scripts/plano.py`.
+Gerado em: 27/11/2026 08:52:32. Escopo definido em `scripts/plano.py`.
 
-**Total de Documentos no Acervo:** 1308 / 1308 (100.0%)
+**Total de Documentos no Acervo:** 1347 / 1347 (100.0%)
 
 | Pilar / Subtema | Documentos | Meta | Cobertura | Pasta | Fonte Principal |
 | :--- | ---: | ---: | :---: | :--- | :--- |
 | **### 1. Legislação Estruturante & Códigos** | | | | | |
 | ✅ **Código Tributário Nacional**: CTN integral (Lei 5.172/1966) e LC 104/2001 | 2 | 2 | 100.0% | `federal/leis-complementares/ctn` | normas.leg.br |
 | ✅ **Simples Nacional e MEI**: Estatuto da Microempresa (LC 123/2006) e Resolução CGSN 140/2018 | 2 | 2 | 100.0% | `federal/leis-complementares/simples` | normas.leg.br |
-| ✅ **Leis Complementares Gerais**: Sigilo Bancário (LC 105), Prescrição (LC 118), MEI (LC 128), Convalidação (LC 160) e Protesto (LC 208) | 5 | 5 | 100.0% | `federal/leis-complementares-gerais` | normas.leg.br |
+| ✅ **Leis Complementares Gerais**: Sigilo Bancário (LC 105), Prescrição (LC 118), MEI (LC 128), Convalidação (LC 160), Protesto (LC 208), Código de Defesa do Contribuinte (LC 225/2026) e Solução de Controvérsias no CTN (LC 236/2026) | 7 | 7 | 100.0% | `federal/leis-complementares-gerais` | normas.leg.br |
+| ✅ **Benefícios e Incentivos Fiscais**: Redução linear de benefícios tributários da União (LC 224/2025 e Decreto 12.808/2025) e regras de exceção de 2026 (LC 229, LC 235, LC 237 e LC 239) | 6 | 6 | 100.0% | `federal/beneficios-tributarios` | normas.leg.br |
 | ✅ **Decretos-Leis Estruturantes**: Delimitação ITR/IPTU (DL 57/66) e Zona Franca de Manaus (DL 288/67) | 2 | 2 | 100.0% | `federal/decretos-leis` | normas.leg.br |
 | ✅ **Processo Fiscal, Consulta e CIDE**: Processo Administrativo Fiscal (Dec. 70.235/72), Consulta (Dec. 7.574/11) e CIDE (Dec. 5.060/04) | 3 | 3 | 100.0% | `federal/regulamentos/paf_consulta_cide` | normas.leg.br |
 | ✅ **Processo Tributário Estadual (PAT/PAF)**: Tribunais Administrativos de Fazenda Estadual e Leis do Processo Administrativo Tributário das 27 UFs (TIT/SP, CCRJ, CCMG, CCRF/PR, TAT/SC, TARF/RS, CAT/GO, CONSEF/BA, TARF/DF, CONAT/CE, TATE/PE, TATE/MA, TATE/PA, CRF/AC, etc.) | 31 | 31 | 100.0% | `estaduais/*/leis/pat` | Secretarias de Fazenda Estaduais |
 | **### 2. Dividendos & Renda do Capital** | | | | | |
-| ✅ **Dividendos e JCP**: Isenção de Dividendos e JCP (Lei 9.249/95 e Lei das S/A) | 5 | 5 | 100.0% | `federal/leis-ordinarias/dividendos-jcp` | normas.leg.br |
+| ✅ **Dividendos e JCP**: Isenção de Dividendos e JCP (Lei 9.249/95 e Lei das S/A) e Lei 15.270/2025 (IRRF sobre dividendos e tributação mínima) | 6 | 6 | 100.0% | `federal/leis-ordinarias/dividendos-jcp` | normas.leg.br |
 | ✅ **Lucro Real e Presumido**: Norma Matriz do Lucro Real, IRPJ/CSLL (DL 1.598/77, Leis 7.689/88, 8.981/95, 12.973/14, 14.871/24 e 15.079/24) | 12 | 12 | 100.0% | `federal/leis-ordinarias/irpj-csll` | normas.leg.br |
 | ✅ **Offshores e Trusts**: Tributação de Renda e Controladas no Exterior (Lei 14.754/2023) | 5 | 5 | 100.0% | `federal/leis-ordinarias/offshores` | normas.leg.br |
 | ✅ **Regulamento do IRPJ (RIR)**: Regulamento do Imposto sobre a Renda - RIR/2018 integral (Decreto 9.580/2018) | 1 | 1 | 100.0% | `federal/regulamentos/rir` | normas.leg.br |
@@ -60,11 +61,11 @@ Gerado em: 27/11/2026 08:22:10. Escopo definido em `scripts/plano.py`.
 | ✅ **IOF-Câmbio e OCDE**: Portaria MF nº 204/2022 (Cronograma de redução das alíquotas do IOF-Câmbio) | 3 | 3 | 100.0% | `federal/portarias/mf` | normas.leg.br |
 | ✅ **Mercados Financeiro e de Capitais**: Tributação de Renda Fixa, Renda Variável, Derivativos e Criptoativos | 5 | 5 | 100.0% | `reguladores/rfb/instrucoes-normativas/financeiro` | normas.receita.fazenda.gov.br |
 | **### 9. Reforma Tributária** | | | | | |
-| ✅ **Marco Constitucional e Leis Complementares**: Emenda Constitucional nº 132/2023, LC 214/2025, LC 227/2026, PLP 68, PLP 108, Split Payment, NT NFS-e Nacional, publicações institucionais e Regulamentos da CBS (Decreto 12.955/2026) e do IBS (Res. CGIBS 6/2026) com suas alterações | 16 | 16 | 100.0% | `reforma-tributaria` | Congresso Nacional / LexML / CGIBS |
+| ✅ **Marco Constitucional e Leis Complementares**: Emenda Constitucional nº 132/2023, LC 214/2025, LC 227/2026, PLP 68, PLP 108, Split Payment, NT NFS-e Nacional, publicações institucionais, Regulamentos da CBS (Decreto 12.955/2026) e do IBS (Res. CGIBS 6/2026) com suas alterações e Resoluções de governança do CGIBS (Regimento Procedimental, financiamento 2027 e tipologia dos atos) | 21 | 21 | 100.0% | `reforma-tributaria` | Congresso Nacional / LexML / CGIBS |
 | **### 10. Contabilidade e Precedentes** | | | | | |
 | ✅ **Normas Brasileiras de Contabilidade (CFC)**: Resoluções e Normas Técnicas Gerais do CFC (NBC TG 01 a 48, 1000, CTG 07, ITG 10, ITG 19, ITG 22 e Estrutura Conceitual) | 51 | 51 | 100.0% | `contabil/cfc` | cfc.org.br |
 | ✅ **Pronunciamentos Técnicos CPC**: Pronunciamentos Técnicos (CPC 00 a 48), Interpretações (ICPC 10, 19, 22) e Orientações (OCPC 07) do CPC | 52 | 52 | 100.0% | `contabil/cpc` | cpc.org.br |
 | ✅ **Precedentes Vinculantes STF / STJ**: Súmulas Vinculantes, Temas de Repercussão Geral e Recursos Repetitivos (SV 8, 29, 31, 48, 50, 57, Temas STF/STJ) | 23 | 23 | 100.0% | `jurisprudencia/precedentes-vinculantes` | STF / STJ |
 | ✅ **Súmulas do CARF**: Súmulas e Enunciados Vinculantes do Conselho Administrativo de Recursos Fiscais | 11 | 11 | 100.0% | `reguladores/carf/sumulas` | carf.fazenda.gov.br |
-| ✅ **Instruções Normativas da RFB (Gerais)**: Instruções Normativas vigentes estruturantes da Receita Federal (exceto financeiro) | 94 | 94 | 100.0% | `reguladores/rfb/instrucoes-normativas-gerais` | normas.receita.fazenda.gov.br |
-| ✅ **Atos Executivos e Soluções de Consulta**: Soluções de Consulta COSIT/DISIT, Portarias e Atos Declaratórios da RFB | 614 | 614 | 100.0% | `reguladores/rfb/outros-atos` | normas.receita.fazenda.gov.br |
+| ✅ **Instruções Normativas da RFB (Gerais)**: Instruções Normativas vigentes estruturantes da Receita Federal (exceto financeiro) | 103 | 103 | 100.0% | `reguladores/rfb/instrucoes-normativas-gerais` | normas.receita.fazenda.gov.br |
+| ✅ **Atos Executivos e Soluções de Consulta**: Soluções de Consulta COSIT/DISIT, Portarias e Atos Declaratórios da RFB | 630 | 630 | 100.0% | `reguladores/rfb/outros-atos` | normas.receita.fazenda.gov.br |

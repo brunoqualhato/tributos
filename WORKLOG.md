@@ -555,3 +555,40 @@ Ingestão Concorrente Massiva: Fechamento das 27 UFs (ICMS Matrizes e Fundos Agr
 - Validação: 1.308 documentos aprovados no esquema, 0 rejeitados; auditoria de rede dos cinco novos documentos aprovada.
 - Metas em `scripts/plano.py`: Reforma Tributária de 12 para 16; Atos Executivos e Soluções de Consulta de 613 para 614.
 - Branch temática: `reforma-tributaria/regulamentos-cbs-ibs-2026`.
+## 27/11/2026 — Atos Conjuntos RFB/CGIBS e atos da RFB/MF sobre a CBS
+- Complementa os regulamentos da CBS e do IBS com os atos que os operacionalizam, obtidos do Sijut/RFB (visão compilada) e gravados no caminho canônico `reguladores/rfb/outros-atos/AAAA/`, o mesmo da rotina periódica, para evitar duplicidade em coletas futuras.
+- Incorporadas dez normas: Atos Conjuntos RFB/CGIBS nº 1/2025 e nº 2 a 8/2026, Portaria MF nº 3.074/2026 (alíquotas específicas da CBS sobre combustíveis, com a tabela do anexo recuperada do arquivo HTML anexado ao ato) e Portaria RFB nº 763/2026 (Piloto RTC-CBS).
+- O Ato Conjunto nº 4/2026 está no texto compilado, que já incorpora o Ato Conjunto nº 7/2026; o nº 1/2025 já incorpora a retificação do DOU de 24/12/2025 (conferida contra o ato retificador).
+- Fora do lote por escolha: Portaria RFB nº 549/2025 (piloto inicial, não vigente no Sijut), Atos Técnicos Conjuntos nº 1 a 12/2026 (aprovações de versões de documentação técnica) e Resoluções administrativas do CGIBS (orçamento, pessoal, licitações).
+- Validação: 1.318 documentos aprovados no esquema, 0 rejeitados; auditoria de rede dos dez documentos novos aprovada.
+- Metas em `scripts/plano.py`: Atos Executivos e Soluções de Consulta de 614 para 624.
+- Branch temática: `reforma-tributaria/atos-conjuntos-rfb-cgibs-2026`, encadeada sobre `reforma-tributaria/regulamentos-cbs-ibs-2026`.
+## 27/11/2026 — Legislação federal de 2025-2026 ausente do acervo (benefícios, CDC, CTN e IRPF)
+- Verificação das leis complementares e ordinárias posteriores à EC 132/2023 contra normas.leg.br: oito normas relevantes não estavam no acervo como documentos próprios (apenas citadas em atos da RFB).
+- Redução de benefícios tributários (nova pasta `federal/beneficios-tributarios/`): LC nº 224/2025, Decreto nº 12.808/2025, LC nº 229/2026, LC nº 235/2026 e LC nº 237/2026.
+- Processo e direitos do contribuinte: LC nº 225/2026 (Código de Defesa do Contribuinte) e LC nº 236/2026 (normas gerais de solução de controvérsias e consensualidade, que alteram o CTN).
+- Renda: Lei nº 15.270/2025 (redução do IRPF, tributação mínima de altas rendas e IRRF sobre lucros e dividendos), em `federal/leis-ordinarias/dividendos-jcp/`.
+- Textos originais sem reescrita, com marcações "(VETADO)" preservadas. Alterações posteriores não foram incorporadas, e as fichas as indicam quando a ementa de outra norma as revela (a LC nº 239/2026 altera as LC nº 224/2025 e nº 235/2026).
+- Fora do lote por escolha: LC nº 239/2026 (instrumentos de gestão fiscal), IN RFB nº 2.344/2026 (saldos credores de PIS/Cofins), Resoluções CGSN nº 186, 190 e 196/2026 (Simples Nacional) e as instruções normativas de conformidade tributária de março de 2026.
+- Validação: 1.326 documentos aprovados no esquema, 0 rejeitados; auditoria de rede dos oito documentos novos aprovada.
+- Metas em `scripts/plano.py`: novo item Benefícios e Incentivos Fiscais (5); Leis Complementares Gerais de 5 para 7; Dividendos e JCP de 5 para 6.
+- Branch temática: `federal/legislacao-2025-2026-beneficios-cdc-ctn-ir`, encadeada sobre `reforma-tributaria/atos-conjuntos-rfb-cgibs-2026`.
+## 27/11/2026 — Simples Nacional na Reforma e governança do CGIBS
+- Segunda varredura de lacunas do pilar de Reforma Tributária, agora pelo Sijut/RFB (todas as Resoluções do CGSN de 2025-2026) e pelo portal do CGIBS (todas as Resoluções publicadas).
+- Resoluções do CGSN com efeitos sobre IBS e CBS no Simples Nacional: nº 186, 190, 192, 194 e 196/2026, no caminho canônico `reguladores/rfb/outros-atos/2026/`. O Anexo Único da nº 190 (valores fixos do MEI com CBS e IBS) e os Anexos I a V da nº 196 (alíquotas e partilha) vinham como arquivos anexados no Sijut e foram preservados em blocos de texto com as colunas originais.
+- Resoluções do CGIBS (nova pasta `reforma-tributaria/cgibs/`): nº 4 (Regimento Interno Procedimental) e suas alterações nº 5 e nº 9, nº 14 (percentual do IBS para financiar o CGIBS em 2027 e estimativa de arrecadação, com anexo técnico) e nº 20 (tipologia dos atos).
+- Novidade técnica: `scripts/coleta_oficial.py` passou a baixar anexos em PDF do Sijut pelo endpoint `/ato/<id>/anexo/<idArquivo>`, e `scripts/pdf_regulamento.py` passou a tratar preâmbulos com considerandos e capítulos antes do art. 1º. Os documentos das PRs anteriores foram regenerados sem diferença.
+- Fora do lote por escolha: Resoluções CGSN de 2025-2026 sem menção a IBS ou CBS no texto (179 a 185, 187 a 189, 191, 193, 195, 197 e 198, conferidas por contagem de termos), e as Resoluções administrativas do CGIBS (comissões, eleição, orçamento, pessoal, licitações e SEI).
+- Validação: 1.336 documentos aprovados no esquema, 0 rejeitados; auditoria de rede dos dez documentos novos aprovada.
+- Metas em `scripts/plano.py`: Reforma Tributária de 16 para 21; Atos Executivos e Soluções de Consulta de 624 para 629.
+- Branch temática: `reforma-tributaria/simples-ibs-cbs-e-cgibs-2026`, encadeada sobre `federal/legislacao-2025-2026-beneficios-cdc-ctn-ir`.
+## 27/11/2026 — Conformidade tributária (LC 225), regulamentação das LC 224/235 e LC 239
+- Varredura das Instruções Normativas e Portarias Conjuntas de 2025-2026 no Sijut contra o acervo, para localizar as normas que regulamentam as leis complementares incorporadas nas PRs anteriores.
+- Programas de conformidade da LC nº 225/2026: IN RFB nº 2295/2025 (Confia) e suas alterações nº 2317 e nº 2328/2026, IN RFB nº 2316/2026 (Sintonia) e sua alteração nº 2339/2026, IN RFB nº 2318/2026 (Programa OEA) e Portaria Conjunta RFB/PGFN nº 6/2026 (devedor contumaz).
+- Redução de benefícios (LC nº 224/2025 e nº 235/2026): INs RFB nº 2306 e nº 2307/2026 (esta substitui o Anexo Único da IN nº 2305/2025 e traz a lista dos gastos tributários não alcançados pela redução linear) e IN RFB nº 2344/2026 (saldos credores de PIS/Pasep e Cofins). A LC nº 239/2026, que altera as LC nº 224 e nº 235, entra em `federal/beneficios-tributarios/`.
+- Anexos: os anexos em PDF (Confia) e em tabela HTML (Sintonia e IN nº 2307) foram recuperados do Sijut e preservados no corpo dos documentos. O documento da IN nº 2305/2025, já existente, traz só o título do Anexo Único sem o conteúdo; não foi alterado nesta PR.
+- Notas das LC nº 224/2025 e nº 235/2026 agora apontam para o documento da LC nº 239/2026.
+- Fora do lote por escolha: demais INs de 2025-2026 sobre outros temas (parcelamentos, cadastros, aduana, DITR, retenções e alterações pontuais da IN nº 1.700), que o acervo cobre por seleção e não por completude.
+- Validação: 1.347 documentos aprovados no esquema, 0 rejeitados; auditoria de rede dos onze documentos novos aprovada.
+- Metas em `scripts/plano.py`: Benefícios e Incentivos Fiscais de 5 para 6; Instruções Normativas Gerais da RFB de 94 para 103; Atos Executivos e Soluções de Consulta de 629 para 630.
+- Branch temática: `reforma-tributaria/conformidade-lc225-e-regulamentacao-lc224-lc235`, encadeada sobre `reforma-tributaria/simples-ibs-cbs-e-cgibs-2026`.

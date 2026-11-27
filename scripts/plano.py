@@ -40,8 +40,11 @@ PLANO = [
               "Estatuto da Microempresa (LC 123/2006) e Resolução CGSN 140/2018",
               "federal/leis-complementares/simples", 2, 1, "normas.leg.br"),
     ItemPlano("1. Legislação Estruturante & Códigos", "Leis Complementares Gerais",
-              "Sigilo Bancário (LC 105), Prescrição (LC 118), MEI (LC 128), Convalidação (LC 160) e Protesto (LC 208)",
-              "federal/leis-complementares-gerais", 5, 1, "normas.leg.br"),
+              "Sigilo Bancário (LC 105), Prescrição (LC 118), MEI (LC 128), Convalidação (LC 160), Protesto (LC 208), Código de Defesa do Contribuinte (LC 225/2026) e Solução de Controvérsias no CTN (LC 236/2026)",
+              "federal/leis-complementares-gerais", 7, 1, "normas.leg.br"),
+    ItemPlano("1. Legislação Estruturante & Códigos", "Benefícios e Incentivos Fiscais",
+              "Redução linear de benefícios tributários da União (LC 224/2025 e Decreto 12.808/2025) e regras de exceção de 2026 (LC 229, LC 235, LC 237 e LC 239)",
+              "federal/beneficios-tributarios", 6, 1, "normas.leg.br"),
     ItemPlano("1. Legislação Estruturante & Códigos", "Decretos-Leis Estruturantes",
               "Delimitação ITR/IPTU (DL 57/66) e Zona Franca de Manaus (DL 288/67)",
               "federal/decretos-leis", 2, 1, "normas.leg.br"),
@@ -56,8 +59,8 @@ PLANO = [
     # PILAR 2: DIVIDENDOS, RENDA DO CAPITAL & IRPJ/CSLL
     # =========================================================================
     ItemPlano("2. Dividendos & Renda do Capital", "Dividendos e JCP",
-              "Isenção de Dividendos e JCP (Lei 9.249/95 e Lei das S/A)",
-              "federal/leis-ordinarias/dividendos-jcp", 5, 1, "normas.leg.br"),
+              "Isenção de Dividendos e JCP (Lei 9.249/95 e Lei das S/A) e Lei 15.270/2025 (IRRF sobre dividendos e tributação mínima)",
+              "federal/leis-ordinarias/dividendos-jcp", 6, 1, "normas.leg.br"),
     ItemPlano("2. Dividendos & Renda do Capital", "Lucro Real e Presumido",
               "Norma Matriz do Lucro Real, IRPJ/CSLL (DL 1.598/77, Leis 7.689/88, 8.981/95, 12.973/14, 14.871/24 e 15.079/24)",
               "federal/leis-ordinarias/irpj-csll", 12, 1, "normas.leg.br"),
@@ -201,8 +204,8 @@ PLANO = [
     # PILAR 9: REFORMA TRIBUTÁRIA E TRANSIÇÃO
     # =========================================================================
     ItemPlano("9. Reforma Tributária", "Marco Constitucional e Leis Complementares",
-              "Emenda Constitucional nº 132/2023, LC 214/2025, LC 227/2026, PLP 68, PLP 108, Split Payment, NT NFS-e Nacional, publicações institucionais e Regulamentos da CBS (Decreto 12.955/2026) e do IBS (Res. CGIBS 6/2026) com suas alterações",
-              "reforma-tributaria", 16, 5, "Congresso Nacional / LexML / CGIBS"),
+              "Emenda Constitucional nº 132/2023, LC 214/2025, LC 227/2026, PLP 68, PLP 108, Split Payment, NT NFS-e Nacional, publicações institucionais, Regulamentos da CBS (Decreto 12.955/2026) e do IBS (Res. CGIBS 6/2026) com suas alterações e Resoluções de governança do CGIBS (Regimento Procedimental, financiamento 2027 e tipologia dos atos)",
+              "reforma-tributaria", 21, 5, "Congresso Nacional / LexML / CGIBS"),
 
     # =========================================================================
     # PILAR 10: NORMAS CONTÁBEIS (CPC E CFC) E ATOS REGULATÓRIOS DA RFB
@@ -221,10 +224,10 @@ PLANO = [
               "reguladores/carf/sumulas", 11, 2, "carf.fazenda.gov.br"),
     ItemPlano("10. Contabilidade e Precedentes", "Instruções Normativas da RFB (Gerais)",
               "Instruções Normativas vigentes estruturantes da Receita Federal (exceto financeiro)",
-              "reguladores/rfb/instrucoes-normativas-gerais", 94, 2, "normas.receita.fazenda.gov.br"),
+              "reguladores/rfb/instrucoes-normativas-gerais", 103, 2, "normas.receita.fazenda.gov.br"),
     ItemPlano("10. Contabilidade e Precedentes", "Atos Executivos e Soluções de Consulta",
               "Soluções de Consulta COSIT/DISIT, Portarias e Atos Declaratórios da RFB",
-              "reguladores/rfb/outros-atos", 614, 2, "normas.receita.fazenda.gov.br"),
+              "reguladores/rfb/outros-atos", 630, 2, "normas.receita.fazenda.gov.br"),
 ]
 
 def resolver_arquivos(caminho_relativo: str) -> set[Path]:
