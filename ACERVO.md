@@ -1,8 +1,8 @@
 # Catálogo Geral do Acervo Tributário e Contábil (ACERVO.md)
 
-Documento gerado automaticamente em **27/11/2026 às 16:15:36**.
+Documento gerado automaticamente em **27/11/2026 às 16:19:28**.
 
-**Total de Documentos Catalogados e Auditados:** `1411`
+**Total de Documentos Catalogados e Auditados:** `1418`
 
 ---
 
@@ -16,9 +16,9 @@ Documento gerado automaticamente em **27/11/2026 às 16:15:36**.
 - **Contabilidade:** `77` documentos
 - **Contabilidade e Precedentes:** `4` documentos
 - **Contencioso e Processo Fiscal:** `14` documentos
-- **Dividendos e Renda do Capital:** `305` documentos
+- **Dividendos e Renda do Capital:** `309` documentos
 - **Financeiro e Capitais:** `1` documentos
-- **Folha de Pagamento e Encargos:** `417` documentos
+- **Folha de Pagamento e Encargos:** `418` documentos
 - **Folha e Previdência:** `3` documentos
 - **Fundos Agropecuários e Infraestrutura:** `2` documentos
 - **Fundos Estaduais e Equilíbrio Fiscal:** `5` documentos
@@ -35,7 +35,7 @@ Documento gerado automaticamente em **27/11/2026 às 16:15:36**.
 - **Produtos e Mercadorias:** `236` documentos
 - **Reforma Tributária e Transição:** `68` documentos
 - **Serviços e ISS:** `15` documentos
-- **Serviços e Retenções:** `59` documentos
+- **Serviços e Retenções:** `61` documentos
 - **Tributação Financeira e IOF:** `12` documentos
 - **Tributário e Contábil Geral:** `36` documentos
 
@@ -223,7 +223,7 @@ Documento gerado automaticamente em **27/11/2026 às 16:15:36**.
 | **Lei Estadual nº 23.130, de 6 de dezembro de 2024 (alterações do PAT)** | 2024 | Estado de Goiás / Secretaria de Estado da Economia | ICMS, ITCD, IPVA | Em vigor; redações históricas preservadas | [Visualizar na Fonte Oficial](https://appasp.economia.go.gov.br/legislacao/arquivos/leis/L_23130.htm) | [`estaduais/go/leis/pat/lei-23130-2024-alteracoes-pat.md`](estaduais/go/leis/pat/lei-23130-2024-alteracoes-pat.md) |
 | **Lei Estadual nº 24.391, de 29 de junho de 2026 (alterações do CTE e do PAT)** | 2026 | Estado de Goiás / Secretaria de Estado da Economia | ICMS, ITCD, IPVA | Em vigor; redações históricas preservadas | [Visualizar na Fonte Oficial](https://appasp.economia.go.gov.br/legislacao/arquivos/leis/L_24391.htm) | [`estaduais/go/leis/pat/lei-24391-2026-cte-pat.md`](estaduais/go/leis/pat/lei-24391-2026-cte-pat.md) |
 
-## Dividendos e Renda do Capital (305 documentos)
+## Dividendos e Renda do Capital (309 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
@@ -473,11 +473,14 @@ Documento gerado automaticamente em **27/11/2026 às 16:15:36**.
 | **Solução de Consulta Disit/SRRF01 nº 1017, de 15 de setembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | CSLL, Cofins, INSS Patronal/Segurados, IRPF, IRPJ, IRRF, ISSQN, PIS/Pasep | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148656) | [`reguladores/rfb/outros-atos/2025/ato-148656-1017-2025.md`](reguladores/rfb/outros-atos/2025/ato-148656-1017-2025.md) |
 | **Solução de Consulta Disit/SRRF01 nº 1026, de 10 de dezembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | CSLL, IRPF, IRPJ, IRRF, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148664) | [`reguladores/rfb/outros-atos/2025/ato-148664-1026-2025.md`](reguladores/rfb/outros-atos/2025/ato-148664-1026-2025.md) |
 | **Portaria Conjunta PGFN / RFB nº 11, de 23 de junho de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | CSLL, IRPF, IRPJ, IRRF, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/144779) | [`reguladores/rfb/outros-atos/2025/ato-144779-11-2025.md`](reguladores/rfb/outros-atos/2025/ato-144779-11-2025.md) |
+| **Lei nº 15.265, de 21 de novembro de 2025 (Rearp, empréstimo de títulos e hedge)** | 2025 | Congresso Nacional / Presidência da República | IRPF, IRPJ, IRRF | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2025-11-21;15265) | [`federal/leis-ordinarias/offshores/lei-15265-2025-rearp-emprestimo-titulos-hedge.md`](federal/leis-ordinarias/offshores/lei-15265-2025-rearp-emprestimo-titulos-hedge.md) |
 | **Lei nº 15.270, de 26 de novembro de 2025 (Redução do IRPF, Tributação Mínima de Altas Rendas e IRRF sobre Dividendos)** | 2025 | Congresso Nacional / Presidência da República | IRPF, IRRF | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2025-11-26;15270) | [`federal/leis-ordinarias/dividendos-jcp/lei-15270-2025-irpf-altas-rendas-dividendos.md`](federal/leis-ordinarias/dividendos-jcp/lei-15270-2025-irpf-altas-rendas-dividendos.md) |
 | **Portaria Conjunta PGFN / RFB nº 19, de 29 de setembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | CSLL, IRPF, IRPJ, IRRF, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/146749) | [`reguladores/rfb/outros-atos/2025/ato-146749-19-2025.md`](reguladores/rfb/outros-atos/2025/ato-146749-19-2025.md) |
 | **Solução de Consulta Cosit nº 222, de 15 de outubro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | CSLL, IRPF, IRPJ, IRRF | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/147130) | [`reguladores/rfb/outros-atos/2025/ato-147130-222-2025.md`](reguladores/rfb/outros-atos/2025/ato-147130-222-2025.md) |
+| **Instrução Normativa RFB nº 2253, de 21 de fevereiro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | IRPF, IRPJ, IRRF | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143007) | [`reguladores/rfb/instrucoes-normativas/2025/ato-143007-2253-2025.md`](reguladores/rfb/instrucoes-normativas/2025/ato-143007-2253-2025.md) |
 | **Instrução Normativa RFB nº 2255, de 11 de março de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | CSLL, IRPF, IRPJ, IRRF, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143233) | [`reguladores/rfb/instrucoes-normativas/2025/ato-143233-2255-2025.md`](reguladores/rfb/instrucoes-normativas/2025/ato-143233-2255-2025.md) |
 | **Instrução Normativa RFB nº 2259, de 24 de março de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | CSLL | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143464) | [`reguladores/rfb/instrucoes-normativas/2025/ato-143464-2259-2025.md`](reguladores/rfb/instrucoes-normativas/2025/ato-143464-2259-2025.md) |
+| **Instrução Normativa RFB nº 2265, de 9 de maio de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | IRPF, IRPJ, IRRF | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/144202) | [`reguladores/rfb/instrucoes-normativas/2025/ato-144202-2265-2025.md`](reguladores/rfb/instrucoes-normativas/2025/ato-144202-2265-2025.md) |
 | **Instrução Normativa RFB nº 2267, de 27 de maio de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | CSLL, IRPF, IRPJ, IRRF | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/144416) | [`reguladores/rfb/instrucoes-normativas/2025/ato-144416-2267-2025.md`](reguladores/rfb/instrucoes-normativas/2025/ato-144416-2267-2025.md) |
 | **Solução de Consulta Cosit nº 227, de 28 de outubro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | CSLL, IRPF, IRPJ, IRRF, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/147486) | [`reguladores/rfb/outros-atos/2025/ato-147486-227-2025.md`](reguladores/rfb/outros-atos/2025/ato-147486-227-2025.md) |
 | **Instrução Normativa RFB nº 2281, de 15 de setembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | IRPJ, CSLL | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/146523) | [`reguladores/rfb/instrucoes-normativas/2025/ato-146523-2281-2025.md`](reguladores/rfb/instrucoes-normativas/2025/ato-146523-2281-2025.md) |
@@ -485,6 +488,7 @@ Documento gerado automaticamente em **27/11/2026 às 16:15:36**.
 | **Instrução Normativa RFB nº 2291, de 14 de novembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | CSLL, IRPF, IRPJ, IRRF, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/147709) | [`reguladores/rfb/instrucoes-normativas/2025/ato-147709-2291-2025.md`](reguladores/rfb/instrucoes-normativas/2025/ato-147709-2291-2025.md) |
 | **Instrução Normativa RFB nº 2296, de 3 de dezembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | IRPJ, CSLL | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148102) | [`reguladores/rfb/instrucoes-normativas/2025/ato-148102-2296-2025.md`](reguladores/rfb/instrucoes-normativas/2025/ato-148102-2296-2025.md) |
 | **Instrução Normativa RFB nº 2299, de 17 de dezembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | CSLL, IRPF, IRPJ, IRRF, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148383) | [`reguladores/rfb/instrucoes-normativas/2025/ato-148383-2299-2025.md`](reguladores/rfb/instrucoes-normativas/2025/ato-148383-2299-2025.md) |
+| **Instrução Normativa RFB nº 2301, de 23 de dezembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | IRPF, IRPJ | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148510) | [`reguladores/rfb/instrucoes-normativas/2025/ato-148510-2301-2025.md`](reguladores/rfb/instrucoes-normativas/2025/ato-148510-2301-2025.md) |
 | **Instrução Normativa RFB nº 2302, de 23 de dezembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | CSLL, Contabilidade Societária e Fiscal, IRPF, IRPJ, IRRF, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148511) | [`reguladores/rfb/instrucoes-normativas/2025/ato-148511-2302-2025.md`](reguladores/rfb/instrucoes-normativas/2025/ato-148511-2302-2025.md) |
 | **Instrução Normativa RFB nº 2305, de 31 de dezembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | CSLL, Cofins, INSS Patronal/Segurados, IPI, IRPJ, Imposto de Importação, PIS/Pasep, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148694) | [`reguladores/rfb/instrucoes-normativas/2025/ato-148694-2305-2025.md`](reguladores/rfb/instrucoes-normativas/2025/ato-148694-2305-2025.md) |
 | **Solução de Consulta Cosit nº 236, de 17 de novembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | CSLL, IRPF, IRPJ, IRRF, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/147804) | [`reguladores/rfb/outros-atos/2025/ato-147804-236-2025.md`](reguladores/rfb/outros-atos/2025/ato-147804-236-2025.md) |
@@ -539,7 +543,7 @@ Documento gerado automaticamente em **27/11/2026 às 16:15:36**.
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
 | **Precedente Vinculante do STF — ADC 84, ADI 7342, RE 1.458.106 e Tema 1337 (Constitucionalidade do Decreto nº 11.374/2023 e Alíquotas de PIS/COFINS sobre Receitas Financeiras)** | 2023 | Supremo Tribunal Federal - STF | PIS/Pasep, Cofins | Em vigor | [Visualizar na Fonte Oficial](https://portal.stf.jus.br) | [`jurisprudencia/precedentes-vinculantes/stf/tema-1231-stf-decreto-receitas-financeiras.md`](jurisprudencia/precedentes-vinculantes/stf/tema-1231-stf-decreto-receitas-financeiras.md) |
 
-## Folha de Pagamento e Encargos (417 documentos)
+## Folha de Pagamento e Encargos (418 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
@@ -944,6 +948,7 @@ Documento gerado automaticamente em **27/11/2026 às 16:15:36**.
 | **Portaria Conjunta MF / MS nº 10, de 23 de junho de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/144778) | [`reguladores/rfb/outros-atos/2025/ato-144778-10-2025.md`](reguladores/rfb/outros-atos/2025/ato-144778-10-2025.md) |
 | **Solução de Consulta Disit/SRRF01 nº 1006, de 25 de abril de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | Cofins, ICMS, PIS/Pasep, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148670) | [`reguladores/rfb/outros-atos/2025/ato-148670-1006-2025.md`](reguladores/rfb/outros-atos/2025/ato-148670-1006-2025.md) |
 | **Solução de Consulta Disit/SRRF01 nº 1009, de 26 de junho de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | Cofins, ICMS, PIS/Pasep | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148650) | [`reguladores/rfb/outros-atos/2025/ato-148650-1009-2025.md`](reguladores/rfb/outros-atos/2025/ato-148650-1009-2025.md) |
+| **Lei nº 15.191, de 11 de agosto de 2025 (Tabela progressiva mensal do IRPF; altera a Lei 11.482/2007)** | 2025 | Congresso Nacional / Presidência da República | IRPF, IRRF | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2025-08-11;15191) | [`federal/leis-ordinarias/irrf-folha-plr/lei-15191-2025-tabela-progressiva-irpf-mensal.md`](federal/leis-ordinarias/irrf-folha-plr/lei-15191-2025-tabela-progressiva-irpf-mensal.md) |
 | **Portaria Conjunta MF / MDIC nº 17, de 22 de agosto de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/145866) | [`reguladores/rfb/outros-atos/2025/ato-145866-17-2025.md`](reguladores/rfb/outros-atos/2025/ato-145866-17-2025.md) |
 | **Ato Declaratório Interpretativo RFB nº 2, de 15 de setembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/146798) | [`reguladores/rfb/outros-atos/2025/ato-146798-2-2025.md`](reguladores/rfb/outros-atos/2025/ato-146798-2-2025.md) |
 | **Portaria Conjunta MF / MDIC nº 21, de 11 de novembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | Cofins, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/147656) | [`reguladores/rfb/outros-atos/2025/ato-147656-21-2025.md`](reguladores/rfb/outros-atos/2025/ato-147656-21-2025.md) |
@@ -1480,7 +1485,7 @@ Documento gerado automaticamente em **27/11/2026 às 16:15:36**.
 | **Lei Complementar nº 878, de 22 de dezembro de 2021 (Código Tributário e de Rendas do Município de Porto Velho/RO)** | 2021 | Prefeitura Municipal de Porto Velho / Secretaria Municipal de Fazenda (SEMFAZ Porto Velho) | ISSQN, IPTU, ITBI, Taxas Municipais, COSIP | Em vigor | [Visualizar na Fonte Oficial](https://leismunicipais.com.br/codigo-tributario-porto-velho-ro) | [`municipais/ro/servicos-iss/lei-complementar-878-2021-ctm-porto-velho.md`](municipais/ro/servicos-iss/lei-complementar-878-2021-ctm-porto-velho.md) |
 | **Lei Complementar nº 156, de 27 de dezembro de 2023 (Código Tributário do Município de Macapá/AP)** | 2023 | Prefeitura Municipal de Macapá / Secretaria Municipal de Finanças (SEMFIN Macapá) | ISSQN, IPTU, ITBI, Taxas Municipais, COSIP | Em vigor | [Visualizar na Fonte Oficial](https://leismunicipais.com.br/codigo-tributario-macapa-ap) | [`municipais/ap/servicos-iss/lei-complementar-156-2023-ctm-macapa.md`](municipais/ap/servicos-iss/lei-complementar-156-2023-ctm-macapa.md) |
 
-## Serviços e Retenções (59 documentos)
+## Serviços e Retenções (61 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
@@ -1541,8 +1546,10 @@ Documento gerado automaticamente em **27/11/2026 às 16:15:36**.
 | **Solução de Consulta Disit/SRRF01 nº 1005, de 22 de abril de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | Retenção INSS 11%, CPRB (Desoneração da Folha) | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148647) | [`reguladores/rfb/outros-atos/2025/ato-148647-1005-2025.md`](reguladores/rfb/outros-atos/2025/ato-148647-1005-2025.md) |
 | **Solução de Consulta Disit/SRRF01 nº 1010, de 26 de junho de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | IRRF Serviços | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148651) | [`reguladores/rfb/outros-atos/2025/ato-148651-1010-2025.md`](reguladores/rfb/outros-atos/2025/ato-148651-1010-2025.md) |
 | **Portaria Conjunta RFB / SPA nº 13, de 18 de julho de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | - | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/145188) | [`reguladores/rfb/outros-atos/2025/ato-145188-13-2025.md`](reguladores/rfb/outros-atos/2025/ato-145188-13-2025.md) |
+| **Instrução Normativa RFB nº 2257, de 18 de março de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | IRRF, IRPF, IRPJ | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143374) | [`reguladores/rfb/instrucoes-normativas/2025/ato-143374-2257-2025.md`](reguladores/rfb/instrucoes-normativas/2025/ato-143374-2257-2025.md) |
 | **Solução de Consulta Disit/SRRF10 nº 10012, de 30 de setembro de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | IRRF Serviços | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/153931) | [`reguladores/rfb/outros-atos/2026/ato-153931-10012-2026.md`](reguladores/rfb/outros-atos/2026/ato-153931-10012-2026.md) |
 | **Solução de Consulta Cosit nº 190, de 25 de setembro de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | CSRF (Retenção 4, 65%), IRRF Serviços, CSLL, PIS/Pasep, Cofins | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/153839) | [`reguladores/rfb/outros-atos/2026/ato-153839-190-2026.md`](reguladores/rfb/outros-atos/2026/ato-153839-190-2026.md) |
+| **Instrução Normativa RFB nº 2331, de 23 de junho de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | IRRF, IRPF, IRPJ | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/152155) | [`reguladores/rfb/instrucoes-normativas/2026/ato-152155-2331-2026.md`](reguladores/rfb/instrucoes-normativas/2026/ato-152155-2331-2026.md) |
 
 ## Tributação Financeira e IOF (12 documentos)
 
