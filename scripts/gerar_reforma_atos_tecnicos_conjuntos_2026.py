@@ -16,8 +16,9 @@ RFB_CGIBS = "Secretaria Especial da Receita Federal do Brasil / Comitê Gestor d
 TIPO = "Ato Técnico Conjunto"
 DECRETO = "reforma-tributaria/regulamentos/decreto-12955-2026-regulamento-cbs.md"
 RES6 = "reforma-tributaria/regulamentos/resolucao-cgibs-6-2026-regulamento-ibs.md"
+RES17 = "reforma-tributaria/cgibs/resolucao-cgibs-17-2026-competencia-direx-atos-tecnicos.md"
 BASE = (f"Aprovado com fundamento no Decreto nº 12.955/2026 (`{DECRETO}`) e na Resolução CGIBS nº 6/2026 "
-        f"(`{RES6}`), com competência atribuída pela Resolução CGIBS nº 17/2026 (fora do acervo nesta etapa).")
+        f"(`{RES6}`), com competência atribuída pela Resolução CGIBS nº 17/2026 (`{RES17}`).")
 DFE = ("As Notas Técnicas e os Informes Técnicos citados no texto são identificados pelo número e pela versão; os "
        "documentos deles não integram este lote. O Ato Conjunto RFB/CGIBS nº 4/2026 (`ato-152616-4-2026.md`) fixa "
        "as datas de obrigatoriedade dos documentos fiscais eletrônicos.")
@@ -70,7 +71,7 @@ ATOS = [
      ["Não aprova documentação técnica: disciplina a organização e o funcionamento dos trabalhos conjuntos da Receita "
       "Federal e da Diretoria Executiva do CGIBS para implementar a reforma tributária sobre o consumo (Coordenações "
       "Normativa e Operacional e Grupos de Trabalho Integrados), com efeitos até 31 de março de 2027 (art. 17). "
-      "Fundamenta-se na Resolução CGIBS nº 17/2026 (fora do acervo nesta etapa) e na Lei Complementar nº 227/2026 "
+      f"Fundamenta-se na Resolução CGIBS nº 17/2026 (`{RES17}`) e na Lei Complementar nº 227/2026 "
       "(`reforma-tributaria/lei-complementar-227-2026.md`). Os Anexos I e II (composição das instâncias) vinham como "
       "arquivos PDF no Sijut."]),
     (154369, "Ato Técnico Conjunto Sufis / CGIBS nº 10, de 28 de outubro de 2026", "10", "2026-10-28",
