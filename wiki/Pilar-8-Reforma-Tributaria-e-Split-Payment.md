@@ -48,7 +48,23 @@ Os atos infralegais que operacionalizam os regulamentos ficam no caminho canôni
 | **Ato Conjunto RFB/CGIBS nº 8/2026** | Dispensa temporária de CNPJ para produtor rural e transportador autônomo de carga pessoas físicas | [ato-154689-8-2026.md](../reguladores/rfb/outros-atos/2026/ato-154689-8-2026.md) |
 | **Portaria MF nº 3.074/2026** | Alíquotas específicas da CBS sobre combustíveis (Anexo em tabela) | [ato-154060-3074-2026.md](../reguladores/rfb/outros-atos/2026/ato-154060-3074-2026.md) |
 | **Portaria RFB nº 763/2026** | Piloto da Reforma Tributária do Consumo para a CBS (Piloto RTC-CBS) | [ato-154673-763-2026.md](../reguladores/rfb/outros-atos/2026/ato-154673-763-2026.md) |
-## 7. Simples Nacional na Reforma Tributária (Resoluções CGSN 2026)
+## 7. Atos Técnicos Conjuntos RFB/CGIBS (2026)
+Os Atos Técnicos Conjuntos aprovam a documentação técnica dos documentos fiscais eletrônicos, da DeRE, da Plataforma Pública do Split Payment e dos sistemas aduaneiros, com fundamento no Decreto nº 12.955/2026 e na Resolução CGIBS nº 6/2026. Ficam no caminho canônico `reguladores/rfb/outros-atos/`:
+| Ato | Conteúdo | Arquivo |
+| :--- | :--- | :--- |
+| **Ato Técnico Conjunto nº 1/2026** | Aprova e ratifica as Notas Técnicas de NF-e, NFC-e, CT-e, BP-e, NF3e, NFCom, NFGas e NFAg com IBS e CBS | [ato-152654-1-2026.md](../reguladores/rfb/outros-atos/2026/ato-152654-1-2026.md) |
+| **Ato Técnico Conjunto nº 2/2026** | Aprova Notas e Informes Técnicos da NF-e e NFC-e, a NT do BP-e TA e os MOC da NFAg, NFGas e NF-e ABI | [ato-153091-2-2026.md](../reguladores/rfb/outros-atos/2026/ato-153091-2-2026.md) |
+| **Ato Técnico Conjunto nº 3/2026** | Documentação técnica da DeRE, versão 1.2.0 | [ato-153349-3-2026.md](../reguladores/rfb/outros-atos/2026/ato-153349-3-2026.md) |
+| **Ato Técnico Conjunto nº 4/2026** | Split Payment: Manual de Habilitação de Participantes e Manual de Redes | [ato-153354-4-2026.md](../reguladores/rfb/outros-atos/2026/ato-153354-4-2026.md) |
+| **Ato Técnico Conjunto nº 5/2026** | Split Payment: Manuais de Operações, Integração, Tempos, Redes e Segurança e documento openAPI | [ato-153687-5-2026.md](../reguladores/rfb/outros-atos/2026/ato-153687-5-2026.md) |
+| **Ato Técnico Conjunto nº 6/2026** | Documentação técnica da DeRE, versão 1.3 | [ato-153885-6-2026.md](../reguladores/rfb/outros-atos/2026/ato-153885-6-2026.md) |
+| **Ato Técnico Conjunto nº 7/2026** | NFS-e: Notas Técnicas SE/CGNFS-e nº 009 e nº 010 (NFS-e e NFS-e Via) | [ato-153887-7-2026.md](../reguladores/rfb/outros-atos/2026/ato-153887-7-2026.md) |
+| **Ato Técnico Conjunto nº 8/2026** | Notas Técnicas de NF-e, NFC-e, CT-e, NFCom, BP-e, NF3e, NFAg e NFGas (incluindo o DANFE da Reforma Tributária) | [ato-153886-8-2026.md](../reguladores/rfb/outros-atos/2026/ato-153886-8-2026.md) |
+| **Ato Técnico Conjunto nº 9/2026** | Trabalhos conjuntos da RFB e da Diretoria Executiva do CGIBS (Coordenações e GTI), com efeitos até 31/03/2027 | [ato-154246-9-2026.md](../reguladores/rfb/outros-atos/2026/ato-154246-9-2026.md) |
+| **Ato Técnico Conjunto nº 10/2026** | Notas Técnicas de DF-e, incluindo as atualizações para o Simples Nacional, e documentação da NF-e ABI | [ato-154369-10-2026.md](../reguladores/rfb/outros-atos/2026/ato-154369-10-2026.md) |
+| **Ato Técnico Conjunto nº 11/2026** | Declaração Única de Importação (Duimp): layout 77.0.0 | [ato-154555-11-2026.md](../reguladores/rfb/outros-atos/2026/ato-154555-11-2026.md) |
+| **Ato Técnico Conjunto nº 12/2026** | Declaração de Importação de Remessa (DIR): layout 1.0 | [ato-154556-12-2026.md](../reguladores/rfb/outros-atos/2026/ato-154556-12-2026.md) |
+## 8. Simples Nacional na Reforma Tributária (Resoluções CGSN 2026)
 | Ato | Conteúdo | Arquivo |
 | :--- | :--- | :--- |
 | **Resolução CGSN nº 186/2026** | Prazos e condições da opção pelo Simples Nacional e, para os optantes, pelo regime regular do IBS e da CBS em 2027 | [ato-150653-186-2026.md](../reguladores/rfb/outros-atos/2026/ato-150653-186-2026.md) |
@@ -56,14 +72,14 @@ Os atos infralegais que operacionalizam os regulamentos ficam no caminho canôni
 | **Resolução CGSN nº 192/2026** | Altera a Resolução CGSN 11/2007 sobre a arrecadação do regime unificado, com referências ao IBS | [ato-152805-192-2026.md](../reguladores/rfb/outros-atos/2026/ato-152805-192-2026.md) |
 | **Resolução CGSN nº 194/2026** | Altera a Resolução CGSN 186/2026 | [ato-153801-194-2026.md](../reguladores/rfb/outros-atos/2026/ato-153801-194-2026.md) |
 | **Resolução CGSN nº 196/2026** | Altera as Resoluções CGSN 140/2018 e 190/2026; traz os Anexos I a V com alíquotas e partilha do Simples Nacional | [ato-154694-196-2026.md](../reguladores/rfb/outros-atos/2026/ato-154694-196-2026.md) |
-## 8. Governança do Comitê Gestor do IBS (Resoluções CGIBS)
+## 9. Governança do Comitê Gestor do IBS (Resoluções CGIBS)
 | Ato | Conteúdo | Arquivo |
 | :--- | :--- | :--- |
 | **Resolução CGIBS nº 4/2026** | Regimento Interno Procedimental | [resolucao-cgibs-4-2026-regimento-interno-procedimental.md](../reforma-tributaria/cgibs/resolucao-cgibs-4-2026-regimento-interno-procedimental.md) |
 | **Resoluções CGIBS nº 5 e nº 9/2026** | Alteram o Regimento Interno Procedimental | [5](../reforma-tributaria/cgibs/resolucao-cgibs-5-2026-altera-regimento-interno.md) e [9](../reforma-tributaria/cgibs/resolucao-cgibs-9-2026-altera-regimento-procedimental.md) |
 | **Resolução CGIBS nº 14/2026** | Proposta do percentual do IBS destinado ao financiamento do CGIBS em 2027 e estimativa de arrecadação do IBS | [resolucao-cgibs-14-2026-percentual-ibs-financiamento-cgibs-2027.md](../reforma-tributaria/cgibs/resolucao-cgibs-14-2026-percentual-ibs-financiamento-cgibs-2027.md) |
 | **Resolução CGIBS nº 20/2026** | Tipologia, competência e publicidade dos atos e instrumentos formais do CGIBS | [resolucao-cgibs-20-2026-tipologia-dos-atos.md](../reforma-tributaria/cgibs/resolucao-cgibs-20-2026-tipologia-dos-atos.md) |
-## 9. Publicações Institucionais e Orientações Técnicas (2026)
+## 10. Publicações Institucionais e Orientações Técnicas (2026)
 - **Cálculo da Alíquota de Referência pelo TCU ([Relatório TCU 2026](../reforma-tributaria/publicacoes/2026/tcu-calculo-referencia-cbs-2027.md)):** Estudo técnico do Tribunal de Contas da União estimando a alíquota de referência federal da CBS para 2027 em **11,3%**.
 - **Cronograma de Documentos Fiscais Eletrônicos da RFB ([Orientação RFB 2026](../reforma-tributaria/publicacoes/2026/rfb-cronograma-documentos-fiscais.md)):** Cronograma de adequação das NF-e, NFC-e e CT-e aos campos e regras do IBS, CBS e Split Payment.
 - **Adequação Tarifária do Saneamento pela ANA ([Resolução ANA 2026](../reforma-tributaria/publicacoes/2026/ana-adequacao-tarifas-saneamento-cbs.md)):** Diretrizes da Agência Nacional de Águas e Saneamento Básico para o reequilíbrio econômico-financeiro dos contratos de concessão perante a entrada em vigor da CBS.
