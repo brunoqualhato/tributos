@@ -18,7 +18,7 @@ import pdf_regulamento as pdfr
 CGIBS = "https://www.cgibs.gov.br/upload/arquivos"
 ORGAO_CGIBS = "Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS)"
 ORGAO_CGSN = "Comitê Gestor do Simples Nacional (CGSN)"
-RX_TITULO_RES = re.compile(r"RESOLUÇÃO CG-?IBS Nº \d+, DE \d+ DE [A-ZÇÃÕ]+ DE \d{4}")
+RX_TITULO_RES = re.compile(r"RESOLUÇÃO CG-?IBS Nº \d+, (?:DE )?\d+ DE [A-ZÇÃÕ]+ DE \d{4}")
 
 # (idAto, titulo, numero, data, tributos, notas)
 CGSN = [

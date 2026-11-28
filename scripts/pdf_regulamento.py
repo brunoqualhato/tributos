@@ -59,6 +59,7 @@ def _reflow(linhas: list[str]) -> list[str]:
 CABECALHOS_ORGAO = (
     "Comitê Gestor do Imposto sobre Bens e Serviços – CGIBS",
     "COMITÊ GESTOR DO IMPOSTO SOBRE BENS E SERVIÇOS – CGIBS",
+    "COMITÊ GESTOR DO IMPOSTO SOBRE BENS E SERVIÇOS — CGIBS",
     "CONSELHO SUPERIOR",
 )
 
