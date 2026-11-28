@@ -32,6 +32,10 @@ Quando uma pessoa jurídica contrata serviços profissionais ou de cessão de m�
 | **Órgãos Públicos Federais** | **9,45%** a **14,53%** | Art. 64 da Lei nº 9.430/1996 e [IN RFB nº 1.234/2012](../reguladores/rfb/retencoes-servicos/in-1234-2012.md) | Retenção unificada ampla nas aquisições de bens e serviços por entes da administração federal. |
 | **Retenção Ampla Municipal (Tema 1130 STF)** | **Tabela Progressiva / Alíquotas IRRF** | Art. 158, I da CF/88 e [Tema 1.130 do STF](../jurisprudencia/precedentes-vinculantes/stf/tema-1130-retencao-ampla-irrf-municipios.md) | Pertence aos Municípios o produto da arrecadação do IRRF incidente sobre rendimentos pagos a qualquer título por eles, suas autarquias e fundações. |
 
+
+- **IN RFB nº 2.257/2025:** [altera a IN RFB nº 1.234/2012](../reguladores/rfb/instrucoes-normativas/2025/ato-143374-2257-2025.md) para dispor sobre a retenção do imposto de renda no aluguel de imóvel de propriedade de Fundo de Investimento Imobiliário.
+- **IN RFB nº 2.331/2026:** [dispõe sobre a retenção de IRRF](../reguladores/rfb/instrucoes-normativas/2026/ato-152155-2331-2026.md) à alíquota de 1,5% sobre comissões, corretagens e demais remunerações pagas por pessoas jurídicas a plataformas digitais, com opção anual pela antecipação do recolhimento pela própria plataforma.
+
 ## 5. Transição do ISS para o Novo Sistema (IBS e CBS)
 Com a [Emenda Constitucional nº 132/2023](../reforma-tributaria/emenda-constitucional-132-2023.md) e a [Lei Complementar nº 214/2025](../reforma-tributaria/lei-complementar-214-2025.md):
 - O ISS e o ICMS serão gradualmente extintos entre 2029 e 2032, sendo integralmente substituídos pelo **IBS** a partir de 2033.

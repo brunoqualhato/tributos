@@ -1,8 +1,8 @@
 # Progresso do Acervo Tributário e Contábil
 
-Gerado em: 27/11/2026 16:15:30. Escopo definido em `scripts/plano.py`.
+Gerado em: 27/11/2026 16:19:32. Escopo definido em `scripts/plano.py`.
 
-**Total de Documentos no Acervo:** 1411 / 1411 (100.0%)
+**Total de Documentos no Acervo:** 1418 / 1418 (100.0%)
 
 | Pilar / Subtema | Documentos | Meta | Cobertura | Pasta | Fonte Principal |
 | :--- | ---: | ---: | :---: | :--- | :--- |
@@ -17,12 +17,12 @@ Gerado em: 27/11/2026 16:15:30. Escopo definido em `scripts/plano.py`.
 | **### 2. Dividendos & Renda do Capital** | | | | | |
 | ✅ **Dividendos e JCP**: Isenção de Dividendos e JCP (Lei 9.249/95 e Lei das S/A) e Lei 15.270/2025 (IRRF sobre dividendos e tributação mínima) | 6 | 6 | 100.0% | `federal/leis-ordinarias/dividendos-jcp` | normas.leg.br |
 | ✅ **Lucro Real e Presumido**: Norma Matriz do Lucro Real, IRPJ/CSLL (DL 1.598/77, Leis 7.689/88, 8.981/95, 12.973/14, 14.871/24, 15.079/24 e 15.525/26) | 13 | 13 | 100.0% | `federal/leis-ordinarias/irpj-csll` | normas.leg.br |
-| ✅ **Offshores e Trusts**: Tributação de Renda e Controladas no Exterior (Lei 14.754/2023) | 5 | 5 | 100.0% | `federal/leis-ordinarias/offshores` | normas.leg.br |
+| ✅ **Offshores e Trusts**: Tributação de Renda e Controladas no Exterior (Lei 14.754/2023) e Rearp, empréstimo de títulos e hedge (Lei 15.265/2025) | 6 | 6 | 100.0% | `federal/leis-ordinarias/offshores` | normas.leg.br |
 | ✅ **Regulamento do IRPJ (RIR)**: Regulamento do Imposto sobre a Renda - RIR/2018 integral (Decreto 9.580/2018) | 1 | 1 | 100.0% | `federal/regulamentos/rir` | normas.leg.br |
 | **### 3. Folha & Encargos** | | | | | |
 | ✅ **Custeio da Seguridade**: Plano de Custeio da Previdência Social e Benefícios (Leis 8.212/91 e 8.213/91) | 8 | 8 | 100.0% | `federal/leis-ordinarias/previdencia-custeio` | normas.leg.br |
 | ✅ **Regulamento da Previdência (RPS)**: Regulamento da Previdência Social - RPS (Decreto 3.048/1999) | 1 | 1 | 100.0% | `federal/regulamentos/rps` | normas.leg.br |
-| ✅ **IRRF Folha e PLR**: Retenção na Fonte sobre Salários, Rescisões e PLR (Lei 10.101/2000 e Tabela Progressiva) | 5 | 5 | 100.0% | `federal/leis-ordinarias/irrf-folha-plr` | normas.leg.br |
+| ✅ **IRRF Folha e PLR**: Retenção na Fonte sobre Salários, Rescisões e PLR (Lei 10.101/2000 e Tabela Progressiva, incluindo a Lei 15.191/2025) | 6 | 6 | 100.0% | `federal/leis-ordinarias/irrf-folha-plr` | normas.leg.br |
 | ✅ **Desoneração da Folha (CPRB)**: Contribuição Previdenciária sobre a Receita Bruta - CPRB (Lei 12.546/11 e Lei 14.973/24) | 5 | 5 | 100.0% | `federal/leis-ordinarias/cprb` | normas.leg.br |
 | ✅ **FGTS e eSocial**: Normas do FGTS (Lei 8.036/1990) e Obrigações Trabalhistas | 3 | 3 | 100.0% | `federal/leis-ordinarias/fgts` | normas.leg.br |
 | ✅ **FGTS Digital e Operação**: Manuais e Portarias do FGTS Digital (Portaria MTE 240/2024) e eSocial | 5 | 5 | 100.0% | `reguladores/mte-caixa/fgts-esocial` | Caixa / MTE |
@@ -67,5 +67,5 @@ Gerado em: 27/11/2026 16:15:30. Escopo definido em `scripts/plano.py`.
 | ✅ **Pronunciamentos Técnicos CPC**: Pronunciamentos Técnicos (CPC 00 a 48), Interpretações (ICPC 10, 19, 22) e Orientações (OCPC 07) do CPC | 52 | 52 | 100.0% | `contabil/cpc` | cpc.org.br |
 | ✅ **Precedentes Vinculantes STF / STJ**: Súmulas Vinculantes, Temas de Repercussão Geral e Recursos Repetitivos (SV 8, 29, 31, 48, 50, 57, Temas STF/STJ) | 23 | 23 | 100.0% | `jurisprudencia/precedentes-vinculantes` | STF / STJ |
 | ✅ **Súmulas do CARF**: Súmulas e Enunciados Vinculantes do Conselho Administrativo de Recursos Fiscais | 11 | 11 | 100.0% | `reguladores/carf/sumulas` | carf.fazenda.gov.br |
-| ✅ **Instruções Normativas da RFB (Gerais)**: Instruções Normativas vigentes estruturantes da Receita Federal (exceto financeiro), incluindo as INs RFB 2.297/2025, 2.332 e 2.341/2026 sobre benefícios fiscais e as INs RFB 2.272, 2.288, 2.290, 2.314, 2.325 e 2.346 sobre processo fiscal, restituição, beneficiários finais e autorregularização e as INs RFB 2.281, 2.296, 2.315 e 2.343 (IN 1.700/2017) e 2.259, 2.319, 2.329, 2.342 e 2.351 (GloBE) sobre IRPJ e CSLL | 121 | 121 | 100.0% | `reguladores/rfb/instrucoes-normativas-gerais` | normas.receita.fazenda.gov.br |
+| ✅ **Instruções Normativas da RFB (Gerais)**: Instruções Normativas vigentes estruturantes da Receita Federal (exceto financeiro), incluindo as INs RFB 2.297/2025, 2.332 e 2.341/2026 sobre benefícios fiscais e as INs RFB 2.272, 2.288, 2.290, 2.314, 2.325 e 2.346 sobre processo fiscal, restituição, beneficiários finais e autorregularização e as INs RFB 2.281, 2.296, 2.315 e 2.343 (IN 1.700/2017) e 2.259, 2.319, 2.329, 2.342 e 2.351 (GloBE) sobre IRPJ e CSLL e as INs RFB 2.253, 2.257, 2.265 e 2.301/2025 e 2.331/2026 sobre IRPF, retenções na fonte e Rearp | 126 | 126 | 100.0% | `reguladores/rfb/instrucoes-normativas-gerais` | normas.receita.fazenda.gov.br |
 | ✅ **Atos Executivos e Soluções de Consulta**: Soluções de Consulta COSIT/DISIT, Portarias, Atos Declaratórios, Atos Técnicos Conjuntos RFB/CGIBS e atos do Simples Nacional e MEI (Resoluções CGSN 182, 183, 191, 195 e 198 e Portaria Conjunta RFB/PGFN 740/2026) e da regulamentação e do acompanhamento da LC 224/2025 (Portaria MF 1.766, Nota Cosit 207 e Portaria RFB 745/2026) e do processo fiscal e da consensualidade (ADI RFB 2/2026, Portaria RFB 715/2026 e Portaria MF 1.785/2026) e de IRPJ e CSLL (ADI RFB 1, 3 e 5/2026) | 657 | 657 | 100.0% | `reguladores/rfb/outros-atos` | normas.receita.fazenda.gov.br |

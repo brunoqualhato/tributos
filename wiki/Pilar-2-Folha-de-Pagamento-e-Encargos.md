@@ -24,3 +24,4 @@ A [Lei nº 14.973/2024](../federal/leis-ordinarias/cprb/lei-14973-2024-reoneraca
 ## 4. Retenção de IRRF sobre Rendimentos do Trabalho e PLR
 - **Tabela Progressiva:** Retenção na fonte com alíquotas progressivas de 7,5% a 27,5% sobre rendimentos do trabalho assalariado.
 - **Participação nos Lucros e Resultados (PLR):** [Lei nº 10.101/2000](../federal/leis-ordinarias/irrf-folha-plr/lei-10101-2000.md) com tributação exclusiva na fonte mediante tabela progressiva própria, desonerada de encargos previdenciários e do FGTS quando atendidos os requisitos de negociação paritária.
+- **Tabela progressiva mensal a partir de maio de 2025:** a [Lei nº 15.191/2025](../federal/leis-ordinarias/irrf-folha-plr/lei-15191-2025-tabela-progressiva-irpf-mensal.md) altera o art. 1º da [Lei nº 11.482/2007](../federal/leis-ordinarias/irrf-folha-plr/lei-11482-2007-tabela-progressiva-irpf.md), amplia a primeira faixa da tabela (até R$ 2.428,80) e revoga a Medida Provisória nº 1.294/2025.
