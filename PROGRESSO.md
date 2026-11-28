@@ -1,8 +1,8 @@
 # Progresso do Acervo Tributário e Contábil
 
-Gerado em: 27/11/2026 15:54:31. Escopo definido em `scripts/plano.py`.
+Gerado em: 27/11/2026 16:11:38. Escopo definido em `scripts/plano.py`.
 
-**Total de Documentos no Acervo:** 1389 / 1389 (100.0%)
+**Total de Documentos no Acervo:** 1398 / 1398 (100.0%)
 
 | Pilar / Subtema | Documentos | Meta | Cobertura | Pasta | Fonte Principal |
 | :--- | ---: | ---: | :---: | :--- | :--- |
@@ -67,5 +67,5 @@ Gerado em: 27/11/2026 15:54:31. Escopo definido em `scripts/plano.py`.
 | ✅ **Pronunciamentos Técnicos CPC**: Pronunciamentos Técnicos (CPC 00 a 48), Interpretações (ICPC 10, 19, 22) e Orientações (OCPC 07) do CPC | 52 | 52 | 100.0% | `contabil/cpc` | cpc.org.br |
 | ✅ **Precedentes Vinculantes STF / STJ**: Súmulas Vinculantes, Temas de Repercussão Geral e Recursos Repetitivos (SV 8, 29, 31, 48, 50, 57, Temas STF/STJ) | 23 | 23 | 100.0% | `jurisprudencia/precedentes-vinculantes` | STF / STJ |
 | ✅ **Súmulas do CARF**: Súmulas e Enunciados Vinculantes do Conselho Administrativo de Recursos Fiscais | 11 | 11 | 100.0% | `reguladores/carf/sumulas` | carf.fazenda.gov.br |
-| ✅ **Instruções Normativas da RFB (Gerais)**: Instruções Normativas vigentes estruturantes da Receita Federal (exceto financeiro), incluindo as INs RFB 2.297/2025, 2.332 e 2.341/2026 sobre benefícios fiscais | 106 | 106 | 100.0% | `reguladores/rfb/instrucoes-normativas-gerais` | normas.receita.fazenda.gov.br |
-| ✅ **Atos Executivos e Soluções de Consulta**: Soluções de Consulta COSIT/DISIT, Portarias, Atos Declaratórios, Atos Técnicos Conjuntos RFB/CGIBS e atos do Simples Nacional e MEI (Resoluções CGSN 182, 183, 191, 195 e 198 e Portaria Conjunta RFB/PGFN 740/2026) e da regulamentação e do acompanhamento da LC 224/2025 (Portaria MF 1.766, Nota Cosit 207 e Portaria RFB 745/2026) | 651 | 651 | 100.0% | `reguladores/rfb/outros-atos` | normas.receita.fazenda.gov.br |
+| ✅ **Instruções Normativas da RFB (Gerais)**: Instruções Normativas vigentes estruturantes da Receita Federal (exceto financeiro), incluindo as INs RFB 2.297/2025, 2.332 e 2.341/2026 sobre benefícios fiscais e as INs RFB 2.272, 2.288, 2.290, 2.314, 2.325 e 2.346 sobre processo fiscal, restituição, beneficiários finais e autorregularização | 112 | 112 | 100.0% | `reguladores/rfb/instrucoes-normativas-gerais` | normas.receita.fazenda.gov.br |
+| ✅ **Atos Executivos e Soluções de Consulta**: Soluções de Consulta COSIT/DISIT, Portarias, Atos Declaratórios, Atos Técnicos Conjuntos RFB/CGIBS e atos do Simples Nacional e MEI (Resoluções CGSN 182, 183, 191, 195 e 198 e Portaria Conjunta RFB/PGFN 740/2026) e da regulamentação e do acompanhamento da LC 224/2025 (Portaria MF 1.766, Nota Cosit 207 e Portaria RFB 745/2026) e do processo fiscal e da consensualidade (ADI RFB 2/2026, Portaria RFB 715/2026 e Portaria MF 1.785/2026) | 654 | 654 | 100.0% | `reguladores/rfb/outros-atos` | normas.receita.fazenda.gov.br |
