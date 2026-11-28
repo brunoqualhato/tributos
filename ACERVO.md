@@ -1,8 +1,8 @@
 # Catálogo Geral do Acervo Tributário e Contábil (ACERVO.md)
 
-Documento gerado automaticamente em **27/11/2026 às 16:19:28**.
+Documento gerado automaticamente em **27/11/2026 às 16:30:38**.
 
-**Total de Documentos Catalogados e Auditados:** `1418`
+**Total de Documentos Catalogados e Auditados:** `1422`
 
 ---
 
@@ -18,7 +18,7 @@ Documento gerado automaticamente em **27/11/2026 às 16:19:28**.
 - **Contencioso e Processo Fiscal:** `14` documentos
 - **Dividendos e Renda do Capital:** `309` documentos
 - **Financeiro e Capitais:** `1` documentos
-- **Folha de Pagamento e Encargos:** `418` documentos
+- **Folha de Pagamento e Encargos:** `422` documentos
 - **Folha e Previdência:** `3` documentos
 - **Fundos Agropecuários e Infraestrutura:** `2` documentos
 - **Fundos Estaduais e Equilíbrio Fiscal:** `5` documentos
@@ -543,7 +543,7 @@ Documento gerado automaticamente em **27/11/2026 às 16:19:28**.
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
 | **Precedente Vinculante do STF — ADC 84, ADI 7342, RE 1.458.106 e Tema 1337 (Constitucionalidade do Decreto nº 11.374/2023 e Alíquotas de PIS/COFINS sobre Receitas Financeiras)** | 2023 | Supremo Tribunal Federal - STF | PIS/Pasep, Cofins | Em vigor | [Visualizar na Fonte Oficial](https://portal.stf.jus.br) | [`jurisprudencia/precedentes-vinculantes/stf/tema-1231-stf-decreto-receitas-financeiras.md`](jurisprudencia/precedentes-vinculantes/stf/tema-1231-stf-decreto-receitas-financeiras.md) |
 
-## Folha de Pagamento e Encargos (418 documentos)
+## Folha de Pagamento e Encargos (422 documentos)
 
 | Norma / Título | Ano | Órgão | Tributos Afetados | Situação | Link Direto Oficial | Arquivo Local |
 | :--- | :---: | :--- | :--- | :---: | :---: | :--- |
@@ -954,6 +954,7 @@ Documento gerado automaticamente em **27/11/2026 às 16:19:28**.
 | **Portaria Conjunta MF / MDIC nº 21, de 11 de novembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | Cofins, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/147656) | [`reguladores/rfb/outros-atos/2025/ato-147656-21-2025.md`](reguladores/rfb/outros-atos/2025/ato-147656-21-2025.md) |
 | **Instrução Normativa RFB nº 2264, de 30 de abril de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | Cofins, Imposto de Importação, PIS/Pasep, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/144058) | [`reguladores/rfb/instrucoes-normativas/2025/ato-144058-2264-2025.md`](reguladores/rfb/instrucoes-normativas/2025/ato-144058-2264-2025.md) |
 | **Instrução Normativa RFB nº 2275, de 15 de agosto de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/145711) | [`reguladores/rfb/instrucoes-normativas/2025/ato-145711-2275-2025.md`](reguladores/rfb/instrucoes-normativas/2025/ato-145711-2275-2025.md) |
+| **Instrução Normativa RFB nº 2289, de 30 de outubro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | INSS Patronal/Segurados | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/147671) | [`reguladores/rfb/instrucoes-normativas/2025/ato-147671-2289-2025.md`](reguladores/rfb/instrucoes-normativas/2025/ato-147671-2289-2025.md) |
 | **Instrução Normativa RFB nº 2294, de 3 de dezembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148316) | [`reguladores/rfb/instrucoes-normativas/2025/ato-148316-2294-2025.md`](reguladores/rfb/instrucoes-normativas/2025/ato-148316-2294-2025.md) |
 | **Solução de Consulta Cosit nº 253, de 8 de dezembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148182) | [`reguladores/rfb/outros-atos/2025/ato-148182-253-2025.md`](reguladores/rfb/outros-atos/2025/ato-148182-253-2025.md) |
 | **Solução de Consulta Cosit nº 258, de 26 de dezembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148681) | [`reguladores/rfb/outros-atos/2025/ato-148681-258-2025.md`](reguladores/rfb/outros-atos/2025/ato-148681-258-2025.md) |
@@ -962,9 +963,12 @@ Documento gerado automaticamente em **27/11/2026 às 16:19:28**.
 | **Portaria Conjunta RFB / Anac nº 524, de 19 de março de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/143366) | [`reguladores/rfb/outros-atos/2025/ato-143366-524-2025.md`](reguladores/rfb/outros-atos/2025/ato-143366-524-2025.md) |
 | **Portaria RFB nº 632, de 30 de dezembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | INSS Patronal/Segurados, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148683) | [`reguladores/rfb/outros-atos/2025/ato-148683-632-2025.md`](reguladores/rfb/outros-atos/2025/ato-148683-632-2025.md) |
 | **Portaria RFB nº 635, de 31 de dezembro de 2025** | 2025 | Secretaria Especial da Receita Federal do Brasil | ICMS, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148693) | [`reguladores/rfb/outros-atos/2025/ato-148693-635-2025.md`](reguladores/rfb/outros-atos/2025/ato-148693-635-2025.md) |
+| **Decreto nº 13.054, de 3 de julho de 2026 (Altera o Regulamento da Previdência Social (segurado especial em cooperativas))** | 2026 | Presidência da República | INSS Patronal/Segurados | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2026-07-03;13054) | [`federal/regulamentos/rps/decreto-13054-2026-altera-rps-segurado-especial-cooperativas.md`](federal/regulamentos/rps/decreto-13054-2026-altera-rps-segurado-especial-cooperativas.md) |
 | **Portaria Conjunta MF / CGIBS nº 14, de 2 de outubro de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | Cofins, Imposto de Importação, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/153937) | [`reguladores/rfb/outros-atos/2026/ato-153937-14-2026.md`](reguladores/rfb/outros-atos/2026/ato-153937-14-2026.md) |
+| **Lei nº 15.371, de 31 de março de 2026 (Licença-paternidade e salário-paternidade; altera as Leis 8.212/1991 e 8.213/1991)** | 2026 | Congresso Nacional / Presidência da República | INSS Patronal/Segurados | Em vigor | [Visualizar na Fonte Oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2026-03-31;15371) | [`federal/leis-ordinarias/previdencia-custeio/lei-15371-2026-licenca-e-salario-paternidade.md`](federal/leis-ordinarias/previdencia-custeio/lei-15371-2026-licenca-e-salario-paternidade.md) |
 | **Solução de Consulta Cosit nº 180, de 22 de setembro de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | Cofins, ICMS, PIS/Pasep, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/153667) | [`reguladores/rfb/outros-atos/2026/ato-153667-180-2026.md`](reguladores/rfb/outros-atos/2026/ato-153667-180-2026.md) |
 | **Solução de Consulta Cosit nº 204, de 20 de outubro de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | INSS Patronal/Segurados, RAT/FAP | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154237) | [`reguladores/rfb/outros-atos/2026/ato-154237-204-2026.md`](reguladores/rfb/outros-atos/2026/ato-154237-204-2026.md) |
+| **Instrução Normativa RFB nº 2321, de 6 de abril de 2026** | 2026 | Secretaria Especial da Receita Federal do Brasil | INSS Patronal/Segurados | Em vigor | [Visualizar na Fonte Oficial](https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/150565) | [`reguladores/rfb/instrucoes-normativas/2026/ato-150565-2321-2026.md`](reguladores/rfb/instrucoes-normativas/2026/ato-150565-2321-2026.md) |
 
 ## Folha e Previdência (3 documentos)
 
