@@ -62,8 +62,8 @@ PLANO = [
               "Isenção de Dividendos e JCP (Lei 9.249/95 e Lei das S/A) e Lei 15.270/2025 (IRRF sobre dividendos e tributação mínima)",
               "federal/leis-ordinarias/dividendos-jcp", 6, 1, "normas.leg.br"),
     ItemPlano("2. Dividendos & Renda do Capital", "Lucro Real e Presumido",
-              "Norma Matriz do Lucro Real, IRPJ/CSLL (DL 1.598/77, Leis 7.689/88, 8.981/95, 12.973/14, 14.871/24 e 15.079/24)",
-              "federal/leis-ordinarias/irpj-csll", 12, 1, "normas.leg.br"),
+              "Norma Matriz do Lucro Real, IRPJ/CSLL (DL 1.598/77, Leis 7.689/88, 8.981/95, 12.973/14, 14.871/24, 15.079/24 e 15.525/26)",
+              "federal/leis-ordinarias/irpj-csll", 13, 1, "normas.leg.br"),
     ItemPlano("2. Dividendos & Renda do Capital", "Offshores e Trusts",
               "Tributação de Renda e Controladas no Exterior (Lei 14.754/2023)",
               "federal/leis-ordinarias/offshores", 5, 1, "normas.leg.br"),
@@ -223,11 +223,11 @@ PLANO = [
               "Súmulas e Enunciados Vinculantes do Conselho Administrativo de Recursos Fiscais",
               "reguladores/carf/sumulas", 11, 2, "carf.fazenda.gov.br"),
     ItemPlano("10. Contabilidade e Precedentes", "Instruções Normativas da RFB (Gerais)",
-              "Instruções Normativas vigentes estruturantes da Receita Federal (exceto financeiro), incluindo as INs RFB 2.297/2025, 2.332 e 2.341/2026 sobre benefícios fiscais e as INs RFB 2.272, 2.288, 2.290, 2.314, 2.325 e 2.346 sobre processo fiscal, restituição, beneficiários finais e autorregularização",
-              "reguladores/rfb/instrucoes-normativas-gerais", 112, 2, "normas.receita.fazenda.gov.br"),
+              "Instruções Normativas vigentes estruturantes da Receita Federal (exceto financeiro), incluindo as INs RFB 2.297/2025, 2.332 e 2.341/2026 sobre benefícios fiscais e as INs RFB 2.272, 2.288, 2.290, 2.314, 2.325 e 2.346 sobre processo fiscal, restituição, beneficiários finais e autorregularização e as INs RFB 2.281, 2.296, 2.315 e 2.343 (IN 1.700/2017) e 2.259, 2.319, 2.329, 2.342 e 2.351 (GloBE) sobre IRPJ e CSLL",
+              "reguladores/rfb/instrucoes-normativas-gerais", 121, 2, "normas.receita.fazenda.gov.br"),
     ItemPlano("10. Contabilidade e Precedentes", "Atos Executivos e Soluções de Consulta",
-              "Soluções de Consulta COSIT/DISIT, Portarias, Atos Declaratórios, Atos Técnicos Conjuntos RFB/CGIBS e atos do Simples Nacional e MEI (Resoluções CGSN 182, 183, 191, 195 e 198 e Portaria Conjunta RFB/PGFN 740/2026) e da regulamentação e do acompanhamento da LC 224/2025 (Portaria MF 1.766, Nota Cosit 207 e Portaria RFB 745/2026) e do processo fiscal e da consensualidade (ADI RFB 2/2026, Portaria RFB 715/2026 e Portaria MF 1.785/2026)",
-              "reguladores/rfb/outros-atos", 654, 2, "normas.receita.fazenda.gov.br"),
+              "Soluções de Consulta COSIT/DISIT, Portarias, Atos Declaratórios, Atos Técnicos Conjuntos RFB/CGIBS e atos do Simples Nacional e MEI (Resoluções CGSN 182, 183, 191, 195 e 198 e Portaria Conjunta RFB/PGFN 740/2026) e da regulamentação e do acompanhamento da LC 224/2025 (Portaria MF 1.766, Nota Cosit 207 e Portaria RFB 745/2026) e do processo fiscal e da consensualidade (ADI RFB 2/2026, Portaria RFB 715/2026 e Portaria MF 1.785/2026) e de IRPJ e CSLL (ADI RFB 1, 3 e 5/2026)",
+              "reguladores/rfb/outros-atos", 657, 2, "normas.receita.fazenda.gov.br"),
 ]
 
 def resolver_arquivos(caminho_relativo: str) -> set[Path]:
