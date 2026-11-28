@@ -84,16 +84,151 @@ def _html_segmento(segmento: dict, id_ato: int, anexos_pdf: dict, omitidos: list
         omitidos.append(nome)
         return html
     if nome.lower().endswith(".pdf"):
-        url = f"https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/{id_ato}/anexo/{anexo['idArquivoBinario']}"
-        pdf = baixar_pdf(url, f"sijut-{id_ato}-{anexo['idArquivoBinario']}.pdf")
-        texto = pdfr.pdftotext(pdf, layout=True).replace("\f", "\n")
-        linhas = [l.rstrip() for l in texto.split("\n") if not re.fullmatch(r"\s*\d{1,3}\s*", l)]
-        corpo = re.sub(r"\n{3,}", "\n\n", "\n".join(linhas)).strip("\n")
+        corpo = _texto_pdf_sijut(id_ato, anexo["idArquivoBinario"])
+        if len(corpo.strip()) < MIN_CARACTERES_PDF:  # PDF sem camada de texto (formulário ou imagem): não gera bloco vazio
+            omitidos.append(nome)
+            return html
         marcador = f"@@ANEXOPDF{len(anexos_pdf)}@@"
         anexos_pdf[marcador] = f"```text\n{corpo}\n```"
         return html + f"\n\n<p>{marcador}</p>"
     omitidos.append(nome)
     return html
+
+
+MIN_CARACTERES_PDF = 200
+
+
+def _texto_pdf_sijut(id_ato: int, id_arquivo: int) -> str:
+    """Texto de um anexo PDF do Sijut (`pdftotext -layout`), sem as linhas que só têm o número da página."""
+    url = f"https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/{id_ato}/anexo/{id_arquivo}"
+    pdf = baixar_pdf(url, f"sijut-{id_ato}-{id_arquivo}.pdf")
+    texto = pdfr.pdftotext(pdf, layout=True).replace("\f", "\n")
+    linhas = [l.rstrip() for l in texto.split("\n") if not re.fullmatch(r"\s*\d{1,3}\s*", l)]
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(linhas)).strip("\n")
+
+
+_RE_TITULO_ANEXO = re.compile(
+    r"^\s*(?:#{1,6}\s*)?(?:\*\*)?\s*(?:ANEXO|Anexo|AnexO|APÊNDICE|Apêndice)\s+"
+    r"((?:[IVXLC]+(?:-[A-Z])?)|(?:[ÚUúu]NICO|[ÚUúu]nico)|\d+|[A-Z])\b(.*)$")
+_RE_RESTO_FRASE = re.compile(
+    r"^\s*(,|;|\bdesta\b|\bdeste\b|\bdesse\b|\bdessa\b|\bda\b|\bdo\b|\bdos\b|\bdas\b|\bao\b|\bà\b|\be\b|\bou\b"
+    r"|\bpara\b|\bque\b|\bcom\b|\bem\b|\bé\b|\bserá\b|\bpor\b)", re.I)
+
+
+def numeral_anexo(linha: str, estrito: bool = True) -> str | None:
+    """Numeral de uma linha de título de anexo ('ANEXO I', 'Anexo Único', 'Anexo I-A.htm'), ou None.
+    Devolve romano em maiúsculas, 'UNICO' ou número; frases que só citam um anexo ('Anexo I desta Instrução') não contam.
+    Com `estrito=False` a palavra 'anexo' também vale em minúsculas ('anexo único')."""
+    s = (linha or "").strip()
+    if len(s) > 220 or s.endswith((";", ",")):
+        return None
+    m = _RE_TITULO_ANEXO.match(s)
+    if not m and not estrito:
+        m = _RE_TITULO_ANEXO.match(re.sub(r"^(\W*)anexo\b", lambda x: x.group(1) + "Anexo", s))
+    if not m or _RE_RESTO_FRASE.match(m.group(2)):
+        return None
+    return m.group(1).upper().replace("Ú", "U")
+
+
+_OLE = b"\xd0\xcf\x11\xe0\xa1\xb1\x1a\xe1"
+
+
+def _tipo_arquivo(nome: str, bruto: bytes | None) -> str:
+    """Classifica o arquivo de um anexo do Sijut: html, pdf, doc, docx, imagem ou outro."""
+    if bruto:
+        if bruto.startswith(b"%PDF"):
+            return "pdf"
+        if bruto.startswith(_OLE):
+            return "doc"
+        if bruto.startswith(b"PK\x03\x04"):
+            return "docx"
+        if bruto.startswith((b"\xff\xd8\xff", b"\x89PNG", b"GIF8")):
+            return "imagem"
+        if re.match(r"\s*<(!doctype|html|table|div|p\b)", bruto[:2048].decode("utf-8", errors="replace"), re.I):
+            return "html"
+        return "outro"
+    ext = nome.lower().rsplit(".", 1)[-1] if "." in nome else ""
+    return {"pdf": "pdf", "doc": "doc", "docx": "docx", "htm": "html", "html": "html",
+            "jpg": "imagem", "jpeg": "imagem", "png": "imagem", "gif": "imagem", "tif": "imagem", "tiff": "imagem"}.get(ext, "outro")
+
+
+def _html_inline_para_md(bruto: bytes) -> str:
+    try:
+        texto = bruto.decode("utf-8")
+    except UnicodeDecodeError:
+        texto = bruto.decode("cp1252", errors="replace")
+    m = re.search(r"<body[^>]*>(.*)</body>", texto, re.S | re.I)
+    # o HTML do Sijut quebra linhas no meio de frases e de células; no HTML essas quebras valem um espaço
+    md = limpar_corpo(converter_html_para_md(re.sub(r"\s+", " ", m.group(1) if m else texto)))
+    return re.sub(r"(?m)^ +| +$", "", md)
+
+
+def _numeral_do_titulo_anterior(compilados: list, k: int) -> str | None:
+    """Numeral do título de anexo (segmento tipo 11 ou 4, ex.: 'ANEXO I') que antecede o arquivo `compilados[k]`.
+    Vale para arquivos cujo segmento não tem título próprio; a busca para em artigo (tipo 3) ou em outro arquivo."""
+    for j in range(k - 1, max(k - 7, -1), -1):
+        seg = compilados[j]
+        if seg.get("arquivoBinario") or seg.get("idTipoSegmento") == 3:
+            return None
+        if seg.get("idTipoSegmento") in (11, 4):
+            primeira = converter_html_para_md(seg.get("textoIntegra") or "").split("\n", 1)[0]
+            numeral = numeral_anexo(primeira, estrito=False)
+            if numeral:
+                return numeral
+    return None
+
+
+def anexos_sijut(id_ato: int, numerais: set | None = None) -> list[dict]:
+    """Anexos compilados (`compilado: true` com arquivo) de um ato do Sijut, em ordem de segmento.
+    Cada item traz `titulo_md` (título do próprio segmento), `numeral`, `nome`, `tipo` (html, pdf, doc, docx, imagem,
+    outro), `md` (HTML inline em tabela/texto; PDF em bloco ```text) e `omissao` (None, 'PDF sem camada de texto' ou
+    'formato sem conversor no repositório'). O numeral vem do título do segmento; sem numeral nele, do título de anexo
+    que o antecede no ato (`origem_numeral` = 'segmento anterior') e, por último, do nome do arquivo.
+    Com mais de um arquivo compilado no mesmo segmento vale o de maior `idArquivoBinario`.
+    Se `numerais` for informado, só esses numerais são convertidos (e os PDFs só baixados para eles); nos demais `md` é None."""
+    dados = api().baixar_corpo_ato_rfb(id_ato)
+    compilados = sorted((s for s in dados.get("outrosSegmentos", []) if s.get("compilado")),
+                        key=lambda s: s.get("ordemSegmentoAto", 0))
+    por_segmento: dict = {}
+    for k, s in enumerate(compilados):
+        ab = s.get("arquivoBinario") or {}
+        if not ab:
+            continue
+        atual = por_segmento.get(s["idSegmento"])
+        if atual is None or ab.get("idArquivoBinario", 0) > atual[1]["arquivoBinario"].get("idArquivoBinario", 0):
+            por_segmento[s["idSegmento"]] = (k, s)
+    saida = []
+    for k, s in sorted(por_segmento.values(), key=lambda ks: ks[1].get("ordemSegmentoAto", 0)):
+        ab = s["arquivoBinario"]
+        nome = ab.get("nomeArquivoBinario") or f"arquivo {ab.get('idArquivoBinario')}"
+        titulo_md = converter_html_para_md(s.get("textoIntegra") or "")
+        numeral = numeral_anexo(titulo_md.split("\n", 1)[0], estrito=False) if titulo_md else None
+        origem = "título do segmento" if numeral else None
+        if not numeral:
+            numeral, origem = _numeral_do_titulo_anterior(compilados, k), "segmento anterior"
+        if not numeral:
+            numeral, origem = numeral_anexo(nome, estrito=False), "nome do arquivo"
+        inline = base64.b64decode(ab["arquivoBinario"]) if ab.get("arquivoBinario") else None
+        tipo = _tipo_arquivo(nome, inline)
+        item = {"id_segmento": s["idSegmento"], "id_arquivo": ab.get("idArquivoBinario"), "ordem": s.get("ordemSegmentoAto", 0),
+                "titulo_md": titulo_md, "numeral": numeral, "origem_numeral": origem if numeral else None, "nome": nome,
+                "tipo": tipo, "md": None, "omissao": None}
+        saida.append(item)
+        if numerais is not None and numeral not in numerais:
+            continue
+        if tipo == "html" and inline:
+            item["md"] = _html_inline_para_md(inline)
+        elif tipo == "pdf" and not inline:
+            corpo = _texto_pdf_sijut(id_ato, ab["idArquivoBinario"])
+            if len(corpo.strip()) < MIN_CARACTERES_PDF:
+                item["md"], item["omissao"] = "", "PDF sem camada de texto"
+            else:
+                item["md"] = f"```text\n{corpo}\n```"
+        else:
+            item["md"], item["omissao"] = "", "formato sem conversor no repositório"
+        if item["md"]:
+            item["md"] = item["md"].replace("\r\n", "\n").replace("\r", "\n")
+    return saida
 
 
 def baixar_pdf(url: str, nome: str) -> Path:

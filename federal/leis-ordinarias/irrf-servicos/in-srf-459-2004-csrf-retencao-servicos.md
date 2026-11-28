@@ -10,7 +10,7 @@ tema_tributario: "Serviços e Retenções"
 tributos_afetados: ["CSLL", "PIS", "Cofins"]
 situacao: "Em vigor"
 revogada: false
-fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/14683"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/15365"
 ementa: "Dispõe sobre a retenção de tributos e contribuições nos pagamentos efetuados pelas pessoas jurídicas de direito privado a outras pessoas jurídicas pela prestação de serviços (art. 30 da Lei nº 10.833/2003 — CSRF 4,65%)."
 ---
 

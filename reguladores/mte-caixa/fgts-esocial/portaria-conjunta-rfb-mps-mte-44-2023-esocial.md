@@ -8,9 +8,9 @@ data: "2023-08-11"
 ano: "2023"
 tema_tributario: "Folha de Pagamento e Encargos"
 tributos_afetados: ["INSS Patronal", "IRRF", "FGTS"]
-situacao: "Em vigor"
-revogada: false
-fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/132906"
+situacao: "Revogada"
+revogada: true
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/132735"
 ementa: "Aprova a versão S-1.2 do leiaute do Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas (eSocial), integrando a escrituração do IRRF sobre rendimentos do trabalho à DCTFWeb."
 ---
 

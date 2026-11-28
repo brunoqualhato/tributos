@@ -8,9 +8,9 @@ data: "2019-05-03"
 ano: "2019"
 tema_tributario: "Tributação Financeira e IOF"
 tributos_afetados: ["IRPF", "IRPJ", "CSLL"]
-situacao: "Em vigor"
-revogada: false
-fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/100733"
+situacao: "Revogada"
+revogada: true
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/100592"
 ementa: "Institui e disciplina a obrigatoriedade de prestação de informações relativas às operações realizadas com criptoativos à Secretaria Especial da Receita Federal do Brasil (RFB)."
 ---
 
