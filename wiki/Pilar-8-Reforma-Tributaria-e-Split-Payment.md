@@ -82,7 +82,7 @@ As Notas Técnicas abaixo detalham os leiautes, as regras de validação e os ev
 | **NT SE/CGNFS-e 008 (NFS-e)** | 1.02 | Especificações técnicas do DANFSe | [nota-tecnica-nfse-008-v1-02-danfse.md](../reforma-tributaria/documentos-fiscais-eletronicos/nota-tecnica-nfse-008-v1-02-danfse.md) |
 | **NT SE/CGNFS-e 009 (NFS-e)** | 1.01 | Leiaute da NFS-e na Reforma Tributária do Consumo (Anexos VI e VII em .xlsx apenas referenciados) | [nota-tecnica-nfse-009-v1-01-leiaute-reforma-tributaria.md](../reforma-tributaria/documentos-fiscais-eletronicos/nota-tecnica-nfse-009-v1-01-leiaute-reforma-tributaria.md) |
 | **NT SE/CGNFS-e 010 (NFS-e Via)** | 1.00 | Leiaute da NFS-e Via e evento de Manifestação do Adquirente | [nota-tecnica-nfse-via-010-v1-00-leiaute.md](../reforma-tributaria/documentos-fiscais-eletronicos/nota-tecnica-nfse-via-010-v1-00-leiaute.md) |
-## 9. Simples Nacional na Reforma Tributária (Resoluções CGSN 2026)
+## 9. Simples Nacional e MEI na Reforma Tributária (Resoluções CGSN, LC 216/2025, LC 238/2026 e Portaria Conjunta 740/2026)
 | Ato | Conteúdo | Arquivo |
 | :--- | :--- | :--- |
 | **Resolução CGSN nº 186/2026** | Prazos e condições da opção pelo Simples Nacional e, para os optantes, pelo regime regular do IBS e da CBS em 2027 | [ato-150653-186-2026.md](../reguladores/rfb/outros-atos/2026/ato-150653-186-2026.md) |
@@ -90,6 +90,14 @@ As Notas Técnicas abaixo detalham os leiautes, as regras de validação e os ev
 | **Resolução CGSN nº 192/2026** | Altera a Resolução CGSN 11/2007 sobre a arrecadação do regime unificado, com referências ao IBS | [ato-152805-192-2026.md](../reguladores/rfb/outros-atos/2026/ato-152805-192-2026.md) |
 | **Resolução CGSN nº 194/2026** | Altera a Resolução CGSN 186/2026 | [ato-153801-194-2026.md](../reguladores/rfb/outros-atos/2026/ato-153801-194-2026.md) |
 | **Resolução CGSN nº 196/2026** | Altera as Resoluções CGSN 140/2018 e 190/2026; traz os Anexos I a V com alíquotas e partilha do Simples Nacional | [ato-154694-196-2026.md](../reguladores/rfb/outros-atos/2026/ato-154694-196-2026.md) |
+| **Resolução CGSN nº 182/2025** | Altera a tabela A do Anexo XI (ocupações permitidas ao MEI) da Resolução CGSN 140/2018 | [ato-146769-182-2025.md](../reguladores/rfb/outros-atos/2025/ato-146769-182-2025.md) |
+| **Resolução CGSN nº 183/2025** | Altera a Resolução CGSN 140/2018 com base nos arts. 516 e 544 da LC 214/2025 e no art. 2º da LC 216/2025 | [ato-147034-183-2025.md](../reguladores/rfb/outros-atos/2025/ato-147034-183-2025.md) |
+| **Resolução CGSN nº 191/2026** | Altera a Resolução CGSN 140/2018: NFS-e de padrão nacional obrigatória para as ME e EPP optantes (efeitos a partir de 01/11/2026) | [ato-152781-191-2026.md](../reguladores/rfb/outros-atos/2026/ato-152781-191-2026.md) |
+| **Resolução CGSN nº 195/2026** | Altera a Resolução CGSN 140/2018: DASN-Simei como documento fiscal eletrônico do MEI (efeitos a partir de 01/01/2027) | [ato-154194-195-2026.md](../reguladores/rfb/outros-atos/2026/ato-154194-195-2026.md) |
+| **Resolução CGSN nº 198/2026** | Altera a Resolução CGSN 140/2018 para o limite do MEI de R$ 110.000,00 em 2027 e o número de empregados (LC 238/2026) | [ato-154765-198-2026.md](../reguladores/rfb/outros-atos/2026/ato-154765-198-2026.md) |
+| **Portaria Conjunta RFB/PGFN nº 740/2026** | Disciplina a remissão de créditos da União de responsabilidade de MEI prevista na LC 238/2026 (vigência em 01/01/2027) | [ato-154339-740-2026.md](../reguladores/rfb/outros-atos/2026/ato-154339-740-2026.md) |
+| **Lei Complementar nº 216/2025** | Programa Acredita Exportação; altera a LC 123/2006 e a legislação de drawback e Recof | [lei-complementar-216-2025-programa-acredita-exportacao.md](../federal/leis-complementares/simples/lei-complementar-216-2025-programa-acredita-exportacao.md) |
+| **Lei Complementar nº 238/2026** | Atualiza o limite de receita e o número de empregados do MEI e concede remissão de créditos da União de sua responsabilidade | [lei-complementar-238-2026-mei-limite-e-remissao.md](../federal/leis-complementares/simples/lei-complementar-238-2026-mei-limite-e-remissao.md) |
 ## 10. Governança do Comitê Gestor do IBS (Resoluções CGIBS)
 | Ato | Conteúdo | Arquivo |
 | :--- | :--- | :--- |
