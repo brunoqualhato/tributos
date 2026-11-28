@@ -64,7 +64,23 @@ Os Atos Técnicos Conjuntos aprovam a documentação técnica dos documentos fis
 | **Ato Técnico Conjunto nº 10/2026** | Notas Técnicas de DF-e, incluindo as atualizações para o Simples Nacional, e documentação da NF-e ABI | [ato-154369-10-2026.md](../reguladores/rfb/outros-atos/2026/ato-154369-10-2026.md) |
 | **Ato Técnico Conjunto nº 11/2026** | Declaração Única de Importação (Duimp): layout 77.0.0 | [ato-154555-11-2026.md](../reguladores/rfb/outros-atos/2026/ato-154555-11-2026.md) |
 | **Ato Técnico Conjunto nº 12/2026** | Declaração de Importação de Remessa (DIR): layout 1.0 | [ato-154556-12-2026.md](../reguladores/rfb/outros-atos/2026/ato-154556-12-2026.md) |
-## 8. Simples Nacional na Reforma Tributária (Resoluções CGSN 2026)
+## 8. Notas Técnicas dos documentos fiscais eletrônicos (2026)
+As Notas Técnicas abaixo detalham os leiautes, as regras de validação e os eventos de IBS, CBS e Imposto Seletivo na NF-e, na NFC-e, no CT-e e na NFS-e. As versões em vigor são aprovadas pelos Atos Técnicos Conjuntos da seção 7. O texto vem do PDF oficial de cada portal, com os quadros em blocos de texto; as planilhas e as tabelas publicadas à parte nos portais não integram os documentos. Ficam em `reforma-tributaria/documentos-fiscais-eletronicos/`:
+| NT | Versão | Assunto | Arquivo |
+| :--- | :--- | :--- | :--- |
+| **NT NF-e/NFC-e 2025.002** | 1.53 | Leiaute de IBS, CBS e IS na NF-e e na NFC-e (campos, regras de validação e eventos) | [nota-tecnica-nfe-2025-002-v1-53-leiaute-ibs-cbs-is.md](../reforma-tributaria/documentos-fiscais-eletronicos/nota-tecnica-nfe-2025-002-v1-53-leiaute-ibs-cbs-is.md) |
+| **NT NF-e/NFC-e 2026.005** | 1.00 | Simples Nacional na Reforma Tributária do Consumo | [nota-tecnica-nfe-2026-005-v1-00-simples-nacional.md](../reforma-tributaria/documentos-fiscais-eletronicos/nota-tecnica-nfe-2026-005-v1-00-simples-nacional.md) |
+| **NT NF-e/NFC-e 2026.006** | 1.01 | Vinculação com a transação de pagamento (Split Payment) | [nota-tecnica-nfe-2026-006-v1-01-vinculacao-pagamento-split-payment.md](../reforma-tributaria/documentos-fiscais-eletronicos/nota-tecnica-nfe-2026-006-v1-01-vinculacao-pagamento-split-payment.md) |
+| **NT NF-e/NFC-e 2026.007** | 1.11 | Emissão por contribuinte exclusivo do IBS/CBS e verificação na LCC-RFB | [nota-tecnica-nfe-2026-007-v1-11-contribuinte-exclusivo-ibs-cbs.md](../reforma-tributaria/documentos-fiscais-eletronicos/nota-tecnica-nfe-2026-007-v1-11-contribuinte-exclusivo-ibs-cbs.md) |
+| **NT NF-e/NFC-e 2026.008** | 1.01 | Valor líquido do produto e ICMS previsto no pagamento antecipado | [nota-tecnica-nfe-2026-008-v1-01-valor-liquido-produto.md](../reforma-tributaria/documentos-fiscais-eletronicos/nota-tecnica-nfe-2026-008-v1-01-valor-liquido-produto.md) |
+| **NT NF-e/NFC-e 2026.010** | 1.00 | DANFE para a Reforma Tributária do Consumo | [nota-tecnica-nfe-2026-010-v1-00-danfe-reforma-tributaria.md](../reforma-tributaria/documentos-fiscais-eletronicos/nota-tecnica-nfe-2026-010-v1-00-danfe-reforma-tributaria.md) |
+| **NT CT-e 2025.001** | 1.14b | Leiaute base da Reforma Tributária do Consumo no CT-e, CT-e OS e GTV-e | [nota-tecnica-cte-2025-001-v1-14b-leiaute-base-reforma-tributaria.md](../reforma-tributaria/documentos-fiscais-eletronicos/nota-tecnica-cte-2025-001-v1-14b-leiaute-base-reforma-tributaria.md) |
+| **NT CT-e 2026.004** | 1.01 | Valor líquido, multa e juros, formas de emissão e crédito presumido | [nota-tecnica-cte-2026-004-v1-01-reforma-tributaria.md](../reforma-tributaria/documentos-fiscais-eletronicos/nota-tecnica-cte-2026-004-v1-01-reforma-tributaria.md) |
+| **NT CT-e 2026.005** | 1.00 | Simples Nacional na Reforma Tributária do Consumo | [nota-tecnica-cte-2026-005-v1-00-simples-nacional.md](../reforma-tributaria/documentos-fiscais-eletronicos/nota-tecnica-cte-2026-005-v1-00-simples-nacional.md) |
+| **NT SE/CGNFS-e 008 (NFS-e)** | 1.02 | Especificações técnicas do DANFSe | [nota-tecnica-nfse-008-v1-02-danfse.md](../reforma-tributaria/documentos-fiscais-eletronicos/nota-tecnica-nfse-008-v1-02-danfse.md) |
+| **NT SE/CGNFS-e 009 (NFS-e)** | 1.01 | Leiaute da NFS-e na Reforma Tributária do Consumo (Anexos VI e VII em .xlsx apenas referenciados) | [nota-tecnica-nfse-009-v1-01-leiaute-reforma-tributaria.md](../reforma-tributaria/documentos-fiscais-eletronicos/nota-tecnica-nfse-009-v1-01-leiaute-reforma-tributaria.md) |
+| **NT SE/CGNFS-e 010 (NFS-e Via)** | 1.00 | Leiaute da NFS-e Via e evento de Manifestação do Adquirente | [nota-tecnica-nfse-via-010-v1-00-leiaute.md](../reforma-tributaria/documentos-fiscais-eletronicos/nota-tecnica-nfse-via-010-v1-00-leiaute.md) |
+## 9. Simples Nacional na Reforma Tributária (Resoluções CGSN 2026)
 | Ato | Conteúdo | Arquivo |
 | :--- | :--- | :--- |
 | **Resolução CGSN nº 186/2026** | Prazos e condições da opção pelo Simples Nacional e, para os optantes, pelo regime regular do IBS e da CBS em 2027 | [ato-150653-186-2026.md](../reguladores/rfb/outros-atos/2026/ato-150653-186-2026.md) |
@@ -72,14 +88,14 @@ Os Atos Técnicos Conjuntos aprovam a documentação técnica dos documentos fis
 | **Resolução CGSN nº 192/2026** | Altera a Resolução CGSN 11/2007 sobre a arrecadação do regime unificado, com referências ao IBS | [ato-152805-192-2026.md](../reguladores/rfb/outros-atos/2026/ato-152805-192-2026.md) |
 | **Resolução CGSN nº 194/2026** | Altera a Resolução CGSN 186/2026 | [ato-153801-194-2026.md](../reguladores/rfb/outros-atos/2026/ato-153801-194-2026.md) |
 | **Resolução CGSN nº 196/2026** | Altera as Resoluções CGSN 140/2018 e 190/2026; traz os Anexos I a V com alíquotas e partilha do Simples Nacional | [ato-154694-196-2026.md](../reguladores/rfb/outros-atos/2026/ato-154694-196-2026.md) |
-## 9. Governança do Comitê Gestor do IBS (Resoluções CGIBS)
+## 10. Governança do Comitê Gestor do IBS (Resoluções CGIBS)
 | Ato | Conteúdo | Arquivo |
 | :--- | :--- | :--- |
 | **Resolução CGIBS nº 4/2026** | Regimento Interno Procedimental | [resolucao-cgibs-4-2026-regimento-interno-procedimental.md](../reforma-tributaria/cgibs/resolucao-cgibs-4-2026-regimento-interno-procedimental.md) |
 | **Resoluções CGIBS nº 5 e nº 9/2026** | Alteram o Regimento Interno Procedimental | [5](../reforma-tributaria/cgibs/resolucao-cgibs-5-2026-altera-regimento-interno.md) e [9](../reforma-tributaria/cgibs/resolucao-cgibs-9-2026-altera-regimento-procedimental.md) |
 | **Resolução CGIBS nº 14/2026** | Proposta do percentual do IBS destinado ao financiamento do CGIBS em 2027 e estimativa de arrecadação do IBS | [resolucao-cgibs-14-2026-percentual-ibs-financiamento-cgibs-2027.md](../reforma-tributaria/cgibs/resolucao-cgibs-14-2026-percentual-ibs-financiamento-cgibs-2027.md) |
 | **Resolução CGIBS nº 20/2026** | Tipologia, competência e publicidade dos atos e instrumentos formais do CGIBS | [resolucao-cgibs-20-2026-tipologia-dos-atos.md](../reforma-tributaria/cgibs/resolucao-cgibs-20-2026-tipologia-dos-atos.md) |
-## 10. Publicações Institucionais e Orientações Técnicas (2026)
+## 11. Publicações Institucionais e Orientações Técnicas (2026)
 - **Cálculo da Alíquota de Referência pelo TCU ([Relatório TCU 2026](../reforma-tributaria/publicacoes/2026/tcu-calculo-referencia-cbs-2027.md)):** Estudo técnico do Tribunal de Contas da União estimando a alíquota de referência federal da CBS para 2027 em **11,3%**.
 - **Cronograma de Documentos Fiscais Eletrônicos da RFB ([Orientação RFB 2026](../reforma-tributaria/publicacoes/2026/rfb-cronograma-documentos-fiscais.md)):** Cronograma de adequação das NF-e, NFC-e e CT-e aos campos e regras do IBS, CBS e Split Payment.
 - **Adequação Tarifária do Saneamento pela ANA ([Resolução ANA 2026](../reforma-tributaria/publicacoes/2026/ana-adequacao-tarifas-saneamento-cbs.md)):** Diretrizes da Agência Nacional de Águas e Saneamento Básico para o reequilíbrio econômico-financeiro dos contratos de concessão perante a entrada em vigor da CBS.

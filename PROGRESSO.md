@@ -1,8 +1,8 @@
 # Progresso do Acervo Tributário e Contábil
 
-Gerado em: 27/11/2026 15:02:59. Escopo definido em `scripts/plano.py`.
+Gerado em: 27/11/2026 15:19:03. Escopo definido em `scripts/plano.py`.
 
-**Total de Documentos no Acervo:** 1359 / 1359 (100.0%)
+**Total de Documentos no Acervo:** 1371 / 1371 (100.0%)
 
 | Pilar / Subtema | Documentos | Meta | Cobertura | Pasta | Fonte Principal |
 | :--- | ---: | ---: | :---: | :--- | :--- |
@@ -61,7 +61,7 @@ Gerado em: 27/11/2026 15:02:59. Escopo definido em `scripts/plano.py`.
 | ✅ **IOF-Câmbio e OCDE**: Portaria MF nº 204/2022 (Cronograma de redução das alíquotas do IOF-Câmbio) | 3 | 3 | 100.0% | `federal/portarias/mf` | normas.leg.br |
 | ✅ **Mercados Financeiro e de Capitais**: Tributação de Renda Fixa, Renda Variável, Derivativos e Criptoativos | 5 | 5 | 100.0% | `reguladores/rfb/instrucoes-normativas/financeiro` | normas.receita.fazenda.gov.br |
 | **### 9. Reforma Tributária** | | | | | |
-| ✅ **Marco Constitucional e Leis Complementares**: Emenda Constitucional nº 132/2023, LC 214/2025, LC 227/2026, PLP 68, PLP 108, Split Payment, NT NFS-e Nacional, publicações institucionais, Regulamentos da CBS (Decreto 12.955/2026) e do IBS (Res. CGIBS 6/2026) com suas alterações e Resoluções de governança do CGIBS (Regimento Procedimental, financiamento 2027 e tipologia dos atos) | 21 | 21 | 100.0% | `reforma-tributaria` | Congresso Nacional / LexML / CGIBS |
+| ✅ **Marco Constitucional e Leis Complementares**: Emenda Constitucional nº 132/2023, LC 214/2025, LC 227/2026, PLP 68, PLP 108, Split Payment, NT NFS-e Nacional, publicações institucionais, Regulamentos da CBS (Decreto 12.955/2026) e do IBS (Res. CGIBS 6/2026) com suas alterações e Resoluções de governança do CGIBS (Regimento Procedimental, financiamento 2027 e tipologia dos atos) e Notas Técnicas de NF-e, CT-e e NFS-e com IBS/CBS (2026) | 33 | 33 | 100.0% | `reforma-tributaria` | Congresso Nacional / LexML / CGIBS |
 | **### 10. Contabilidade e Precedentes** | | | | | |
 | ✅ **Normas Brasileiras de Contabilidade (CFC)**: Resoluções e Normas Técnicas Gerais do CFC (NBC TG 01 a 48, 1000, CTG 07, ITG 10, ITG 19, ITG 22 e Estrutura Conceitual) | 51 | 51 | 100.0% | `contabil/cfc` | cfc.org.br |
 | ✅ **Pronunciamentos Técnicos CPC**: Pronunciamentos Técnicos (CPC 00 a 48), Interpretações (ICPC 10, 19, 22) e Orientações (OCPC 07) do CPC | 52 | 52 | 100.0% | `contabil/cpc` | cpc.org.br |
